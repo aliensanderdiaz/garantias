@@ -23,7 +23,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00326732",
     "cliente": "Sebastian Jose Jimenez Sánchez",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "8/01/2025",
     "interno": "YUF695"
   },
@@ -44,7 +44,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00325247",
     "cliente": "Nahory Nuñez Natera",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "31/12/2024",
     "interno": "LRW074"
   },
@@ -64,14 +64,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00325133",
     "cliente": "Yuli Mercedes Conde Perez",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "30/12/2024",
     "interno": "DTA820"
   },
   {
     "codigo": "WO-00325132",
     "cliente": "Divi Tatiana Sanchez Diaz",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "30/12/2024",
     "interno": "PPF674"
   },
