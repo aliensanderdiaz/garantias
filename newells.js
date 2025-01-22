@@ -1,59 +1,93 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00330565",
+    "cliente": "Andrea Tovar",
+    "estado": "En progreso",
+    "fecha": "22/01/2025",
+    "interno": "LGW991",
+    "fechaIngreso": "2025-01-20",
+    "productoIngreso": "extartor oster  blanco  pequeño"
+  },
+  {
+    "codigo": "WO-00330561",
+    "cliente": "Maria Valvanera González",
+    "estado": "En progreso",
+    "fecha": "22/01/2025",
+    "interno": "IHB054",
+    "fechaIngreso": "2025-01-16",
+    "productoIngreso": "licuadora oster clasica"
+  },
+  {
     "codigo": "WO-00328464",
     "cliente": "Domingo Prieto",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "15/01/2025",
-    "interno": "UND205"
+    "interno": "UND205",
+    "fechaIngreso": "2025-01-15",
+    "productoIngreso": "extrator de jugos  blanco"
   },
   {
     "codigo": "WO-00327001",
     "cliente": "Angie Marroquín",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "9/01/2025",
-    "interno": "ZVI298"
+    "interno": "ZVI298",
+    "fechaIngreso": "2025-01-09",
+    "productoIngreso": "batidora de mano y pedestal"
   },
   {
     "codigo": "WO-00326828",
     "cliente": "Guillermo Morales",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "9/01/2025",
-    "interno": "BNA026"
+    "interno": "BNA026",
+    "fechaIngreso": "2025-01-08",
+    "productoIngreso": "plancha oster azul"
   },
   {
     "codigo": "WO-00326732",
     "cliente": "Sebastian Jose Jimenez Sánchez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "8/01/2025",
-    "interno": "YUF695"
+    "interno": "YUF695",
+    "fechaIngreso": "2025-01-08",
+    "productoIngreso": "freidora oster menual de 3,8"
   },
   {
     "codigo": "WO-00326727",
     "cliente": "Luz Mila Omen Claros",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "8/01/2025",
-    "interno": "XJS876"
+    "interno": "XJS876",
+    "fechaIngreso": "2025-01-08",
+    "productoIngreso": "licuadora reversible negra"
   },
   {
     "codigo": "WO-00325353",
     "cliente": "Ermelinda Castro De Losada",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "2/01/2025",
-    "interno": "MFE118"
+    "interno": "MFE118",
+    "fechaIngreso": "2024-12-26",
+    "productoIngreso": "freidora oster"
   },
   {
     "codigo": "WO-00325247",
     "cliente": "Nahory Nuñez Natera",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "31/12/2024",
-    "interno": "LRW074"
+    "interno": "LRW074",
+    "fechaIngreso": "2024-11-01",
+    "productoIngreso": "licuadora oster la traen de pitalito cordinador"
   },
   {
     "codigo": "WO-00325244",
     "cliente": "Romulo Scarpeta Perico",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "31/12/2024",
-    "interno": "DUH229"
+    "interno": "DUH229",
+    "fechaIngreso": "2024-12-10",
+    "productoIngreso": "freidora digital 9 litros"
   },
   {
     "codigo": "WO-00325240",
@@ -64,37 +98,47 @@ let garantiasNewells = [
   {
     "codigo": "WO-00325133",
     "cliente": "Yuli Mercedes Conde Perez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "30/12/2024",
-    "interno": "DTA820"
+    "interno": "DTA820",
+    "fechaIngreso": "2024-12-26",
+    "productoIngreso": "licuadora oster reversible"
   },
   {
     "codigo": "WO-00325132",
     "cliente": "Divi Tatiana Sanchez Diaz",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "30/12/2024",
-    "interno": "PPF674"
+    "interno": "PPF674",
+    "fechaIngreso": "2024-12-11",
+    "productoIngreso": "licuadora oster edición ilimitada"
   },
   {
     "codigo": "WO-00325131",
     "cliente": "Olga Lucia Lozada",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "30/12/2024",
-    "interno": "FIU220"
+    "interno": "FIU220",
+    "fechaIngreso": "2024-12-10",
+    "productoIngreso": "plancha sanduchera 4 puestos"
   },
   {
     "codigo": "WO-00324750",
     "cliente": "Kerly Alexandra Gutiérrez",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "28/12/2024",
-    "interno": "WCE572"
+    "interno": "WCE572",
+    "fechaIngreso": "2024-12-05",
+    "productoIngreso": "cafetera oster 4 taza negra"
   },
   {
     "codigo": "WO-00324745",
     "cliente": "Jorge Eliecer Rivera Bermeo",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "28/12/2024",
-    "interno": "XMZ463"
+    "interno": "XMZ463",
+    "fechaIngreso": "2024-12-18",
+    "productoIngreso": "extrator de jugos oster  blanco pequeño"
   },
   {
     "codigo": "WO-00320669",
@@ -119,35 +163,45 @@ let garantiasNewells = [
     "cliente": "Marli Esquivel Zambrano",
     "estado": "En progreso",
     "fecha": "25/11/2024",
-    "interno": "NDM187"
+    "interno": "NDM187",
+    "fechaIngreso": "2024-11-23",
+    "productoIngreso": "freidora oster de 6litros"
   },
   {
     "codigo": "WO-00316592",
     "cliente": "Fredy Rodríguez",
     "estado": "En progreso",
     "fecha": "25/11/2024",
-    "interno": "YAI874"
+    "interno": "YAI874",
+    "fechaIngreso": "2024-11-06",
+    "productoIngreso": "licuadora oster blanca edicion limitada"
   },
   {
     "codigo": "WO-00315771",
     "cliente": "Gentil De La Espriella",
     "estado": "Pre-terminado",
     "fecha": "21/11/2024",
-    "interno": "NHD357"
+    "interno": "NHD357",
+    "fechaIngreso": "2024-11-06",
+    "productoIngreso": "licuadora oster clásica"
   },
   {
     "codigo": "WO-00315763",
     "cliente": "Camila Vásquez",
     "estado": "Pre-terminado",
     "fecha": "21/11/2024",
-    "interno": "CIM545"
+    "interno": "CIM545",
+    "fechaIngreso": "2024-11-02",
+    "productoIngreso": "cafetera tactil"
   },
   {
     "codigo": "WO-00314905",
     "cliente": "Sorys Godoy Cano",
     "estado": "Pre-terminado",
     "fecha": "18/11/2024",
-    "interno": "SHU406"
+    "interno": "SHU406",
+    "fechaIngreso": "2024-11-09",
+    "productoIngreso": "licuadora oster  clasica"
   },
   {
     "codigo": "WO-00310924",
@@ -160,14 +214,18 @@ let garantiasNewells = [
     "cliente": "Oscar Geovani Pujimuy Samboni",
     "estado": "En progreso",
     "fecha": "1/11/2024",
-    "interno": "HTQ079"
+    "interno": "HTQ079",
+    "fechaIngreso": "2024-10-30",
+    "productoIngreso": "Licuadora oster clasica negra viene de pitalito"
   },
   {
     "codigo": "WO-00309749",
     "cliente": "Albenis Rodriguez Muñoz",
     "estado": "Pre-terminado",
     "fecha": "28/10/2024",
-    "interno": "LUX139"
+    "interno": "LUX139",
+    "fechaIngreso": "2024-10-25",
+    "productoIngreso": "plancha a vapor rosada"
   },
   {
     "codigo": "WO-00309740",
@@ -198,7 +256,9 @@ let garantiasNewells = [
     "cliente": "Luz Neida Guzman H",
     "estado": "En progreso",
     "fecha": "21/10/2024",
-    "interno": "MXC198"
+    "interno": "MXC198",
+    "fechaIngreso": "2024-10-12",
+    "productoIngreso": "Cafetera oster de pitalito"
   },
   {
     "codigo": "WO-00308179",
@@ -307,17 +367,5 @@ let garantiasNewells = [
     "cliente": "Briton Moreno",
     "estado": "Entregado",
     "fecha": "5/08/2024"
-  },
-  {
-    "codigo": "WO-00289281",
-    "cliente": "Yeiny Traslaviña",
-    "estado": "Entregado",
-    "fecha": "5/08/2024"
-  },
-  {
-    "codigo": "WO-00286748",
-    "cliente": "Almacenes Exito S.a.",
-    "estado": "Entregado",
-    "fecha": "25/07/2024"
   }
 ]

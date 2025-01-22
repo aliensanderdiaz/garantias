@@ -1,0 +1,46 @@
+
+WO-00320669 - BKE954 - Oster - freidora oster Manuel de 4 litros - FALLA: al utilizar sale demaciado humo huele a quemado - REPUESTOS: Termostato
+
+
+WO-00324745 - XMZ463 - Oster - extrator de jugos oster blanco pequeño - FALLA: no volvio a prender - REPUESTOS: Motor
+
+
+WO-00324750 - WCE572 - Oster - cafetera oster 4 taza negra - FALLA: enciende no realiza el proceso del café no gotea - REPUESTOS: Termostato
+
+
+WO-00325131 - FIU220 - Oster - plancha sanduchera 4 puestos - FALLA: no calienta bien perilla muy floja - REPUESTOS: Termostato
+
+
+WO-00325240 - YEJ895 - Oster - cafetera 12 taza - FALLA: no. calienta - REPUESTOS: Interruptor - Termostato
+
+
+WO-00325244 - DUH229 - Oster - freidora digital 9 litros - FALLA: calienta normalmente pero cambia de repente de funcion sin darle la indicacion .se suben solo los minutos - REPUESTOS: Tarjeta Poder - Tarjeta visualizacion
+
+
+WO-00325353 - MFE118 - Oster - freidora oster - FALLA: temperatura insuficiente - REPUESTOS: Termostato
+
+WO-00320669 Termostato
+WO-00324745 Motor
+WO-00324750 Termostato
+WO-00325131 Termostato
+WO-00325240 Interruptor - Termostato
+WO-00325244 Tarjeta Poder - Tarjeta visualizacion
+WO-00325353 Termostato
+
+WO-00320667 - WVB262 - Oster - cafetera oster de 12 taza - FALLA: no sube el agua y dar un olor a quemaro
+WO-00320668 - VHQ582 - Oster - cafetera oster cordinadora la trae de pitalito - FALLA: no le baja el agua
+WO-00325132 - PPF674 - Oster - licuadora oster edición ilimitada - FALLA: no prende
+WO-00325133 - DTA820 - Oster - licuadora oster reversible - FALLA: prende pero no arranca
+WO-00325247 - LRW074 - Oster - licuadora oster la traen de pitalito cordinador - FALLA: emite un olor a quemado constantemente
+WO-00326727 - XJS876 - Oster - licuadora reversible negra - FALLA: producto no enciende
+WO-00326732 - YUF695 - Oster - freidora oster menual de 3,8 - FALLA: no calienta
+WO-00326828 - BNA026 - Oster - plancha oster azul - FALLA: no prende
+WO-00327001 - ZVI298 - Oster - batidora de mano y pedestal - FALLA: los piñones y los bastidores estan gastados
+WO-00328464 - UND205 - Oster - extrator de jugos blanco - FALLA: no prende
+
+https://aliensanderdiaz.github.io/garantias/
+
+En espera de carta de cambio
+WO-00325132 - PPF674 - La repararon cambiando motor
+WO-00325133 - DTA820 - La repararon cambiando tarjeta
+WO-00325247 - LRW074 - La repararon cambiando motor

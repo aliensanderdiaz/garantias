@@ -1,39 +1,115 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-28532",
+    "codigo": "GRT-29295",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1152207276",
+    "referencia": "L40600",
+    "producto": "PLANCHA SECA 406              ",
+    "falla": "Resistencia Sin continuidad",
+    "s2": "25001150",
+    "fecha": "22/01/2025",
+    "interno": "HPY870",
+    "fechaIngreso": "2025-01-20",
+    "productoIngreso": "plancha universal"
+  },
+  {
+    "codigo": "GRT-29293",
     "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "55216701",
+    "referencia": "L85729",
+    "producto": "EASYFRYER PRO 3.5L",
+    "falla": "Cuerpo Quebrado,Motor Bobinas en corto,Tarjeta Panel de control Otro",
+    "s2": "",
+    "fecha": "22/01/2025",
+    "interno": "CCD768",
+    "fechaIngreso": "2025-01-20",
+    "productoIngreso": "freidora universal  digita"
+  },
+  {
+    "codigo": "GRT-29292",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "26551472",
+    "referencia": "L88640",
+    "producto": "PLANCHA ASADORA CDA 28X28CM   ",
+    "falla": "Resistencia Sin continuidad",
+    "s2": "",
+    "fecha": "22/01/2025",
+    "interno": "TQG677",
+    "fechaIngreso": "2025-01-18",
+    "productoIngreso": "plancha asadora"
+  },
+  {
+    "codigo": "GRT-28929",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "901680936",
+    "referencia": "L50861",
+    "producto": "LICUADORA POTENCY MIX VINO    ",
+    "falla": "Selector de velocidades Mala soldadura",
+    "s2": "NO APLICA S2!",
+    "fecha": "16/01/2025",
+    "interno": "QSK314",
+    "fechaIngreso": "2025-01-11",
+    "productoIngreso": "licuadora potency mix roja"
+  },
+  {
+    "codigo": "GRT-28928",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "83231975",
+    "referencia": "L40600",
+    "producto": "PLANCHA SECA 406              ",
+    "falla": "Termofusible Sin continuidad,Termostato Sin continuidad ",
+    "s2": "25000761",
+    "fecha": "16/01/2025",
+    "interno": "NWS076",
+    "fechaIngreso": "2025-01-11",
+    "productoIngreso": "plancha seca  tradicional"
+  },
+  {
+    "codigo": "GRT-28927",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "26593525",
+    "referencia": "L50803",
+    "producto": "LICUADORA LA TRADICIONAL",
+    "falla": "Motor Motor sin continuidad,Selector de velocidades Sin continuidad",
+    "s2": "25000923",
+    "fecha": "16/01/2025",
+    "interno": "KAG877",
+    "fechaIngreso": "2025-01-10",
+    "productoIngreso": "licuadora universal con vaso de vidrio"
+  },
+  {
+    "codigo": "GRT-28532",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52106302",
     "referencia": "L75680",
     "producto": "VENTILADOR FRESH ULTRA+C.REM",
     "falla": "Motor Eje dañado",
-    "s2": "",
+    "s2": "25000706",
     "fecha": "10/01/2025",
-    "interno": "JXA642"
+    "interno": "JXA642",
+    "fechaIngreso": "2025-01-09",
+    "productoIngreso": "ventilador universal  ultra con remoto"
   },
   {
     "codigo": "GRT-28481",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1110468974",
     "referencia": "L23600",
     "producto": "OLLA PRESION LPC CI 6L",
     "falla": "Cuerpo Deformado",
-    "s2": "",
+    "s2": "25000695",
     "fecha": "09/01/2025",
-    "interno": "LBR126"
-  },
-  {
-    "codigo": "GRT-28390",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "40620745",
-    "referencia": "L85320",
-    "producto": "OLLA ARROCERA NG 10TZ         ",
-    "falla": "Resistencia Otro,Termostato Sin continuidad ",
-    "s2": "25000373",
-    "fecha": "08/01/2025",
-    "interno": "OJL723"
+    "interno": "LBR126",
+    "fechaIngreso": "2025-01-09",
+    "productoIngreso": "olla pidarora universal tradicional"
   },
   {
     "codigo": "GRT-28262",
@@ -45,7 +121,9 @@ let garantiasUniversal = [
     "falla": "Motor Bobinas en corto",
     "s2": "25000151",
     "fecha": "03/01/2025",
-    "interno": "QSI406"
+    "interno": "QSI406",
+    "fechaIngreso": "2025-01-03",
+    "productoIngreso": "licuadora corona negra"
   },
   {
     "codigo": "GRT-28189",
@@ -57,7 +135,9 @@ let garantiasUniversal = [
     "falla": "Cuerpo Mal ensamble",
     "s2": "25000138",
     "fecha": "31/12/2024",
-    "interno": "BRO726"
+    "interno": "BRO726",
+    "fechaIngreso": "2024-12-05",
+    "productoIngreso": "termo universal de 1litro"
   },
   {
     "codigo": "GRT-27279",
@@ -69,19 +149,9 @@ let garantiasUniversal = [
     "falla": "Cableado interno Otro,Resistencia Sin continuidad,Térmico Sin continuidad,Termofusible Sin continuidad",
     "s2": "24020547",
     "fecha": "10/12/2024",
-    "interno": "WZK516"
-  },
-  {
-    "codigo": "GRT-27278",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36179671",
-    "referencia": "L63205",
-    "producto": "LICUADORA CORONA BLANCA       ",
-    "falla": "Motor Motor sin continuidad",
-    "s2": "24020388",
-    "fecha": "10/12/2024",
-    "interno": "EQW099"
+    "interno": "WZK516",
+    "fechaIngreso": "2024-12-02",
+    "productoIngreso": "electric espresso"
   },
   {
     "codigo": "GRT-27276",
@@ -93,7 +163,9 @@ let garantiasUniversal = [
     "falla": "Ampolleta No Calienta",
     "s2": "25000160",
     "fecha": "10/12/2024",
-    "interno": "MMS476"
+    "interno": "MMS476",
+    "fechaIngreso": "2024-11-22",
+    "productoIngreso": "termo bomba universal"
   },
   {
     "codigo": "GRT-26132",
@@ -105,19 +177,9 @@ let garantiasUniversal = [
     "falla": "Termofusible Sin continuidad",
     "s2": "24019184",
     "fecha": "18/11/2024",
-    "interno": "LMJ823"
-  },
-  {
-    "codigo": "GRT-26118",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36158934",
-    "referencia": "L83690",
-    "producto": "EXPRIMIDOR ELITE INOX         ",
-    "falla": "Cono exprimidor Quebrado",
-    "s2": "24019171",
-    "fecha": "18/11/2024",
-    "interno": "XUW345"
+    "interno": "LMJ823",
+    "fechaIngreso": "2024-11-07",
+    "productoIngreso": "plancha seca universal"
   },
   {
     "codigo": "GRT-25954",
@@ -129,7 +191,9 @@ let garantiasUniversal = [
     "falla": "Cuerpo Deformado",
     "s2": "24019021",
     "fecha": "14/11/2024",
-    "interno": "EKB486"
+    "interno": "EKB486",
+    "fechaIngreso": "2024-10-28",
+    "productoIngreso": "olla a presion pitadora ultra"
   },
   {
     "codigo": "GRT-25109",
@@ -141,7 +205,9 @@ let garantiasUniversal = [
     "falla": "Motor Bobinas en corto",
     "s2": "24018204",
     "fecha": "28/10/2024",
-    "interno": "YZY230"
+    "interno": "YZY230",
+    "fechaIngreso": "2024-10-23",
+    "productoIngreso": "ventilador universal de pared  freh"
   },
   {
     "codigo": "GRT-22493",
@@ -153,7 +219,9 @@ let garantiasUniversal = [
     "falla": "Motor Bobinas en corto",
     "s2": "24015598",
     "fecha": "13/09/2024",
-    "interno": "WOR218"
+    "interno": "WOR218",
+    "fechaIngreso": "2024-09-04",
+    "productoIngreso": "licuadora universal negra"
   },
   {
     "codigo": "GRT-21806",
@@ -164,7 +232,10 @@ let garantiasUniversal = [
     "producto": "VENTILADOR FRESH ULTRA+C.REM",
     "falla": "Motor Otro",
     "s2": "24014918",
-    "fecha": "02/09/2024"
+    "fecha": "02/09/2024",
+    "interno": "OEB285",
+    "fechaIngreso": "2024-07-27",
+    "productoIngreso": "ventilador universal fresh ultra c remoto"
   },
   {
     "codigo": "GRT-19560",
@@ -176,6 +247,8 @@ let garantiasUniversal = [
     "falla": "Motor Motor en corto",
     "s2": "24012428",
     "fecha": "25/07/2024",
-    "interno": "WYW141"
+    "interno": "WYW141",
+    "fechaIngreso": "2024-07-22",
+    "productoIngreso": "licuadora corona"
   }
 ]

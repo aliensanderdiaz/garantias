@@ -45,6 +45,24 @@ Propietario
 Acción
 
 En progreso
+WO-00330565
+22/01/2025 11:08 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Andrea Tovar
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00330561
+22/01/2025 10:58 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Valvanera González
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Despachado
 WO-00328464
 15/01/2025 10:13 a. m.
 Garantía
@@ -53,7 +71,7 @@ Domingo Prieto
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00327001
 9/01/2025 06:34 p. m.
 Garantía
@@ -62,7 +80,7 @@ Angie Marroquín
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00326828
 9/01/2025 09:48 a. m.
 Garantía
@@ -71,7 +89,7 @@ Guillermo Morales
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00326732
 8/01/2025 07:35 p. m.
 Garantía
@@ -80,7 +98,7 @@ Sebastian Jose Jimenez Sánchez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00326727
 8/01/2025 07:25 p. m.
 Garantía
@@ -89,7 +107,7 @@ Luz Mila Omen Claros
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00325353
 2/01/2025 10:25 a. m.
 Garantía
@@ -98,7 +116,7 @@ Ermelinda Castro De Losada
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00325247
 31/12/2024 01:29 p. m.
 Garantía
@@ -107,7 +125,7 @@ Nahory Nuñez Natera
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00325244
 31/12/2024 01:19 p. m.
 Garantía
@@ -125,7 +143,7 @@ Rober Antonio Mendez Rodríguez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00325133
 30/12/2024 10:28 p. m.
 Garantía
@@ -134,7 +152,7 @@ Yuli Mercedes Conde Perez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00325132
 30/12/2024 10:24 p. m.
 Garantía
@@ -143,7 +161,7 @@ Divi Tatiana Sanchez Diaz
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00325131
 30/12/2024 10:14 p. m.
 Garantía
@@ -152,7 +170,7 @@ Olga Lucia Lozada
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00324750
 28/12/2024 05:51 p. m.
 Garantía
@@ -161,7 +179,7 @@ Kerly Alexandra Gutiérrez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00324745
 28/12/2024 05:39 p. m.
 Garantía
@@ -473,24 +491,6 @@ WO-00289286
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Briton Moreno
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00289281
-5/08/2024 09:23 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Yeiny Traslaviña
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00286748
-25/07/2024 08:50 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Almacenes Exito S.a.
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

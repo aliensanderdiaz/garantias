@@ -85,6 +85,8 @@ async function main() {
                         if (data && data.ok && data.servicio) {
                             // console.log({data});
                             servicio.interno = data.servicio.codigo
+                            servicio.fechaIngreso = data.servicio.fechaDeIngreso
+                            servicio.productoIngreso = data.servicio.producto
                         }
                     } catch (error) {
                         
@@ -161,6 +163,8 @@ async function main() {
                     if (data && data.ok && data.servicio) {
                         // console.log({data});
                         servicio.interno = data.servicio.codigo
+                        servicio.fechaIngreso = data.servicio.fechaDeIngreso
+                        servicio.productoIngreso = data.servicio.producto
                     }
                 } catch(error) {
 
@@ -225,6 +229,8 @@ async function main() {
                 if (data && data.ok && data.servicio) {
                     // console.log({data});
                     servicio.interno = data.servicio.codigo
+                    servicio.fechaIngreso = data.servicio.fechaDeIngreso
+                    servicio.productoIngreso = data.servicio.producto
                 }
             } catch(error) {
                 
