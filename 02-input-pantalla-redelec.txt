@@ -15,12 +15,11 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-62	125861	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	RUBI ESPERANZA TAFURT DIAZ	36183976	2024-10-28 22:37:51	62	Black + Decker	D3035	PREFINALIZADO	K TRONIX SANTA FE	Ver Ticket	Trazabilidad
-42	127309	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	LAURA SEGURA	1082126936	2024-11-25 12:34:59	42	Black + Decker	VCBD603	AUTORIZADO	Sodimac/Homecenter Neiva	Ver Ticket	Trazabilidad
-17	129218	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ESPERANZA CERQUERA	36067741	2024-12-28 16:54:46	17	Black + Decker	RC5200M	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-17	129235	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	SILVIA OVIEDO	29512347	2024-12-28 22:44:14	17	Black + Decker	ICR1924	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-17	129236	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	DIANA VARGAS	26585751	2024-12-28 22:47:57	17	Black + Decker	BLBD210GB	PENDIENTE AUTORIZACION	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
-4	130089	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	NUBIA MARCELA AYALA ZULETA	26424474	2025-01-16 15:56:06	4	Black + Decker	RC514B	TRAMITE	COMERCIALIZADORA SUPER HOGAR S.A.S	Ver Ticket	Trazabilidad
-4	130094	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARLY GYSELA LAGUNA ZAPATA	36301536	2025-01-16 16:23:48	4	Black + Decker	BLBD210GR	TRAMITE	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 7 de un total de 7 registrosAnterior1Siguiente
+72	125861	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	RUBI ESPERANZA TAFURT DIAZ	36183976	2024-10-28 22:37:51	72	Black + Decker	D3035	PREFINALIZADO	K TRONIX SANTA FE	Ver Ticket	Trazabilidad
+52	127309	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	LAURA SEGURA	1082126936	2024-11-25 12:34:59	52	Black + Decker	VCBD603	AUTORIZADO	Sodimac/Homecenter Neiva	Ver Ticket	Trazabilidad
+27	129235	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	SILVIA OVIEDO	29512347	2024-12-28 22:44:14	27	Black + Decker	ICR1924	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
+27	129236	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	DIANA VARGAS	26585751	2024-12-28 22:47:57	27	Black + Decker	BLBD210GB	PREFINALIZADO	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
+14	130089	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	NUBIA MARCELA AYALA ZULETA	26424474	2025-01-16 15:56:06	14	Black + Decker	RC514B	DESPACHADO	COMERCIALIZADORA SUPER HOGAR S.A.S	Ver Ticket	Trazabilidad
+14	130094	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARLY GYSELA LAGUNA ZAPATA	36301536	2025-01-16 16:23:48	14	Black + Decker	BLBD210GR	DESPACHADO	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 6 de un total de 6 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

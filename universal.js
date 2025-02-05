@@ -1,7 +1,103 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-30193",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "7701542",
+    "referencia": "L14200",
+    "producto": "MOLINO GRANO TOLVA BAJA",
+    "falla": "Gusano No ensambla",
+    "s2": "",
+    "fecha": "05/02/2025",
+    "interno": "KWB824",
+    "fechaIngreso": "2025-02-04",
+    "productoIngreso": "Molino corona",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[martes, 4 de febrero de 2025]Manurio no encaja, no esta en lista de repuestos, se pide cambio"
+  },
+  {
+    "codigo": "GRT-30192",
+    "estado": "Recibido",
+    "tipo": "SIN PROCEDIMIENTO",
+    "clienteId": "890900608",
+    "referencia": "L85160",
+    "producto": "OLLA ARROCERA GRIS 7TZ        ",
+    "falla": "Cableado interno Otro",
+    "s2": "",
+    "fecha": "05/02/2025",
+    "interno": "ZAE786",
+    "fechaIngreso": "2025-01-24",
+    "productoIngreso": "olla arrocera tradicional de 7taza",
+    "lugarDeCompra": "EXITO SAN PEDRO",
+    "observaciones": "[martes, 4 de febrero de 2025]Reparada sin repuesto... no se que le hizo"
+  },
+  {
+    "codigo": "GRT-30191",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "890900608",
+    "referencia": "L85320",
+    "producto": "OLLA ARROCERA NG 10TZ         ",
+    "falla": "Cableado interno Sin continuidad",
+    "s2": "25002058",
+    "fecha": "05/02/2025",
+    "interno": "KFJ286",
+    "fechaIngreso": "2025-01-24",
+    "productoIngreso": "olla arrocera tradicional de 10 taza",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[martes, 4 de febrero de 2025]Reparada sin repuesto, testigo suelto"
+  },
+  {
+    "codigo": "GRT-30190",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "55170055",
+    "referencia": "L85130",
+    "producto": "OLLA ARROCERA NG 5TZ          ",
+    "falla": "Termostato Sin continuidad ",
+    "s2": "",
+    "fecha": "05/02/2025",
+    "interno": "GZL524",
+    "fechaIngreso": "2025-01-30",
+    "productoIngreso": "Arrocera",
+    "lugarDeCompra": "NOVAVENTA",
+    "observaciones": "[martes, 4 de febrero de 2025]Sensor de temperatura dañado, no esta en lista de elegibles, se pide cambio"
+  },
+  {
+    "codigo": "GRT-29487",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "7689654",
+    "referencia": "L71309",
+    "producto": "VENTILADOR COLORS 8\"          ",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25001276",
+    "fecha": "24/01/2025",
+    "interno": "BHV963",
+    "fechaIngreso": "2025-01-23",
+    "productoIngreso": "ventilador universal verde",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Motor solicitado-[sábado, 1 de febrero de 2025]Llega motor"
+  },
+  {
+    "codigo": "GRT-29486",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "80134546",
+    "referencia": "L71309",
+    "producto": "VENTILADOR COLORS 8\"          ",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25001275",
+    "fecha": "24/01/2025",
+    "interno": "TNZ330",
+    "fechaIngreso": "2025-01-22",
+    "productoIngreso": "ventilador universal verde",
+    "lugarDeCompra": "UNICO",
+    "observaciones": "[viernes, 24 de enero de 2025]Motor Solicitado-[sábado, 1 de febrero de 2025]Llega motor"
+  },
+  {
     "codigo": "GRT-29295",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1152207276",
     "referencia": "L40600",
@@ -11,21 +107,25 @@ let garantiasUniversal = [
     "fecha": "22/01/2025",
     "interno": "HPY870",
     "fechaIngreso": "2025-01-20",
-    "productoIngreso": "plancha universal"
+    "productoIngreso": "plancha universal",
+    "lugarDeCompra": "COMERCIAL BAHIA",
+    "observaciones": "[viernes, 24 de enero de 2025]Resistencia Solicitada-[lunes, 3 de febrero de 2025]llego resistencia"
   },
   {
     "codigo": "GRT-29293",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "55216701",
     "referencia": "L85729",
     "producto": "EASYFRYER PRO 3.5L",
     "falla": "Cuerpo Quebrado,Motor Bobinas en corto,Tarjeta Panel de control Otro",
-    "s2": "",
+    "s2": "25001330",
     "fecha": "22/01/2025",
     "interno": "CCD768",
     "fechaIngreso": "2025-01-20",
-    "productoIngreso": "freidora universal  digita"
+    "productoIngreso": "freidora universal  digita",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": "[viernes, 24 de enero de 2025]Solicitud Cambio Producto-[sábado, 1 de febrero de 2025]Llega freidora nueva"
   },
   {
     "codigo": "GRT-29292",
@@ -39,39 +139,13 @@ let garantiasUniversal = [
     "fecha": "22/01/2025",
     "interno": "TQG677",
     "fechaIngreso": "2025-01-18",
-    "productoIngreso": "plancha asadora"
-  },
-  {
-    "codigo": "GRT-28929",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "901680936",
-    "referencia": "L50861",
-    "producto": "LICUADORA POTENCY MIX VINO    ",
-    "falla": "Selector de velocidades Mala soldadura",
-    "s2": "NO APLICA S2!",
-    "fecha": "16/01/2025",
-    "interno": "QSK314",
-    "fechaIngreso": "2025-01-11",
-    "productoIngreso": "licuadora potency mix roja"
-  },
-  {
-    "codigo": "GRT-28928",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "83231975",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA 406              ",
-    "falla": "Termofusible Sin continuidad,Termostato Sin continuidad ",
-    "s2": "25000761",
-    "fecha": "16/01/2025",
-    "interno": "NWS076",
-    "fechaIngreso": "2025-01-11",
-    "productoIngreso": "plancha seca  tradicional"
+    "productoIngreso": "plancha asadora",
+    "lugarDeCompra": "UNICO",
+    "observaciones": "[viernes, 24 de enero de 2025]Solicitud cambio de producto"
   },
   {
     "codigo": "GRT-28927",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "26593525",
     "referencia": "L50803",
@@ -81,11 +155,13 @@ let garantiasUniversal = [
     "fecha": "16/01/2025",
     "interno": "KAG877",
     "fechaIngreso": "2025-01-10",
-    "productoIngreso": "licuadora universal con vaso de vidrio"
+    "productoIngreso": "licuadora universal con vaso de vidrio",
+    "lugarDeCompra": "AGRO TERUEL FERRETERÍA",
+    "observaciones": "[viernes, 24 de enero de 2025]Solicitud Cambio de Producto-[lunes, 27 de enero de 2025]Llega producto nuevo"
   },
   {
     "codigo": "GRT-28532",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52106302",
     "referencia": "L75680",
@@ -95,11 +171,13 @@ let garantiasUniversal = [
     "fecha": "10/01/2025",
     "interno": "JXA642",
     "fechaIngreso": "2025-01-09",
-    "productoIngreso": "ventilador universal  ultra con remoto"
+    "productoIngreso": "ventilador universal  ultra con remoto",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Motor Solicitado o Cambio de Producto-[viernes, 31 de enero de 2025]Llega producto nuevo para entregar"
   },
   {
     "codigo": "GRT-28481",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1110468974",
     "referencia": "L23600",
@@ -109,53 +187,13 @@ let garantiasUniversal = [
     "fecha": "09/01/2025",
     "interno": "LBR126",
     "fechaIngreso": "2025-01-09",
-    "productoIngreso": "olla pidarora universal tradicional"
-  },
-  {
-    "codigo": "GRT-28262",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075270362",
-    "referencia": "L63200",
-    "producto": "LICUADORA CORONA NEGRA        ",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25000151",
-    "fecha": "03/01/2025",
-    "interno": "QSI406",
-    "fechaIngreso": "2025-01-03",
-    "productoIngreso": "licuadora corona negra"
-  },
-  {
-    "codigo": "GRT-28189",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "901680936",
-    "referencia": "L60509",
-    "producto": "TERMO COLOR TAPA COLOR 1L V2",
-    "falla": "Cuerpo Mal ensamble",
-    "s2": "25000138",
-    "fecha": "31/12/2024",
-    "interno": "BRO726",
-    "fechaIngreso": "2024-12-05",
-    "productoIngreso": "termo universal de 1litro"
-  },
-  {
-    "codigo": "GRT-27279",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "55151765",
-    "referencia": "L89259",
-    "producto": "CAFETERA ESPRESSO ELÉCTRICA",
-    "falla": "Cableado interno Otro,Resistencia Sin continuidad,Térmico Sin continuidad,Termofusible Sin continuidad",
-    "s2": "24020547",
-    "fecha": "10/12/2024",
-    "interno": "WZK516",
-    "fechaIngreso": "2024-12-02",
-    "productoIngreso": "electric espresso"
+    "productoIngreso": "olla pidarora universal tradicional",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Llega Olla Nueva"
   },
   {
     "codigo": "GRT-27276",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "12133594",
     "referencia": "L60519",
@@ -165,7 +203,9 @@ let garantiasUniversal = [
     "fecha": "10/12/2024",
     "interno": "MMS476",
     "fechaIngreso": "2024-11-22",
-    "productoIngreso": "termo bomba universal"
+    "productoIngreso": "termo bomba universal",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Cambio de producto - no tengo registro si llego y si ya se entregó-[jueves, 30 de enero de 2025]Producto sustituto - exprimidor de jugos L83696"
   },
   {
     "codigo": "GRT-26132",
@@ -179,7 +219,9 @@ let garantiasUniversal = [
     "fecha": "18/11/2024",
     "interno": "LMJ823",
     "fechaIngreso": "2024-11-07",
-    "productoIngreso": "plancha seca universal"
+    "productoIngreso": "plancha seca universal",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[lunes, 18 de noviembre de 2024]SE PIDE RESITENCIA Y TERMOFUSIBLE \n-[viernes, 24 de enero de 2025]Llegó producto nuevo, no se si lo entregaron"
   },
   {
     "codigo": "GRT-25954",
@@ -193,7 +235,9 @@ let garantiasUniversal = [
     "fecha": "14/11/2024",
     "interno": "EKB486",
     "fechaIngreso": "2024-10-28",
-    "productoIngreso": "olla a presion pitadora ultra"
+    "productoIngreso": "olla a presion pitadora ultra",
+    "lugarDeCompra": "UNIVERSAL DEL UNICO",
+    "observaciones": "[jueves, 14 de noviembre de 2024]SE PIDE CAMBIO\n-[viernes, 24 de enero de 2025]Llego nueva, No se si entrego o que"
   },
   {
     "codigo": "GRT-25109",
@@ -207,21 +251,9 @@ let garantiasUniversal = [
     "fecha": "28/10/2024",
     "interno": "YZY230",
     "fechaIngreso": "2024-10-23",
-    "productoIngreso": "ventilador universal de pared  freh"
-  },
-  {
-    "codigo": "GRT-22493",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075273604",
-    "referencia": "L50803",
-    "producto": "LICUADORA LA TRADICIONAL",
-    "falla": "Motor Bobinas en corto",
-    "s2": "24015598",
-    "fecha": "13/09/2024",
-    "interno": "WOR218",
-    "fechaIngreso": "2024-09-04",
-    "productoIngreso": "licuadora universal negra"
+    "productoIngreso": "ventilador universal de pared  freh",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Se cambio motor ... no se si lo entregaron"
   },
   {
     "codigo": "GRT-21806",
@@ -235,7 +267,9 @@ let garantiasUniversal = [
     "fecha": "02/09/2024",
     "interno": "OEB285",
     "fechaIngreso": "2024-07-27",
-    "productoIngreso": "ventilador universal fresh ultra c remoto"
+    "productoIngreso": "ventilador universal fresh ultra c remoto",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": "[lunes, 5 de agosto de 2024]repuestos pedidos-[martes, 13 de agosto de 2024]esperando repuestos-[viernes, 24 de enero de 2025]Doña mary presto uno, no se si lo devolvieron"
   },
   {
     "codigo": "GRT-19560",
@@ -249,6 +283,8 @@ let garantiasUniversal = [
     "fecha": "25/07/2024",
     "interno": "WYW141",
     "fechaIngreso": "2024-07-22",
-    "productoIngreso": "licuadora corona"
+    "productoIngreso": "licuadora corona",
+    "lugarDeCompra": "ALMACEN CRISTAL",
+    "observaciones": "[jueves, 25 de julio de 2024]MOTOR-[jueves, 25 de julio de 2024]OI 20000120-[martes, 13 de agosto de 2024]SE CAMBIO MOTOR - LISTO PARA ENTREGAR-[viernes, 24 de enero de 2025]no se si la entregaron"
   }
 ]

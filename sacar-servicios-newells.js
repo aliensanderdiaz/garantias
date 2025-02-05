@@ -1,251 +1,239 @@
 // const fs = require('node:fs')
-const fs = require('fs')
-const fetch = require('node-fetch');
-const URL = 'http://localhost:3001/garantias/'
+const fs = require("fs");
+const fetch = require("node-fetch");
+const URL = "http://localhost:3001/garantias/";
 // const readline = require('node:readline');
-const readline = require('readline');
+const readline = require("readline");
 
-let inputNewells = '01-input-pantalla-newells.txt'
-let outputNewells = 'newells.js'
+let inputNewells = "01-input-pantalla-newells.txt";
+let outputNewells = "newells.js";
 
-let inputRedelec = '02-input-pantalla-redelec.txt'
-let outputRedelec = 'redelec.js'
+let inputRedelec = "02-input-pantalla-redelec.txt";
+let outputRedelec = "redelec.js";
 
-let inputUniversal = '03-input-pantalla-universal.txt'
-let outputUniversal = 'universal.js'
+let inputUniversal = "03-input-pantalla-universal.txt";
+let outputUniversal = "universal.js";
 
-console.log('ANTES DE MAIN')
+console.log("ANTES DE MAIN");
 
 async function main() {
+  async function sacarServiciosNewells() {
+    const fileStream = fs.createReadStream(inputNewells);
 
-    async function sacarServiciosNewells() {
+    const rl = readline.createInterface({
+      input: fileStream,
+      crlfDelay: Infinity,
+    });
 
-        const fileStream = fs.createReadStream(inputNewells);
+    let index = 0;
+    let servicios = [];
+    let servicio = {
+      codigo: "",
+      cliente: "",
+      estado: "",
+      fecha: "",
+    };
 
-        const rl = readline.createInterface({
-            input: fileStream,
-            crlfDelay: Infinity,
-        });
+    for await (const line of rl) {
+      // console.log({ index, line })
 
-        let index = 0
-        let servicios = []
-        let servicio = {
-            codigo: '',
-            cliente: '',
-            estado: '',
-            fecha: ''
+      // if (line.startsWith('Seleccionar elemento ')) {
+      if (line === "") {
+        index = 1;
+        continue;
+      }
+
+      if (index === 0) {
+        continue;
+      }
+
+      if (index === 1) {
+        servicio.estado = line;
+        index++;
+        continue;
+      }
+
+      if (index === 2) {
+        servicio.codigo = line;
+        index++;
+        continue;
+      }
+
+      if (index === 3) {
+        servicio.fecha = line.split(" ")[0];
+        index++;
+        continue;
+      }
+
+      if (index === 4 || index === 5) {
+        index++;
+        continue;
+      }
+
+      if (index === 6) {
+        if (servicio.estado !== "Entregado") {
+          let urlAPI = URL + servicio.codigo;
+
+          try {
+            const response = await fetch(urlAPI);
+            const data = await response.json();
+
+            if (data && data.ok && data.servicio) {
+              // console.log({data});
+              servicio.interno = data.servicio.codigo;
+              servicio.fechaIngreso = data.servicio.fechaDeIngreso;
+              servicio.productoIngreso = data.servicio.producto;
+              servicio.lugarDeCompra = data.servicio.lugarDeCompra;
+              servicio.observaciones = data.servicio.observaciones.map(serv => '[' + serv.fecha + ']' + serv.descripcion).join('-')
+            }
+          } catch (error) {}
         }
 
-        for await (const line of rl) {
-
-            // console.log({ index, line })
-
-            // if (line.startsWith('Seleccionar elemento ')) {
-            if (line === '') {
-                index = 1
-                continue
-            }
-
-            if (index === 0) {
-                continue
-            }
-
-            if (index === 1) {
-                servicio.estado = line
-                index++
-                continue
-            }
-
-            if (index === 2) {
-                servicio.codigo = line
-                index++
-                continue
-            }
-
-            if (index === 3) {
-                servicio.fecha = line.split(' ')[0]
-                index++
-                continue
-            }
-
-            if (index === 4 || index === 5) {
-                index++
-                continue
-            }
-
-            if (index === 6) {
-
-                if (servicio.estado !== 'Entregado') {
-                    let urlAPI = URL + servicio.codigo
-
-                    try {
-                        const response = await fetch(urlAPI);
-                        const data = await response.json();
-                        
-                        if (data && data.ok && data.servicio) {
-                            // console.log({data});
-                            servicio.interno = data.servicio.codigo
-                            servicio.fechaIngreso = data.servicio.fechaDeIngreso
-                            servicio.productoIngreso = data.servicio.producto
-                        }
-                    } catch (error) {
-                        
-                    }
-                }
-
-
-                servicio.cliente = line
-                index++
-                index = 0
-                servicios.push(servicio)
-                servicio = {
-                    codigo: '',
-                    cliente: '',
-                    estado: ''
-                }
-                continue
-            }
-
-        }
-
-
-        let data = 'let garantiasNewells = ' + JSON.stringify(servicios, null, 2)
-
-        fs.writeFileSync(outputNewells, data)
-
+        servicio.cliente = line;
+        index++;
+        index = 0;
+        servicios.push(servicio);
+        servicio = {
+          codigo: "",
+          cliente: "",
+          estado: "",
+        };
+        continue;
+      }
     }
 
-    await sacarServiciosNewells();
+    let data = "let garantiasNewells = " + JSON.stringify(servicios, null, 2);
 
-    async function sacarServiciosRedelec() {
+    fs.writeFileSync(outputNewells, data);
+  }
 
-        const fileStream = fs.createReadStream(inputRedelec);
+  await sacarServiciosNewells();
 
-        const rl = readline.createInterface({
-            input: fileStream,
-            crlfDelay: Infinity,
-        });
+  async function sacarServiciosRedelec() {
+    const fileStream = fs.createReadStream(inputRedelec);
 
-        let servicios = []
-        let servicio = {
-            codigo: '',
-            cliente: '',
-            estado: '',
-            clienteId: '',
-            fecha: '',
-            producto: '',
-            almacen: ''
-        }
+    const rl = readline.createInterface({
+      input: fileStream,
+      crlfDelay: Infinity,
+    });
 
-        for await (const line of rl) {
-            if (line.includes('	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla')) {
+    let servicios = [];
+    let servicio = {
+      codigo: "",
+      cliente: "",
+      estado: "",
+      clienteId: "",
+      fecha: "",
+      producto: "",
+      almacen: "",
+    };
 
-                const array = line.split('	')
+    for await (const line of rl) {
+      if (
+        line.includes("	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla")
+      ) {
+        const array = line.split("	");
 
-                // console.log({ array })
+        // console.log({ array })
 
-                servicio = {
-                    codigo: array[1],
-                    cliente: array[5],
-                    clienteId: array[6],
-                    fecha: array[7].split(' ')[0],
-                    producto: array[10],
-                    estado: array[11],
-                    almacen: array[12],
-                }
+        servicio = {
+          codigo: array[1],
+          cliente: array[5],
+          clienteId: array[6],
+          fecha: array[7].split(" ")[0],
+          producto: array[10],
+          estado: array[11],
+          almacen: array[12],
+        };
 
-                let urlAPI = URL + servicio.codigo
+        let urlAPI = URL + servicio.codigo;
 
-                try {
-                    const response = await fetch(urlAPI);
-                    const data = await response.json();
-                    
-                    if (data && data.ok && data.servicio) {
-                        // console.log({data});
-                        servicio.interno = data.servicio.codigo
-                        servicio.fechaIngreso = data.servicio.fechaDeIngreso
-                        servicio.productoIngreso = data.servicio.producto
-                    }
-                } catch(error) {
+        try {
+          const response = await fetch(urlAPI);
+          const data = await response.json();
 
-                }
- 
-                servicios.push(servicio)
+          if (data && data.ok && data.servicio) {
+            // console.log({data});
+            servicio.interno = data.servicio.codigo;
+            servicio.fechaIngreso = data.servicio.fechaDeIngreso;
+            servicio.productoIngreso = data.servicio.producto;
+            servicio.lugarDeCompra = data.servicio.lugarDeCompra;
+            servicio.observaciones = data.servicio.observaciones.map(serv => '[' + serv.fecha + ']' + serv.descripcion).join('-')
+          }
+        } catch (error) {}
 
-            }
-        }
-
-        let data = 'let garantiasRedelec = ' + JSON.stringify(servicios, null, 2)
-
-        fs.writeFileSync(outputRedelec, data)
+        servicios.push(servicio);
+      }
     }
 
-    await sacarServiciosRedelec();
+    let data = "let garantiasRedelec = " + JSON.stringify(servicios, null, 2);
 
-    async function sacarServiciosUniversal() {
+    fs.writeFileSync(outputRedelec, data);
+  }
 
-        const fileStream = fs.createReadStream(inputUniversal);
+  await sacarServiciosRedelec();
 
-        const rl = readline.createInterface({
-            input: fileStream,
-            crlfDelay: Infinity,
-        });
+  async function sacarServiciosUniversal() {
+    const fileStream = fs.createReadStream(inputUniversal);
 
-        let servicios = []
-        let servicio = {
-            codigo: '',
-            estado: '',
-            tipo: '',
-            clienteId: '',
-            referencia: '',
-            producto: '',
-            falla: '',
-            s2: '',
-            fecha: '',
+    const rl = readline.createInterface({
+      input: fileStream,
+      crlfDelay: Infinity,
+    });
+
+    let servicios = [];
+    let servicio = {
+      codigo: "",
+      estado: "",
+      tipo: "",
+      clienteId: "",
+      referencia: "",
+      producto: "",
+      falla: "",
+      s2: "",
+      fecha: "",
+    };
+
+    for await (const line of rl) {
+      const array = line.split("	");
+
+      servicio = {
+        codigo: array[0],
+        estado: array[1],
+        tipo: array[2],
+        clienteId: array[3],
+        referencia: array[4],
+        producto: array[5],
+        falla: array[6],
+        s2: array[10],
+        fecha: array[11],
+      };
+
+      let urlAPI = URL + servicio.codigo;
+
+      try {
+        const response = await fetch(urlAPI);
+        const data = await response.json();
+
+        if (data && data.ok && data.servicio) {
+          // console.log({data});
+          servicio.interno = data.servicio.codigo;
+          servicio.fechaIngreso = data.servicio.fechaDeIngreso;
+          servicio.productoIngreso = data.servicio.producto;
+          servicio.lugarDeCompra = data.servicio.lugarDeCompra;
+          servicio.observaciones = data.servicio.observaciones.map(serv => '[' + serv.fecha + ']' + serv.descripcion).join('-')
         }
+      } catch (error) {}
 
-        for await (const line of rl) {
-
-            const array = line.split('	')
-
-            servicio = {
-                codigo: array[0],
-                estado: array[1],
-                tipo: array[2],
-                clienteId: array[3],
-                referencia: array[4],
-                producto: array[5],
-                falla: array[6],
-                s2: array[10],
-                fecha: array[11],
-            }
-
-            let urlAPI = URL + servicio.codigo
-
-            try {
-                const response = await fetch(urlAPI);
-                const data = await response.json();
-                
-                if (data && data.ok && data.servicio) {
-                    // console.log({data});
-                    servicio.interno = data.servicio.codigo
-                    servicio.fechaIngreso = data.servicio.fechaDeIngreso
-                    servicio.productoIngreso = data.servicio.producto
-                }
-            } catch(error) {
-                
-            }
-
-            servicios.push(servicio)
-
-        }
-
-        let data = 'let garantiasUniversal = ' + JSON.stringify(servicios, null, 2)
-
-        fs.writeFileSync(outputUniversal, data)
+      servicios.push(servicio);
     }
 
-    await sacarServiciosUniversal();
+    let data = "let garantiasUniversal = " + JSON.stringify(servicios, null, 2);
+
+    fs.writeFileSync(outputUniversal, data);
+  }
+
+  await sacarServiciosUniversal();
 }
 
-main()
+main();

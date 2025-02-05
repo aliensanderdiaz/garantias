@@ -9,7 +9,9 @@ let garantiasRedelec = [
     "almacen": "K TRONIX SANTA FE",
     "interno": "CJL564",
     "fechaIngreso": "2024-10-22",
-    "productoIngreso": "plancha black decker titanio"
+    "productoIngreso": "plancha black decker titanio",
+    "lugarDeCompra": "KTRONX BOGOTA",
+    "observaciones": "[viernes, 24 de enero de 2025]Carta de cambio, no se si entregaron la carta"
   },
   {
     "codigo": "127309",
@@ -21,19 +23,9 @@ let garantiasRedelec = [
     "almacen": "Sodimac/Homecenter Neiva",
     "interno": "QWG632",
     "fechaIngreso": "2024-11-13",
-    "productoIngreso": "aspiradora b+d gris"
-  },
-  {
-    "codigo": "129218",
-    "cliente": "ESPERANZA CERQUERA",
-    "clienteId": "36067741",
-    "fecha": "2024-12-28",
-    "producto": "RC5200M",
-    "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR",
-    "interno": "KHC238",
-    "fechaIngreso": "2024-12-23",
-    "productoIngreso": "arrocera"
+    "productoIngreso": "aspiradora b+d gris",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[viernes, 24 de enero de 2025]Carta de cambio - no se si entregaron esa carta"
   },
   {
     "codigo": "129235",
@@ -45,7 +37,9 @@ let garantiasRedelec = [
     "almacen": "TECNOHOGAR",
     "interno": "XKI212",
     "fechaIngreso": "2024-12-12",
-    "productoIngreso": "plancha one step azul con blanco"
+    "productoIngreso": "plancha one step azul con blanco",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": "[viernes, 24 de enero de 2025]Reparada"
   },
   {
     "codigo": "129236",
@@ -53,11 +47,13 @@ let garantiasRedelec = [
     "clienteId": "26585751",
     "fecha": "2024-12-28",
     "producto": "BLBD210GB",
-    "estado": "PENDIENTE AUTORIZACION",
+    "estado": "PREFINALIZADO",
     "almacen": "ALMACENES UNIVERSAL",
     "interno": "UGS312",
     "fechaIngreso": "2024-12-11",
-    "productoIngreso": "licuadora black bd"
+    "productoIngreso": "licuadora black bd",
+    "lugarDeCompra": "ALAMENES UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Esperando Autorizacion Carta de Cambio"
   },
   {
     "codigo": "130089",
@@ -65,11 +61,13 @@ let garantiasRedelec = [
     "clienteId": "26424474",
     "fecha": "2025-01-16",
     "producto": "RC514B",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "COMERCIALIZADORA SUPER HOGAR S.A.S",
     "interno": "LQG804",
     "fechaIngreso": "2025-01-10",
-    "productoIngreso": "Arrocera 14 taza"
+    "productoIngreso": "Arrocera 14 taza",
+    "lugarDeCompra": "COMERCIALIZADORA SUPER HOGAR",
+    "observaciones": "[viernes, 24 de enero de 2025]Termofusible y Microsuiche solicitado"
   },
   {
     "codigo": "130094",
@@ -77,10 +75,12 @@ let garantiasRedelec = [
     "clienteId": "36301536",
     "fecha": "2025-01-16",
     "producto": "BLBD210GR",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "ALMACENES UNIVERSAL",
     "interno": "CQI856",
     "fechaIngreso": "2025-01-16",
-    "productoIngreso": "licuadora bla deker roja"
+    "productoIngreso": "licuadora bla deker roja",
+    "lugarDeCompra": "ALMACENE UNIVERSAL",
+    "observaciones": "[viernes, 24 de enero de 2025]Teclado Solicitado"
   }
 ]
