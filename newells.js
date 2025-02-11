@@ -1,14 +1,53 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00336212",
+    "cliente": "Almacenes Exito S.a.",
+    "estado": "En progreso",
+    "fecha": "10/02/2025",
+    "interno": "FEV671",
+    "fechaIngreso": "2025-02-08",
+    "productoIngreso": "Licuadora oster reversible con tarjeta",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00336209",
+    "cliente": "Almacenes Universal S.a.s.",
+    "estado": "En progreso",
+    "fecha": "10/02/2025",
+    "interno": "ACS938",
+    "fechaIngreso": "2025-02-10",
+    "productoIngreso": "Licuadora aniversario",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00335375",
+    "cliente": "Yenifer Andrea Reyes Cubillos",
+    "estado": "En progreso",
+    "fecha": "6/02/2025",
+    "interno": "ENG675",
+    "fechaIngreso": "2025-02-01",
+    "productoIngreso": "Freidora de aire manual oster 4l",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00334716",
     "cliente": "Rosa Escobar",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "4/02/2025",
     "interno": "OMD888",
     "fechaIngreso": "2025-01-28",
     "productoIngreso": "mini picadora oster",
     "lugarDeCompra": "UNIVERSAL DE LA OSTER",
-    "observaciones": "[martes, 4 de febrero de 2025]Falta factura - esperando motor"
+    "observaciones": "[martes, 4 de febrero de 2025]Falta factura - esperando motor-[lunes, 10 de febrero de 2025]Llega motor"
+  },
+  {
+    "codigo": "WO-00334672",
+    "cliente": "Edgar Quimbaya",
+    "estado": "En progreso",
+    "fecha": "4/02/2025"
   },
   {
     "codigo": "WO-00331552",
@@ -924,23 +963,5 @@ let garantiasNewells = [
     "cliente": "Wilder Andres Muñoz Cortes",
     "estado": "Entregado",
     "fecha": "20/09/2023"
-  },
-  {
-    "codigo": "WO-00218626",
-    "cliente": "Nataly Orjuela Mancera",
-    "estado": "Entregado",
-    "fecha": "20/09/2023"
-  },
-  {
-    "codigo": "WO-00218579",
-    "cliente": "Alba Yaneth Martinez",
-    "estado": "Entregado",
-    "fecha": "20/09/2023"
-  },
-  {
-    "codigo": "WO-00218253",
-    "cliente": "Nander Giovanni Diaz Triana",
-    "estado": "Entregado",
-    "fecha": "18/09/2023"
   }
 ]

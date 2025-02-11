@@ -73,10 +73,12 @@ async function main() {
       if (index === 6) {
         if (servicio.estado !== "Entregado") {
           let urlAPI = URL + servicio.codigo;
+          console.log({ urlAPI })
 
           try {
             const response = await fetch(urlAPI);
             const data = await response.json();
+            console.log({ data })
 
             if (data && data.ok && data.servicio) {
               // console.log({data});
@@ -86,7 +88,9 @@ async function main() {
               servicio.lugarDeCompra = data.servicio.lugarDeCompra;
               servicio.observaciones = data.servicio.observaciones.map(serv => '[' + serv.fecha + ']' + serv.descripcion).join('-')
             }
-          } catch (error) {}
+          } catch (error) {
+            console.log({ error })
+          }
         }
 
         servicio.cliente = line;
@@ -147,10 +151,12 @@ async function main() {
         };
 
         let urlAPI = URL + servicio.codigo;
+        console.log({ urlAPI })
 
         try {
           const response = await fetch(urlAPI);
           const data = await response.json();
+          console.log({ data })
 
           if (data && data.ok && data.servicio) {
             // console.log({data});
@@ -160,7 +166,9 @@ async function main() {
             servicio.lugarDeCompra = data.servicio.lugarDeCompra;
             servicio.observaciones = data.servicio.observaciones.map(serv => '[' + serv.fecha + ']' + serv.descripcion).join('-')
           }
-        } catch (error) {}
+        } catch (error) {
+          console.log({ error })
+        }
 
         servicios.push(servicio);
       }
@@ -210,10 +218,12 @@ async function main() {
       };
 
       let urlAPI = URL + servicio.codigo;
+      console.log({ urlAPI })
 
       try {
         const response = await fetch(urlAPI);
         const data = await response.json();
+        console.log({ data })
 
         if (data && data.ok && data.servicio) {
           // console.log({data});
@@ -223,7 +233,9 @@ async function main() {
           servicio.lugarDeCompra = data.servicio.lugarDeCompra;
           servicio.observaciones = data.servicio.observaciones.map(serv => '[' + serv.fecha + ']' + serv.descripcion).join('-')
         }
-      } catch (error) {}
+      } catch (error) {
+        console.log({ error })
+      }
 
       servicios.push(servicio);
     }

@@ -61,26 +61,12 @@ let garantiasRedelec = [
     "clienteId": "26424474",
     "fecha": "2025-01-16",
     "producto": "RC514B",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "COMERCIALIZADORA SUPER HOGAR S.A.S",
     "interno": "LQG804",
     "fechaIngreso": "2025-01-10",
     "productoIngreso": "Arrocera 14 taza",
     "lugarDeCompra": "COMERCIALIZADORA SUPER HOGAR",
     "observaciones": "[viernes, 24 de enero de 2025]Termofusible y Microsuiche solicitado"
-  },
-  {
-    "codigo": "130094",
-    "cliente": "MARLY GYSELA LAGUNA ZAPATA",
-    "clienteId": "36301536",
-    "fecha": "2025-01-16",
-    "producto": "BLBD210GR",
-    "estado": "DESPACHADO",
-    "almacen": "ALMACENES UNIVERSAL",
-    "interno": "CQI856",
-    "fechaIngreso": "2025-01-16",
-    "productoIngreso": "licuadora bla deker roja",
-    "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": "[viernes, 24 de enero de 2025]Teclado Solicitado"
   }
 ]
