@@ -1,5 +1,27 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00336658",
+    "cliente": "Almacenes Exito S.a.",
+    "estado": "Pre-terminado",
+    "fecha": "12/02/2025",
+    "interno": "WUI468",
+    "fechaIngreso": "2025-02-08",
+    "productoIngreso": "Freidora oster",
+    "lugarDeCompra": "EXITO PITALITO",
+    "observaciones": "[miércoles, 12 de febrero de 2025]Reparado sin reemplazo de parte"
+  },
+  {
+    "codigo": "WO-00336649",
+    "cliente": "Almacenes Exito S.a.",
+    "estado": "Pre-terminado",
+    "fecha": "12/02/2025",
+    "interno": "MUU517",
+    "fechaIngreso": "2025-02-10",
+    "productoIngreso": "Multi olla oster",
+    "lugarDeCompra": "EXITO PITALITO",
+    "observaciones": "[miércoles, 12 de febrero de 2025]Garantia no aplica"
+  },
+  {
     "codigo": "WO-00336212",
     "cliente": "Almacenes Exito S.a.",
     "estado": "En progreso",
@@ -13,7 +35,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00336209",
     "cliente": "Almacenes Universal S.a.s.",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "10/02/2025",
     "interno": "ACS938",
     "fechaIngreso": "2025-02-10",
@@ -46,19 +68,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00334672",
     "cliente": "Edgar Quimbaya",
-    "estado": "En progreso",
+    "estado": "Entregado",
     "fecha": "4/02/2025"
   },
   {
     "codigo": "WO-00331552",
     "cliente": "Metro Pitalito",
-    "estado": "En progreso",
-    "fecha": "24/01/2025",
-    "interno": "WWL730",
-    "fechaIngreso": "2025-01-24",
-    "productoIngreso": "Licuadora oster tradicional metro pitalito",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[martes, 4 de febrero de 2025]Motor Solicitado - No hay factura"
+    "estado": "Entregado",
+    "fecha": "24/01/2025"
   },
   {
     "codigo": "WO-00331410",
@@ -75,7 +92,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00331121",
     "cliente": "Pedro Nell Trujillo",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "23/01/2025",
     "interno": "LAX382",
     "fechaIngreso": "2025-01-22",
@@ -109,13 +126,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00327001",
     "cliente": "Angie Marroquín",
-    "estado": "Pre-terminado",
-    "fecha": "9/01/2025",
-    "interno": "ZVI298",
-    "fechaIngreso": "2025-01-09",
-    "productoIngreso": "batidora de mano y pedestal",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 24 de enero de 2025]REPARADA CAMBIO DE MOTOR COMPLETO - SOLO NOS DAN REPUESTOS ELECTRICOS, EL REPUESTO DEL BASTIDOR TIENE QUE COMPRARLO O QUEJARSE EN LA PAGINA DE OSTER - ESTE PRODUCTO ES SOLO PARA USO DOMESTICO"
+    "estado": "Entregado",
+    "fecha": "9/01/2025"
   },
   {
     "codigo": "WO-00326828",
@@ -302,7 +314,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00308183",
     "cliente": "Luz Neida Guzman H",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "21/10/2024",
     "interno": "MXC198",
     "fechaIngreso": "2024-10-12",
@@ -951,17 +963,5 @@ let garantiasNewells = [
     "cliente": "Niny Johana Santos",
     "estado": "Entregado",
     "fecha": "26/09/2023"
-  },
-  {
-    "codigo": "WO-00218695",
-    "cliente": "Sandra Polanco",
-    "estado": "Entregado",
-    "fecha": "20/09/2023"
-  },
-  {
-    "codigo": "WO-00218658",
-    "cliente": "Wilder Andres Muñoz Cortes",
-    "estado": "Entregado",
-    "fecha": "20/09/2023"
   }
 ]

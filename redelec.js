@@ -42,31 +42,12 @@ let garantiasRedelec = [
     "observaciones": "[viernes, 24 de enero de 2025]Reparada"
   },
   {
-    "codigo": "129236",
-    "cliente": "DIANA VARGAS",
-    "clienteId": "26585751",
-    "fecha": "2024-12-28",
-    "producto": "BLBD210GB",
-    "estado": "PREFINALIZADO",
-    "almacen": "ALMACENES UNIVERSAL",
-    "interno": "UGS312",
-    "fechaIngreso": "2024-12-11",
-    "productoIngreso": "licuadora black bd",
-    "lugarDeCompra": "ALAMENES UNIVERSAL",
-    "observaciones": "[viernes, 24 de enero de 2025]Esperando Autorizacion Carta de Cambio"
-  },
-  {
-    "codigo": "130089",
-    "cliente": "NUBIA MARCELA AYALA ZULETA",
-    "clienteId": "26424474",
-    "fecha": "2025-01-16",
-    "producto": "RC514B",
-    "estado": "PREFINALIZADO",
-    "almacen": "COMERCIALIZADORA SUPER HOGAR S.A.S",
-    "interno": "LQG804",
-    "fechaIngreso": "2025-01-10",
-    "productoIngreso": "Arrocera 14 taza",
-    "lugarDeCompra": "COMERCIALIZADORA SUPER HOGAR",
-    "observaciones": "[viernes, 24 de enero de 2025]Termofusible y Microsuiche solicitado"
+    "codigo": "132897",
+    "cliente": "YONN ARLEN PEÑA PULIDO",
+    "clienteId": "83089242",
+    "fecha": "2025-02-26",
+    "producto": "IRBD300",
+    "estado": "PENDIENTE VALIDACION FACTURA",
+    "almacen": "TECNOHOGAR"
   }
 ]
