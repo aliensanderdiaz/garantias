@@ -20,7 +20,7 @@ let garantiasRedelec = [
     "fecha": "2024-11-25",
     "producto": "VCBD603",
     "estado": "AUTORIZADO",
-    "almacen": "Sodimac/Homecenter Neiva",
+    "almacen": "SODIMAC/HOMECENTER NEIVA",
     "interno": "QWG632",
     "fechaIngreso": "2024-11-13",
     "productoIngreso": "aspiradora b+d gris",
@@ -42,12 +42,45 @@ let garantiasRedelec = [
     "observaciones": "[viernes, 24 de enero de 2025]Reparada"
   },
   {
-    "codigo": "132897",
-    "cliente": "YONN ARLEN PEÑA PULIDO",
-    "clienteId": "83089242",
-    "fecha": "2025-02-26",
+    "codigo": "134371",
+    "cliente": "MARIQ YULIANA PEREZ",
+    "clienteId": "55174585",
+    "fecha": "2025-03-21",
+    "producto": "HF4004B",
+    "estado": "DESPACHADO",
+    "almacen": "TECNOHOGAR",
+    "interno": "TVC203",
+    "fechaIngreso": "2025-03-14",
+    "productoIngreso": "freidora black decker",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "134377",
+    "cliente": "TATIANA HELENA ROZO RODRÍGUEZ",
+    "clienteId": "1075245602",
+    "fecha": "2025-03-21",
     "producto": "IRBD300",
-    "estado": "PENDIENTE VALIDACION FACTURA",
-    "almacen": "TECNOHOGAR"
+    "estado": "AUTORIZADO",
+    "almacen": "TECNOHOGAR",
+    "interno": "THX613",
+    "fechaIngreso": "2025-03-20",
+    "productoIngreso": "plancha black decker",
+    "lugarDeCompra": "TECNO HOGAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "134378",
+    "cliente": "YUDI ALAPE TAPIERO",
+    "clienteId": "40079904",
+    "fecha": "2025-03-21",
+    "producto": "HF4004W",
+    "estado": "DESPACHADO",
+    "almacen": "TECN MAX STORE",
+    "interno": "GAS186",
+    "fechaIngreso": "2025-03-20",
+    "productoIngreso": "freidora black decker",
+    "lugarDeCompra": "TECN MAX",
+    "observaciones": ""
   }
 ]

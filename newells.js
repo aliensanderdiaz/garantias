@@ -1,5 +1,178 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00348211",
+    "cliente": "Jorge Armando Trujillo",
+    "estado": "En progreso",
+    "fecha": "26/03/2025",
+    "interno": "QWH323",
+    "fechaIngreso": "2025-03-22",
+    "productoIngreso": "freidora digital de 4.5",
+    "lugarDeCompra": "ALCOMPRAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347174",
+    "cliente": "Willian Alberto Padilla Ariza",
+    "estado": "Pre-terminado",
+    "fecha": "21/03/2025",
+    "interno": "TVL271",
+    "fechaIngreso": "2025-03-15",
+    "productoIngreso": "plancha oster ceramica",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347170",
+    "cliente": "Nury Perez",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "EDI756",
+    "fechaIngreso": "2025-03-08",
+    "productoIngreso": "licuadora oster reversible",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347169",
+    "cliente": "Margoht Rodríguez",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "ARY028",
+    "fechaIngreso": "2025-03-18",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "VARIEDADES DANNY DE SUAZA",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347060",
+    "cliente": "Aider Díaz",
+    "estado": "Despachado",
+    "fecha": "21/03/2025",
+    "interno": "MUB191",
+    "fechaIngreso": "2025-03-10",
+    "productoIngreso": "licuadora oster dos velocidades",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347057",
+    "cliente": "Silvia Fernanda Mosquera Rojas",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "XSM909",
+    "fechaIngreso": "2025-03-11",
+    "productoIngreso": "cafetera oster programable",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347043",
+    "cliente": "Alberto Betsancut",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347042",
+    "cliente": "Betania Byo Sas",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "DKZ036",
+    "fechaIngreso": "2025-03-17",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "HERNANDO BUSTOS",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347035",
+    "cliente": "Karen Lizeth Vásquez Munar",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "EKP662",
+    "fechaIngreso": "2025-03-18",
+    "productoIngreso": "cafetera 12 tazas programable",
+    "lugarDeCompra": "EXITO PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347034",
+    "cliente": "Ana Beiba Astudillo",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "SMR583",
+    "fechaIngreso": "2025-03-19",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "CASA HOGAR PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347030",
+    "cliente": "Juan Diego Laverde Ospina",
+    "estado": "Despachado",
+    "fecha": "21/03/2025",
+    "interno": "WCW436",
+    "fechaIngreso": "2025-03-20",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00347027",
+    "cliente": "Yineth Medina Vargas",
+    "estado": "Aprobación pendiente",
+    "fecha": "21/03/2025",
+    "interno": "TCG433",
+    "fechaIngreso": "2025-03-20",
+    "productoIngreso": "freidora oster 3 .8 litros",
+    "lugarDeCompra": "EXITO PITALITO",
+    "observaciones": "[viernes, 21 de marzo de 2025]Se pide resistencia"
+  },
+  {
+    "codigo": "WO-00344313",
+    "cliente": "Mesthil Ruiz Duran",
+    "estado": "Entregado",
+    "fecha": "11/03/2025"
+  },
+  {
+    "codigo": "WO-00344310",
+    "cliente": "Diana Marcela Córdoba Lopez",
+    "estado": "Despachado",
+    "fecha": "11/03/2025",
+    "interno": "XDV614",
+    "fechaIngreso": "2025-03-01",
+    "productoIngreso": "freidora 4 litros manual",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[viernes, 7 de marzo de 2025]Pedir microsuiche"
+  },
+  {
+    "codigo": "WO-00341622",
+    "cliente": "Kerly Alexandra Gutiérrez",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00341614",
+    "cliente": "Diego Fernando Manrrique Fernández",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00341610",
+    "cliente": "Carlos Alberto Martin",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00341608",
+    "cliente": "Karen Muñoz Urbano",
+    "estado": "Pre-terminado",
+    "fecha": "28/02/2025",
+    "interno": "ZMQ148",
+    "fechaIngreso": "2025-02-15",
+    "productoIngreso": "licuadora ister clasica",
+    "lugarDeCompra": "EXITO PITALITO",
+    "observaciones": "[jueves, 13 de marzo de 2025]Licuadora se le cambia suiche"
+  },
+  {
     "codigo": "WO-00336658",
     "cliente": "Almacenes Exito S.a.",
     "estado": "Pre-terminado",
@@ -24,35 +197,25 @@ let garantiasNewells = [
   {
     "codigo": "WO-00336212",
     "cliente": "Almacenes Exito S.a.",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "10/02/2025",
     "interno": "FEV671",
     "fechaIngreso": "2025-02-08",
     "productoIngreso": "Licuadora oster reversible con tarjeta",
     "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "observaciones": "[jueves, 13 de marzo de 2025]Se manda correo porque no han dicho nada"
   },
   {
     "codigo": "WO-00336209",
     "cliente": "Almacenes Universal S.a.s.",
-    "estado": "Pre-terminado",
-    "fecha": "10/02/2025",
-    "interno": "ACS938",
-    "fechaIngreso": "2025-02-10",
-    "productoIngreso": "Licuadora aniversario",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "10/02/2025"
   },
   {
     "codigo": "WO-00335375",
     "cliente": "Yenifer Andrea Reyes Cubillos",
-    "estado": "En progreso",
-    "fecha": "6/02/2025",
-    "interno": "ENG675",
-    "fechaIngreso": "2025-02-01",
-    "productoIngreso": "Freidora de aire manual oster 4l",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "6/02/2025"
   },
   {
     "codigo": "WO-00334716",
@@ -63,7 +226,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-01-28",
     "productoIngreso": "mini picadora oster",
     "lugarDeCompra": "UNIVERSAL DE LA OSTER",
-    "observaciones": "[martes, 4 de febrero de 2025]Falta factura - esperando motor-[lunes, 10 de febrero de 2025]Llega motor"
+    "observaciones": "[martes, 4 de febrero de 2025]Falta factura - esperando motor-[lunes, 10 de febrero de 2025]Llega motor-[jueves, 20 de marzo de 2025]Llega motor que es"
   },
   {
     "codigo": "WO-00334672",
@@ -92,13 +255,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00331121",
     "cliente": "Pedro Nell Trujillo",
-    "estado": "Pre-terminado",
-    "fecha": "23/01/2025",
-    "interno": "LAX382",
-    "fechaIngreso": "2025-01-22",
-    "productoIngreso": "freidora oster de 6 litros",
-    "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[viernes, 24 de enero de 2025]Fusible y Termocontrol Solicitado"
+    "estado": "Entregado",
+    "fecha": "23/01/2025"
   },
   {
     "codigo": "WO-00330565",
@@ -228,24 +386,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00316592",
     "cliente": "Fredy Rodríguez",
-    "estado": "Pre-terminado",
-    "fecha": "25/11/2024",
-    "interno": "YAI874",
-    "fechaIngreso": "2024-11-06",
-    "productoIngreso": "licuadora oster blanca edicion limitada",
-    "lugarDeCompra": "ALMACENE UNIVERSAL EL MOTOR QUEDA  AQUI PARA NOSOTROS",
-    "observaciones": "[viernes, 24 de enero de 2025]Se pide cambio de producto -  al cliente ya se le soluciono - esperar la carta para recuperar el producto-[lunes, 27 de enero de 2025]Se generó una carta de cambio, se le entregó a bahamon"
+    "estado": "Entregado",
+    "fecha": "25/11/2024"
   },
   {
     "codigo": "WO-00315771",
     "cliente": "Gentil De La Espriella",
-    "estado": "Pre-terminado",
-    "fecha": "21/11/2024",
-    "interno": "NHD357",
-    "fechaIngreso": "2024-11-06",
-    "productoIngreso": "licuadora oster clásica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 24 de enero de 2025]Cambio de producto - no se si ya la entregaron"
+    "estado": "Entregado",
+    "fecha": "21/11/2024"
   },
   {
     "codigo": "WO-00315763",
@@ -279,13 +427,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00309749",
     "cliente": "Albenis Rodriguez Muñoz",
-    "estado": "Pre-terminado",
-    "fecha": "28/10/2024",
-    "interno": "LUX139",
-    "fechaIngreso": "2024-10-25",
-    "productoIngreso": "plancha a vapor rosada",
-    "lugarDeCompra": "MI ALMACEN",
-    "observaciones": "[viernes, 24 de enero de 2025]Carta de cambio, pero no se si entrego la carta"
+    "estado": "Entregado",
+    "fecha": "28/10/2024"
   },
   {
     "codigo": "WO-00309740",
@@ -314,13 +457,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00308183",
     "cliente": "Luz Neida Guzman H",
-    "estado": "Aprobación pendiente",
-    "fecha": "21/10/2024",
-    "interno": "MXC198",
-    "fechaIngreso": "2024-10-12",
-    "productoIngreso": "Cafetera oster de pitalito",
-    "lugarDeCompra": "EXITO PITALITO",
-    "observaciones": "[viernes, 24 de enero de 2025]Es la de las manguera, habia que pedir carta de cambio, no se si la despacharon a pitalito"
+    "estado": "Entregado",
+    "fecha": "21/10/2024"
   },
   {
     "codigo": "WO-00308179",
@@ -855,113 +993,5 @@ let garantiasNewells = [
     "cliente": "Diana Gaona",
     "estado": "Entregado",
     "fecha": "4/11/2023"
-  },
-  {
-    "codigo": "WO-00228513",
-    "cliente": "Diana Patricia Gutierrez Melendes",
-    "estado": "Entregado",
-    "fecha": "1/11/2023"
-  },
-  {
-    "codigo": "WO-00228477",
-    "cliente": "Libardo Garcia Montenegro",
-    "estado": "Entregado",
-    "fecha": "1/11/2023"
-  },
-  {
-    "codigo": "WO-00227715",
-    "cliente": "Victor Galvis",
-    "estado": "Entregado",
-    "fecha": "30/10/2023"
-  },
-  {
-    "codigo": "WO-00227710",
-    "cliente": "Juan Camilo González",
-    "estado": "Entregado",
-    "fecha": "30/10/2023"
-  },
-  {
-    "codigo": "WO-00227624",
-    "cliente": "Luis Carlos Cano Gonzalez",
-    "estado": "Entregado",
-    "fecha": "28/10/2023"
-  },
-  {
-    "codigo": "WO-00227548",
-    "cliente": "Dmoda Sas",
-    "estado": "Entregado",
-    "fecha": "28/10/2023"
-  },
-  {
-    "codigo": "WO-00227423",
-    "cliente": "Luisa Fernanda Sanchez Olaya",
-    "estado": "Entregado",
-    "fecha": "27/10/2023"
-  },
-  {
-    "codigo": "WO-00226889",
-    "cliente": "Luis Alberto Serrano Moreno",
-    "estado": "Entregado",
-    "fecha": "26/10/2023"
-  },
-  {
-    "codigo": "WO-00225480",
-    "cliente": "Marleny Rojas",
-    "estado": "Entregado",
-    "fecha": "20/10/2023"
-  },
-  {
-    "codigo": "WO-00225476",
-    "cliente": "Jose Eduardo Perdomo Trujillo",
-    "estado": "Entregado",
-    "fecha": "20/10/2023"
-  },
-  {
-    "codigo": "WO-00225303",
-    "cliente": "Daniel Felipe Ramón",
-    "estado": "Entregado",
-    "fecha": "19/10/2023"
-  },
-  {
-    "codigo": "WO-00225283",
-    "cliente": "Daniel Felipe Ramón",
-    "estado": "Entregado",
-    "fecha": "19/10/2023"
-  },
-  {
-    "codigo": "WO-00225202",
-    "cliente": "Cencosud Colombia Sa",
-    "estado": "Entregado",
-    "fecha": "19/10/2023"
-  },
-  {
-    "codigo": "WO-00224980",
-    "cliente": "Cesar Ortigoza Godoy",
-    "estado": "Entregado",
-    "fecha": "18/10/2023"
-  },
-  {
-    "codigo": "WO-00223449",
-    "cliente": "Consumer Consumer",
-    "estado": "Entregado",
-    "fecha": "10/10/2023"
-  },
-  {
-    "codigo": "WO-00220832",
-    "cliente": "Tatyana Dussan",
-    "estado": "Entregado",
-    "fecha": "29/09/2023"
-  },
-  {
-    "codigo": "WO-00220725",
-    "cliente": "Jose María Cortes Polania",
-    "estado": "Entregado",
-    "fecha": "29/09/2023"
-  },
-  {
-    "codigo": "WO-00219697",
-    "cliente": "Niny Johana Santos",
-    "estado": "Entregado",
-    "fecha": "26/09/2023"
   }
 ]
