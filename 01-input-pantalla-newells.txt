@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-150+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+250+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-En progreso
+Aprobación pendiente
 WO-00348211
 26/03/2025 09:30 a. m.
 Garantía
@@ -62,7 +62,7 @@ Willian Alberto Padilla Ariza
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347170
 21/03/2025 06:17 p. m.
 Garantía
@@ -71,7 +71,7 @@ Nury Perez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347169
 21/03/2025 06:14 p. m.
 Garantía
@@ -89,7 +89,7 @@ Aider Díaz
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347057
 21/03/2025 02:32 p. m.
 Garantía
@@ -107,7 +107,7 @@ Alberto Betsancut
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347042
 21/03/2025 01:18 p. m.
 Garantía
@@ -116,7 +116,7 @@ Betania Byo Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347035
 21/03/2025 01:09 p. m.
 Garantía
@@ -125,7 +125,7 @@ Karen Lizeth Vásquez Munar
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347034
 21/03/2025 01:04 p. m.
 Garantía
@@ -143,7 +143,7 @@ Juan Diego Laverde Ospina
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00347027
 21/03/2025 12:51 p. m.
 Garantía
@@ -1391,6 +1391,906 @@ WO-00229200
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Diana Gaona
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00228513
+1/11/2023 02:27 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Diana Patricia Gutierrez Melendes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00228477
+1/11/2023 11:40 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Libardo Garcia Montenegro
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00227715
+30/10/2023 09:43 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Victor Galvis
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00227710
+30/10/2023 09:15 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Juan Camilo González
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00227624
+28/10/2023 05:54 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luis Carlos Cano Gonzalez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00227548
+28/10/2023 02:11 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Dmoda Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00227423
+27/10/2023 05:54 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luisa Fernanda Sanchez Olaya
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00226889
+26/10/2023 11:32 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luis Alberto Serrano Moreno
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00225480
+20/10/2023 02:01 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Marleny Rojas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00225476
+20/10/2023 01:41 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Eduardo Perdomo Trujillo
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00225303
+19/10/2023 05:03 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Daniel Felipe Ramón
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00225283
+19/10/2023 03:20 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Daniel Felipe Ramón
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00225202
+19/10/2023 09:37 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Cencosud Colombia Sa
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00224980
+18/10/2023 04:15 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Cesar Ortigoza Godoy
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00223449
+10/10/2023 05:46 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Consumer Consumer
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00220832
+29/09/2023 06:08 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Tatyana Dussan
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00220725
+29/09/2023 03:40 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose María Cortes Polania
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00219697
+26/09/2023 03:03 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Niny Johana Santos
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00218695
+20/09/2023 05:56 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Sandra Polanco
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00218658
+20/09/2023 04:54 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Wilder Andres Muñoz Cortes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00218626
+20/09/2023 03:14 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Nataly Orjuela Mancera
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00218579
+20/09/2023 11:47 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Alba Yaneth Martinez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00218253
+18/09/2023 05:11 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Nander Giovanni Diaz Triana
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00216968
+11/09/2023 04:35 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Wilmer Narvaez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00216958
+11/09/2023 04:00 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Rodolfo Tovar
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00216935
+11/09/2023 03:25 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Diego Mauricio Cano Horta
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00215938
+5/09/2023 05:31 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Brandon Stiven Monteañegre Caballero
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00215343
+1/09/2023 03:20 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Eder Vargas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00214909
+31/08/2023 05:27 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Rapy Broasted Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00213931
+29/08/2023 09:12 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Pedro Caballero
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00213412
+26/08/2023 05:48 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Miguel Murcia
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00213312
+26/08/2023 11:09 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Stephany Scalante Rojas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00213304
+26/08/2023 10:39 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Isabel Achury
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00212687
+23/08/2023 05:07 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Francisco Sandino Puentes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00211810
+19/08/2023 02:25 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Oscar Tapias Perdigon
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00211425
+17/08/2023 05:32 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Inversionistas Unidos De Colombia
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00211393
+17/08/2023 04:42 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Uber Fabian Vargas Motta
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00211066
+16/08/2023 10:08 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Albeiro Valenzuela
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00210982
+15/08/2023 05:44 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jhon Jairo Silva Lopez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00210946
+15/08/2023 04:07 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Diana Marcela Cortes Caballero
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00210772
+14/08/2023 04:11 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Fernanda Rivera Pascuas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00210605
+14/08/2023 10:23 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Rodrigo Castañeda
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00210594
+14/08/2023 09:29 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Juan Pablo Peña Garzon
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00210573
+12/08/2023 05:08 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Hizza Minelly Reapira Rubiano
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00209972
+10/08/2023 03:14 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Almacenes Exito S.a.
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00208651
+4/08/2023 10:02 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Luzmila Martinez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00208164
+2/08/2023 03:36 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yanny Tatiana Diaz Barrios
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00208101
+2/08/2023 11:03 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luz Dary Hernandez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00207146
+29/07/2023 03:45 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Cesar Ortigoza Godoy
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00207062
+29/07/2023 11:17 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Cantalicio Cárdenas Calderón
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00207043
+29/07/2023 09:49 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jorge Arturo Castañeda Vargas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00206942
+28/07/2023 04:29 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Bellanid Ortiz España
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00206834
+28/07/2023 09:52 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jorge Enrique Cuetochambo
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00206609
+27/07/2023 11:47 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Csh Ingeniería Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00206606
+27/07/2023 11:35 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Carlos Perdomo
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00206202
+26/07/2023 08:51 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+María Camila Rojas Silva
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00206109
+25/07/2023 03:33 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Irma Zuñiga
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00205816
+24/07/2023 04:10 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Erika Fernanda Santos
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00205798
+24/07/2023 03:51 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Andres Alvarez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00205761
+24/07/2023 03:13 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Juan Sebastian Gaona Paredes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00205297
+21/07/2023 05:27 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Almario Valderrama
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00205130
+21/07/2023 11:01 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Angie Vivíana Quintero Varela
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00204898
+20/07/2023 12:00 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Nancy Claros
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00204873
+20/07/2023 11:02 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Casa Hogar
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00204651
+19/07/2023 11:17 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Darwin Ricardo Diaz Rojas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00204380
+18/07/2023 11:36 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Metro Santa Lucia
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00204184
+17/07/2023 03:28 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Alba Luz Muñoz Bocanegra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00203093
+12/07/2023 03:00 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Almacenes Exito S.a.
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00202505
+10/07/2023 05:50 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Juan Manuel Cedeño
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00202391
+10/07/2023 11:44 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Rosa Nuñez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00202372
+10/07/2023 10:46 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+María Angelica Hernandez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00202014
+8/07/2023 03:09 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Eduardo Villada
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00202009
+8/07/2023 02:26 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Nancy Claros
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201730
+7/07/2023 11:41 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Eloisa Celis Charry
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201563
+6/07/2023 05:37 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Comercializadora Y Transportes Diaz Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201511
+6/07/2023 03:39 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luis Gregorio Ruiz Arias
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201423
+6/07/2023 11:18 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Reinaldo Calderon Peña
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201407
+6/07/2023 10:45 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Magda Barreiro
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201265
+5/07/2023 05:49 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+María Del Carmen Bastos
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201256
+5/07/2023 05:38 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Csh Ingeniería Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201205
+5/07/2023 03:30 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Almario Valderrama
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00201158
+5/07/2023 11:58 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Sodimac Colombia Sa
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00200124
+30/06/2023 10:51 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+David Gustavo Parra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00199945
+29/06/2023 04:46 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+David Gustavo Parra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00199839
+29/06/2023 10:46 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Leny Paola Aros Gonzalez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00199536
+28/06/2023 03:19 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Ester Julia Collazos Angel
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00198722
+24/06/2023 03:46 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Astrid Vargas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00198710
+24/06/2023 03:00 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Carlos Julian Bello Mora
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00198346
+23/06/2023 09:45 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose María Cortes Polania
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00197904
+21/06/2023 02:38 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Alonso Ferreira
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00197675
+20/06/2023 04:27 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Julian Calderón
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00197631
+20/06/2023 02:46 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Luis Cortes Guzmán
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00197618
+20/06/2023 02:09 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Neyla Castañeda
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00197125
+16/06/2023 05:33 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Hector Jovel
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00197032
+16/06/2023 02:36 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Angélica Calderón
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00196843
+15/06/2023 03:28 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yisela Dussan Horta
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00196811
+15/06/2023 02:10 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Tatina Gutierrez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00196345
+13/06/2023 04:37 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jessica Mildreth Castañeda
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00196297
+13/06/2023 02:42 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yineth Cárdenas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00195459
+9/06/2023 03:32 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jesús Ariel Lizcano Dassa
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

@@ -61,23 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-03-15",
     "productoIngreso": "plancha corona",
     "lugarDeCompra": "DISTRIBUCIONES SILVA",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-32741",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1023953824",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Motor Otro",
-    "s2": "25005166",
-    "fecha": "21/03/2025",
-    "interno": "MLP253",
-    "fechaIngreso": "2025-03-17",
-    "productoIngreso": "licuadora mas vital",
-    "lugarDeCompra": "TECNOHOGAR DE NEIVA",
-    "observaciones": ""
+    "observaciones": "[miércoles, 2 de abril de 2025]Se solicito termostato el viernes 21"
   },
   {
     "codigo": "GRT-31922",
@@ -126,22 +110,6 @@ let garantiasUniversal = [
     "productoIngreso": "termo universal de un litro azul",
     "lugarDeCompra": "DISTRIBUCIONES SILVA",
     "observaciones": "[jueves, 13 de marzo de 2025]SE ENVÍA CAMBIO DE PRODUCTO AL CSA-[viernes, 14 de marzo de 2025]Llega producto nuevo"
-  },
-  {
-    "codigo": "GRT-31468",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "12102504",
-    "referencia": "L63200",
-    "producto": "LICUADORA CORONA NEGRA",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25003374",
-    "fecha": "26/02/2025",
-    "interno": "ZCU011",
-    "fechaIngreso": "2025-02-26",
-    "productoIngreso": "licuadora corona",
-    "lugarDeCompra": "EL PORTAL E INGENIERIA SAS",
-    "observaciones": "[jueves, 6 de marzo de 2025]Llega motor-[viernes, 7 de marzo de 2025]Se reemplaza motor"
   },
   {
     "codigo": "GRT-31194",

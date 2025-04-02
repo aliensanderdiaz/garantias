@@ -53,7 +53,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-03-14",
     "productoIngreso": "freidora black decker",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "observaciones": "[miércoles, 2 de abril de 2025]Despachado"
   },
   {
     "codigo": "134377",
@@ -67,7 +67,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-03-20",
     "productoIngreso": "plancha black decker",
     "lugarDeCompra": "TECNO HOGAR",
-    "observaciones": ""
+    "observaciones": "[miércoles, 2 de abril de 2025]Carta de Cambio"
   },
   {
     "codigo": "134378",
@@ -81,6 +81,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-03-20",
     "productoIngreso": "freidora black decker",
     "lugarDeCompra": "TECN MAX",
-    "observaciones": ""
+    "observaciones": "[miércoles, 2 de abril de 2025]Despachado"
   }
 ]
