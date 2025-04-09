@@ -1,7 +1,87 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-33310",
+    "codigo": "GRT-33472",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "55156087",
+    "referencia": "L89256",
+    "producto": "FREIDORA AIRE FACILFRY 3.2L",
+    "falla": "Panel de control Otro,Tarjeta Panel de control En corto",
+    "s2": "25005602",
+    "fecha": "03/04/2025",
+    "interno": "PAY096",
+    "fechaIngreso": "2025-03-26",
+    "productoIngreso": "freidora universal de 4facilfryñ",
+    "lugarDeCompra": "UNIVERSAL DEL UNICO",
+    "observaciones": "[martes, 8 de abril de 2025]LLEGA TERMOSTATO-[miércoles, 9 de abril de 2025]Se instala termostato"
+  },
+  {
+    "codigo": "GRT-33471",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1108121012",
+    "referencia": "L50015",
+    "producto": "LICUADORA ALIADA MIX",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25005600",
+    "fecha": "03/04/2025",
+    "interno": "UGB178",
+    "fechaIngreso": "2025-03-28",
+    "productoIngreso": "licuadora aliada blender",
+    "lugarDeCompra": "DISTRIBUCIONES SILVA",
+    "observaciones": "[martes, 8 de abril de 2025]LLEGA MOTOR LICUADORA-[miércoles, 9 de abril de 2025]Se instala motor nuevo"
+  },
+  {
+    "codigo": "GRT-33470",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "10077851527",
+    "referencia": "L89150",
+    "producto": "PICATODO ALIADA",
+    "falla": "Cuerpo Deformado",
+    "s2": "25005739",
+    "fecha": "03/04/2025",
+    "interno": "AKW959",
+    "fechaIngreso": "2025-03-29",
+    "productoIngreso": "picatodo aliada",
+    "lugarDeCompra": "EXITO SAN PEDRO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-33469",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "890900608",
+    "referencia": "L71300",
+    "producto": "VENTILADOR COMPACT FRESH",
+    "falla": "Motor Motor sin continuidad",
+    "s2": "25005595",
+    "fecha": "03/04/2025",
+    "interno": "NJT875",
+    "fechaIngreso": "2025-03-29",
+    "productoIngreso": "ventilador universal negro",
+    "lugarDeCompra": "EXITO UNICENTRO",
+    "observaciones": "[martes, 8 de abril de 2025]LLEGA MOTOR VENTILADOR-[miércoles, 9 de abril de 2025]Se instala motor nuevo"
+  },
+  {
+    "codigo": "GRT-33468",
     "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "12126603",
+    "referencia": "L63200",
+    "producto": "LICUADORA CORONA NEGRA",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25005594",
+    "fecha": "03/04/2025",
+    "interno": "RSX943",
+    "fechaIngreso": "2025-04-01",
+    "productoIngreso": "licuadora corona",
+    "lugarDeCompra": "PIÑATERIA LA TERCERA",
+    "observaciones": "[martes, 8 de abril de 2025]LLEGA MOTOR LICUADORA-[miércoles, 9 de abril de 2025]Se instala motor nuevo"
+  },
+  {
+    "codigo": "GRT-33310",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "26477940",
     "referencia": "L89256",
@@ -13,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-03-28",
     "productoIngreso": "freidora facilfry universal",
     "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[martes, 1 de abril de 2025]Se arreglo ya... pero se pidió termofusible para recuperarlo"
+    "observaciones": "[martes, 1 de abril de 2025]Se arreglo ya... pero se pidió termofusible para recuperarlo-[martes, 8 de abril de 2025]Llego termofusible para recuperar"
   },
   {
     "codigo": "GRT-32977",
@@ -32,24 +112,8 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-32976",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36310191",
-    "referencia": "L68335",
-    "producto": "SANDUCHERA SONRISA PEACH FUZZ",
-    "falla": "Cableado interno Otro",
-    "s2": "NO APLICA S2!",
-    "fecha": "26/03/2025",
-    "interno": "AYS501",
-    "fechaIngreso": "2025-03-26",
-    "productoIngreso": "sanduchera maker",
-    "lugarDeCompra": "NOVAVENTA",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-32742",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1117546208",
     "referencia": "L95550",
@@ -61,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-03-15",
     "productoIngreso": "plancha corona",
     "lugarDeCompra": "DISTRIBUCIONES SILVA",
-    "observaciones": "[miércoles, 2 de abril de 2025]Se solicito termostato el viernes 21"
+    "observaciones": "[miércoles, 2 de abril de 2025]Se solicito termostato el viernes 21-[jueves, 3 de abril de 2025]llegan repuestos-[viernes, 4 de abril de 2025]Lista para entregar"
   },
   {
     "codigo": "GRT-31922",

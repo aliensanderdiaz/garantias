@@ -14,20 +14,6 @@ let garantiasRedelec = [
     "observaciones": "[viernes, 24 de enero de 2025]Carta de cambio, no se si entregaron la carta"
   },
   {
-    "codigo": "127309",
-    "cliente": "LAURA SEGURA",
-    "clienteId": "1082126936",
-    "fecha": "2024-11-25",
-    "producto": "VCBD603",
-    "estado": "AUTORIZADO",
-    "almacen": "SODIMAC/HOMECENTER NEIVA",
-    "interno": "QWG632",
-    "fechaIngreso": "2024-11-13",
-    "productoIngreso": "aspiradora b+d gris",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[viernes, 24 de enero de 2025]Carta de cambio - no se si entregaron esa carta"
-  },
-  {
     "codigo": "129235",
     "cliente": "SILVIA OVIEDO",
     "clienteId": "29512347",
@@ -47,13 +33,13 @@ let garantiasRedelec = [
     "clienteId": "55174585",
     "fecha": "2025-03-21",
     "producto": "HF4004B",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "TECNOHOGAR",
     "interno": "TVC203",
     "fechaIngreso": "2025-03-14",
     "productoIngreso": "freidora black decker",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[miércoles, 2 de abril de 2025]Despachado"
+    "observaciones": "[miércoles, 2 de abril de 2025]Despachado-[martes, 8 de abril de 2025]LLEGA MICROSUICH-[miércoles, 9 de abril de 2025]Se reemplaza microsuiche"
   },
   {
     "codigo": "134377",
@@ -75,12 +61,68 @@ let garantiasRedelec = [
     "clienteId": "40079904",
     "fecha": "2025-03-21",
     "producto": "HF4004W",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "TECN MAX STORE",
     "interno": "GAS186",
     "fechaIngreso": "2025-03-20",
     "productoIngreso": "freidora black decker",
     "lugarDeCompra": "TECN MAX",
-    "observaciones": "[miércoles, 2 de abril de 2025]Despachado"
+    "observaciones": "[miércoles, 2 de abril de 2025]Despachado-[miércoles, 9 de abril de 2025]Se reemplaza microsuiche"
+  },
+  {
+    "codigo": "135763",
+    "cliente": "LINA MARIA DIAZ DUARTE",
+    "clienteId": "36069706",
+    "fecha": "2025-04-03",
+    "producto": "IRBD300",
+    "estado": "TRAMITE",
+    "almacen": "SAN ANDRESITO",
+    "interno": "UUF057",
+    "fechaIngreso": "2025-04-01",
+    "productoIngreso": "plancha black decker",
+    "lugarDeCompra": "SAN ANDRESITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "135764",
+    "cliente": "ALMACENES EXITO S.A.",
+    "clienteId": "890900608",
+    "fecha": "2025-04-03",
+    "producto": "BLBD210GR",
+    "estado": "EN CURSO",
+    "almacen": "EXITO UNICENTRO",
+    "interno": "OOC988",
+    "fechaIngreso": "2025-03-29",
+    "productoIngreso": "licuadora black decker roja",
+    "lugarDeCompra": "EXITO UNICENTRO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "136090",
+    "cliente": "ISAAC DIAZ",
+    "clienteId": "1003829051",
+    "fecha": "2025-04-09",
+    "producto": "HGS500-LA",
+    "estado": "TRAMITE",
+    "almacen": "TECNOGOHAR",
+    "interno": "QYS346",
+    "fechaIngreso": "2025-04-07",
+    "productoIngreso": "plancha titanio",
+    "lugarDeCompra": "TECNOGOHAR",
+    "observaciones": "[miércoles, 9 de abril de 2025]Pedir automatico y fusible"
+  },
+  {
+    "codigo": "136094",
+    "cliente": "YESICA VIVAS CUELLAR",
+    "clienteId": "1083839444",
+    "fecha": "2025-04-09",
+    "producto": "BLBD210GB",
+    "estado": "TRAMITE",
+    "almacen": "ALMACENES UNIVERSAL",
+    "interno": "RRL322",
+    "fechaIngreso": "2025-04-08",
+    "productoIngreso": "licuadora blck decker",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": "[miércoles, 9 de abril de 2025]Pedir teclado"
   }
 ]
