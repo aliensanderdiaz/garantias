@@ -15,15 +15,12 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-137	125861	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	RUBI ESPERANZA TAFURT DIAZ	36183976	2024-10-28 22:37:51	137	BLACK + DECKER	D3035	PREFINALIZADO	K TRONIX SANTA FE	Ver Ticket	Trazabilidad
-92	129235	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	SILVIA OVIEDO	29512347	2024-12-28 22:44:14	92	BLACK + DECKER	ICR1924	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-33	134378	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YUDI ALAPE TAPIERO	40079904	2025-03-21 23:47:47	33	BLACK + DECKER	HF4004W	PREFINALIZADO	TECN MAX STORE	Ver Ticket	Trazabilidad
-20	136090	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ISAAC DIAZ	1003829051	2025-04-09 12:45:56	20	BLACK + DECKER	HGS500-LA	DESPACHADO	TECNOGOHAR	Ver Ticket	Trazabilidad
-19	136153	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	HECTOR JAVIER SALAZAR GARCIA	1081182483	2025-04-10 13:42:18	19	BLACK + DECKER	BLBD210GB	AUTORIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-18	136328	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	KAREN LORENA LEGUIZAMO	1003891363	2025-04-11 22:51:25	18	BLACK + DECKER	CJ4000S	PREFINALIZADO	MISCELANEA JIREH	Ver Ticket	Trazabilidad
-18	136330	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YAMILE ROJAS	26575384	2025-04-11 22:58:04	18	BLACK + DECKER	BLBD210GB	DESPACHADO	COMERCIAL BAHIA	Ver Ticket	Trazabilidad
-7	137107	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	JHON MARIOA SAENZ	1075799197	2025-04-28 12:35:54	7	BLACK + DECKER	BLBD210GB	DESPACHADO	COMERCIAL BAHIA	Ver Ticket	Trazabilidad
-7	137108	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	SANTIAGO SAUL GUASCA	1003518600	2025-04-28 12:39:49	7	BLACK + DECKER	HF4004B	AUTORIZADO	TECNOHOGAR neiva	Ver Ticket	Trazabilidad
-7	137110	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	LAURA CAMILA CALDERON	1007359164	2025-04-28 13:09:32	7	BLACK + DECKER	HF4004B	DESPACHADO	TECNOHOGAR neiva	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 10 de un total de 10 registrosAnterior1Siguiente
+148	125861	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	RUBI ESPERANZA TAFURT DIAZ	36183976	2024-10-28 22:37:51	148	BLACK + DECKER	D3035	PREFINALIZADO	K TRONIX SANTA FE	Ver Ticket	Trazabilidad
+103	129235	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	SILVIA OVIEDO	29512347	2024-12-28 22:44:14	103	BLACK + DECKER	ICR1924	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
+30	136153	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	HECTOR JAVIER SALAZAR GARCIA	1081182483	2025-04-10 13:42:18	30	BLACK + DECKER	BLBD210GB	AUTORIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
+29	136328	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	KAREN LORENA LEGUIZAMO	1003891363	2025-04-11 22:51:25	29	BLACK + DECKER	CJ4000S	PREFINALIZADO	MISCELANEA JIREH	Ver Ticket	Trazabilidad
+18	137108	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	SANTIAGO SAUL GUASCA	1003518600	2025-04-28 12:39:49	18	BLACK + DECKER	HF4004B	AUTORIZADO	TECNOHOGAR neiva	Ver Ticket	Trazabilidad
+18	137110	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	LAURA CAMILA CALDERON	1007359164	2025-04-28 13:09:32	18	BLACK + DECKER	HF4004B	PREFINALIZADO	TECNOHOGAR neiva	Ver Ticket	Trazabilidad
+8	138000	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	ISAAC DIAZ	1003829051	2025-05-12 16:26:55	8	BLACK + DECKER	HGS500-LA	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 7 de un total de 7 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

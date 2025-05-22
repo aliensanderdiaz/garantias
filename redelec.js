@@ -28,34 +28,6 @@ let garantiasRedelec = [
     "observaciones": "[viernes, 24 de enero de 2025]Reparada"
   },
   {
-    "codigo": "134378",
-    "cliente": "YUDI ALAPE TAPIERO",
-    "clienteId": "40079904",
-    "fecha": "2025-03-21",
-    "producto": "HF4004W",
-    "estado": "PREFINALIZADO",
-    "almacen": "TECN MAX STORE",
-    "interno": "GAS186",
-    "fechaIngreso": "2025-03-20",
-    "productoIngreso": "freidora black decker",
-    "lugarDeCompra": "TECN MAX",
-    "observaciones": "[miércoles, 2 de abril de 2025]Despachado-[miércoles, 9 de abril de 2025]Se reemplaza microsuiche"
-  },
-  {
-    "codigo": "136090",
-    "cliente": "ISAAC DIAZ",
-    "clienteId": "1003829051",
-    "fecha": "2025-04-09",
-    "producto": "HGS500-LA",
-    "estado": "DESPACHADO",
-    "almacen": "TECNOGOHAR",
-    "interno": "QYS346",
-    "fechaIngreso": "2025-04-07",
-    "productoIngreso": "plancha titanio",
-    "lugarDeCompra": "TECNOGOHAR",
-    "observaciones": "[miércoles, 9 de abril de 2025]Pedir automatico y fusible-[miércoles, 23 de abril de 2025]Llega fusible y termostato de moneda-[jueves, 24 de abril de 2025]pedir la  la bomba del agua"
-  },
-  {
     "codigo": "136153",
     "cliente": "HECTOR JAVIER SALAZAR GARCIA",
     "clienteId": "1081182483",
@@ -84,34 +56,6 @@ let garantiasRedelec = [
     "observaciones": ""
   },
   {
-    "codigo": "136330",
-    "cliente": "YAMILE ROJAS",
-    "clienteId": "26575384",
-    "fecha": "2025-04-11",
-    "producto": "BLBD210GB",
-    "estado": "DESPACHADO",
-    "almacen": "COMERCIAL BAHIA",
-    "interno": "POE904",
-    "fechaIngreso": "2025-04-11",
-    "productoIngreso": "licuadora black decker",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": ""
-  },
-  {
-    "codigo": "137107",
-    "cliente": "JHON MARIOA SAENZ",
-    "clienteId": "1075799197",
-    "fecha": "2025-04-28",
-    "producto": "BLBD210GB",
-    "estado": "DESPACHADO",
-    "almacen": "COMERCIAL BAHIA",
-    "interno": "LHJ343",
-    "fechaIngreso": "2025-04-16",
-    "productoIngreso": "licuadora black Decker",
-    "lugarDeCompra": "COMERCIAL HABIA",
-    "observaciones": "[lunes, 28 de abril de 2025]motor"
-  },
-  {
     "codigo": "137108",
     "cliente": "SANTIAGO SAUL GUASCA",
     "clienteId": "1003518600",
@@ -123,7 +67,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-04-16",
     "productoIngreso": "freidora black decker",
     "lugarDeCompra": "TECNOHOGAR NEIVA",
-    "observaciones": "[lunes, 28 de abril de 2025]tazon"
+    "observaciones": "[lunes, 28 de abril de 2025]tazon-[miércoles, 21 de mayo de 2025]dieron carta de cambio"
   },
   {
     "codigo": "137110",
@@ -131,12 +75,21 @@ let garantiasRedelec = [
     "clienteId": "1007359164",
     "fecha": "2025-04-28",
     "producto": "HF4004B",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "TECNOHOGAR neiva",
     "interno": "EFB491",
     "fechaIngreso": "2025-04-25",
     "productoIngreso": "freidora black decker",
     "lugarDeCompra": "TECNOHOGAR",
     "observaciones": "[lunes, 28 de abril de 2025]MICROSUICHE"
+  },
+  {
+    "codigo": "138000",
+    "cliente": "ISAAC DIAZ",
+    "clienteId": "1003829051",
+    "fecha": "2025-05-12",
+    "producto": "HGS500-LA",
+    "estado": "AUTORIZADO",
+    "almacen": "TECNOHOGAR NEIVA"
   }
 ]
