@@ -19,10 +19,10 @@ htmlNewells += `
     </thead>
     <tbody>`
 
-garantiasNewells.forEach((garantia) => {
+garantiasNewells.forEach((garantia, index) => {
     htmlNewells += `
                 <tr>
-                <td>${ garantia.interno }</td>
+                <td>${ index + 1 } - ${ garantia.interno }</td>
                     <th scope="row">${ garantia.codigo }</th>
                     <td>${ garantia.fecha }</td>
                     <td>${ garantia.estado }</td>
