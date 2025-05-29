@@ -75,7 +75,11 @@ let garantiasNewells = [
     "fechaIngreso": "2025-05-21",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "FERRETERIA AGROPECUARIA EL CAMPO",
+<<<<<<< HEAD
     "observaciones": "[jueves, 29 de mayo de 2025]se pidio motor y suiche"
+=======
+    "observaciones": ""
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00363904",
@@ -86,7 +90,11 @@ let garantiasNewells = [
     "fechaIngreso": "2025-05-17",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONOMICO",
+<<<<<<< HEAD
     "observaciones": "[jueves, 29 de mayo de 2025]se pidio motor y suiche"
+=======
+    "observaciones": ""
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00363903",
@@ -97,13 +105,27 @@ let garantiasNewells = [
     "fechaIngreso": "2025-05-17",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "GRUPO SHATHOL SAS",
+<<<<<<< HEAD
     "observaciones": "[jueves, 29 de mayo de 2025]se pide motor y suiche"
+=======
+    "observaciones": ""
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00362370",
     "cliente": "Tatiana Ramírez",
+<<<<<<< HEAD
     "estado": "Entregado",
     "fecha": "16/05/2025"
+=======
+    "estado": "Pre-terminado",
+    "fecha": "16/05/2025",
+    "interno": "MYG079",
+    "fechaIngreso": "2025-05-05",
+    "productoIngreso": "sandwich",
+    "lugarDeCompra": "MERCADO LIBRE ALIRIO VERA",
+    "observaciones": ""
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00357076",
@@ -114,14 +136,34 @@ let garantiasNewells = [
   {
     "codigo": "WO-00357072",
     "cliente": "Elcy Patricia Montenegro",
+<<<<<<< HEAD
     "estado": "Entregado",
     "fecha": "28/04/2025"
+=======
+    "estado": "Pre-terminado",
+    "fecha": "28/04/2025",
+    "interno": "MXF353",
+    "fechaIngreso": "2025-04-23",
+    "productoIngreso": "olla multifuncional oster",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00357066",
     "cliente": "Jaime Andres Meneses Cabrera",
+<<<<<<< HEAD
     "estado": "Entregado",
     "fecha": "28/04/2025"
+=======
+    "estado": "Pre-terminado",
+    "fecha": "28/04/2025",
+    "interno": "FTW034",
+    "fechaIngreso": "2025-04-15",
+    "productoIngreso": "freidora oster de 3.8manual",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[lunes, 28 de abril de 2025]motor ventilador-[jueves, 8 de mayo de 2025]van a dar carta de cambio-[sábado, 10 de mayo de 2025]Aprobada carta de cambio"
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00352731",
@@ -132,8 +174,18 @@ let garantiasNewells = [
   {
     "codigo": "WO-00352730",
     "cliente": "Almacén El Festival Del Hogar Florencia",
+<<<<<<< HEAD
     "estado": "Entregado",
     "fecha": "10/04/2025"
+=======
+    "estado": "Pre-terminado",
+    "fecha": "10/04/2025",
+    "interno": "ESO685",
+    "fechaIngreso": "2025-04-08",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACÉN EL FESTIVAL DEL HOGAR  FLORENCIA",
+    "observaciones": "[miércoles, 16 de abril de 2025]aprueban carta de cambio"
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   },
   {
     "codigo": "WO-00351290",
@@ -1238,5 +1290,50 @@ let garantiasNewells = [
     "cliente": "Brandon Stiven Monteañegre Caballero",
     "estado": "Entregado",
     "fecha": "5/09/2023"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "codigo": "WO-00215343",
+    "cliente": "Jose Eder Vargas",
+    "estado": "Entregado",
+    "fecha": "1/09/2023"
+  },
+  {
+    "codigo": "WO-00214909",
+    "cliente": "Rapy Broasted Sas",
+    "estado": "Entregado",
+    "fecha": "31/08/2023"
+  },
+  {
+    "codigo": "WO-00213931",
+    "cliente": "Pedro Caballero",
+    "estado": "Entregado",
+    "fecha": "29/08/2023"
+  },
+  {
+    "codigo": "WO-00213412",
+    "cliente": "Miguel Murcia",
+    "estado": "Entregado",
+    "fecha": "26/08/2023"
+  },
+  {
+    "codigo": "WO-00213312",
+    "cliente": "Maria Stephany Scalante Rojas",
+    "estado": "Entregado",
+    "fecha": "26/08/2023"
+  },
+  {
+    "codigo": "WO-00213304",
+    "cliente": "Maria Isabel Achury",
+    "estado": "Entregado",
+    "fecha": "26/08/2023"
+  },
+  {
+    "codigo": "WO-00212687",
+    "cliente": "Jose Francisco Sandino Puentes",
+    "estado": "Entregado",
+    "fecha": "23/08/2023"
+>>>>>>> ba0e92078eeccf2770ebd3c19e63262f59690907
   }
 ]
