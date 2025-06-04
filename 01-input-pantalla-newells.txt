@@ -12,7 +12,6 @@ Search...
 Órdenes de trabajo
 All
 200+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
-200+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -54,7 +53,7 @@ Gildardo Cajibion
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00364485
 23/05/2025 05:38 p. m.
 Garantía
@@ -72,7 +71,7 @@ Lina Milena Samboni
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00364345
 23/05/2025 12:20 p. m.
 Garantía
@@ -90,7 +89,7 @@ Luz Elvira Ortiz
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00364210
 22/05/2025 06:01 p. m.
 Garantía
@@ -99,7 +98,7 @@ Carlos Andres Molina
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00364209
 22/05/2025 05:53 p. m.
 Garantía
@@ -108,7 +107,7 @@ Erika Mileidy Calderon
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00363906
 22/05/2025 07:45 a. m.
 Garantía
@@ -117,7 +116,7 @@ Jhon Alexander Calderon
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00363904
 22/05/2025 07:40 a. m.
 Garantía
@@ -126,7 +125,7 @@ Yorman Ortega
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00363903
 22/05/2025 07:37 a. m.
 Garantía
@@ -190,7 +189,6 @@ Colombia
 Jhon Fredy Bahamon Bonilla
 
 Entregado
-Entregado
 WO-00351290
 4/04/2025 08:39 a. m.
 Garantía
@@ -200,7 +198,6 @@ Colombia
 Jhon Fredy Bahamon Bonilla
 
 Entregado
-Entregado
 WO-00351274
 4/04/2025 07:12 a. m.
 Garantía
@@ -209,7 +206,6 @@ Lina Milena Samboni
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Entregado
 Entregado
 WO-00351273
 4/04/2025 07:05 a. m.

@@ -17,13 +17,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36607",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075259074",
     "referencia": "L62070",
     "producto": "LICUADORA ULTRA+VASO PICATODO",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "25008897",
     "fecha": "29/05/2025",
     "interno": "OSB974",
     "fechaIngreso": "2025-05-27",
@@ -49,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36317",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7724308",
     "referencia": "L87340",
@@ -65,7 +65,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36292",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55165236",
     "referencia": "L62170",
@@ -113,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36265",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36310858",
     "referencia": "L50850",
@@ -129,7 +129,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36264",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075318775",
     "referencia": "L85729",
@@ -145,7 +145,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36211",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "4920207",
     "referencia": "L95850",
@@ -206,22 +206,6 @@ let garantiasUniversal = [
     "productoIngreso": "lucuadora universal",
     "lugarDeCompra": "CACHARRERIA EL REY",
     "observaciones": "[jueves, 22 de mayo de 2025]Llega licuadora nueva"
-  },
-  {
-    "codigo": "GRT-35878",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1022361399",
-    "referencia": "L85720",
-    "producto": "RAPIFRY FREIDORA AIRE",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "25008071",
-    "fecha": "16/05/2025",
-    "interno": "ZTW362",
-    "fechaIngreso": "2025-05-06",
-    "productoIngreso": "freidora universal digital",
-    "lugarDeCompra": "BOGOTA DIUCOL",
-    "observaciones": "[jueves, 22 de mayo de 2025]Llega microsuiche"
   },
   {
     "codigo": "GRT-35877",
