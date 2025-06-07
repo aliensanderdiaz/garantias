@@ -48,22 +48,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 29 de mayo de 2025]Reparada con suiche prestado"
   },
   {
-    "codigo": "GRT-36317",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7724308",
-    "referencia": "L87340",
-    "producto": "SANDUCHERA 4P MULTIFUNCIONAL",
-    "falla": "Térmico Sin continuidad,Termofusible Sin continuidad",
-    "s2": "25008527",
-    "fecha": "23/05/2025",
-    "interno": "IVO676",
-    "fechaIngreso": "2025-05-17",
-    "productoIngreso": "danduchera de 4 puesto",
-    "lugarDeCompra": "UNVERSAL DEL UNICO",
-    "observaciones": "[jueves, 29 de mayo de 2025]se pidio termofusible y termico, pero van a dar producto nuevo"
-  },
-  {
     "codigo": "GRT-36292",
     "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -129,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-36264",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075318775",
     "referencia": "L85729",
@@ -190,22 +174,6 @@ let garantiasUniversal = [
     "productoIngreso": "aspiradora basic",
     "lugarDeCompra": "UNICO UNIVERSAL",
     "observaciones": "[jueves, 22 de mayo de 2025]pedir cuerpo"
-  },
-  {
-    "codigo": "GRT-35880",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "26994710",
-    "referencia": "L62125",
-    "producto": "LIC POTENCY PLUS VASO PLASTICO",
-    "falla": "Motor Bobinas en corto,Selector de velocidades Sin continuidad",
-    "s2": "25008136",
-    "fecha": "16/05/2025",
-    "interno": "TQS958",
-    "fechaIngreso": "2025-04-30",
-    "productoIngreso": "lucuadora universal",
-    "lugarDeCompra": "CACHARRERIA EL REY",
-    "observaciones": "[jueves, 22 de mayo de 2025]Llega licuadora nueva"
   },
   {
     "codigo": "GRT-35877",

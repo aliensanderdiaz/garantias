@@ -1,8 +1,8 @@
 // const fs = require('node:fs')
 const fs = require("fs");
 const fetch = require("node-fetch");
-// const URL = "http://localhost:3001/garantias/";
-const URL = "https://api.almacenesuniversal.com/garantias/";
+const URL = "http://localhost:3001/garantias/";
+// const URL = "https://api.almacenesuniversal.com/garantias/";
 // const readline = require('node:readline');
 const readline = require("readline");
 
