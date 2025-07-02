@@ -1,0 +1,23 @@
+
+0
+John Fredy Bahamon Bonilla
+User Image
+ 
+CS REDELEC
+Orden de Servicio
+ Ordenes Pendientes
+ Consultas
+Informes
+
+
+Inicio
+Tickets Pendientes
+Ordenes Pendientes
+Buscar:
+.	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
+7	140076	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	HECTOR ENRIQUE CHARRY AMAYA	7719399	2025-06-23 14:07:31	7	BLACK + DECKER	ICR1924	DESPACHADO	METRO-NEIVA	Ver Ticket	Trazabilidad
+2	140273	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARIA FERNANDA PERDOMO	1075224723	2025-06-30 17:52:03	2	BLACK + DECKER	IRBD300	TRAMITE	EXITO NEIVA	Ver Ticket	Trazabilidad
+2	140274	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YONN ARLEN PEÑA PULIDO	83089242	2025-06-30 18:23:34	2	BLACK + DECKER	IRBD300	TRAMITE	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+2	140275	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	LUIS YESID MARTINEZ LAGUNA	12138930	2025-06-30 18:29:21	2	BLACK + DECKER	VCBD603	TRAMITE	EXITO NEIVA	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 4 de un total de 4 registrosAnterior1Siguiente
+Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -
