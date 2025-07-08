@@ -2,24 +2,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374886",
     "cliente": "Diana Marcela Cardona Lopez",
-    "estado": "Pre-terminado",
-    "fecha": "30/06/2025",
-    "interno": "DEF281",
-    "fechaIngreso": "2025-06-26",
-    "productoIngreso": "freidora oster de 4 litros",
-    "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "30/06/2025"
   },
   {
     "codigo": "WO-00374884",
     "cliente": "Luz Elvira Ortiz Tovar",
-    "estado": "Pre-terminado",
-    "fecha": "30/06/2025",
-    "interno": "APO129",
-    "fechaIngreso": "2025-06-26",
-    "productoIngreso": "licuadora Oster reversible",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[martes, 1 de julio de 2025]alveiro pide tarjeta, yo pido motor y tarjeta"
+    "estado": "Entregado",
+    "fecha": "30/06/2025"
   },
   {
     "codigo": "WO-00374861",
@@ -46,13 +36,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374853",
     "cliente": "Kelly Yohana Claros",
-    "estado": "Pre-terminado",
-    "fecha": "30/06/2025",
-    "interno": "FTE499",
-    "fechaIngreso": "2025-06-04",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "MEICO",
-    "observaciones": "[domingo, 6 de julio de 2025]Aprobación pendiente"
+    "estado": "Entregado",
+    "fecha": "30/06/2025"
   },
   {
     "codigo": "WO-00368532",

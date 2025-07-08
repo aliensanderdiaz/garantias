@@ -17,7 +17,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38196",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36300776",
     "referencia": "L50850",
@@ -49,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38192",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075299418",
     "referencia": "L87560",
@@ -81,7 +81,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38089",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7716006",
     "referencia": "L89031",
@@ -97,7 +97,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38088",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1030588764",
     "referencia": "L75660",
@@ -145,7 +145,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38085",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "70902952",
     "referencia": "L50850",
