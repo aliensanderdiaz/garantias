@@ -3,6 +3,7 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
+Cuenta del centro de servicio
 Más
 Search...
 
@@ -11,7 +12,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +45,7 @@ Propietario
 
 Acción
 
-Pre-terminado
+Entregado
 WO-00374886
 30/06/2025 02:31 p. m.
 Garantía
@@ -53,7 +54,7 @@ Diana Marcela Cardona Lopez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00374884
 30/06/2025 02:23 p. m.
 Garantía
@@ -80,7 +81,7 @@ Luis Carlos Díaz Losada
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00374853
 30/06/2025 12:42 p. m.
 Garantía
