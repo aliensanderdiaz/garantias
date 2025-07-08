@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374886",
     "cliente": "Diana Marcela Cardona Lopez",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "30/06/2025",
     "interno": "DEF281",
     "fechaIngreso": "2025-06-26",
@@ -13,7 +13,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374884",
     "cliente": "Luz Elvira Ortiz Tovar",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "30/06/2025",
     "interno": "APO129",
     "fechaIngreso": "2025-06-26",
@@ -24,7 +24,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374861",
     "cliente": "Asesorias Y Operaciones Hoteleras Del Sur S.a.s.",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "30/06/2025",
     "interno": "MSM840",
     "fechaIngreso": "2025-06-15",
@@ -35,7 +35,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374858",
     "cliente": "Luis Carlos Díaz Losada",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "30/06/2025",
     "interno": "WGJ541",
     "fechaIngreso": "2025-06-14",
@@ -46,7 +46,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374853",
     "cliente": "Kelly Yohana Claros",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "30/06/2025",
     "interno": "FTE499",
     "fechaIngreso": "2025-06-04",

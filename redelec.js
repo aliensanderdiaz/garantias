@@ -47,7 +47,7 @@ let garantiasRedelec = [
     "clienteId": "12138930",
     "fecha": "2025-06-30",
     "producto": "VCBD603",
-    "estado": "TRAMITE",
+    "estado": "PENDIENTE AUTORIZACION",
     "almacen": "EXITO NEIVA",
     "interno": "QTG013",
     "fechaIngreso": "2025-06-25",

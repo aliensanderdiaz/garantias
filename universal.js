@@ -145,7 +145,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38086",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1004305028",
     "referencia": "L92801",
