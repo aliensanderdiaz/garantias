@@ -11,7 +11,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-06-05",
     "productoIngreso": "plancha a vapor one step black decker",
     "lugarDeCompra": "ALMACEN METRO",
-    "observaciones": ""
+    "observaciones": "[domingo, 6 de julio de 2025]DESPACHADO-[domingo, 6 de julio de 2025]reparado"
   },
   {
     "codigo": "140273",

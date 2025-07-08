@@ -48,22 +48,6 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-38194",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "65790111",
-    "referencia": "L89150",
-    "producto": "PICATODO ALIADA",
-    "falla": "Cuchilla No ensambla,Juego de piñones Desalineado,Motor Bobinas en corto",
-    "s2": "25010480",
-    "fecha": "30/06/2025",
-    "interno": "ZEJ185",
-    "fechaIngreso": "2025-06-03",
-    "productoIngreso": "picatodo aliada",
-    "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[lunes, 30 de junio de 2025]24000508 piñoneria cuchilla motor"
-  },
-  {
     "codigo": "GRT-38192",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -157,7 +141,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-06-18",
     "productoIngreso": "batidora universal",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 6 de julio de 2025]AL NO CONTAR CON LA DISPONIBILIDAD DEL REPUESTO, SE ENVÍA CAMBIO DE PRODUCTO 25010574 S2"
   },
   {
     "codigo": "GRT-38085",
@@ -173,27 +157,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-06-06",
     "productoIngreso": "licuadora mas vital",
     "lugarDeCompra": "PIÑATERIA Y CACHARRERIA LA TERCERA",
-    "observaciones": "[jueves, 26 de junio de 2025]se solicita motor"
-  },
-  {
-    "codigo": "GRT-37890",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075304992",
-    "referencia": "L75660",
-    "producto": "VENTILADOR FRESH ULTRA",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25010078",
-    "fecha": "23/06/2025",
-    "interno": "YQT100",
-    "fechaIngreso": "2025-06-12",
-    "productoIngreso": "ventilado universal fresh ultra",
-    "lugarDeCompra": "UNICO NEIVA",
-    "observaciones": ""
+    "observaciones": "[jueves, 26 de junio de 2025]se solicita motor-[domingo, 6 de julio de 2025]reparar"
   },
   {
     "codigo": "GRT-37889",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1003916412",
     "referencia": "L87340",
@@ -209,7 +177,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-37888",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075545372",
     "referencia": "L62070",
@@ -221,7 +189,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-06-07",
     "productoIngreso": "licuadora ultra universal",
     "lugarDeCompra": "MURBLES Y ELECTRODOMESTICOS BERNAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 6 de julio de 2025]llelga licuadora nueva"
   },
   {
     "codigo": "GRT-36292",
@@ -253,7 +221,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-05-10",
     "productoIngreso": "ventilador universal digita",
     "lugarDeCompra": "LANDER Y CIA SAS UNICO",
-    "observaciones": "[jueves, 29 de mayo de 2025]se le pidió motor"
+    "observaciones": "[jueves, 29 de mayo de 2025]se le pidió motor-[domingo, 6 de julio de 2025]lo repararon pero no se cuando llegó el repuesto"
   },
   {
     "codigo": "GRT-36265",

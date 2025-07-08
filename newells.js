@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374886",
     "cliente": "Diana Marcela Cardona Lopez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "30/06/2025",
     "interno": "DEF281",
     "fechaIngreso": "2025-06-26",
@@ -13,7 +13,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374884",
     "cliente": "Luz Elvira Ortiz Tovar",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "30/06/2025",
     "interno": "APO129",
     "fechaIngreso": "2025-06-26",
@@ -30,12 +30,12 @@ let garantiasNewells = [
     "fechaIngreso": "2025-06-15",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 6 de julio de 2025]despachado"
   },
   {
     "codigo": "WO-00374858",
     "cliente": "Luis Carlos Díaz Losada",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "30/06/2025",
     "interno": "WGJ541",
     "fechaIngreso": "2025-06-14",
@@ -46,13 +46,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00374853",
     "cliente": "Kelly Yohana Claros",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "30/06/2025",
     "interno": "FTE499",
     "fechaIngreso": "2025-06-04",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "MEICO",
-    "observaciones": ""
+    "observaciones": "[domingo, 6 de julio de 2025]Aprobación pendiente"
   },
   {
     "codigo": "WO-00368532",
