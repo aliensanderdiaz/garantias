@@ -1,4 +1,12 @@
 let garantiasSinRevisar = [
+    '2025-07-12 - 10:38:02 - REA535 - Universal - licuadora mas vital - FALLA: no prende',
+    '2025-07-12 - 10:30:16 - JUZ173 - B&D - olla arrocera de 2 libras - FALLA: no calienta',
+    '2025-07-11 - 16:02:34 - FCK624 - Oster - licuadora oster exper roja - FALLA: no prende',
+    '2025-07-11 - 15:36:21 - KZD587 - Oster - cafetera Oster digital en acero 12 taza - FALLA: no sale el agua',
+    '2025-07-11 - 09:28:57 - CDF622 - Oster - freidora digital de 4 litros - FALLA: prende pero no calienta',
+    '2025-07-11 - 08:42:26 - OLM038 - Oster - licuadora oster reversible - FALLA: no prende',
+    '2025-07-09 - 10:34:55 - WTY561 - Oster - licuadora oster clasica - FALLA: esta quemada',
+    '2025-07-09 - 10:30:52 - VLZ938 - Oster - licuadora oster clasica - FALLA: no prende',
     '2025-07-07 - 15:48:42 - VMT605 - B&D - licuadora blck decker ice crush - FALLA: no prende',
     '2025-07-07 - 11:44:45 - RMG073 - Oster - licuadora oster 6 velocidades negra - FALLA: no enciende',
     '2025-07-07 - 11:24:06 - KQK361 - Oster - arrocera oster negra - FALLA: la palanca o se sostiene en la parte de abajo',

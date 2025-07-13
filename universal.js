@@ -33,7 +33,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38195",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "14265436",
     "referencia": "L60509",
@@ -45,22 +45,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-06-26",
     "productoIngreso": "termo de un litro",
     "lugarDeCompra": "LA CAMPANA",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38192",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075299418",
-    "referencia": "L87560",
-    "producto": "FREIDORA DE AIRE MASTERFRYER",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "25010427",
-    "fecha": "30/06/2025",
-    "interno": "RBK377",
-    "fechaIngreso": "2025-06-24",
-    "productoIngreso": "freidora universal de 4litros",
-    "lugarDeCompra": "UNICO",
     "observaciones": ""
   },
   {
@@ -80,24 +64,8 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-38089",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7716006",
-    "referencia": "L89031",
-    "producto": "OLLA ARROCERA MINI  1.5 TAZAS",
-    "falla": "Termofusible Sin continuidad",
-    "s2": "25010318",
-    "fecha": "26/06/2025",
-    "interno": "EFT923",
-    "fechaIngreso": "2025-06-23",
-    "productoIngreso": "olla arrocera mini",
-    "lugarDeCompra": "UNICO",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-38088",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1030588764",
     "referencia": "L75660",
@@ -129,7 +97,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38086",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1004305028",
     "referencia": "L92801",
@@ -145,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38085",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "70902952",
     "referencia": "L50850",
@@ -158,54 +126,6 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora mas vital",
     "lugarDeCompra": "PIÑATERIA Y CACHARRERIA LA TERCERA",
     "observaciones": "[jueves, 26 de junio de 2025]se solicita motor-[domingo, 6 de julio de 2025]reparar"
-  },
-  {
-    "codigo": "GRT-37889",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1003916412",
-    "referencia": "L87340",
-    "producto": "SANDUCHERA 4P MULTIFUNCIONAL",
-    "falla": "Resistencia Sin continuidad",
-    "s2": "25010251",
-    "fecha": "23/06/2025",
-    "interno": "MYH199",
-    "fechaIngreso": "2025-06-14",
-    "productoIngreso": "sanduchera 3en 1 de 4 puestos",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-37888",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075545372",
-    "referencia": "L62070",
-    "producto": "LICUADORA ULTRA+VASO PICATODO",
-    "falla": "Motor Bobinas en corto,Suiche ON-OFF Sin continuidad",
-    "s2": "25010250",
-    "fecha": "23/06/2025",
-    "interno": "STA336",
-    "fechaIngreso": "2025-06-07",
-    "productoIngreso": "licuadora ultra universal",
-    "lugarDeCompra": "MURBLES Y ELECTRODOMESTICOS BERNAL",
-    "observaciones": "[domingo, 6 de julio de 2025]llelga licuadora nueva"
-  },
-  {
-    "codigo": "GRT-36292",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55165236",
-    "referencia": "L62170",
-    "producto": "LICUADORA ÉLITE INOX PRO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25008479",
-    "fecha": "23/05/2025",
-    "interno": "QKT387",
-    "fechaIngreso": "2025-05-21",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "SAN ANDRESITO",
-    "observaciones": "[jueves, 29 de mayo de 2025]se pidio motor"
   },
   {
     "codigo": "GRT-36266",
@@ -222,37 +142,5 @@ let garantiasUniversal = [
     "productoIngreso": "ventilador universal digita",
     "lugarDeCompra": "LANDER Y CIA SAS UNICO",
     "observaciones": "[jueves, 29 de mayo de 2025]se le pidió motor-[domingo, 6 de julio de 2025]lo repararon pero no se cuando llegó el repuesto"
-  },
-  {
-    "codigo": "GRT-36265",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36310858",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25008445",
-    "fecha": "22/05/2025",
-    "interno": "UFO915",
-    "fechaIngreso": "2025-05-10",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[jueves, 29 de mayo de 2025]se pidio motor y carcaza"
-  },
-  {
-    "codigo": "GRT-36210",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075240438",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Otro",
-    "s2": "25008403",
-    "fecha": "22/05/2025",
-    "interno": "HRG299",
-    "fechaIngreso": "2025-05-21",
-    "productoIngreso": "ventilado universal digital",
-    "lugarDeCompra": "UNIVERSAL DEL ÚNICO",
-    "observaciones": "[jueves, 29 de mayo de 2025]Llega motor"
   }
 ]
