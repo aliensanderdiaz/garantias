@@ -54,5 +54,33 @@ let garantiasRedelec = [
     "productoIngreso": "aspiradora roja cicleni",
     "lugarDeCompra": "EXITO",
     "observaciones": ""
+  },
+  {
+    "codigo": "140909",
+    "cliente": "ESPERANZA ROJAS VEGA",
+    "clienteId": "36163218",
+    "fecha": "2025-07-15",
+    "producto": "BL0876-2SDLA",
+    "estado": "TRAMITE",
+    "almacen": "BRANDLIVE",
+    "interno": "VMT605",
+    "fechaIngreso": "2025-07-07",
+    "productoIngreso": "licuadora blck decker ice crush",
+    "lugarDeCompra": "PAGUINA INTERNET",
+    "observaciones": ""
+  },
+  {
+    "codigo": "140910",
+    "cliente": "DAVID GARCIAS",
+    "clienteId": "1075271383",
+    "fecha": "2025-07-15",
+    "producto": "BLBD210GB",
+    "estado": "TRAMITE",
+    "almacen": "METRO-NEIVA",
+    "interno": "GTP146",
+    "fechaIngreso": "2025-07-04",
+    "productoIngreso": "licuadora black decker",
+    "lugarDeCompra": "METRA SANTA LUCIA",
+    "observaciones": ""
   }
 ]

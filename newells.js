@@ -1,5 +1,71 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00378435",
+    "cliente": "Maria Lith Bolaños Torres",
+    "estado": "En progreso",
+    "fecha": "14/07/2025",
+    "interno": "KQK361",
+    "fechaIngreso": "2025-07-07",
+    "productoIngreso": "arrocera oster negra",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378427",
+    "cliente": "Nidia Ruiz",
+    "estado": "Nuevo",
+    "fecha": "14/07/2025",
+    "interno": "RMG073",
+    "fechaIngreso": "2025-07-07",
+    "productoIngreso": "licuadora oster 6 velocidades negra",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378420",
+    "cliente": "Clara Ines Guzmán Tapia",
+    "estado": "En progreso",
+    "fecha": "14/07/2025",
+    "interno": "OLM038",
+    "fechaIngreso": "2025-07-11",
+    "productoIngreso": "licuadora oster reversible",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378416",
+    "cliente": "Yohn Aiver Parra Artunduaga",
+    "estado": "En progreso",
+    "fecha": "14/07/2025",
+    "interno": "CDF622",
+    "fechaIngreso": "2025-07-11",
+    "productoIngreso": "freidora digital de 4 litros",
+    "lugarDeCompra": "ÉXITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378412",
+    "cliente": "Victor Manuel Guzman",
+    "estado": "En progreso",
+    "fecha": "14/07/2025",
+    "interno": "KZD587",
+    "fechaIngreso": "2025-07-11",
+    "productoIngreso": "cafetera Oster digital en acero 12 taza",
+    "lugarDeCompra": "TECNOHOGRA",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378410",
+    "cliente": "Carlos Acosta",
+    "estado": "En progreso",
+    "fecha": "14/07/2025",
+    "interno": "FCK624",
+    "fechaIngreso": "2025-07-11",
+    "productoIngreso": "licuadora oster exper roja",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00374886",
     "cliente": "Diana Marcela Cardona Lopez",
     "estado": "Entregado",
@@ -272,41 +338,5 @@ let garantiasNewells = [
     "cliente": "Diana Marcela Córdoba Lopez",
     "estado": "Entregado",
     "fecha": "11/03/2025"
-  },
-  {
-    "codigo": "WO-00341622",
-    "cliente": "Kerly Alexandra Gutiérrez",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00341614",
-    "cliente": "Diego Fernando Manrrique Fernández",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00341610",
-    "cliente": "Carlos Alberto Martin",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00341608",
-    "cliente": "Karen Muñoz Urbano",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00336658",
-    "cliente": "Almacenes Exito S.a.",
-    "estado": "Entregado",
-    "fecha": "12/02/2025"
-  },
-  {
-    "codigo": "WO-00336649",
-    "cliente": "Almacenes Exito S.a.",
-    "estado": "Entregado",
-    "fecha": "12/02/2025"
   }
 ]
