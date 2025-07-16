@@ -15,11 +15,13 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-16	140076	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	HECTOR ENRIQUE CHARRY AMAYA	7719399	2025-06-23 14:07:31	16	BLACK + DECKER	ICR1924	PREFINALIZADO	METRO-NEIVA	Ver Ticket	Trazabilidad
-11	140273	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARIA FERNANDA PERDOMO	1075224723	2025-06-30 17:52:03	11	BLACK + DECKER	IRBD300	PREFINALIZADO	EXITO NEIVA	Ver Ticket	Trazabilidad
-11	140274	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YONN ARLEN PEÑA PULIDO	83089242	2025-06-30 18:23:34	11	BLACK + DECKER	IRBD300	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-11	140275	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	LUIS YESID MARTINEZ LAGUNA	12138930	2025-06-30 18:29:21	11	BLACK + DECKER	VCBD603	AUTORIZADO	EXITO NEIVA	Ver Ticket	Trazabilidad
-0	140909	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ESPERANZA ROJAS VEGA	36163218	2025-07-15 04:52:27	0	BLACK + DECKER	BL0876-2SDLA	TRAMITE	BRANDLIVE	Ver Ticket	Trazabilidad
-0	140910	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DAVID GARCIAS	1075271383	2025-07-15 05:03:48	0	BLACK + DECKER	BLBD210GB	TRAMITE	METRO-NEIVA	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 6 de un total de 6 registrosAnterior1Siguiente
+17	140076	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	HECTOR ENRIQUE CHARRY AMAYA	7719399	2025-06-23 14:07:31	17	BLACK + DECKER	ICR1924	PREFINALIZADO	METRO-NEIVA	Ver Ticket	Trazabilidad
+12	140273	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARIA FERNANDA PERDOMO	1075224723	2025-06-30 17:52:03	12	BLACK + DECKER	IRBD300	PREFINALIZADO	EXITO NEIVA	Ver Ticket	Trazabilidad
+12	140274	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YONN ARLEN PEÑA PULIDO	83089242	2025-06-30 18:23:34	12	BLACK + DECKER	IRBD300	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+12	140275	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	LUIS YESID MARTINEZ LAGUNA	12138930	2025-06-30 18:29:21	12	BLACK + DECKER	VCBD603	AUTORIZADO	EXITO NEIVA	Ver Ticket	Trazabilidad
+1	140909	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ESPERANZA ROJAS VEGA	36163218	2025-07-15 04:52:27	1	BLACK + DECKER	BL0876-2SDLA	TRAMITE	BRANDLIVE	Ver Ticket	Trazabilidad
+1	140910	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DAVID GARCIAS	1075271383	2025-07-15 05:03:48	1	BLACK + DECKER	BLBD210GB	TRAMITE	METRO-NEIVA	Ver Ticket	Trazabilidad
+0	140940	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA MARIA CLAVIJO	55190509	2025-07-16 00:24:57	0	BLACK + DECKER	RC5200M	TRAMITE	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+0	140941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MAYERLY VANEGAS CORTES	26433634	2025-07-16 00:40:56	0	BLACK + DECKER	D3035	PENDIENTE VALIDACION FACTURA	EXITO SAN PEDRIO NEIVA	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 8 de un total de 8 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -
