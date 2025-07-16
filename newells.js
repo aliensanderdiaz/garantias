@@ -1,5 +1,38 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00378758",
+    "cliente": "Deisi Suleima Yasno Gonzalez",
+    "estado": "En progreso",
+    "fecha": "15/07/2025",
+    "interno": "VLZ938",
+    "fechaIngreso": "2025-07-09",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ASEHOGAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378757",
+    "cliente": "Luis Alberto Payares Acosta",
+    "estado": "En progreso",
+    "fecha": "15/07/2025",
+    "interno": "WTY561",
+    "fechaIngreso": "2025-07-09",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00378751",
+    "cliente": "Maria Alvarado",
+    "estado": "En progreso",
+    "fecha": "15/07/2025",
+    "interno": "ITP125",
+    "fechaIngreso": "2025-07-15",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "VARIEDADES PAO BZ",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00378435",
     "cliente": "Maria Lith Bolaños Torres",
     "estado": "En progreso",
@@ -320,23 +353,5 @@ let garantiasNewells = [
     "cliente": "Juan Diego Laverde Ospina",
     "estado": "Entregado",
     "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347027",
-    "cliente": "Yineth Medina Vargas",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00344313",
-    "cliente": "Mesthil Ruiz Duran",
-    "estado": "Entregado",
-    "fecha": "11/03/2025"
-  },
-  {
-    "codigo": "WO-00344310",
-    "cliente": "Diana Marcela Córdoba Lopez",
-    "estado": "Entregado",
-    "fecha": "11/03/2025"
   }
 ]
