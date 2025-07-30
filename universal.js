@@ -1,67 +1,135 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-39703",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075260277",
+    "referencia": "L50850",
+    "producto": "LICUADORA MASS VITAL",
+    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
+    "s2": "25012096",
+    "fecha": "25/07/2025"
+  },
+  {
+    "codigo": "GRT-39702",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "36175261",
+    "referencia": "L95963",
+    "producto": "PLANCHA VAPOR ELITE CERAMICA",
+    "falla": "Resistencia Sin continuidad,Termostato Otro",
+    "s2": "25012006",
+    "fecha": "25/07/2025"
+  },
+  {
+    "codigo": "GRT-39700",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36309998",
+    "referencia": "L34060",
+    "producto": "OLLA PRESION ALIADA CE 6L",
+    "falla": "Cuerpo Deformado",
+    "s2": "25012095",
+    "fecha": "25/07/2025"
+  },
+  {
+    "codigo": "GRT-39699",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "10777247700",
+    "referencia": "L95550",
+    "producto": "PLANCHA VAPOR CORONA",
+    "falla": "Resistencia Sin continuidad,Termostato Sin continuidad ",
+    "s2": "25012094",
+    "fecha": "25/07/2025"
+  },
+  {
+    "codigo": "GRT-39698",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "7719092",
+    "referencia": "L27430",
+    "producto": "OLLA PRESION LPC CI 4L V2     ",
+    "falla": "Cuerpo Deformado",
+    "s2": "25012093",
+    "fecha": "25/07/2025"
+  },
+  {
+    "codigo": "GRT-39688",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "17774969",
+    "referencia": "L89875",
+    "producto": "OLLA PRESIÓN ELECTRI MULTI PRO",
+    "falla": "Resistencia Sin continuidad",
+    "s2": "25012001",
+    "fecha": "25/07/2025"
+  },
+  {
+    "codigo": "GRT-39677",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075286515",
+    "referencia": "L62090",
+    "producto": "LICUADORA ELITE TURBO MAX",
+    "falla": "Motor Bobinas en corto,Tarjeta electrónica En corto",
+    "s2": "25012000",
+    "fecha": "24/07/2025"
+  },
+  {
+    "codigo": "GRT-39629",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "30506666",
+    "referencia": "L60850",
+    "producto": "LICUADORA MASS VITAL VINO",
+    "falla": "Motor Bobinas en corto,Selector de velocidades Otro",
+    "s2": "25011980",
+    "fecha": "24/07/2025"
+  },
+  {
     "codigo": "GRT-39111",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1076501622",
     "referencia": "L50850",
     "producto": "LICUADORA MASS VITAL",
     "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "",
-    "fecha": "15/07/2025",
-    "interno": "REA535",
-    "fechaIngreso": "2025-07-12",
-    "productoIngreso": "licuadora mas vital",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "s2": "25011546",
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-39110",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "40620745",
     "referencia": "L85320",
     "producto": "OLLA ARROCERA LA TRADICIONAL10",
     "falla": "Cuerpo Otro",
-    "s2": "",
-    "fecha": "15/07/2025",
-    "interno": "LKB004",
-    "fechaIngreso": "2025-07-14",
-    "productoIngreso": "olla arrocera negra de 2 libras",
-    "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": ""
+    "s2": "25011545",
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-39109",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36066726",
     "referencia": "L40830",
     "producto": "PLANCHA A VAPOR CERAMIC PRO",
     "falla": "Resistencia Sin continuidad,Termostato Sin continuidad ,Bomba de agua No funciona",
-    "s2": "",
-    "fecha": "15/07/2025",
-    "interno": "SQP862",
-    "fechaIngreso": "2025-07-14",
-    "productoIngreso": "plancha universal  elite pro",
-    "lugarDeCompra": "LANDER UNICO",
-    "observaciones": ""
+    "s2": "25011544",
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-39055",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075303660",
     "referencia": "L62125",
     "producto": "LIC POTENCY PLUS VASO PLASTICO",
     "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
     "s2": "25011437",
-    "fecha": "15/07/2025",
-    "interno": "EVU186",
-    "fechaIngreso": "2025-07-02",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "HOGAR UNIVERSAL",
-    "observaciones": ""
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-39054",
@@ -72,12 +140,7 @@ let garantiasUniversal = [
     "producto": "EASYFRYER PRO AIRFRYER 3.5L",
     "falla": "Tarjeta electrónica En corto,Térmico Sin continuidad,Termostato Sin continuidad ",
     "s2": "25011436",
-    "fecha": "15/07/2025",
-    "interno": "SBL836",
-    "fechaIngreso": "2025-07-03",
-    "productoIngreso": "freidora universal digital",
-    "lugarDeCompra": "NOVAVENTA",
-    "observaciones": ""
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-39053",
@@ -88,12 +151,7 @@ let garantiasUniversal = [
     "producto": "LICUADORA MASS VITAL",
     "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
     "s2": "25011435",
-    "fecha": "15/07/2025",
-    "interno": "MJU521",
-    "fechaIngreso": "2025-07-03",
-    "productoIngreso": "licuadora universal mas vital",
-    "lugarDeCompra": "INTERHOGAR",
-    "observaciones": ""
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-39052",
@@ -104,12 +162,7 @@ let garantiasUniversal = [
     "producto": "LICUADORA ELITE TURBO MAX",
     "falla": "Motor Motor en corto,Tarjeta Panel de control Sin continuidad",
     "s2": "25011385",
-    "fecha": "15/07/2025",
-    "interno": "EFG854",
-    "fechaIngreso": "2025-07-05",
-    "productoIngreso": "licuadora elite turbo max",
-    "lugarDeCompra": "LANDER DEL ÚNICO",
-    "observaciones": ""
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "GRT-38197",
@@ -120,60 +173,7 @@ let garantiasUniversal = [
     "producto": "PLANCHA VAPOR CORONA",
     "falla": "Resistencia Sin continuidad,Térmico Sin continuidad,Termostato Sin continuidad ",
     "s2": "25011461",
-    "fecha": "30/06/2025",
-    "interno": "TBO541",
-    "fechaIngreso": "2025-06-28",
-    "productoIngreso": "plancha corona",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38196",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36300776",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Cuchilla No ensambla",
-    "s2": "25010428",
-    "fecha": "30/06/2025",
-    "interno": "WYI852",
-    "fechaIngreso": "2025-06-25",
-    "productoIngreso": "licuadora mas vital",
-    "lugarDeCompra": "NOVAVENTA",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38195",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "14265436",
-    "referencia": "L60509",
-    "producto": "TERMO COLOR TAPA COLOR 1L V2",
-    "falla": "Ampolleta No calienta",
-    "s2": "Error en el envío a JDE, por favor reintente!",
-    "fecha": "30/06/2025",
-    "interno": "QOZ941",
-    "fechaIngreso": "2025-06-26",
-    "productoIngreso": "termo de un litro",
-    "lugarDeCompra": "LA CAMPANA",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38090",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55115008",
-    "referencia": "L63200",
-    "producto": "LICUADORA CORONA NEGRA",
-    "falla": "Cuerpo Otro",
-    "s2": "NO APLICA S2!",
-    "fecha": "26/06/2025",
-    "interno": "XDP131",
-    "fechaIngreso": "2025-06-24",
-    "productoIngreso": "licuadora corona",
-    "lugarDeCompra": "SURTIHOGAR RENOVAR",
-    "observaciones": ""
+    "fecha": "30/06/2025"
   },
   {
     "codigo": "GRT-38088",
@@ -184,12 +184,7 @@ let garantiasUniversal = [
     "producto": "VENTILADOR FRESH ULTRA",
     "falla": "Motor Bobinas en corto",
     "s2": "25010317",
-    "fecha": "26/06/2025",
-    "interno": "JQM773",
-    "fechaIngreso": "2025-06-20",
-    "productoIngreso": "ventilador fresh ultra",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "fecha": "26/06/2025"
   },
   {
     "codigo": "GRT-38086",
@@ -200,27 +195,6 @@ let garantiasUniversal = [
     "producto": "BATIDORA EASY MIX",
     "falla": "Motor Bobinas en corto",
     "s2": "25010316",
-    "fecha": "26/06/2025",
-    "interno": "QPN245",
-    "fechaIngreso": "2025-06-18",
-    "productoIngreso": "batidora universal",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[domingo, 6 de julio de 2025]AL NO CONTAR CON LA DISPONIBILIDAD DEL REPUESTO, SE ENVÍA CAMBIO DE PRODUCTO 25010574 S2"
-  },
-  {
-    "codigo": "GRT-38085",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "70902952",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25010315",
-    "fecha": "26/06/2025",
-    "interno": "LOS363",
-    "fechaIngreso": "2025-06-06",
-    "productoIngreso": "licuadora mas vital",
-    "lugarDeCompra": "PIÑATERIA Y CACHARRERIA LA TERCERA",
-    "observaciones": "[jueves, 26 de junio de 2025]se solicita motor-[domingo, 6 de julio de 2025]reparar"
+    "fecha": "26/06/2025"
   }
 ]
