@@ -237,6 +237,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-06-28",
     "productoIngreso": "plancha corona",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 29 de julio de 2025]llegó producto jueves 17 de julio"
+    "observaciones": "[martes, 29 de julio de 2025]llegó producto jueves 17 de julio-[martes, 29 de julio de 2025]llegó producto jueves 24 de julio"
   }
 ]

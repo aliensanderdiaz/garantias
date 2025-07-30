@@ -101,24 +101,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00378758",
     "cliente": "Deisi Suleima Yasno Gonzalez",
-    "estado": "Pre-terminado",
-    "fecha": "15/07/2025",
-    "interno": "VLZ938",
-    "fechaIngreso": "2025-07-09",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ASEHOGAR",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "WO-00378757",
     "cliente": "Luis Alberto Payares Acosta",
-    "estado": "Pre-terminado",
-    "fecha": "15/07/2025",
-    "interno": "WTY561",
-    "fechaIngreso": "2025-07-09",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "15/07/2025"
   },
   {
     "codigo": "WO-00378751",
@@ -129,73 +119,43 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-15",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "VARIEDADES PAO BZ",
-    "observaciones": ""
+    "observaciones": "[martes, 29 de julio de 2025]Es la carcasa... no ha llegado"
   },
   {
     "codigo": "WO-00378435",
     "cliente": "Maria Lith Bolaños Torres",
-    "estado": "Pre-terminado",
-    "fecha": "14/07/2025",
-    "interno": "KQK361",
-    "fechaIngreso": "2025-07-07",
-    "productoIngreso": "arrocera oster negra",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "14/07/2025"
   },
   {
     "codigo": "WO-00378427",
     "cliente": "Nidia Ruiz",
-    "estado": "Pre-terminado",
-    "fecha": "14/07/2025",
-    "interno": "RMG073",
-    "fechaIngreso": "2025-07-07",
-    "productoIngreso": "licuadora oster 6 velocidades negra",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "14/07/2025"
   },
   {
     "codigo": "WO-00378420",
     "cliente": "Clara Ines Guzmán Tapia",
-    "estado": "Pre-terminado",
-    "fecha": "14/07/2025",
-    "interno": "OLM038",
-    "fechaIngreso": "2025-07-11",
-    "productoIngreso": "licuadora oster reversible",
-    "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "14/07/2025"
   },
   {
     "codigo": "WO-00378416",
     "cliente": "Yohn Aiver Parra Artunduaga",
-    "estado": "Pre-terminado",
-    "fecha": "14/07/2025",
-    "interno": "CDF622",
-    "fechaIngreso": "2025-07-11",
-    "productoIngreso": "freidora digital de 4 litros",
-    "lugarDeCompra": "ÉXITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "14/07/2025"
   },
   {
     "codigo": "WO-00378412",
     "cliente": "Victor Manuel Guzman",
-    "estado": "Pre-terminado",
-    "fecha": "14/07/2025",
-    "interno": "KZD587",
-    "fechaIngreso": "2025-07-11",
-    "productoIngreso": "cafetera Oster digital en acero 12 taza",
-    "lugarDeCompra": "TECNOHOGRA",
-    "observaciones": "[lunes, 28 de julio de 2025]kzd587-carta-de-cambio-victor-manuel-guzman"
+    "estado": "Entregado",
+    "fecha": "14/07/2025"
   },
   {
     "codigo": "WO-00378410",
     "cliente": "Carlos Acosta",
-    "estado": "Pre-terminado",
-    "fecha": "14/07/2025",
-    "interno": "FCK624",
-    "fechaIngreso": "2025-07-11",
-    "productoIngreso": "licuadora oster exper roja",
-    "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "14/07/2025"
   },
   {
     "codigo": "WO-00374886",
