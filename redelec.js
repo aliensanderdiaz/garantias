@@ -6,7 +6,12 @@ let garantiasRedelec = [
     "fecha": "2025-06-23",
     "producto": "ICR1924",
     "estado": "PREFINALIZADO",
-    "almacen": "METRO-NEIVA"
+    "almacen": "METRO-NEIVA",
+    "interno": "PHZ547",
+    "fechaIngreso": "2025-06-05",
+    "productoIngreso": "plancha a vapor one step black decker",
+    "lugarDeCompra": "ALMACEN METRO",
+    "observaciones": "[domingo, 6 de julio de 2025]DESPACHADO-[domingo, 6 de julio de 2025]reparado"
   },
   {
     "codigo": "140273",
@@ -15,7 +20,12 @@ let garantiasRedelec = [
     "fecha": "2025-06-30",
     "producto": "IRBD300",
     "estado": "PREFINALIZADO",
-    "almacen": "EXITO NEIVA"
+    "almacen": "EXITO NEIVA",
+    "interno": "QNL513",
+    "fechaIngreso": "2025-06-26",
+    "productoIngreso": "plancha black decker",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
   },
   {
     "codigo": "140274",
@@ -24,7 +34,12 @@ let garantiasRedelec = [
     "fecha": "2025-06-30",
     "producto": "IRBD300",
     "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR NEIVA"
+    "almacen": "TECNOHOGAR NEIVA",
+    "interno": "IWT807",
+    "fechaIngreso": "2025-06-19",
+    "productoIngreso": "plancha black decker",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": ""
   },
   {
     "codigo": "140275",
@@ -33,7 +48,12 @@ let garantiasRedelec = [
     "fecha": "2025-06-30",
     "producto": "VCBD603",
     "estado": "AUTORIZADO",
-    "almacen": "EXITO NEIVA"
+    "almacen": "EXITO NEIVA",
+    "interno": "QTG013",
+    "fechaIngreso": "2025-06-25",
+    "productoIngreso": "aspiradora roja cicleni",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[martes, 29 de julio de 2025]le mande la carta a alejandra"
   },
   {
     "codigo": "140909",
@@ -42,7 +62,12 @@ let garantiasRedelec = [
     "fecha": "2025-07-15",
     "producto": "BL0876-2SDLA",
     "estado": "PREFINALIZADO",
-    "almacen": "BRANDLIVE"
+    "almacen": "BRANDLIVE",
+    "interno": "VMT605",
+    "fechaIngreso": "2025-07-07",
+    "productoIngreso": "licuadora blck decker ice crush",
+    "lugarDeCompra": "PAGUINA INTERNET",
+    "observaciones": ""
   },
   {
     "codigo": "140910",
@@ -51,7 +76,12 @@ let garantiasRedelec = [
     "fecha": "2025-07-15",
     "producto": "BLBD210GB",
     "estado": "AUTORIZADO",
-    "almacen": "METRO-NEIVA"
+    "almacen": "METRO-NEIVA",
+    "interno": "GTP146",
+    "fechaIngreso": "2025-07-04",
+    "productoIngreso": "licuadora black decker",
+    "lugarDeCompra": "METRA SANTA LUCIA",
+    "observaciones": ""
   },
   {
     "codigo": "140940",
@@ -60,7 +90,12 @@ let garantiasRedelec = [
     "fecha": "2025-07-16",
     "producto": "RC5200M",
     "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR NEIVA"
+    "almacen": "TECNOHOGAR NEIVA",
+    "interno": "JUZ173",
+    "fechaIngreso": "2025-07-12",
+    "productoIngreso": "olla arrocera de 2 libras",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": ""
   },
   {
     "codigo": "140941",
@@ -69,7 +104,12 @@ let garantiasRedelec = [
     "fecha": "2025-07-16",
     "producto": "D3035",
     "estado": "AUTORIZADO",
-    "almacen": "EXITO SAN PEDRIO NEIVA"
+    "almacen": "EXITO SAN PEDRIO NEIVA",
+    "interno": "IGH613",
+    "fechaIngreso": "2025-07-04",
+    "productoIngreso": "plancha black decker suela titanio morada",
+    "lugarDeCompra": "EXITO SAN PEDRO",
+    "observaciones": ""
   },
   {
     "codigo": "141208",
@@ -87,6 +127,11 @@ let garantiasRedelec = [
     "fecha": "2025-07-25",
     "producto": "IR3001",
     "estado": "PENDIENTE AUTORIZACION",
-    "almacen": "EXITO NEIVA"
+    "almacen": "EXITO NEIVA",
+    "interno": "QDH738",
+    "fechaIngreso": "2025-07-17",
+    "productoIngreso": "plancha black decker impact",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
   }
 ]
