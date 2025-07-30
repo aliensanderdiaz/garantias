@@ -176,24 +176,8 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-39055",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075303660",
-    "referencia": "L62125",
-    "producto": "LIC POTENCY PLUS VASO PLASTICO",
-    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "25011437",
-    "fecha": "15/07/2025",
-    "interno": "EVU186",
-    "fechaIngreso": "2025-07-02",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "HOGAR UNIVERSAL",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-39054",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075244241",
     "referencia": "L85729",
@@ -205,7 +189,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-03",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "NOVAVENTA",
-    "observaciones": ""
+    "observaciones": "[martes, 29 de julio de 2025]freidora llegó jueves 24 de julio"
   },
   {
     "codigo": "GRT-39053",
@@ -241,7 +225,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-38197",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1081152233",
     "referencia": "L95550",
@@ -253,38 +237,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-06-28",
     "productoIngreso": "plancha corona",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38088",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1030588764",
-    "referencia": "L75660",
-    "producto": "VENTILADOR FRESH ULTRA",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25010317",
-    "fecha": "26/06/2025",
-    "interno": "JQM773",
-    "fechaIngreso": "2025-06-20",
-    "productoIngreso": "ventilador fresh ultra",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38086",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1004305028",
-    "referencia": "L92801",
-    "producto": "BATIDORA EASY MIX",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25010316",
-    "fecha": "26/06/2025",
-    "interno": "QPN245",
-    "fechaIngreso": "2025-06-18",
-    "productoIngreso": "batidora universal",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[domingo, 6 de julio de 2025]AL NO CONTAR CON LA DISPONIBILIDAD DEL REPUESTO, SE ENVÍA CAMBIO DE PRODUCTO 25010574 S2"
+    "observaciones": "[martes, 29 de julio de 2025]llegó producto jueves 17 de julio"
   }
 ]
