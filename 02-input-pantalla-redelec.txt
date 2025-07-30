@@ -15,11 +15,10 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-11	140909	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ESPERANZA ROJAS VEGA	36163218	2025-07-15 04:52:27	11	BLACK+DECKER	BL0876-2SDLA	PREFINALIZADO	BRANDLIVE	Ver Ticket	Trazabilidad
-11	140910	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	DAVID GARCIAS	1075271383	2025-07-15 05:03:48	11	BLACK+DECKER	BLBD210GB	AUTORIZADO	METRO-NEIVA	Ver Ticket	Trazabilidad
+11	140910	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	DAVID GARCIAS	1075271383	2025-07-15 05:03:48	11	BLACK+DECKER	BLBD210GB	PREFINALIZADO	METRO-NEIVA	Ver Ticket	Trazabilidad
 10	140940	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA MARIA CLAVIJO	55190509	2025-07-16 00:24:57	10	BLACK+DECKER	RC5200M	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
 10	140941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MAYERLY VANEGAS CORTES	26433634	2025-07-16 00:40:56	10	BLACK+DECKER	D3035	AUTORIZADO	EXITO SAN PEDRIO NEIVA	Ver Ticket	Trazabilidad
 6	141208	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	NELSON PUENTES VARGAS	83237689	2025-07-22 15:56:42	6	BLACK+DECKER	HF4004B	TRAMITE	MANSION ELECTRODOMESTICOS	Ver Ticket	Trazabilidad
 3	141386	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MARIA CAMILA LEON	1075283594	2025-07-25 02:41:04	3	BLACK+DECKER	IR3001	PENDIENTE AUTORIZACION	EXITO NEIVA	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 6 de un total de 6 registrosAnterior1Siguiente
+Mostrando registros del 1 al 5 de un total de 5 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -
