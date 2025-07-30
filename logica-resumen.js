@@ -1,20 +1,32 @@
 
 garantiasNewells = garantiasNewells.filter(garantia => garantia.estado !== 'Entregado')
+    .map(garantia => {
+        return {
+            ...garantia,
+            fecha: garantia.fecha.split('/').reverse().join('-')
+        }
+    })
 
 
 garantiasRedelec = garantiasRedelec.filter(garantia => garantia.estado !== 'Entregado')
 
 
 garantiasUniversal = garantiasUniversal.filter(garantia => garantia.estado !== 'Entregado')
+    .map(garantia => {
+        return {
+            ...garantia,
+            fecha: garantia.fecha.split('/').reverse().join('-')
+        }
+    })
 
 let garantias = [...garantiasNewells, ...garantiasRedelec, ...garantiasUniversal]
 
 garantias.sort((a,b) => {
-    if (!a.fechaIngreso) {
+    if (!a.fecha) {
         return false
     }
 
-    return a.fechaIngreso.localeCompare(b.fechaIngreso)
+    return a.fecha.localeCompare(b.fecha)
 })
 
 const container = document.querySelector('.container')
