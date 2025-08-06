@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-Nuevo
+Despachado
 WO-00381152
 24/07/2025 08:51 p. m.
 Garantía
@@ -53,7 +53,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Nuevo
+En progreso
 WO-00381139
 24/07/2025 07:28 p. m.
 Garantía
@@ -116,7 +116,7 @@ Gabriela Angeles Sangines Jiménez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00380801
 23/07/2025 10:03 p. m.
 Garantía
