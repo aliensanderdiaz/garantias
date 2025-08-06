@@ -1,7 +1,23 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-39994",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075291381",
+    "referencia": "L50803",
+    "producto": "LICUADORA LA TRADICIONAL",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25012265",
+    "fecha": "30/07/2025",
+    "interno": "KMT405",
+    "fechaIngreso": "2025-07-25",
+    "productoIngreso": "licuadora universal tradicional",
+    "lugarDeCompra": "ADENIS CRUZ",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-39703",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075260277",
     "referencia": "L50850",
@@ -33,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-39700",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36309998",
     "referencia": "L34060",
@@ -49,7 +65,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-39699",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "10777247700",
     "referencia": "L95550",
@@ -65,7 +81,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-39698",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7719092",
     "referencia": "L27430",
@@ -81,7 +97,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-39688",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "17774969",
     "referencia": "L89875",

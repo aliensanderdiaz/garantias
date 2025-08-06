@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381152",
     "cliente": "Sodimac Colombia S.a",
-    "estado": "Nuevo",
+    "estado": "Despachado",
     "fecha": "24/07/2025",
     "interno": "QEK782",
     "fechaIngreso": "2025-07-18",
@@ -13,7 +13,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381139",
     "cliente": "Compañia Comercial Universal Sas",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "24/07/2025",
     "interno": "VUD816",
     "fechaIngreso": "2025-07-21",
@@ -90,7 +90,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00380801",
     "cliente": "Diana Marcela Cardona Lopez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "23/07/2025",
     "interno": "UQY449",
     "fechaIngreso": "2025-07-23",

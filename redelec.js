@@ -47,7 +47,7 @@ let garantiasRedelec = [
     "clienteId": "83237689",
     "fecha": "2025-07-22",
     "producto": "HF4004B",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "MANSION ELECTRODOMESTICOS"
   },
   {
@@ -62,6 +62,20 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-07-17",
     "productoIngreso": "plancha black decker impact",
     "lugarDeCompra": "EXITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "141549",
+    "cliente": "MARINELA CALDERON",
+    "clienteId": "55173320",
+    "fecha": "2025-07-30",
+    "producto": "IR3001",
+    "estado": "DESPACHADO",
+    "almacen": "TECNOHOGAR NEIVA",
+    "interno": "BHK001",
+    "fechaIngreso": "2025-07-25",
+    "productoIngreso": "plancha black decker azul con blanco",
+    "lugarDeCompra": "TECNOHOGAR",
     "observaciones": ""
   }
 ]
