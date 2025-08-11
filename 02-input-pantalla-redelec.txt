@@ -15,11 +15,10 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-16	140910	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	DAVID GARCIAS	1075271383	2025-07-15 05:03:48	16	BLACK+DECKER	BLBD210GB	PREFINALIZADO	METRO-NEIVA	Ver Ticket	Trazabilidad
-15	140940	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA MARIA CLAVIJO	55190509	2025-07-16 00:24:57	15	BLACK+DECKER	RC5200M	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-15	140941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MAYERLY VANEGAS CORTES	26433634	2025-07-16 00:40:56	15	BLACK+DECKER	D3035	AUTORIZADO	EXITO SAN PEDRIO NEIVA	Ver Ticket	Trazabilidad
-11	141208	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	NELSON PUENTES VARGAS	83237689	2025-07-22 15:56:42	11	BLACK+DECKER	HF4004B	DESPACHADO	MANSION ELECTRODOMESTICOS	Ver Ticket	Trazabilidad
-8	141386	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MARIA CAMILA LEON	1075283594	2025-07-25 02:41:04	8	BLACK+DECKER	IR3001	PENDIENTE AUTORIZACION	EXITO NEIVA	Ver Ticket	Trazabilidad
-5	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	5	BLACK+DECKER	IR3001	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 6 de un total de 6 registrosAnterior1Siguiente
+19	140910	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	DAVID GARCIAS	1075271383	2025-07-15 05:03:48	19	BLACK+DECKER	BLBD210GB	PREFINALIZADO	METRO-NEIVA	Ver Ticket	Trazabilidad
+18	140941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MAYERLY VANEGAS CORTES	26433634	2025-07-16 00:40:56	18	BLACK+DECKER	D3035	PREFINALIZADO	EXITO SAN PEDRIO NEIVA	Ver Ticket	Trazabilidad
+14	141208	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	NELSON PUENTES VARGAS	83237689	2025-07-22 15:56:42	14	BLACK+DECKER	HF4004B	PREFINALIZADO	MANSION ELECTRODOMESTICOS	Ver Ticket	Trazabilidad
+11	141386	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MARIA CAMILA LEON	1075283594	2025-07-25 02:41:04	11	BLACK+DECKER	IR3001	AUTORIZADO	EXITO NEIVA	Ver Ticket	Trazabilidad
+8	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	8	BLACK+DECKER	IR3001	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 5 de un total de 5 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

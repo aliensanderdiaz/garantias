@@ -44,6 +44,33 @@ Propietario
 
 Acción
 
+En progreso
+WO-00384407
+5/08/2025 10:28 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Carlos Mauricio Hoyos Pucciny
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Aprobación pendiente
+WO-00384406
+5/08/2025 10:21 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Juan Pablo Angarita
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00384404
+5/08/2025 10:15 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Edinson Fernando Morales Cañon
+Colombia
+Jhon Fredy Bahamon Bonilla
+
 Despachado
 WO-00381152
 24/07/2025 08:51 p. m.
@@ -62,7 +89,7 @@ Compañia Comercial Universal Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00381136
 24/07/2025 07:16 p. m.
 Garantía
@@ -71,7 +98,7 @@ Yessica Andrea Mercado Macea
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Nuevo
+Aprobación pendiente
 WO-00381130
 24/07/2025 06:53 p. m.
 Garantía
@@ -80,7 +107,7 @@ Alexandery Franco
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00381126
 24/07/2025 06:43 p. m.
 Garantía
@@ -89,7 +116,7 @@ Hilarion Guzmán
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00380812
 23/07/2025 10:30 p. m.
 Garantía
@@ -98,7 +125,7 @@ Oscar Fernando Motta Galindo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00380807
 23/07/2025 10:18 p. m.
 Garantía
@@ -107,7 +134,7 @@ Eduardo Reyna Gómez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00380804
 23/07/2025 10:13 p. m.
 Garantía
@@ -116,7 +143,7 @@ Gabriela Angeles Sangines Jiménez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00380801
 23/07/2025 10:03 p. m.
 Garantía
@@ -464,33 +491,6 @@ WO-00350999
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Andrea Tovar
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00350992
-3/04/2025 07:32 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Gabriel Antonio Goyes Urbano
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00348211
-26/03/2025 09:30 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Jorge Armando Trujillo
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00347174
-21/03/2025 06:30 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Willian Alberto Padilla Ariza
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
