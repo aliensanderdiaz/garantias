@@ -14,26 +14,12 @@ let garantiasRedelec = [
     "observaciones": "[martes, 29 de julio de 2025]no imprimí la carta de cambio :-("
   },
   {
-    "codigo": "140940",
-    "cliente": "DIANA MARIA CLAVIJO",
-    "clienteId": "55190509",
-    "fecha": "2025-07-16",
-    "producto": "RC5200M",
-    "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR NEIVA",
-    "interno": "JUZ173",
-    "fechaIngreso": "2025-07-12",
-    "productoIngreso": "olla arrocera de 2 libras",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
-  },
-  {
     "codigo": "140941",
     "cliente": "MAYERLY VANEGAS CORTES",
     "clienteId": "26433634",
     "fecha": "2025-07-16",
     "producto": "D3035",
-    "estado": "AUTORIZADO",
+    "estado": "PREFINALIZADO",
     "almacen": "EXITO SAN PEDRIO NEIVA",
     "interno": "IGH613",
     "fechaIngreso": "2025-07-04",
@@ -47,7 +33,7 @@ let garantiasRedelec = [
     "clienteId": "83237689",
     "fecha": "2025-07-22",
     "producto": "HF4004B",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "MANSION ELECTRODOMESTICOS"
   },
   {
@@ -56,7 +42,7 @@ let garantiasRedelec = [
     "clienteId": "1075283594",
     "fecha": "2025-07-25",
     "producto": "IR3001",
-    "estado": "PENDIENTE AUTORIZACION",
+    "estado": "AUTORIZADO",
     "almacen": "EXITO NEIVA",
     "interno": "QDH738",
     "fechaIngreso": "2025-07-17",

@@ -1,5 +1,38 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00384407",
+    "cliente": "Carlos Mauricio Hoyos Pucciny",
+    "estado": "En progreso",
+    "fecha": "5/08/2025",
+    "interno": "FPQ186",
+    "fechaIngreso": "2025-07-26",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "HERNANDO BUSTOS",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00384406",
+    "cliente": "Juan Pablo Angarita",
+    "estado": "Aprobación pendiente",
+    "fecha": "5/08/2025",
+    "interno": "EYH328",
+    "fechaIngreso": "2025-07-29",
+    "productoIngreso": "freidora digital de 4 litros",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[viernes, 8 de agosto de 2025]carta cambio"
+  },
+  {
+    "codigo": "WO-00384404",
+    "cliente": "Edinson Fernando Morales Cañon",
+    "estado": "En progreso",
+    "fecha": "5/08/2025",
+    "interno": "TAY101",
+    "fechaIngreso": "2025-07-29",
+    "productoIngreso": "freidora oster digital de 4 litros",
+    "lugarDeCompra": "ÉXITO",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00381152",
     "cliente": "Sodimac Colombia S.a",
     "estado": "Despachado",
@@ -8,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-18",
     "productoIngreso": "cafetera oster de 12taza",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]aparece despachado pero no ha llegado nada"
   },
   {
     "codigo": "WO-00381139",
@@ -24,79 +57,69 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381136",
     "cliente": "Yessica Andrea Mercado Macea",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "24/07/2025",
     "interno": "ODM989",
     "fechaIngreso": "2025-07-22",
     "productoIngreso": "licuadora Oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]llego motor-[domingo, 10 de agosto de 2025]reparada"
   },
   {
     "codigo": "WO-00381130",
     "cliente": "Alexandery Franco",
-    "estado": "Nuevo",
+    "estado": "Aprobación pendiente",
     "fecha": "24/07/2025",
     "interno": "IFC666",
     "fechaIngreso": "2025-07-23",
     "productoIngreso": "plancha vaporizador oster portatil",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[viernes, 8 de agosto de 2025]carta cambio"
   },
   {
     "codigo": "WO-00381126",
     "cliente": "Hilarion Guzmán",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "24/07/2025",
     "interno": "AZH174",
     "fechaIngreso": "2025-07-23",
     "productoIngreso": "freidora oster de 9 litros digital",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": ""
+    "observaciones": "[domingo, 10 de agosto de 2025]reparada"
   },
   {
     "codigo": "WO-00380812",
     "cliente": "Oscar Fernando Motta Galindo",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "23/07/2025",
     "interno": "NON029",
     "fechaIngreso": "2025-07-22",
     "productoIngreso": "licuadora oster tradicional",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]Llegó motor-[domingo, 10 de agosto de 2025]reparada"
   },
   {
     "codigo": "WO-00380807",
     "cliente": "Eduardo Reyna Gómez",
-    "estado": "En progreso",
-    "fecha": "23/07/2025",
-    "interno": "LBN062",
-    "fechaIngreso": "2025-07-23",
-    "productoIngreso": "freidora digital 4 litros digital",
-    "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "23/07/2025"
   },
   {
     "codigo": "WO-00380804",
     "cliente": "Gabriela Angeles Sangines Jiménez",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "23/07/2025",
     "interno": "YEH054",
     "fechaIngreso": "2025-07-23",
     "productoIngreso": "licuadora oster clasica negra",
     "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]Llega suiche-[domingo, 10 de agosto de 2025]reparada"
   },
   {
     "codigo": "WO-00380801",
     "cliente": "Diana Marcela Cardona Lopez",
-    "estado": "Pre-terminado",
-    "fecha": "23/07/2025",
-    "interno": "UQY449",
-    "fechaIngreso": "2025-07-23",
-    "productoIngreso": "freidora 4litros digital",
-    "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "23/07/2025"
   },
   {
     "codigo": "WO-00378758",
@@ -330,23 +353,5 @@ let garantiasNewells = [
     "cliente": "Andrea Tovar",
     "estado": "Entregado",
     "fecha": "3/04/2025"
-  },
-  {
-    "codigo": "WO-00350992",
-    "cliente": "Gabriel Antonio Goyes Urbano",
-    "estado": "Entregado",
-    "fecha": "3/04/2025"
-  },
-  {
-    "codigo": "WO-00348211",
-    "cliente": "Jorge Armando Trujillo",
-    "estado": "Entregado",
-    "fecha": "26/03/2025"
-  },
-  {
-    "codigo": "WO-00347174",
-    "cliente": "Willian Alberto Padilla Ariza",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
   }
 ]

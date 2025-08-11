@@ -1,5 +1,37 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-40339",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "36155687",
+    "referencia": "L40600",
+    "producto": "PLANCHA SECA LA TRADICIONAL",
+    "falla": "Térmico Sin continuidad,Termostato Otro",
+    "s2": "25012654",
+    "fecha": "06/08/2025",
+    "interno": "AVW582",
+    "fechaIngreso": "2025-07-26",
+    "productoIngreso": "plancha universal seca",
+    "lugarDeCompra": "COMERCIAL BAHIA",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-40338",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075237206",
+    "referencia": "L83696",
+    "producto": "EXPRIMIDOR CITRUS MAX",
+    "falla": "Motor Colector en corto",
+    "s2": "25012653",
+    "fecha": "06/08/2025",
+    "interno": "YBY954",
+    "fechaIngreso": "2025-07-29",
+    "productoIngreso": "exprimidor de citricos",
+    "lugarDeCompra": "CACHARRERIA EL REY DE LOS PRECIOS BAJOS",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-39994",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -16,24 +48,8 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-39703",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075260277",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "25012096",
-    "fecha": "25/07/2025",
-    "interno": "WEG135",
-    "fechaIngreso": "2025-07-17",
-    "productoIngreso": "licuadora mas vital",
-    "lugarDeCompra": "TECNOGOHAR",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-39702",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36175261",
     "referencia": "L95963",
@@ -45,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-17",
     "productoIngreso": "plancha universal",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "observaciones": "[domingo, 10 de agosto de 2025]reparada"
   },
   {
     "codigo": "GRT-39700",
@@ -97,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-39688",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "17774969",
     "referencia": "L89875",
@@ -109,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-22",
     "productoIngreso": "olla a presion electrica en acero",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]dice que enviaron cambio de producto... el 1 de agosto... hasta ahora no ha llegado nada-[sábado, 9 de agosto de 2025]Llegó producto nuevo"
   },
   {
     "codigo": "GRT-39677",
@@ -157,7 +173,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-12",
     "productoIngreso": "licuadora mas vital",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]Confusion con WEG135"
   },
   {
     "codigo": "GRT-39110",
@@ -173,23 +189,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-14",
     "productoIngreso": "olla arrocera negra de 2 libras",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-39109",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "36066726",
-    "referencia": "L40830",
-    "producto": "PLANCHA A VAPOR CERAMIC PRO",
-    "falla": "Resistencia Sin continuidad,Termostato Sin continuidad ,Bomba de agua No funciona",
-    "s2": "25011544",
-    "fecha": "15/07/2025",
-    "interno": "SQP862",
-    "fechaIngreso": "2025-07-14",
-    "productoIngreso": "plancha universal  elite pro",
-    "lugarDeCompra": "LANDER UNICO",
-    "observaciones": ""
+    "observaciones": "[miércoles, 6 de agosto de 2025]Arrocera nueva"
   },
   {
     "codigo": "GRT-39054",
@@ -208,24 +208,8 @@ let garantiasUniversal = [
     "observaciones": "[martes, 29 de julio de 2025]freidora llegó jueves 24 de julio"
   },
   {
-    "codigo": "GRT-39053",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "36166015",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "25011435",
-    "fecha": "15/07/2025",
-    "interno": "MJU521",
-    "fechaIngreso": "2025-07-03",
-    "productoIngreso": "licuadora universal mas vital",
-    "lugarDeCompra": "INTERHOGAR",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-39052",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075318169",
     "referencia": "L62090",
@@ -237,22 +221,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-05",
     "productoIngreso": "licuadora elite turbo max",
     "lugarDeCompra": "LANDER DEL ÚNICO",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-38197",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1081152233",
-    "referencia": "L95550",
-    "producto": "PLANCHA VAPOR CORONA",
-    "falla": "Resistencia Sin continuidad,Térmico Sin continuidad,Termostato Sin continuidad ",
-    "s2": "25011461",
-    "fecha": "30/06/2025",
-    "interno": "TBO541",
-    "fechaIngreso": "2025-06-28",
-    "productoIngreso": "plancha corona",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 29 de julio de 2025]llegó producto jueves 17 de julio-[martes, 29 de julio de 2025]llegó producto jueves 24 de julio"
+    "observaciones": "[domingo, 10 de agosto de 2025]REPARADA"
   }
 ]
