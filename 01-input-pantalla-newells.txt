@@ -2,7 +2,6 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
-Productos
 Más
 Search...
 
@@ -44,7 +43,7 @@ Propietario
 
 Acción
 
-En progreso
+Despachado
 WO-00384407
 5/08/2025 10:28 p. m.
 Garantía
@@ -53,7 +52,7 @@ Carlos Mauricio Hoyos Pucciny
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Entregado
 WO-00384406
 5/08/2025 10:21 p. m.
 Garantía
@@ -62,7 +61,7 @@ Juan Pablo Angarita
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00384404
 5/08/2025 10:15 p. m.
 Garantía
@@ -80,7 +79,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00381139
 24/07/2025 07:28 p. m.
 Garantía
@@ -98,7 +97,7 @@ Yessica Andrea Mercado Macea
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00381130
 24/07/2025 06:53 p. m.
 Garantía
