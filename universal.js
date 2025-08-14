@@ -32,22 +32,6 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-39994",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075291381",
-    "referencia": "L50803",
-    "producto": "LICUADORA LA TRADICIONAL",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25012265",
-    "fecha": "30/07/2025",
-    "interno": "KMT405",
-    "fechaIngreso": "2025-07-25",
-    "productoIngreso": "licuadora universal tradicional",
-    "lugarDeCompra": "ADENIS CRUZ",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-39702",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -112,54 +96,6 @@ let garantiasUniversal = [
     "observaciones": ""
   },
   {
-    "codigo": "GRT-39688",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "17774969",
-    "referencia": "L89875",
-    "producto": "OLLA PRESIÓN ELECTRI MULTI PRO",
-    "falla": "Resistencia Sin continuidad",
-    "s2": "25012001",
-    "fecha": "25/07/2025",
-    "interno": "QNL025",
-    "fechaIngreso": "2025-07-22",
-    "productoIngreso": "olla a presion electrica en acero",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 6 de agosto de 2025]dice que enviaron cambio de producto... el 1 de agosto... hasta ahora no ha llegado nada-[sábado, 9 de agosto de 2025]Llegó producto nuevo"
-  },
-  {
-    "codigo": "GRT-39677",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075286515",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Motor Bobinas en corto,Tarjeta electrónica En corto",
-    "s2": "25012000",
-    "fecha": "24/07/2025",
-    "interno": "DTK461",
-    "fechaIngreso": "2025-07-23",
-    "productoIngreso": "licuadora universal elite turbo mxx",
-    "lugarDeCompra": "UNICO",
-    "observaciones": ""
-  },
-  {
-    "codigo": "GRT-39629",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "30506666",
-    "referencia": "L60850",
-    "producto": "LICUADORA MASS VITAL VINO",
-    "falla": "Motor Bobinas en corto,Selector de velocidades Otro",
-    "s2": "25011980",
-    "fecha": "24/07/2025",
-    "interno": "ENE390",
-    "fechaIngreso": "2025-07-22",
-    "productoIngreso": "licuadora universal mas vital vino",
-    "lugarDeCompra": "DISTRIBUCIONES KARDANY",
-    "observaciones": ""
-  },
-  {
     "codigo": "GRT-39111",
     "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
@@ -206,21 +142,5 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "NOVAVENTA",
     "observaciones": "[martes, 29 de julio de 2025]freidora llegó jueves 24 de julio"
-  },
-  {
-    "codigo": "GRT-39052",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075318169",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Motor Motor en corto,Tarjeta Panel de control Sin continuidad",
-    "s2": "25011385",
-    "fecha": "15/07/2025",
-    "interno": "EFG854",
-    "fechaIngreso": "2025-07-05",
-    "productoIngreso": "licuadora elite turbo max",
-    "lugarDeCompra": "LANDER DEL ÚNICO",
-    "observaciones": "[domingo, 10 de agosto de 2025]REPARADA"
   }
 ]

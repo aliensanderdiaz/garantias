@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00384407",
     "cliente": "Carlos Mauricio Hoyos Pucciny",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "5/08/2025",
     "interno": "FPQ186",
     "fechaIngreso": "2025-07-26",
@@ -13,18 +13,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00384406",
     "cliente": "Juan Pablo Angarita",
-    "estado": "Aprobación pendiente",
-    "fecha": "5/08/2025",
-    "interno": "EYH328",
-    "fechaIngreso": "2025-07-29",
-    "productoIngreso": "freidora digital de 4 litros",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[viernes, 8 de agosto de 2025]carta cambio"
+    "estado": "Entregado",
+    "fecha": "5/08/2025"
   },
   {
     "codigo": "WO-00384404",
     "cliente": "Edinson Fernando Morales Cañon",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "5/08/2025",
     "interno": "TAY101",
     "fechaIngreso": "2025-07-29",
@@ -46,13 +41,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381139",
     "cliente": "Compañia Comercial Universal Sas",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "24/07/2025",
     "interno": "VUD816",
     "fechaIngreso": "2025-07-21",
     "productoIngreso": "percolador de acero inoxidable",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[jueves, 14 de agosto de 2025]carta de cambio"
   },
   {
     "codigo": "WO-00381136",
@@ -68,7 +63,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381130",
     "cliente": "Alexandery Franco",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "24/07/2025",
     "interno": "IFC666",
     "fechaIngreso": "2025-07-23",

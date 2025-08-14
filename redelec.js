@@ -1,19 +1,5 @@
 let garantiasRedelec = [
   {
-    "codigo": "140910",
-    "cliente": "DAVID GARCIAS",
-    "clienteId": "1075271383",
-    "fecha": "2025-07-15",
-    "producto": "BLBD210GB",
-    "estado": "PREFINALIZADO",
-    "almacen": "METRO-NEIVA",
-    "interno": "GTP146",
-    "fechaIngreso": "2025-07-04",
-    "productoIngreso": "licuadora black decker",
-    "lugarDeCompra": "METRA SANTA LUCIA",
-    "observaciones": "[martes, 29 de julio de 2025]no imprimí la carta de cambio :-("
-  },
-  {
     "codigo": "140941",
     "cliente": "MAYERLY VANEGAS CORTES",
     "clienteId": "26433634",
@@ -26,15 +12,6 @@ let garantiasRedelec = [
     "productoIngreso": "plancha black decker suela titanio morada",
     "lugarDeCompra": "EXITO SAN PEDRO",
     "observaciones": ""
-  },
-  {
-    "codigo": "141208",
-    "cliente": "NELSON PUENTES VARGAS",
-    "clienteId": "83237689",
-    "fecha": "2025-07-22",
-    "producto": "HF4004B",
-    "estado": "PREFINALIZADO",
-    "almacen": "MANSION ELECTRODOMESTICOS"
   },
   {
     "codigo": "141386",
@@ -56,7 +33,7 @@ let garantiasRedelec = [
     "clienteId": "55173320",
     "fecha": "2025-07-30",
     "producto": "IR3001",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "TECNOHOGAR NEIVA",
     "interno": "BHK001",
     "fechaIngreso": "2025-07-25",
