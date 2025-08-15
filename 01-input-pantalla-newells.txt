@@ -2,6 +2,7 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
+Productos
 Más
 Search...
 
@@ -106,7 +107,7 @@ Alexandery Franco
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00381126
 24/07/2025 06:43 p. m.
 Garantía
@@ -133,7 +134,7 @@ Eduardo Reyna Gómez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00380804
 23/07/2025 10:13 p. m.
 Garantía
