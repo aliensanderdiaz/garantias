@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-26",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "HERNANDO BUSTOS",
-    "observaciones": ""
+    "observaciones": "[viernes, 15 de agosto de 2025]esperando suiche"
   },
   {
     "codigo": "WO-00384406",
@@ -25,7 +25,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-29",
     "productoIngreso": "freidora oster digital de 4 litros",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": ""
+    "observaciones": "[viernes, 15 de agosto de 2025]esperando fusibles y microsuiche"
   },
   {
     "codigo": "WO-00381152",
@@ -36,7 +36,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-18",
     "productoIngreso": "cafetera oster de 12taza",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 6 de agosto de 2025]aparece despachado pero no ha llegado nada"
+    "observaciones": "[miércoles, 6 de agosto de 2025]aparece despachado pero no ha llegado nada-[viernes, 15 de agosto de 2025]falta reparar"
   },
   {
     "codigo": "WO-00381139",

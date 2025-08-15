@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-26",
     "productoIngreso": "plancha universal seca",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": ""
+    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar"
   },
   {
     "codigo": "GRT-40338",
@@ -29,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-29",
     "productoIngreso": "exprimidor de citricos",
     "lugarDeCompra": "CACHARRERIA EL REY DE LOS PRECIOS BAJOS",
-    "observaciones": ""
+    "observaciones": "[viernes, 15 de agosto de 2025]MOTOR CON PIÑON martes 5 de agosto"
   },
   {
     "codigo": "GRT-39110",

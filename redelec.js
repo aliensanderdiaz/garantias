@@ -11,7 +11,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-07-04",
     "productoIngreso": "plancha black decker suela titanio morada",
     "lugarDeCompra": "EXITO SAN PEDRO",
-    "observaciones": ""
+    "observaciones": "[viernes, 15 de agosto de 2025]carta de cambio"
   },
   {
     "codigo": "141549",
@@ -25,6 +25,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-07-25",
     "productoIngreso": "plancha black decker azul con blanco",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar"
   }
 ]
