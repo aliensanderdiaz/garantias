@@ -126,21 +126,5 @@ let garantiasUniversal = [
     "productoIngreso": "olla arrocera negra de 2 libras",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
     "observaciones": "[miércoles, 6 de agosto de 2025]Arrocera nueva"
-  },
-  {
-    "codigo": "GRT-39054",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075244241",
-    "referencia": "L85729",
-    "producto": "EASYFRYER PRO AIRFRYER 3.5L",
-    "falla": "Tarjeta electrónica En corto,Térmico Sin continuidad,Termostato Sin continuidad ",
-    "s2": "25011436",
-    "fecha": "15/07/2025",
-    "interno": "SBL836",
-    "fechaIngreso": "2025-07-03",
-    "productoIngreso": "freidora universal digital",
-    "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[martes, 29 de julio de 2025]freidora llegó jueves 24 de julio"
   }
 ]

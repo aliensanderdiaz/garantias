@@ -14,20 +14,6 @@ let garantiasRedelec = [
     "observaciones": ""
   },
   {
-    "codigo": "141386",
-    "cliente": "MARIA CAMILA LEON",
-    "clienteId": "1075283594",
-    "fecha": "2025-07-25",
-    "producto": "IR3001",
-    "estado": "AUTORIZADO",
-    "almacen": "EXITO NEIVA",
-    "interno": "QDH738",
-    "fechaIngreso": "2025-07-17",
-    "productoIngreso": "plancha black decker impact",
-    "lugarDeCompra": "EXITO",
-    "observaciones": ""
-  },
-  {
     "codigo": "141549",
     "cliente": "MARINELA CALDERON",
     "clienteId": "55173320",

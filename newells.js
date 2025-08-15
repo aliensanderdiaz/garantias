@@ -74,13 +74,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381126",
     "cliente": "Hilarion Guzmán",
-    "estado": "Pre-terminado",
-    "fecha": "24/07/2025",
-    "interno": "AZH174",
-    "fechaIngreso": "2025-07-23",
-    "productoIngreso": "freidora oster de 9 litros digital",
-    "lugarDeCompra": "ÉXITO",
-    "observaciones": "[domingo, 10 de agosto de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "24/07/2025"
   },
   {
     "codigo": "WO-00380812",
@@ -102,13 +97,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00380804",
     "cliente": "Gabriela Angeles Sangines Jiménez",
-    "estado": "Pre-terminado",
-    "fecha": "23/07/2025",
-    "interno": "YEH054",
-    "fechaIngreso": "2025-07-23",
-    "productoIngreso": "licuadora oster clasica negra",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[miércoles, 6 de agosto de 2025]Llega suiche-[domingo, 10 de agosto de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "23/07/2025"
   },
   {
     "codigo": "WO-00380801",
