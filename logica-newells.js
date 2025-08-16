@@ -151,9 +151,9 @@ let htmlContainerGarantiasSinRevisar = '<hr><p>'
 
 // 
 
-garantiasSinRevisar.forEach((garantia) => {
+garantiasSinRevisar.forEach((garantia, index) => {
     htmlContainerGarantiasSinRevisar += `
-        <br>${ garantia }
+        <br>${ index + 1 } - ${ garantia }<br>
     `
 })
 

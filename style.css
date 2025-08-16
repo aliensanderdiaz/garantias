@@ -39,3 +39,11 @@ table {
     font-weight: bold;
   }
   
+
+  .listo::before {
+    content: '🆗';
+  }
+
+    .no-listo::before {
+    content: '❌';
+  }
