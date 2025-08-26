@@ -15,7 +15,7 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-22	140941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MAYERLY VANEGAS CORTES	26433634	2025-07-16 00:40:56	22	BLACK+DECKER	D3035	PREFINALIZADO	EXITO SAN PEDRIO NEIVA	Ver Ticket	Trazabilidad
-12	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	12	BLACK+DECKER	IR3001	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+19	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	19	BLACK+DECKER	IR3001	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+1	142601	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DANIEL FELIPE GUZMAN	1079412332	2025-08-25 23:52:55	1	BLACK+DECKER	D3035	TRAMITE	BRANDLIVE	Ver Ticket	Trazabilidad
 Mostrando registros del 1 al 2 de un total de 2 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

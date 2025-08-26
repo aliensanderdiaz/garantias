@@ -1,19 +1,5 @@
 let garantiasRedelec = [
   {
-    "codigo": "140941",
-    "cliente": "MAYERLY VANEGAS CORTES",
-    "clienteId": "26433634",
-    "fecha": "2025-07-16",
-    "producto": "D3035",
-    "estado": "PREFINALIZADO",
-    "almacen": "EXITO SAN PEDRIO NEIVA",
-    "interno": "IGH613",
-    "fechaIngreso": "2025-07-04",
-    "productoIngreso": "plancha black decker suela titanio morada",
-    "lugarDeCompra": "EXITO SAN PEDRO",
-    "observaciones": "[viernes, 15 de agosto de 2025]carta de cambio"
-  },
-  {
     "codigo": "141549",
     "cliente": "MARINELA CALDERON",
     "clienteId": "55173320",
@@ -26,5 +12,19 @@ let garantiasRedelec = [
     "productoIngreso": "plancha black decker azul con blanco",
     "lugarDeCompra": "TECNOHOGAR",
     "observaciones": "[viernes, 15 de agosto de 2025]falta reparar"
+  },
+  {
+    "codigo": "142601",
+    "cliente": "DANIEL FELIPE GUZMAN",
+    "clienteId": "1079412332",
+    "fecha": "2025-08-25",
+    "producto": "D3035",
+    "estado": "TRAMITE",
+    "almacen": "BRANDLIVE",
+    "interno": "YVR741",
+    "fechaIngreso": "2025-08-05",
+    "productoIngreso": "plancha black decker  titanio",
+    "lugarDeCompra": "PAGINA BLACK DECKER",
+    "observaciones": ""
   }
 ]
