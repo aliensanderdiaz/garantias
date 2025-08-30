@@ -1,5 +1,37 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-41746",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "38244421",
+    "referencia": "L75545",
+    "producto": "VENTILADOR DYNAMIC VENTO",
+    "falla": "Motor Motor sin continuidad",
+    "s2": "25013886",
+    "fecha": "30/08/2025",
+    "interno": "OSH326",
+    "fechaIngreso": "2025-08-06",
+    "productoIngreso": "ventilador universal 3 en 1 dinami",
+    "lugarDeCompra": "MAXI MUEBLES",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-41745",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1109495541",
+    "referencia": "L75545",
+    "producto": "VENTILADOR DYNAMIC VENTO",
+    "falla": "Motor Bobinas en corto,Selector de velocidades Otro",
+    "s2": "",
+    "fecha": "30/08/2025",
+    "interno": "LRO492",
+    "fechaIngreso": "2025-08-11",
+    "productoIngreso": "ventilador universal dynamic",
+    "lugarDeCompra": "UNICO",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-41436",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -65,7 +97,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-40339",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36155687",
     "referencia": "L40600",
@@ -77,7 +109,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-26",
     "productoIngreso": "plancha universal seca",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar"
+    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA"
   },
   {
     "codigo": "GRT-40338",
@@ -93,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-29",
     "productoIngreso": "exprimidor de citricos",
     "lugarDeCompra": "CACHARRERIA EL REY DE LOS PRECIOS BAJOS",
-    "observaciones": "[viernes, 15 de agosto de 2025]MOTOR CON PIÑON martes 5 de agosto"
+    "observaciones": "[viernes, 15 de agosto de 2025]MOTOR CON PIÑON martes 5 de agosto-[sábado, 30 de agosto de 2025]MOTOR QUE LLEGÓ... LLEGÓ SIN PIÑONES... ADEMAS NO FUNCIONA"
   },
   {
     "codigo": "GRT-39110",
