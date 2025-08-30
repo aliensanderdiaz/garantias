@@ -146,7 +146,7 @@ let garantiasNewells = [
     "codigo": "WO-00384407",
     "cliente": "Carlos Mauricio Hoyos Pucciny",
     "estado": "Pre-terminado",
-    "fecha": "5/08/2025",
+    "fecha": "05/08/2025",
     "interno": "FPQ186",
     "fechaIngreso": "2025-07-26",
     "productoIngreso": "licuadora oster clasica",
@@ -157,13 +157,13 @@ let garantiasNewells = [
     "codigo": "WO-00384406",
     "cliente": "Juan Pablo Angarita",
     "estado": "Entregado",
-    "fecha": "5/08/2025"
+    "fecha": "05/08/2025"
   },
   {
     "codigo": "WO-00384404",
     "cliente": "Edinson Fernando Morales Cañon",
     "estado": "Pre-terminado",
-    "fecha": "5/08/2025",
+    "fecha": "05/08/2025",
     "interno": "TAY101",
     "fechaIngreso": "2025-07-29",
     "productoIngreso": "freidora oster digital de 4 litros",
