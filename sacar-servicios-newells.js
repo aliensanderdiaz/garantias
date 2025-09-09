@@ -62,6 +62,7 @@ async function main() {
 
       if (index === 3) {
         servicio.fecha = line.split(" ")[0];
+        servicio.fecha = servicio.fecha.padStart(10, '0')
         index++;
         continue;
       }
