@@ -3,7 +3,6 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
-Cuenta del centro de servicio
 Más
 Search...
 
@@ -46,6 +45,69 @@ Propietario
 Acción
 
 En progreso
+WO-00393177
+8/09/2025 09:41 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Camilo Andres Guzmán Reyes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00393176
+8/09/2025 09:34 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luz Mila Omen Claros
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00393175
+8/09/2025 09:29 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luisa Manrique
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00393172
+8/09/2025 09:24 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Daniel Ancizar Botero Ibagon
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00393171
+8/09/2025 09:21 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Miro Pasaje
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Nuevo
+WO-00393169
+8/09/2025 09:12 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Libardo Ramírez Labrador
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00393168
+8/09/2025 09:06 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Uberney Eusatama Trujillo
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
 WO-00390894
 30/08/2025 11:58 a. m.
 Garantía
@@ -72,7 +134,7 @@ Neida Jimena Epia Silva
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00389093
 25/08/2025 08:09 p. m.
 Garantía
@@ -81,7 +143,7 @@ Sergio Oliveros
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00389091
 25/08/2025 07:59 p. m.
 Garantía
@@ -90,7 +152,7 @@ Diana Roa
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00389090
 25/08/2025 07:51 p. m.
 Garantía
@@ -99,7 +161,7 @@ Ferney Palmo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00389089
 25/08/2025 07:48 p. m.
 Garantía
@@ -117,7 +179,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00389086
 25/08/2025 07:37 p. m.
 Garantía
@@ -126,7 +188,7 @@ Doris González Peralta
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00389085
 25/08/2025 07:31 p. m.
 Garantía
@@ -135,7 +197,7 @@ Lida Maria Trujillo Chilito
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00389083
 25/08/2025 07:18 p. m.
 Garantía
@@ -144,7 +206,7 @@ Jaime Rodríguez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00389082
 25/08/2025 07:11 p. m.
 Garantía
@@ -153,7 +215,7 @@ Alba Ofelia Salazar
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00387828
 20/08/2025 06:04 p. m.
 Garantía
@@ -180,7 +242,7 @@ Juan Pablo Angarita
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00384404
 5/08/2025 10:15 p. m.
 Garantía
@@ -288,7 +350,7 @@ Luis Alberto Payares Acosta
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00378751
 15/07/2025 06:29 p. m.
 Garantía
@@ -429,69 +491,6 @@ WO-00364485
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Nancy Viviana Suarez Heredia
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00364481
-23/05/2025 05:30 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Lina Milena Samboni
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00364345
-23/05/2025 12:20 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Jairo Velasquez Rodriguez
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00364212
-22/05/2025 06:06 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Luz Elvira Ortiz
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00364210
-22/05/2025 06:01 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Carlos Andres Molina
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00364209
-22/05/2025 05:53 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Erika Mileidy Calderon
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00363906
-22/05/2025 07:45 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Jhon Alexander Calderon
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00363904
-22/05/2025 07:40 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Yorman Ortega
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
