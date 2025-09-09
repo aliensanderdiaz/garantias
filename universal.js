@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-06",
     "productoIngreso": "ventilador universal 3 en 1 dinami",
     "lugarDeCompra": "MAXI MUEBLES",
-    "observaciones": ""
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
   },
   {
     "codigo": "GRT-41745",
@@ -29,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-11",
     "productoIngreso": "ventilador universal dynamic",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[lunes, 1 de septiembre de 2025]Validación / Cambio producto"
   },
   {
     "codigo": "GRT-41436",
@@ -45,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-01",
     "productoIngreso": "licuadora universal potency mix roja",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
   },
   {
     "codigo": "GRT-41435",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-12",
     "productoIngreso": "plancha universal seca",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
   },
   {
     "codigo": "GRT-41434",
@@ -77,7 +77,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-13",
     "productoIngreso": "plancha universal seca",
     "lugarDeCompra": "COMERCIALIZADORA SANDRA DIAZ TOVAR",
-    "observaciones": ""
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
   },
   {
     "codigo": "GRT-41189",
@@ -93,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-14",
     "productoIngreso": "olla pitadora universal de 13 litros",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[martes, 2 de septiembre de 2025]Se pidió cambio de producto-[martes, 2 de septiembre de 2025]Llega olla a presion nueva-[jueves, 4 de septiembre de 2025]entregada"
   },
   {
     "codigo": "GRT-40339",
