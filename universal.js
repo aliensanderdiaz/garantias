@@ -128,22 +128,6 @@ let garantiasUniversal = [
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
   },
   {
-    "codigo": "GRT-40339",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36155687",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Térmico Sin continuidad,Termostato Otro",
-    "s2": "25012654",
-    "fecha": "06/08/2025",
-    "interno": "AVW582",
-    "fechaIngreso": "2025-07-26",
-    "productoIngreso": "plancha universal seca",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA"
-  },
-  {
     "codigo": "GRT-40338",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",

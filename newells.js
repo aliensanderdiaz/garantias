@@ -178,13 +178,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00389085",
     "cliente": "Lida Maria Trujillo Chilito",
-    "estado": "Pre-terminado",
-    "fecha": "25/08/2025",
-    "interno": "RIL017",
-    "fechaIngreso": "2025-08-09",
-    "productoIngreso": "licuadora Oster reversible",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[martes, 2 de septiembre de 2025]Van a dar carta de cambio, esperar la aprobacion-[miércoles, 3 de septiembre de 2025]aprobada"
+    "estado": "Entregado",
+    "fecha": "25/08/2025"
   },
   {
     "codigo": "WO-00389083",
@@ -229,24 +224,19 @@ let garantiasNewells = [
     "codigo": "WO-00384406",
     "cliente": "Juan Pablo Angarita",
     "estado": "Entregado",
-    "fecha": "5/08/2025"
+    "fecha": "05/08/2025"
   },
   {
     "codigo": "WO-00384404",
     "cliente": "Edinson Fernando Morales Cañon",
     "estado": "Entregado",
-    "fecha": "5/08/2025"
+    "fecha": "05/08/2025"
   },
   {
     "codigo": "WO-00381152",
     "cliente": "Sodimac Colombia S.a",
-    "estado": "Pre-terminado",
-    "fecha": "24/07/2025",
-    "interno": "QEK782",
-    "fechaIngreso": "2025-07-18",
-    "productoIngreso": "cafetera oster de 12taza",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 6 de agosto de 2025]aparece despachado pero no ha llegado nada-[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA"
+    "estado": "Entregado",
+    "fecha": "24/07/2025"
   },
   {
     "codigo": "WO-00381139",
@@ -399,13 +389,13 @@ let garantiasNewells = [
     "codigo": "WO-00368532",
     "cliente": "Lizeth Carolina Benavidez Díaz",
     "estado": "Entregado",
-    "fecha": "7/06/2025"
+    "fecha": "07/06/2025"
   },
   {
     "codigo": "WO-00368531",
     "cliente": "Luz Adriana Méndez",
     "estado": "Entregado",
-    "fecha": "7/06/2025"
+    "fecha": "07/06/2025"
   },
   {
     "codigo": "WO-00365949",
