@@ -34,7 +34,8 @@ const container = document.querySelector('.container')
 let estados = [
     'Por entregar',
     'PREFINALIZADO',
-    'Pre-terminado'
+    'Pre-terminado',
+    'AUTORIZADO'
 ]
 
 let html = ''

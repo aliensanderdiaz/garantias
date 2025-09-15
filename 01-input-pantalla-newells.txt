@@ -3,7 +3,6 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
-Cuenta del centro de servicio
 Más
 Search...
 
