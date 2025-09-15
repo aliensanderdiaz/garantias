@@ -3,6 +3,7 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
+Cuenta del centro de servicio
 Más
 Search...
 
@@ -170,7 +171,7 @@ Leidi Tatiana Florez Caballero
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00389088
 25/08/2025 07:43 p. m.
 Garantía
@@ -197,7 +198,7 @@ Lida Maria Trujillo Chilito
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Intervención técnica
+Pre-terminado
 WO-00389083
 25/08/2025 07:18 p. m.
 Garantía
