@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-27",
     "productoIngreso": "freidora 4 L.",
     "lugarDeCompra": "EXITO PITALITO",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio microsuiche"
   },
   {
     "codigo": "WO-00393176",
@@ -19,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-27",
     "productoIngreso": "licuadora oster",
     "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta"
   },
   {
     "codigo": "WO-00393175",
@@ -63,7 +63,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-30",
     "productoIngreso": "freidora 4 ltrs",
     "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]Se pidio solo microsuiche, aunque alveiro dice que se necesita otro repuesto, pero el de oster dice que no es necesario"
   },
   {
     "codigo": "WO-00393168",
@@ -74,7 +74,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-01",
     "productoIngreso": "licuadora oster Xpert series",
     "lugarDeCompra": "SODIMAC COLOMBIA SA HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta"
   },
   {
     "codigo": "WO-00390894",
@@ -156,13 +156,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00389088",
     "cliente": "Sodimac Colombia S.a",
-    "estado": "Pre-terminado",
-    "fecha": "25/08/2025",
-    "interno": "JRM428",
-    "fechaIngreso": "2025-08-05",
-    "productoIngreso": "freidora oster de 6 litros digital",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[martes, 2 de septiembre de 2025]Se ajustó internamente, se puede entregar-[viernes, 12 de septiembre de 2025]se hace entrega del producto "
+    "estado": "Entregado",
+    "fecha": "25/08/2025"
   },
   {
     "codigo": "WO-00389086",
@@ -184,7 +179,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00389083",
     "cliente": "Jaime Rodríguez",
-    "estado": "Intervención técnica",
+    "estado": "Pre-terminado",
     "fecha": "25/08/2025",
     "interno": "SWL044",
     "fechaIngreso": "2025-08-11",

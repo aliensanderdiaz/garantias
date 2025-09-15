@@ -29,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-06",
     "productoIngreso": "ventilador 8\"",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]llegó motor para cambiar"
   },
   {
     "codigo": "GRT-42295",
@@ -45,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-02",
     "productoIngreso": "licuadora elite turbo max",
     "lugarDeCompra": "CENTRO COMERCIAL UNICO NEIVA",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor y tarjeta"
   },
   {
     "codigo": "GRT-42294",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-05",
     "productoIngreso": "batidora manual",
     "lugarDeCompra": "MUEBLES Y ELECTRODOMESTICOS BERNAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio piñones"
   },
   {
     "codigo": "GRT-41746",
@@ -78,22 +78,6 @@ let garantiasUniversal = [
     "productoIngreso": "ventilador universal 3 en 1 dinami",
     "lugarDeCompra": "MAXI MUEBLES",
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
-  },
-  {
-    "codigo": "GRT-41745",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1109495541",
-    "referencia": "L75545",
-    "producto": "VENTILADOR DYNAMIC VENTO",
-    "falla": "Motor Bobinas en corto,Selector de velocidades Otro",
-    "s2": "25014051",
-    "fecha": "30/08/2025",
-    "interno": "LRO492",
-    "fechaIngreso": "2025-08-11",
-    "productoIngreso": "ventilador universal dynamic",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 1 de septiembre de 2025]Validación / Cambio producto-[miércoles, 10 de septiembre de 2025]Llega ventilador nuevo para entregar a cliente-[jueves, 11 de septiembre de 2025]ventilador ya entregado al cliente "
   },
   {
     "codigo": "GRT-41436",

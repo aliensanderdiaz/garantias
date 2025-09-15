@@ -67,7 +67,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-30",
     "productoIngreso": "freidora de 4.5 litros",
     "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio temporizador"
   },
   {
     "codigo": "143249",
@@ -81,7 +81,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-27",
     "productoIngreso": "plancha",
     "lugarDeCompra": "EXITO SAN PEDRO PLAZA",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]alveiro dice que esta en buen estado que funciona normal"
   },
   {
     "codigo": "143250",
@@ -95,6 +95,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-26",
     "productoIngreso": "explimidor de naranjas marca black+decher",
     "lugarDeCompra": "ELECTRODOMESTICOS MANA",
-    "observaciones": ""
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor con piñon"
   }
 ]
