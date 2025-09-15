@@ -1,5 +1,21 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-42630",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "7722981",
+    "referencia": "L50803",
+    "producto": "LICUADORA LA TRADICIONAL",
+    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
+    "s2": "",
+    "fecha": "15/09/2025",
+    "interno": "THI911",
+    "fechaIngreso": "2025-08-30",
+    "productoIngreso": "licuadora",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[domingo, 14 de septiembre de 2025]pedir motor y teclado"
+  },
+  {
     "codigo": "GRT-42301",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -65,7 +81,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-41745",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1109495541",
     "referencia": "L75545",
@@ -77,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-11",
     "productoIngreso": "ventilador universal dynamic",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 1 de septiembre de 2025]Validación / Cambio producto"
+    "observaciones": "[lunes, 1 de septiembre de 2025]Validación / Cambio producto-[miércoles, 10 de septiembre de 2025]Llega ventilador nuevo para entregar a cliente-[jueves, 11 de septiembre de 2025]ventilador ya entregado al cliente "
   },
   {
     "codigo": "GRT-41436",
@@ -97,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-41435",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1003896359",
     "referencia": "L40600",
@@ -109,23 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-12",
     "productoIngreso": "plancha universal seca",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
-  },
-  {
-    "codigo": "GRT-41434",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36159791",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Térmico Sin continuidad",
-    "s2": "25013653",
-    "fecha": "25/08/2025",
-    "interno": "FHR239",
-    "fechaIngreso": "2025-08-13",
-    "productoIngreso": "plancha universal seca",
-    "lugarDeCompra": "COMERCIALIZADORA SANDRA DIAZ TOVAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada"
   },
   {
     "codigo": "GRT-40338",

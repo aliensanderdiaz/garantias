@@ -19,13 +19,13 @@ let garantiasRedelec = [
     "clienteId": "1079412332",
     "fecha": "2025-08-25",
     "producto": "D3035",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "BRANDLIVE",
     "interno": "YVR741",
     "fechaIngreso": "2025-08-05",
     "productoIngreso": "plancha black decker  titanio",
     "lugarDeCompra": "PAGINA BLACK DECKER",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada"
   },
   {
     "codigo": "142882",
@@ -39,7 +39,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-06",
     "productoIngreso": "exprimidor blanco",
     "lugarDeCompra": "TENCOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran"
   },
   {
     "codigo": "142883",
@@ -61,7 +61,7 @@ let garantiasRedelec = [
     "clienteId": "1075212155",
     "fecha": "2025-09-09",
     "producto": "HF4004B",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "TECNOHOGAR DE COLOMBIA",
     "interno": "DPC220",
     "fechaIngreso": "2025-08-30",
@@ -75,7 +75,7 @@ let garantiasRedelec = [
     "clienteId": "36174152",
     "fecha": "2025-09-09",
     "producto": "IRBD352",
-    "estado": "EN CURSO",
+    "estado": "PREFINALIZADO",
     "almacen": "EXITO SAN PEDRO",
     "interno": "UST119",
     "fechaIngreso": "2025-08-27",
@@ -89,7 +89,7 @@ let garantiasRedelec = [
     "clienteId": "901815397",
     "fecha": "2025-09-09",
     "producto": "CJ4000S",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "ELECTRODOMESTICOS MANA",
     "interno": "AAV987",
     "fechaIngreso": "2025-08-26",

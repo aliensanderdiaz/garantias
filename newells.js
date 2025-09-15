@@ -30,7 +30,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-28",
     "productoIngreso": "licuadora oster reversible color negro",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": ""
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta "
   },
   {
     "codigo": "WO-00393172",
@@ -41,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-29",
     "productoIngreso": "licuadora clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": ""
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor "
   },
   {
     "codigo": "WO-00393171",
@@ -52,12 +52,12 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-29",
     "productoIngreso": "licuadora clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": ""
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor "
   },
   {
     "codigo": "WO-00393169",
     "cliente": "Libardo Ramírez Labrador",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "08/09/2025",
     "interno": "TOR182",
     "fechaIngreso": "2025-08-30",
@@ -90,24 +90,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00390887",
     "cliente": "Doris Constanza Medina",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "30/08/2025",
     "interno": "MNP809",
     "fechaIngreso": "2025-08-12",
     "productoIngreso": "extrator oster grande",
     "lugarDeCompra": "ALMCENES UNIVERSAL",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no envian lo que se solicito"
   },
   {
     "codigo": "WO-00390884",
     "cliente": "Neida Jimena Epia Silva",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "30/08/2025",
     "interno": "PHS384",
     "fechaIngreso": "2025-08-01",
     "productoIngreso": "exprimidor oster negro",
     "lugarDeCompra": "AGRO TERUEL FERRETERIA",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada"
   },
   {
     "codigo": "WO-00389093",
@@ -123,13 +123,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00389091",
     "cliente": "Diana Roa",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "25/08/2025",
     "interno": "YAW643",
     "fechaIngreso": "2025-08-06",
     "productoIngreso": "licuadora oster negra  de dos velocidades",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]Esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]Esperando repuesto-[domingo, 14 de septiembre de 2025]Reparada"
   },
   {
     "codigo": "WO-00389090",
@@ -162,18 +162,18 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-05",
     "productoIngreso": "freidora oster de 6 litros digital",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[martes, 2 de septiembre de 2025]Se ajustó internamente, se puede entregar"
+    "observaciones": "[martes, 2 de septiembre de 2025]Se ajustó internamente, se puede entregar-[viernes, 12 de septiembre de 2025]se hace entrega del producto "
   },
   {
     "codigo": "WO-00389086",
     "cliente": "Doris González Peralta",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "25/08/2025",
     "interno": "MZV471",
     "fechaIngreso": "2025-08-08",
     "productoIngreso": "plancha Oster roja",
     "lugarDeCompra": "ALKOSTO",
-    "observaciones": "[martes, 2 de septiembre de 2025]Esperando repuestos"
+    "observaciones": "[martes, 2 de septiembre de 2025]Esperando repuestos-[domingo, 14 de septiembre de 2025]reparada"
   },
   {
     "codigo": "WO-00389085",
@@ -184,24 +184,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00389083",
     "cliente": "Jaime Rodríguez",
-    "estado": "Despachado",
+    "estado": "Intervención técnica",
     "fecha": "25/08/2025",
     "interno": "SWL044",
     "fechaIngreso": "2025-08-11",
     "productoIngreso": "freidora oster digital de 7.5",
     "lugarDeCompra": "LA RUMBERA",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuestos"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuestos-[domingo, 14 de septiembre de 2025]Reparada ? segun le entiendo a alveiro si..."
   },
   {
     "codigo": "WO-00389082",
     "cliente": "Alba Ofelia Salazar",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "25/08/2025",
     "interno": "DEC256",
     "fechaIngreso": "2025-08-13",
     "productoIngreso": "freidora oster 4 litrod",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuestos"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuestos-[domingo, 14 de septiembre de 2025]reparada"
   },
   {
     "codigo": "WO-00387828",
