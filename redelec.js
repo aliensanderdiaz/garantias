@@ -53,7 +53,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-01",
     "productoIngreso": "batidora black Decker negra",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]carta de cambio autorizada"
   },
   {
     "codigo": "143248",

@@ -96,7 +96,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-12",
     "productoIngreso": "extrator oster grande",
     "lugarDeCompra": "ALMCENES UNIVERSAL",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no envian lo que se solicito"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no envian lo que se solicito-[domingo, 14 de septiembre de 2025]alveiro dice suiche falla, llega repuesto 2131803 (es el codigo del interruptor en el excel - pero dice diodo en la pagina que es 2131801), el producto es 2107532, "
   },
   {
     "codigo": "WO-00390884",
@@ -185,7 +185,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-11",
     "productoIngreso": "freidora oster digital de 7.5",
     "lugarDeCompra": "LA RUMBERA",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuestos-[domingo, 14 de septiembre de 2025]Reparada ? segun le entiendo a alveiro si..."
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuestos-[domingo, 14 de septiembre de 2025]Reparada ? segun le entiendo a alveiro si...-[domingo, 14 de septiembre de 2025]se habia reparado con suiche prestado-[domingo, 14 de septiembre de 2025]se mando correo para que manden guia y enviar a acevedo"
   },
   {
     "codigo": "WO-00389082",

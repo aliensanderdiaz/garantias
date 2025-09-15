@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-30",
     "productoIngreso": "licuadora",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]pedir motor y teclado"
+    "observaciones": "[domingo, 14 de septiembre de 2025]pedir motor y teclado-[domingo, 14 de septiembre de 2025]se pidio producto"
   },
   {
     "codigo": "GRT-42301",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-05",
     "productoIngreso": "batidora manual",
     "lugarDeCompra": "MUEBLES Y ELECTRODOMESTICOS BERNAL",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio piñones"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio piñones-[domingo, 14 de septiembre de 2025]se pidio producto"
   },
   {
     "codigo": "GRT-41746",
