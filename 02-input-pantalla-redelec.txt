@@ -16,11 +16,8 @@ Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
 45	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	45	BLACK+DECKER	IR3001	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-27	142601	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DANIEL FELIPE GUZMAN	1079412332	2025-08-25 23:52:55	27	BLACK+DECKER	D3035	PREFINALIZADO	BRANDLIVE	Ver Ticket	Trazabilidad
 22	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	22	BLACK+DECKER	CJ650W	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-22	142883	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	ESTEBAN SÁNCHEZ	1128268246	2025-08-30 16:42:49	22	BLACK+DECKER	MX9125-2BDLA	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-16	143248	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARIA ALEXANDRA IBARRA POLANIA	1075212155	2025-09-09 01:42:52	16	BLACK+DECKER	HF4004B	PREFINALIZADO	TECNOHOGAR DE COLOMBIA	Ver Ticket	Trazabilidad
 16	143249	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Producto no presenta falla	YANETH LOSADA	36174152	2025-09-09 01:48:48	16	BLACK+DECKER	IRBD352	PREFINALIZADO	EXITO SAN PEDRO	Ver Ticket	Trazabilidad
 16	143250	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	HONEY AGAPE COFFEE Y	901815397	2025-09-09 01:56:28	16	BLACK+DECKER	CJ4000S	PREFINALIZADO	ELECTRODOMESTICOS MANA	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 7 de un total de 7 registrosAnterior1Siguiente
+Mostrando registros del 1 al 4 de un total de 4 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -
