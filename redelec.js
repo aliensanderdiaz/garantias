@@ -14,20 +14,6 @@ let garantiasRedelec = [
     "observaciones": "[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA"
   },
   {
-    "codigo": "142601",
-    "cliente": "DANIEL FELIPE GUZMAN",
-    "clienteId": "1079412332",
-    "fecha": "2025-08-25",
-    "producto": "D3035",
-    "estado": "PREFINALIZADO",
-    "almacen": "BRANDLIVE",
-    "interno": "YVR741",
-    "fechaIngreso": "2025-08-05",
-    "productoIngreso": "plancha black decker  titanio",
-    "lugarDeCompra": "PAGINA BLACK DECKER",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada-[jueves, 18 de septiembre de 2025]producto entregado al cliente "
-  },
-  {
     "codigo": "142882",
     "cliente": "MILENA CORTES CUENCA",
     "clienteId": "36181374",
@@ -40,34 +26,6 @@ let garantiasRedelec = [
     "productoIngreso": "exprimidor blanco",
     "lugarDeCompra": "TENCOHOGAR",
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro"
-  },
-  {
-    "codigo": "142883",
-    "cliente": "ESTEBAN SÁNCHEZ",
-    "clienteId": "1128268246",
-    "fecha": "2025-08-30",
-    "producto": "MX9125-2BDLA",
-    "estado": "AUTORIZADO",
-    "almacen": "TECNOHOGAR NEIVA",
-    "interno": "NVG825",
-    "fechaIngreso": "2025-08-01",
-    "productoIngreso": "batidora black Decker negra",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]carta de cambio autorizada"
-  },
-  {
-    "codigo": "143248",
-    "cliente": "MARIA ALEXANDRA IBARRA POLANIA",
-    "clienteId": "1075212155",
-    "fecha": "2025-09-09",
-    "producto": "HF4004B",
-    "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR DE COLOMBIA",
-    "interno": "DPC220",
-    "fechaIngreso": "2025-08-30",
-    "productoIngreso": "freidora de 4.5 litros",
-    "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio temporizador-[domingo, 28 de septiembre de 2025]reparado-[lunes, 29 de septiembre de 2025]PRODUCTO ENTREGADO AL CLIENTE CON REPARACION DE TEMPORIZADOR NUEVO "
   },
   {
     "codigo": "143249",

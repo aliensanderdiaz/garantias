@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-30",
     "productoIngreso": "licuadora",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]pedir motor y teclado-[domingo, 14 de septiembre de 2025]se pidio producto"
+    "observaciones": "[domingo, 14 de septiembre de 2025]pedir motor y teclado-[domingo, 14 de septiembre de 2025]se pidio producto-[miércoles, 1 de octubre de 2025]llega licuadora nueva"
   },
   {
     "codigo": "GRT-42301",
@@ -94,22 +94,6 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora universal potency mix roja",
     "lugarDeCompra": "UNICO",
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
-  },
-  {
-    "codigo": "GRT-41435",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1003896359",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Térmico Sin continuidad,Termofusible Sin continuidad",
-    "s2": "25013654",
-    "fecha": "25/08/2025",
-    "interno": "ZEU211",
-    "fechaIngreso": "2025-08-12",
-    "productoIngreso": "plancha universal seca",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada-[jueves, 25 de septiembre de 2025]se hace entrega al cliente del producto ok"
   },
   {
     "codigo": "GRT-40338",
