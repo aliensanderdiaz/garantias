@@ -1,13 +1,13 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-42630",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7722981",
     "referencia": "L50803",
     "producto": "LICUADORA LA TRADICIONAL",
     "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "",
+    "s2": "25015403",
     "fecha": "15/09/2025",
     "interno": "THI911",
     "fechaIngreso": "2025-08-30",
@@ -17,7 +17,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-42301",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1063620018",
     "referencia": "L71300",
@@ -29,11 +29,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-06",
     "productoIngreso": "ventilador 8\"",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[domingo, 14 de septiembre de 2025]llegó motor para cambiar"
+    "observaciones": "[domingo, 14 de septiembre de 2025]llegó motor para cambiar-[domingo, 28 de septiembre de 2025]reparado"
   },
   {
     "codigo": "GRT-42295",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075318169",
     "referencia": "L62090",
@@ -49,13 +49,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-42294",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075545222",
     "referencia": "L92801",
     "producto": "BATIDORA EASY MIX",
     "falla": "Batidores No ensambla,Cuerpo Otro",
-    "s2": "",
+    "s2": "25014810",
     "fecha": "09/09/2025",
     "interno": "TMM673",
     "fechaIngreso": "2025-09-05",
@@ -109,11 +109,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-12",
     "productoIngreso": "plancha universal seca",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada-[jueves, 25 de septiembre de 2025]se hace entrega al cliente del producto ok"
   },
   {
     "codigo": "GRT-40338",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075237206",
     "referencia": "L83696",

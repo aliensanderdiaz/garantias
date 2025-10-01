@@ -25,7 +25,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-05",
     "productoIngreso": "plancha black decker  titanio",
     "lugarDeCompra": "PAGINA BLACK DECKER",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada-[jueves, 18 de septiembre de 2025]producto entregado al cliente "
   },
   {
     "codigo": "142882",
@@ -39,7 +39,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-06",
     "productoIngreso": "exprimidor blanco",
     "lugarDeCompra": "TENCOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro"
   },
   {
     "codigo": "142883",
@@ -61,13 +61,13 @@ let garantiasRedelec = [
     "clienteId": "1075212155",
     "fecha": "2025-09-09",
     "producto": "HF4004B",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "TECNOHOGAR DE COLOMBIA",
     "interno": "DPC220",
     "fechaIngreso": "2025-08-30",
     "productoIngreso": "freidora de 4.5 litros",
     "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio temporizador"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio temporizador-[domingo, 28 de septiembre de 2025]reparado-[lunes, 29 de septiembre de 2025]PRODUCTO ENTREGADO AL CLIENTE CON REPARACION DE TEMPORIZADOR NUEVO "
   },
   {
     "codigo": "143249",
@@ -89,12 +89,12 @@ let garantiasRedelec = [
     "clienteId": "901815397",
     "fecha": "2025-09-09",
     "producto": "CJ4000S",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "ELECTRODOMESTICOS MANA",
     "interno": "AAV987",
     "fechaIngreso": "2025-08-26",
     "productoIngreso": "explimidor de naranjas marca black+decher",
     "lugarDeCompra": "ELECTRODOMESTICOS MANA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor con piñon"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor con piñon-[domingo, 28 de septiembre de 2025]reparada"
   }
 ]

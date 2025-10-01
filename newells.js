@@ -2,40 +2,40 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393177",
     "cliente": "Camilo Andres Guzmán Reyes",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "NWI858",
     "fechaIngreso": "2025-08-27",
     "productoIngreso": "freidora 4 L.",
     "lugarDeCompra": "EXITO PITALITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio microsuiche"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio microsuiche-[domingo, 28 de septiembre de 2025]reparada"
   },
   {
     "codigo": "WO-00393176",
     "cliente": "Luz Mila Omen Claros",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "BLR925",
     "fechaIngreso": "2025-08-27",
     "productoIngreso": "licuadora oster",
     "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta-[lunes, 15 de septiembre de 2025]Van a dar carta"
   },
   {
     "codigo": "WO-00393175",
     "cliente": "Luisa Manrique",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "MSA674",
     "fechaIngreso": "2025-08-28",
     "productoIngreso": "licuadora oster reversible color negro",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta "
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta -[lunes, 15 de septiembre de 2025]Van a dar carta"
   },
   {
     "codigo": "WO-00393172",
     "cliente": "Daniel Ancizar Botero Ibagon",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "08/09/2025",
     "interno": "LNS640",
     "fechaIngreso": "2025-08-29",
@@ -46,7 +46,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393171",
     "cliente": "Miro Pasaje",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "08/09/2025",
     "interno": "ZXJ936",
     "fechaIngreso": "2025-08-29",
@@ -57,29 +57,29 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393169",
     "cliente": "Libardo Ramírez Labrador",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "TOR182",
     "fechaIngreso": "2025-08-30",
     "productoIngreso": "freidora 4 ltrs",
     "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]Se pidio solo microsuiche, aunque alveiro dice que se necesita otro repuesto, pero el de oster dice que no es necesario"
+    "observaciones": "[domingo, 14 de septiembre de 2025]Se pidio solo microsuiche, aunque alveiro dice que se necesita otro repuesto, pero el de oster dice que no es necesario-[domingo, 28 de septiembre de 2025]reparada"
   },
   {
     "codigo": "WO-00393168",
     "cliente": "Uberney Eusatama Trujillo",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "LTQ632",
     "fechaIngreso": "2025-09-01",
     "productoIngreso": "licuadora oster Xpert series",
     "lugarDeCompra": "SODIMAC COLOMBIA SA HOMECENTER",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta-[domingo, 28 de septiembre de 2025]reparada-[lunes, 29 de septiembre de 2025]SE ENTREGA PRODUCTO AL CLIENTE OK"
   },
   {
     "codigo": "WO-00390894",
     "cliente": "Fanny Cordoba",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "30/08/2025",
     "interno": "BOU738",
     "fechaIngreso": "2025-08-14",
@@ -107,7 +107,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-01",
     "productoIngreso": "exprimidor oster negro",
     "lugarDeCompra": "AGRO TERUEL FERRETERIA",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]reparada-[jueves, 18 de septiembre de 2025]producto entregado al cliente "
   },
   {
     "codigo": "WO-00389093",
@@ -151,7 +151,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-02",
     "productoIngreso": "plancha oster ceramica soleplate",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 1 de septiembre de 2025]En espera de aprobacion carta de cambio-[miércoles, 3 de septiembre de 2025]aprobada"
+    "observaciones": "[lunes, 1 de septiembre de 2025]En espera de aprobacion carta de cambio-[miércoles, 3 de septiembre de 2025]aprobada-[sábado, 27 de septiembre de 2025]se le entrego plancha nueva de almacén al cliente OK"
   },
   {
     "codigo": "WO-00389088",
@@ -253,7 +253,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-22",
     "productoIngreso": "licuadora Oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 6 de agosto de 2025]llego motor-[domingo, 10 de agosto de 2025]reparada"
+    "observaciones": "[miércoles, 6 de agosto de 2025]llego motor-[domingo, 10 de agosto de 2025]reparada-[miércoles, 17 de septiembre de 2025]SE HACE ENTREGA DE PRODUCTO AL CLIENTE "
   },
   {
     "codigo": "WO-00381130",
@@ -403,5 +403,305 @@ let garantiasNewells = [
     "cliente": "Nancy Viviana Suarez Heredia",
     "estado": "Entregado",
     "fecha": "23/05/2025"
+  },
+  {
+    "codigo": "WO-00364481",
+    "cliente": "Lina Milena Samboni",
+    "estado": "Entregado",
+    "fecha": "23/05/2025"
+  },
+  {
+    "codigo": "WO-00364345",
+    "cliente": "Jairo Velasquez Rodriguez",
+    "estado": "Entregado",
+    "fecha": "23/05/2025"
+  },
+  {
+    "codigo": "WO-00364212",
+    "cliente": "Luz Elvira Ortiz",
+    "estado": "Entregado",
+    "fecha": "22/05/2025"
+  },
+  {
+    "codigo": "WO-00364210",
+    "cliente": "Carlos Andres Molina",
+    "estado": "Entregado",
+    "fecha": "22/05/2025"
+  },
+  {
+    "codigo": "WO-00364209",
+    "cliente": "Erika Mileidy Calderon",
+    "estado": "Entregado",
+    "fecha": "22/05/2025"
+  },
+  {
+    "codigo": "WO-00363906",
+    "cliente": "Jhon Alexander Calderon",
+    "estado": "Entregado",
+    "fecha": "22/05/2025"
+  },
+  {
+    "codigo": "WO-00363904",
+    "cliente": "Yorman Ortega",
+    "estado": "Entregado",
+    "fecha": "22/05/2025"
+  },
+  {
+    "codigo": "WO-00363903",
+    "cliente": "Empresa De Suministros, Logística Y Asesorías Integrales Azteca Sas",
+    "estado": "Entregado",
+    "fecha": "22/05/2025"
+  },
+  {
+    "codigo": "WO-00362370",
+    "cliente": "Tatiana Ramírez",
+    "estado": "Entregado",
+    "fecha": "16/05/2025"
+  },
+  {
+    "codigo": "WO-00357076",
+    "cliente": "Marleny Sterling Ramirez",
+    "estado": "Entregado",
+    "fecha": "28/04/2025"
+  },
+  {
+    "codigo": "WO-00357072",
+    "cliente": "Elcy Patricia Montenegro",
+    "estado": "Entregado",
+    "fecha": "28/04/2025"
+  },
+  {
+    "codigo": "WO-00357066",
+    "cliente": "Jaime Andres Meneses Cabrera",
+    "estado": "Entregado",
+    "fecha": "28/04/2025"
+  },
+  {
+    "codigo": "WO-00352731",
+    "cliente": "Juan Daniel Vargas",
+    "estado": "Entregado",
+    "fecha": "10/04/2025"
+  },
+  {
+    "codigo": "WO-00352730",
+    "cliente": "Almacén El Festival Del Hogar Florencia",
+    "estado": "Entregado",
+    "fecha": "10/04/2025"
+  },
+  {
+    "codigo": "WO-00351290",
+    "cliente": "Jova Perdomo",
+    "estado": "Entregado",
+    "fecha": "04/04/2025"
+  },
+  {
+    "codigo": "WO-00351274",
+    "cliente": "Lina Milena Samboni",
+    "estado": "Entregado",
+    "fecha": "04/04/2025"
+  },
+  {
+    "codigo": "WO-00351273",
+    "cliente": "Ayda Leany Samboni Beltran",
+    "estado": "Entregado",
+    "fecha": "04/04/2025"
+  },
+  {
+    "codigo": "WO-00351092",
+    "cliente": "Ximena Ochoa",
+    "estado": "Entregado",
+    "fecha": "03/04/2025"
+  },
+  {
+    "codigo": "WO-00351050",
+    "cliente": "Eliana Yineth Chacon Tejada",
+    "estado": "Entregado",
+    "fecha": "03/04/2025"
+  },
+  {
+    "codigo": "WO-00350999",
+    "cliente": "Andrea Tovar",
+    "estado": "Entregado",
+    "fecha": "03/04/2025"
+  },
+  {
+    "codigo": "WO-00350992",
+    "cliente": "Gabriel Antonio Goyes Urbano",
+    "estado": "Entregado",
+    "fecha": "03/04/2025"
+  },
+  {
+    "codigo": "WO-00348211",
+    "cliente": "Jorge Armando Trujillo",
+    "estado": "Entregado",
+    "fecha": "26/03/2025"
+  },
+  {
+    "codigo": "WO-00347174",
+    "cliente": "Willian Alberto Padilla Ariza",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347170",
+    "cliente": "Nury Perez",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347169",
+    "cliente": "Margoht Rodríguez",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347060",
+    "cliente": "Aider Díaz",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347057",
+    "cliente": "Silvia Fernanda Mosquera Rojas",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347043",
+    "cliente": "Alberto Betsancut",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347042",
+    "cliente": "Betania Byo Sas",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347035",
+    "cliente": "Karen Lizeth Vásquez Munar",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347034",
+    "cliente": "Ana Beiba Astudillo",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347030",
+    "cliente": "Juan Diego Laverde Ospina",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00347027",
+    "cliente": "Yineth Medina Vargas",
+    "estado": "Entregado",
+    "fecha": "21/03/2025"
+  },
+  {
+    "codigo": "WO-00344313",
+    "cliente": "Mesthil Ruiz Duran",
+    "estado": "Entregado",
+    "fecha": "11/03/2025"
+  },
+  {
+    "codigo": "WO-00344310",
+    "cliente": "Diana Marcela Córdoba Lopez",
+    "estado": "Entregado",
+    "fecha": "11/03/2025"
+  },
+  {
+    "codigo": "WO-00341622",
+    "cliente": "Kerly Alexandra Gutiérrez",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00341614",
+    "cliente": "Diego Fernando Manrrique Fernández",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00341610",
+    "cliente": "Carlos Alberto Martin",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00341608",
+    "cliente": "Karen Muñoz Urbano",
+    "estado": "Entregado",
+    "fecha": "28/02/2025"
+  },
+  {
+    "codigo": "WO-00336658",
+    "cliente": "Almacenes Exito S.a.",
+    "estado": "Entregado",
+    "fecha": "12/02/2025"
+  },
+  {
+    "codigo": "WO-00336649",
+    "cliente": "Almacenes Exito S.a.",
+    "estado": "Entregado",
+    "fecha": "12/02/2025"
+  },
+  {
+    "codigo": "WO-00336212",
+    "cliente": "Almacenes Exito S.a.",
+    "estado": "Entregado",
+    "fecha": "10/02/2025"
+  },
+  {
+    "codigo": "WO-00336209",
+    "cliente": "Almacenes Universal S.a.s.",
+    "estado": "Entregado",
+    "fecha": "10/02/2025"
+  },
+  {
+    "codigo": "WO-00335375",
+    "cliente": "Yenifer Andrea Reyes Cubillos",
+    "estado": "Entregado",
+    "fecha": "06/02/2025"
+  },
+  {
+    "codigo": "WO-00334716",
+    "cliente": "Rosa Escobar",
+    "estado": "Entregado",
+    "fecha": "04/02/2025"
+  },
+  {
+    "codigo": "WO-00334672",
+    "cliente": "Edgar Quimbaya",
+    "estado": "Entregado",
+    "fecha": "04/02/2025"
+  },
+  {
+    "codigo": "WO-00331552",
+    "cliente": "Metro Pitalito",
+    "estado": "Entregado",
+    "fecha": "24/01/2025"
+  },
+  {
+    "codigo": "WO-00331410",
+    "cliente": "Lorena Rengifo",
+    "estado": "Entregado",
+    "fecha": "24/01/2025"
+  },
+  {
+    "codigo": "WO-00331359",
+    "cliente": "Claudia Muñoz Martínez",
+    "estado": "Entregado",
+    "fecha": "24/01/2025"
+  },
+  {
+    "codigo": "WO-00331121",
+    "cliente": "Pedro Nell Trujillo",
+    "estado": "Entregado",
+    "fecha": "23/01/2025"
   }
 ]
