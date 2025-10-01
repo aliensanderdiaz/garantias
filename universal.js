@@ -1,7 +1,7 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-42630",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7722981",
     "referencia": "L50803",

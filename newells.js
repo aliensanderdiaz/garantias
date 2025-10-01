@@ -13,13 +13,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393176",
     "cliente": "Luz Mila Omen Claros",
-    "estado": "Pre-terminado",
-    "fecha": "08/09/2025",
-    "interno": "BLR925",
-    "fechaIngreso": "2025-08-27",
-    "productoIngreso": "licuadora oster",
-    "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio tarjeta-[lunes, 15 de septiembre de 2025]Van a dar carta"
+    "estado": "Entregado",
+    "fecha": "08/09/2025"
   },
   {
     "codigo": "WO-00393175",
@@ -30,7 +25,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-28",
     "productoIngreso": "licuadora oster reversible color negro",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta -[lunes, 15 de septiembre de 2025]Van a dar carta"
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta -[lunes, 15 de septiembre de 2025]Van a dar carta-[miércoles, 1 de octubre de 2025]carta aprobada"
   },
   {
     "codigo": "WO-00393172",
