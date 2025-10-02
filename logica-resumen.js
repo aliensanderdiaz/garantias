@@ -46,7 +46,6 @@ html += `
         <tr>
             <th scope="col">#</th>
             <th scope="col">Fecha</th>
-            <th scope="col">Fecha</th>
             <th scope="col">Interno</th>
             <th scope="col">Código</th>
             <th scope="col">Producto</th>
@@ -61,8 +60,7 @@ garantias.forEach((garantia, index) => {
     html += `
                 <tr>
                     <td>${ index + 1 }</td>
-                    <td>${ garantia.fechaIngreso }</td>
-                    <td>${ garantia.fecha }</td>
+                    <td>${ garantia.fechaIngreso } <br> ${ garantia.fecha }</td>
                     <td>${ garantia.interno }</td>
                     <td>${ garantia.codigo }</td>
                     <td>${ garantia.productoIngreso ? garantia.productoIngreso.substring(0,15) : '' }</td>
