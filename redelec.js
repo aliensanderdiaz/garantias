@@ -26,33 +26,5 @@ let garantiasRedelec = [
     "productoIngreso": "exprimidor blanco",
     "lugarDeCompra": "TENCOHOGAR",
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro"
-  },
-  {
-    "codigo": "143249",
-    "cliente": "YANETH LOSADA",
-    "clienteId": "36174152",
-    "fecha": "2025-09-09",
-    "producto": "IRBD352",
-    "estado": "PREFINALIZADO",
-    "almacen": "EXITO SAN PEDRO",
-    "interno": "UST119",
-    "fechaIngreso": "2025-08-27",
-    "productoIngreso": "plancha",
-    "lugarDeCompra": "EXITO SAN PEDRO PLAZA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]alveiro dice que esta en buen estado que funciona normal"
-  },
-  {
-    "codigo": "143250",
-    "cliente": "HONEY AGAPE COFFEE Y",
-    "clienteId": "901815397",
-    "fecha": "2025-09-09",
-    "producto": "CJ4000S",
-    "estado": "PREFINALIZADO",
-    "almacen": "ELECTRODOMESTICOS MANA",
-    "interno": "AAV987",
-    "fechaIngreso": "2025-08-26",
-    "productoIngreso": "explimidor de naranjas marca black+decher",
-    "lugarDeCompra": "ELECTRODOMESTICOS MANA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor con piñon-[domingo, 28 de septiembre de 2025]reparada"
   }
 ]

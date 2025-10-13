@@ -1,21 +1,5 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-42630",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "7722981",
-    "referencia": "L50803",
-    "producto": "LICUADORA LA TRADICIONAL",
-    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "25015403",
-    "fecha": "15/09/2025",
-    "interno": "THI911",
-    "fechaIngreso": "2025-08-30",
-    "productoIngreso": "licuadora",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]pedir motor y teclado-[domingo, 14 de septiembre de 2025]se pidio producto-[miércoles, 1 de octubre de 2025]llega licuadora nueva"
-  },
-  {
     "codigo": "GRT-42301",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -49,7 +33,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-42294",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075545222",
     "referencia": "L92801",
@@ -61,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-05",
     "productoIngreso": "batidora manual",
     "lugarDeCompra": "MUEBLES Y ELECTRODOMESTICOS BERNAL",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio piñones-[domingo, 14 de septiembre de 2025]se pidio producto"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio piñones-[domingo, 14 de septiembre de 2025]se pidio producto-[miércoles, 1 de octubre de 2025]llego batidora nueva"
   },
   {
     "codigo": "GRT-41746",
@@ -81,7 +65,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-41436",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1006029837",
     "referencia": "L50861",
@@ -93,7 +77,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-01",
     "productoIngreso": "licuadora universal potency mix roja",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[lunes, 6 de octubre de 2025]llega licuadora nueva-[lunes, 13 de octubre de 2025]entregada 7 de octubre"
   },
   {
     "codigo": "GRT-40338",

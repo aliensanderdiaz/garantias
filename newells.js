@@ -2,13 +2,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393177",
     "cliente": "Camilo Andres Guzmán Reyes",
-    "estado": "Pre-terminado",
-    "fecha": "08/09/2025",
-    "interno": "NWI858",
-    "fechaIngreso": "2025-08-27",
-    "productoIngreso": "freidora 4 L.",
-    "lugarDeCompra": "EXITO PITALITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio microsuiche-[domingo, 28 de septiembre de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "08/09/2025"
   },
   {
     "codigo": "WO-00393176",
@@ -52,13 +47,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393169",
     "cliente": "Libardo Ramírez Labrador",
-    "estado": "Pre-terminado",
-    "fecha": "08/09/2025",
-    "interno": "TOR182",
-    "fechaIngreso": "2025-08-30",
-    "productoIngreso": "freidora 4 ltrs",
-    "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[domingo, 14 de septiembre de 2025]Se pidio solo microsuiche, aunque alveiro dice que se necesita otro repuesto, pero el de oster dice que no es necesario-[domingo, 28 de septiembre de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "08/09/2025"
   },
   {
     "codigo": "WO-00393168",
