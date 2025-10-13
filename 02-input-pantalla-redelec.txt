@@ -15,9 +15,7 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-45	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	45	BLACK+DECKER	IR3001	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-22	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	22	BLACK+DECKER	CJ650W	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-16	143249	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Producto no presenta falla	YANETH LOSADA	36174152	2025-09-09 01:48:48	16	BLACK+DECKER	IRBD352	PREFINALIZADO	EXITO SAN PEDRO	Ver Ticket	Trazabilidad
-16	143250	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	HONEY AGAPE COFFEE Y	901815397	2025-09-09 01:56:28	16	BLACK+DECKER	CJ4000S	PREFINALIZADO	ELECTRODOMESTICOS MANA	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 4 de un total de 4 registrosAnterior1Siguiente
+53	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	53	BLACK+DECKER	IR3001	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+30	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	30	BLACK+DECKER	CJ650W	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 2 de un total de 2 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

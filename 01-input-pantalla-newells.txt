@@ -3,7 +3,6 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
-Cuenta del centro de servicio
 Más
 Search...
 
@@ -45,7 +44,7 @@ Propietario
 
 Acción
 
-Pre-terminado
+Entregado
 WO-00393177
 8/09/2025 09:41 p. m.
 Garantía
@@ -90,7 +89,7 @@ Miro Pasaje
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00393169
 8/09/2025 09:12 p. m.
 Garantía
