@@ -91,18 +91,23 @@ let garantiasNewells = [
     "codigo": "WO-00404604",
     "cliente": "Nuri Yineth Polo Ruiz",
     "estado": "En progreso",
-    "fecha": "22/10/2025"
+    "fecha": "22/10/2025",
+    "interno": "THQ639",
+    "fechaIngreso": "2025-09-08",
+    "productoIngreso": "sanduchera oster 3 en 1",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se le cambio automatico suministrado por almacen y se entrego producto reparado"
   },
   {
     "codigo": "WO-00404306",
     "cliente": "Juan Camilo Parra",
     "estado": "En progreso",
     "fecha": "21/10/2025",
-    "interno": "THQ639",
-    "fechaIngreso": "2025-09-08",
-    "productoIngreso": "sanduchera oster 3 en 1",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se le cambio automatico suministrado por almacen y se entrego producto reparado"
+    "interno": "IQQ944",
+    "fechaIngreso": "2025-09-15",
+    "productoIngreso": "licuadora",
+    "lugarDeCompra": "MISCELANEA JIREH",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pide motor y teclado"
   },
   {
     "codigo": "WO-00404282",
