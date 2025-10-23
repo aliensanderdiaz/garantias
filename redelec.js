@@ -26,5 +26,33 @@ let garantiasRedelec = [
     "productoIngreso": "exprimidor blanco",
     "lugarDeCompra": "TENCOHOGAR",
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro"
+  },
+  {
+    "codigo": "145114",
+    "cliente": "DIANA PATRICIA PERDOMO",
+    "clienteId": "1075235914",
+    "fecha": "2025-10-21",
+    "producto": "MX9125-2BDLA",
+    "estado": "TRAMITE",
+    "almacen": "TECNOHOGAR NEIVA",
+    "interno": "BKE343",
+    "fechaIngreso": "2025-09-18",
+    "productoIngreso": "batidora",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor y suiche"
+  },
+  {
+    "codigo": "145138",
+    "cliente": "FERNANDO VASQUEZ",
+    "clienteId": "12197944",
+    "fecha": "2025-10-21",
+    "producto": "CM0701B",
+    "estado": "TRAMITE",
+    "almacen": "TECNOHOGAR NEIVA",
+    "interno": "TPT347",
+    "fechaIngreso": "2025-09-09",
+    "productoIngreso": "cafetera 5 tazas",
+    "lugarDeCompra": "TENOHOGAR DE COLOMBIA",
+    "observaciones": "[domingo, 28 de septiembre de 2025]reparada con resistencia prestada"
   }
 ]

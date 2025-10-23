@@ -1,5 +1,143 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00404823",
+    "cliente": "Glemys Martinez Caviedes",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "GLS969",
+    "fechaIngreso": "2025-10-20",
+    "productoIngreso": "motor de licuadora Oster",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00404819",
+    "cliente": "Oscar Eduardo Polo Rojas",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "WYD047",
+    "fechaIngreso": "2025-10-10",
+    "productoIngreso": "freidora oster 3.8litros manual",
+    "lugarDeCompra": "LAGOBO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00404810",
+    "cliente": "Maria Fernanda Murcia",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "UJC882",
+    "fechaIngreso": "2025-09-23",
+    "productoIngreso": "exprimidor de citricos oster",
+    "lugarDeCompra": "ALMACÉNES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00404807",
+    "cliente": "Andres Felipe Mejia",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "QNV900",
+    "fechaIngreso": "2025-10-17",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "CACHARRERIA EL REY",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00404805",
+    "cliente": "Cencosud Colombia S.a.",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "IRP073",
+    "fechaIngreso": "2025-09-10",
+    "productoIngreso": "arrocera oster",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se reparó con sensor prestado"
+  },
+  {
+    "codigo": "WO-00404799",
+    "cliente": "Maria Elena García Lugo",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "LYA281",
+    "fechaIngreso": "2025-09-11",
+    "productoIngreso": "freidora 7.5 digital",
+    "lugarDeCompra": "ÉXITO PITALITO",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor"
+  },
+  {
+    "codigo": "WO-00404621",
+    "cliente": "Suleima Espinoza",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "CZX196",
+    "fechaIngreso": "2025-10-15",
+    "productoIngreso": "licuadora",
+    "lugarDeCompra": "SUPERMERCADO POPULAR",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor-[miércoles, 22 de octubre de 2025]se pidio motor"
+  },
+  {
+    "codigo": "WO-00404609",
+    "cliente": "Francy Johanna Ramírez",
+    "estado": "En progreso",
+    "fecha": "22/10/2025",
+    "interno": "PWW623",
+    "fechaIngreso": "2025-09-19",
+    "productoIngreso": "licuadora classic",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor y suiche"
+  },
+  {
+    "codigo": "WO-00404604",
+    "cliente": "Nuri Yineth Polo Ruiz",
+    "estado": "En progreso",
+    "fecha": "22/10/2025"
+  },
+  {
+    "codigo": "WO-00404306",
+    "cliente": "Juan Camilo Parra",
+    "estado": "En progreso",
+    "fecha": "21/10/2025",
+    "interno": "THQ639",
+    "fechaIngreso": "2025-09-08",
+    "productoIngreso": "sanduchera oster 3 en 1",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": "[miércoles, 22 de octubre de 2025]se le cambio automatico suministrado por almacen y se entrego producto reparado"
+  },
+  {
+    "codigo": "WO-00404282",
+    "cliente": "Fernando Agredo Trujillo",
+    "estado": "En progreso",
+    "fecha": "21/10/2025",
+    "interno": "SPT504",
+    "fechaIngreso": "2025-09-09",
+    "productoIngreso": "freidora 3.8L",
+    "lugarDeCompra": "EXITO PITALITO",
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir termocontrol"
+  },
+  {
+    "codigo": "WO-00404279",
+    "cliente": "Hebert Quimbaya",
+    "estado": "En progreso",
+    "fecha": "21/10/2025",
+    "interno": "VYG739",
+    "fechaIngreso": "2025-09-11",
+    "productoIngreso": "licuadora oster",
+    "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor"
+  },
+  {
+    "codigo": "WO-00404157",
+    "cliente": "Kelly Jhoana Ome Scarpetta",
+    "estado": "En progreso",
+    "fecha": "21/10/2025",
+    "interno": "JOD364",
+    "fechaIngreso": "2025-09-13",
+    "productoIngreso": "cafetera",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[sábado, 18 de octubre de 2025]Reparada con termocontrol y fusibles prestados por el almacen"
+  },
+  {
     "codigo": "WO-00393177",
     "cliente": "Camilo Andres Guzmán Reyes",
     "estado": "Entregado",
@@ -25,24 +163,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393172",
     "cliente": "Daniel Ancizar Botero Ibagon",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "LNS640",
     "fechaIngreso": "2025-08-29",
     "productoIngreso": "licuadora clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor "
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada"
   },
   {
     "codigo": "WO-00393171",
     "cliente": "Miro Pasaje",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "08/09/2025",
     "interno": "ZXJ936",
     "fechaIngreso": "2025-08-29",
     "productoIngreso": "licuadora clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor "
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada"
   },
   {
     "codigo": "WO-00393169",
@@ -191,13 +329,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00381139",
     "cliente": "Compañia Comercial Universal Sas",
-    "estado": "Pre-terminado",
-    "fecha": "24/07/2025",
-    "interno": "VUD816",
-    "fechaIngreso": "2025-07-21",
-    "productoIngreso": "percolador de acero inoxidable",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 14 de agosto de 2025]carta de cambio"
+    "estado": "Entregado",
+    "fecha": "24/07/2025"
   },
   {
     "codigo": "WO-00381136",
@@ -275,83 +408,5 @@ let garantiasNewells = [
     "cliente": "Nidia Ruiz",
     "estado": "Entregado",
     "fecha": "14/07/2025"
-  },
-  {
-    "codigo": "WO-00378420",
-    "cliente": "Clara Ines Guzmán Tapia",
-    "estado": "Entregado",
-    "fecha": "14/07/2025"
-  },
-  {
-    "codigo": "WO-00378416",
-    "cliente": "Yohn Aiver Parra Artunduaga",
-    "estado": "Entregado",
-    "fecha": "14/07/2025"
-  },
-  {
-    "codigo": "WO-00378412",
-    "cliente": "Victor Manuel Guzman",
-    "estado": "Entregado",
-    "fecha": "14/07/2025"
-  },
-  {
-    "codigo": "WO-00378410",
-    "cliente": "Carlos Acosta",
-    "estado": "Entregado",
-    "fecha": "14/07/2025"
-  },
-  {
-    "codigo": "WO-00374886",
-    "cliente": "Diana Marcela Cardona Lopez",
-    "estado": "Entregado",
-    "fecha": "30/06/2025"
-  },
-  {
-    "codigo": "WO-00374884",
-    "cliente": "Luz Elvira Ortiz Tovar",
-    "estado": "Entregado",
-    "fecha": "30/06/2025"
-  },
-  {
-    "codigo": "WO-00374861",
-    "cliente": "Asesorias Y Operaciones Hoteleras Del Sur S.a.s.",
-    "estado": "Entregado",
-    "fecha": "30/06/2025"
-  },
-  {
-    "codigo": "WO-00374858",
-    "cliente": "Luis Carlos Díaz Losada",
-    "estado": "Entregado",
-    "fecha": "30/06/2025"
-  },
-  {
-    "codigo": "WO-00374853",
-    "cliente": "Kelly Yohana Claros",
-    "estado": "Entregado",
-    "fecha": "30/06/2025"
-  },
-  {
-    "codigo": "WO-00368532",
-    "cliente": "Lizeth Carolina Benavidez Díaz",
-    "estado": "Entregado",
-    "fecha": "07/06/2025"
-  },
-  {
-    "codigo": "WO-00368531",
-    "cliente": "Luz Adriana Méndez",
-    "estado": "Entregado",
-    "fecha": "07/06/2025"
-  },
-  {
-    "codigo": "WO-00365949",
-    "cliente": "Gildardo Cajibion",
-    "estado": "Entregado",
-    "fecha": "29/05/2025"
-  },
-  {
-    "codigo": "WO-00364485",
-    "cliente": "Nancy Viviana Suarez Heredia",
-    "estado": "Entregado",
-    "fecha": "23/05/2025"
   }
 ]
