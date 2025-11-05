@@ -108,13 +108,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404604",
     "cliente": "Nuri Yineth Polo Ruiz",
-    "estado": "Pre-terminado",
-    "fecha": "22/10/2025",
-    "interno": "THQ639",
-    "fechaIngreso": "2025-09-08",
-    "productoIngreso": "sanduchera oster 3 en 1",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se le cambio automatico suministrado por almacen y se entrego producto reparado"
+    "estado": "Entregado",
+    "fecha": "22/10/2025"
   },
   {
     "codigo": "WO-00404306",
@@ -147,13 +142,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404157",
     "cliente": "Kelly Jhoana Ome Scarpetta",
-    "estado": "Pre-terminado",
-    "fecha": "21/10/2025",
-    "interno": "JOD364",
-    "fechaIngreso": "2025-09-13",
-    "productoIngreso": "cafetera",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[sábado, 18 de octubre de 2025]Reparada con termocontrol y fusibles prestados por el almacen"
+    "estado": "Entregado",
+    "fecha": "21/10/2025"
   },
   {
     "codigo": "WO-00393177",

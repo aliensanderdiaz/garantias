@@ -96,38 +96,6 @@ let garantiasUniversal = [
     "observaciones": "[domingo, 14 de septiembre de 2025]llegó motor para cambiar-[domingo, 28 de septiembre de 2025]reparado"
   },
   {
-    "codigo": "GRT-42295",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075318169",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Motor Bobinas en corto,Tarjeta electrónica Sin continuidad",
-    "s2": "25014303",
-    "fecha": "09/09/2025",
-    "interno": "EBV960",
-    "fechaIngreso": "2025-09-02",
-    "productoIngreso": "licuadora elite turbo max",
-    "lugarDeCompra": "CENTRO COMERCIAL UNICO NEIVA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor y tarjeta-[viernes, 24 de octubre de 2025]Licaudora nueva lista para entregar"
-  },
-  {
-    "codigo": "GRT-42294",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075545222",
-    "referencia": "L92801",
-    "producto": "BATIDORA EASY MIX",
-    "falla": "Batidores No ensambla,Cuerpo Otro",
-    "s2": "25014810",
-    "fecha": "09/09/2025",
-    "interno": "TMM673",
-    "fechaIngreso": "2025-09-05",
-    "productoIngreso": "batidora manual",
-    "lugarDeCompra": "MUEBLES Y ELECTRODOMESTICOS BERNAL",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio piñones-[domingo, 14 de septiembre de 2025]se pidio producto-[miércoles, 1 de octubre de 2025]llego batidora nueva"
-  },
-  {
     "codigo": "GRT-40338",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
