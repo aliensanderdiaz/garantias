@@ -15,9 +15,9 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-61	141549	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MARINELA CALDERON	55173320	2025-07-30 12:23:43	61	BLACK+DECKER	IR3001	PREFINALIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-38	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	38	BLACK+DECKER	CJ650W	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-2	145114	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA PATRICIA PERDOMO	1075235914	2025-10-21 15:59:15	2	BLACK+DECKER	MX9125-2BDLA	TRAMITE	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-2	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	2	BLACK+DECKER	CM0701B	TRAMITE	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+47	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	47	BLACK+DECKER	CJ650W	DESPACHADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+11	145114	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA PATRICIA PERDOMO	1075235914	2025-10-21 15:59:15	11	BLACK+DECKER	MX9125-2BDLA	TRAMITE	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+11	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	11	BLACK+DECKER	CM0701B	TRAMITE	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+0	145749	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	PROFESSIONAL CONSULTING SERVICES S.A.S.	900882909	2025-11-05 00:52:27	0	BLACK+DECKER	CM1331S-LA	TRAMITE	Sodimac/Homecenter Neiva	Ver Ticket	Trazabilidad
 Mostrando registros del 1 al 4 de un total de 4 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -
