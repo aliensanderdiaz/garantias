@@ -11,7 +11,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-07-25",
     "productoIngreso": "plancha black decker azul con blanco",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA"
+    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA-[sábado, 1 de noviembre de 2025]SE HACE ENTREGA DE PRODUCTO AL CLIENTE (automático, fusible y resistencia NUEVOS)"
   },
   {
     "codigo": "142882",

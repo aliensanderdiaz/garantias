@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-10-20",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[miércoles, 29 de octubre de 2025]llegan repuestos-[viernes, 31 de octubre de 2025]Listo para entregar-[martes, 4 de noviembre de 2025]PRODUCTO ENTREGADO AL CLIENTE (motor y tarjeta nuevos)OK."
   },
   {
     "codigo": "GRT-62838",
@@ -29,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-27",
     "productoIngreso": "plancha green colors",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[viernes, 31 de octubre de 2025]SE LE HACE CAMBIO DEL PRODUCTO ENTREGADO AL CLIENTE OK."
   },
   {
     "codigo": "GRT-62809",
@@ -45,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-15",
     "productoIngreso": "licuadora corona",
     "lugarDeCompra": "D'TODO",
-    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor y teclado"
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor y teclado-[sábado, 1 de noviembre de 2025]Llega licuadora nueva"
   },
   {
     "codigo": "GRT-62772",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-26",
     "productoIngreso": "termo bomba de 4 litros universal",
     "lugarDeCompra": "ALMACENES UNIO",
-    "observaciones": "[sábado, 18 de octubre de 2025]producto para cambio"
+    "observaciones": "[sábado, 18 de octubre de 2025]producto para cambio-[sábado, 1 de noviembre de 2025]Llega Termobomba nuevo"
   },
   {
     "codigo": "GRT-42301",
@@ -93,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-02",
     "productoIngreso": "licuadora elite turbo max",
     "lugarDeCompra": "CENTRO COMERCIAL UNICO NEIVA",
-    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor y tarjeta"
+    "observaciones": "[domingo, 14 de septiembre de 2025]se pidio motor y tarjeta-[viernes, 24 de octubre de 2025]Licaudora nueva lista para entregar"
   },
   {
     "codigo": "GRT-42294",
@@ -125,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-08-06",
     "productoIngreso": "ventilador universal 3 en 1 dinami",
     "lugarDeCompra": "MAXI MUEBLES",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[martes, 4 de noviembre de 2025]PRODUCTO ENTREGADO AL CLIENTE (VENTILADOR NUEVO) OK."
   },
   {
     "codigo": "GRT-41436",
@@ -157,7 +157,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-07-29",
     "productoIngreso": "exprimidor de citricos",
     "lugarDeCompra": "CACHARRERIA EL REY DE LOS PRECIOS BAJOS",
-    "observaciones": "[viernes, 15 de agosto de 2025]MOTOR CON PIÑON martes 5 de agosto-[sábado, 30 de agosto de 2025]MOTOR QUE LLEGÓ... LLEGÓ SIN PIÑONES... ADEMAS NO FUNCIONA"
+    "observaciones": "[viernes, 15 de agosto de 2025]MOTOR CON PIÑON martes 5 de agosto-[sábado, 30 de agosto de 2025]MOTOR QUE LLEGÓ... LLEGÓ SIN PIÑONES... ADEMAS NO FUNCIONA-[viernes, 24 de octubre de 2025]dice que enviaron un producto nuevo-[viernes, 24 de octubre de 2025]alejandra firmo el recibido"
   },
   {
     "codigo": "GRT-39110",

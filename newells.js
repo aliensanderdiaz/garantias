@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-10-20",
     "productoIngreso": "motor de licuadora Oster",
     "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[martes, 4 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404819",
@@ -19,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-10-10",
     "productoIngreso": "freidora oster 3.8litros manual",
     "lugarDeCompra": "LAGOBO",
-    "observaciones": ""
+    "observaciones": "[martes, 28 de octubre de 2025]Van a dar carta de cambio"
   },
   {
     "codigo": "WO-00404810",
@@ -30,7 +30,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-23",
     "productoIngreso": "exprimidor de citricos oster",
     "lugarDeCompra": "ALMACÉNES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[martes, 4 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404807",
@@ -41,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-10-17",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "CACHARRERIA EL REY",
-    "observaciones": ""
+    "observaciones": "[martes, 4 de noviembre de 2025]reparada con motor nuevo"
   },
   {
     "codigo": "WO-00404805",
@@ -52,7 +52,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-10",
     "productoIngreso": "arrocera oster",
     "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se reparó con sensor prestado"
+    "observaciones": "[miércoles, 22 de octubre de 2025]se reparó con sensor prestado-[miércoles, 29 de octubre de 2025]lista para despachar"
   },
   {
     "codigo": "WO-00404799",
@@ -63,7 +63,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-11",
     "productoIngreso": "freidora 7.5 digital",
     "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor"
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor-[martes, 28 de octubre de 2025]Van a dar carta de cambio"
   },
   {
     "codigo": "WO-00404621",
@@ -74,7 +74,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-10-15",
     "productoIngreso": "licuadora",
     "lugarDeCompra": "SUPERMERCADO POPULAR",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor-[miércoles, 22 de octubre de 2025]se pidio motor"
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor-[miércoles, 22 de octubre de 2025]se pidio motor-[martes, 4 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404609",
@@ -85,7 +85,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-19",
     "productoIngreso": "licuadora classic",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor y suiche"
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor y suiche-[martes, 4 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404604",
@@ -107,7 +107,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-15",
     "productoIngreso": "licuadora",
     "lugarDeCompra": "MISCELANEA JIREH",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se pide motor y teclado"
+    "observaciones": "[miércoles, 22 de octubre de 2025]se pide motor y teclado-[martes, 4 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404282",
@@ -118,7 +118,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-09",
     "productoIngreso": "freidora 3.8L",
     "lugarDeCompra": "EXITO PITALITO",
-    "observaciones": "[sábado, 18 de octubre de 2025]pedir termocontrol"
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir termocontrol-[martes, 28 de octubre de 2025]van dar carta"
   },
   {
     "codigo": "WO-00404279",
@@ -129,7 +129,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-09-11",
     "productoIngreso": "licuadora oster",
     "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
-    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor"
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor-[martes, 4 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404157",
@@ -219,7 +219,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-12",
     "productoIngreso": "extrator oster grande",
     "lugarDeCompra": "ALMCENES UNIVERSAL",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no envian lo que se solicito-[domingo, 14 de septiembre de 2025]alveiro dice suiche falla, llega repuesto 2131803 (es el codigo del interruptor en el excel - pero dice diodo en la pagina que es 2131801), el producto es 2107532, "
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no envian lo que se solicito-[domingo, 14 de septiembre de 2025]alveiro dice suiche falla, llega repuesto 2131803 (es el codigo del interruptor en el excel - pero dice diodo en la pagina que es 2131801), el producto es 2107532, -[lunes, 27 de octubre de 2025]Reparada-[martes, 28 de octubre de 2025]SE HACE ENTREGA DE PRODUCTO AL CLIENTE CON SUICHE NUEVO \n"
   },
   {
     "codigo": "WO-00390884",
@@ -364,7 +364,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-07-22",
     "productoIngreso": "licuadora oster tradicional",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 6 de agosto de 2025]Llegó motor-[domingo, 10 de agosto de 2025]reparada"
+    "observaciones": "[miércoles, 6 de agosto de 2025]Llegó motor-[domingo, 10 de agosto de 2025]reparada-[jueves, 23 de octubre de 2025]se le hace entrega de la licuadora oster motor nuevo"
   },
   {
     "codigo": "WO-00380807",
