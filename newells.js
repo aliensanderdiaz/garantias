@@ -1,8 +1,41 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00408781",
+    "cliente": "Luis Ramírez",
+    "estado": "Nuevo",
+    "fecha": "04/11/2025",
+    "interno": "HVN919",
+    "fechaIngreso": "2025-10-23",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[martes, 4 de noviembre de 2025]dice que pedir suiche y cable... confirmar\n"
+  },
+  {
+    "codigo": "WO-00408779",
+    "cliente": "Egna Karina Herrera Celis",
+    "estado": "En progreso",
+    "fecha": "04/11/2025",
+    "interno": "UTQ892",
+    "fechaIngreso": "2025-10-27",
+    "productoIngreso": "licudaros oster classica",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[martes, 4 de noviembre de 2025]se pide suiche y motor"
+  },
+  {
+    "codigo": "WO-00408775",
+    "cliente": "Isabel Torres Luna",
+    "estado": "En progreso",
+    "fecha": "04/11/2025",
+    "interno": "WWC962",
+    "fechaIngreso": "2025-11-04",
+    "productoIngreso": "motor oster de 2 velocidades",
+    "lugarDeCompra": "UNIVERSAL DE OSTER",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00404823",
     "cliente": "Glemys Martinez Caviedes",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "22/10/2025",
     "interno": "GLS969",
     "fechaIngreso": "2025-10-20",
@@ -13,18 +46,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404819",
     "cliente": "Oscar Eduardo Polo Rojas",
-    "estado": "En progreso",
-    "fecha": "22/10/2025",
-    "interno": "WYD047",
-    "fechaIngreso": "2025-10-10",
-    "productoIngreso": "freidora oster 3.8litros manual",
-    "lugarDeCompra": "LAGOBO",
-    "observaciones": "[martes, 28 de octubre de 2025]Van a dar carta de cambio"
+    "estado": "Entregado",
+    "fecha": "22/10/2025"
   },
   {
     "codigo": "WO-00404810",
     "cliente": "Maria Fernanda Murcia",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "22/10/2025",
     "interno": "UJC882",
     "fechaIngreso": "2025-09-23",
@@ -35,7 +63,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404807",
     "cliente": "Andres Felipe Mejia",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "22/10/2025",
     "interno": "QNV900",
     "fechaIngreso": "2025-10-17",
@@ -46,29 +74,19 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404805",
     "cliente": "Cencosud Colombia S.a.",
-    "estado": "En progreso",
-    "fecha": "22/10/2025",
-    "interno": "IRP073",
-    "fechaIngreso": "2025-09-10",
-    "productoIngreso": "arrocera oster",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se reparó con sensor prestado-[miércoles, 29 de octubre de 2025]lista para despachar"
+    "estado": "Entregado",
+    "fecha": "22/10/2025"
   },
   {
     "codigo": "WO-00404799",
     "cliente": "Maria Elena García Lugo",
-    "estado": "En progreso",
-    "fecha": "22/10/2025",
-    "interno": "LYA281",
-    "fechaIngreso": "2025-09-11",
-    "productoIngreso": "freidora 7.5 digital",
-    "lugarDeCompra": "ÉXITO PITALITO",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se pidio motor-[martes, 28 de octubre de 2025]Van a dar carta de cambio"
+    "estado": "Entregado",
+    "fecha": "22/10/2025"
   },
   {
     "codigo": "WO-00404621",
     "cliente": "Suleima Espinoza",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "22/10/2025",
     "interno": "CZX196",
     "fechaIngreso": "2025-10-15",
@@ -79,7 +97,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404609",
     "cliente": "Francy Johanna Ramírez",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "22/10/2025",
     "interno": "PWW623",
     "fechaIngreso": "2025-09-19",
@@ -90,7 +108,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404604",
     "cliente": "Nuri Yineth Polo Ruiz",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "22/10/2025",
     "interno": "THQ639",
     "fechaIngreso": "2025-09-08",
@@ -101,7 +119,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404306",
     "cliente": "Juan Camilo Parra",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "21/10/2025",
     "interno": "IQQ944",
     "fechaIngreso": "2025-09-15",
@@ -112,18 +130,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404282",
     "cliente": "Fernando Agredo Trujillo",
-    "estado": "En progreso",
-    "fecha": "21/10/2025",
-    "interno": "SPT504",
-    "fechaIngreso": "2025-09-09",
-    "productoIngreso": "freidora 3.8L",
-    "lugarDeCompra": "EXITO PITALITO",
-    "observaciones": "[sábado, 18 de octubre de 2025]pedir termocontrol-[martes, 28 de octubre de 2025]van dar carta"
+    "estado": "Entregado",
+    "fecha": "21/10/2025"
   },
   {
     "codigo": "WO-00404279",
     "cliente": "Hebert Quimbaya",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "21/10/2025",
     "interno": "VYG739",
     "fechaIngreso": "2025-09-11",
@@ -134,7 +147,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404157",
     "cliente": "Kelly Jhoana Ome Scarpetta",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "21/10/2025",
     "interno": "JOD364",
     "fechaIngreso": "2025-09-13",
@@ -213,13 +226,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00390887",
     "cliente": "Doris Constanza Medina",
-    "estado": "Despachado",
-    "fecha": "30/08/2025",
-    "interno": "MNP809",
-    "fechaIngreso": "2025-08-12",
-    "productoIngreso": "extrator oster grande",
-    "lugarDeCompra": "ALMCENES UNIVERSAL",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no envian lo que se solicito-[domingo, 14 de septiembre de 2025]alveiro dice suiche falla, llega repuesto 2131803 (es el codigo del interruptor en el excel - pero dice diodo en la pagina que es 2131801), el producto es 2107532, -[lunes, 27 de octubre de 2025]Reparada-[martes, 28 de octubre de 2025]SE HACE ENTREGA DE PRODUCTO AL CLIENTE CON SUICHE NUEVO \n"
+    "estado": "Entregado",
+    "fecha": "30/08/2025"
   },
   {
     "codigo": "WO-00390884",
@@ -358,13 +366,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00380812",
     "cliente": "Oscar Fernando Motta Galindo",
-    "estado": "Pre-terminado",
-    "fecha": "23/07/2025",
-    "interno": "NON029",
-    "fechaIngreso": "2025-07-22",
-    "productoIngreso": "licuadora oster tradicional",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 6 de agosto de 2025]Llegó motor-[domingo, 10 de agosto de 2025]reparada-[jueves, 23 de octubre de 2025]se le hace entrega de la licuadora oster motor nuevo"
+    "estado": "Entregado",
+    "fecha": "23/07/2025"
   },
   {
     "codigo": "WO-00380807",
@@ -395,23 +398,5 @@ let garantiasNewells = [
     "cliente": "Luis Alberto Payares Acosta",
     "estado": "Entregado",
     "fecha": "15/07/2025"
-  },
-  {
-    "codigo": "WO-00378751",
-    "cliente": "Maria Alvarado",
-    "estado": "Entregado",
-    "fecha": "15/07/2025"
-  },
-  {
-    "codigo": "WO-00378435",
-    "cliente": "Maria Lith Bolaños Torres",
-    "estado": "Entregado",
-    "fecha": "14/07/2025"
-  },
-  {
-    "codigo": "WO-00378427",
-    "cliente": "Nidia Ruiz",
-    "estado": "Entregado",
-    "fecha": "14/07/2025"
   }
 ]

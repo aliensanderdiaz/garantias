@@ -1,19 +1,5 @@
 let garantiasRedelec = [
   {
-    "codigo": "141549",
-    "cliente": "MARINELA CALDERON",
-    "clienteId": "55173320",
-    "fecha": "2025-07-30",
-    "producto": "IR3001",
-    "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR NEIVA",
-    "interno": "BHK001",
-    "fechaIngreso": "2025-07-25",
-    "productoIngreso": "plancha black decker azul con blanco",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[viernes, 15 de agosto de 2025]falta reparar-[sábado, 30 de agosto de 2025]REPARADA-[sábado, 1 de noviembre de 2025]SE HACE ENTREGA DE PRODUCTO AL CLIENTE (automático, fusible y resistencia NUEVOS)"
-  },
-  {
     "codigo": "142882",
     "cliente": "MILENA CORTES CUENCA",
     "clienteId": "36181374",
@@ -54,5 +40,19 @@ let garantiasRedelec = [
     "productoIngreso": "cafetera 5 tazas",
     "lugarDeCompra": "TENOHOGAR DE COLOMBIA",
     "observaciones": "[domingo, 28 de septiembre de 2025]reparada con resistencia prestada"
+  },
+  {
+    "codigo": "145749",
+    "cliente": "PROFESSIONAL CONSULTING SERVICES S.A.S.",
+    "clienteId": "900882909",
+    "fecha": "2025-11-05",
+    "producto": "CM1331S-LA",
+    "estado": "TRAMITE",
+    "almacen": "Sodimac/Homecenter Neiva",
+    "interno": "IWT515",
+    "fechaIngreso": "2025-10-27",
+    "productoIngreso": "cafetera 12 tazas",
+    "lugarDeCompra": "HOMECENTER SODIMAC",
+    "observaciones": "[martes, 4 de noviembre de 2025]se reparo con resistencia prestada"
   }
 ]
