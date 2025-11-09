@@ -5,7 +5,7 @@ let garantiasRedelec = [
     "clienteId": "36181374",
     "fecha": "2025-08-30",
     "producto": "CJ650W",
-    "estado": "DESPACHADO",
+    "estado": "AUTORIZADO",
     "almacen": "TECNOHOGAR NEIVA",
     "interno": "WXK718",
     "fechaIngreso": "2025-08-06",
@@ -54,5 +54,19 @@ let garantiasRedelec = [
     "productoIngreso": "cafetera 12 tazas",
     "lugarDeCompra": "HOMECENTER SODIMAC",
     "observaciones": "[martes, 4 de noviembre de 2025]se reparo con resistencia prestada"
+  },
+  {
+    "codigo": "145882",
+    "cliente": "BLANCA ELISA GONZALEZ AVILA",
+    "clienteId": "36177546",
+    "fecha": "2025-11-09",
+    "producto": "HF5055B",
+    "estado": "TRAMITE",
+    "almacen": "GRUPO MERPES",
+    "interno": "QTC709",
+    "fechaIngreso": "2025-10-27",
+    "productoIngreso": "freidora aire 4.5",
+    "lugarDeCompra": "GRUPO MERPES",
+    "observaciones": ""
   }
 ]
