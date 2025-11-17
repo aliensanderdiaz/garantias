@@ -67,7 +67,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-10-27",
     "productoIngreso": "freidora aire 4.5",
     "lugarDeCompra": "GRUPO MERPES",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor"
   },
   {
     "codigo": "146115",
@@ -81,7 +81,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-10",
     "productoIngreso": "plancha de ropa",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió automático y resistencia"
   },
   {
     "codigo": "146121",
@@ -95,6 +95,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-13",
     "productoIngreso": "plancha a vapor impact",
     "lugarDeCompra": "METRO NEIVA",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió automatico y resistencia"
   }
 ]

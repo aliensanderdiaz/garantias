@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-10-31",
     "productoIngreso": "cafetera 12 tazasas",
     "lugarDeCompra": "EXITO NEIVA",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]Se reparó con termocontrol y 2 fusibles prestados"
   },
   {
     "codigo": "WO-00409759",
@@ -19,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-11-04",
     "productoIngreso": "freidora 4 litros",
     "lugarDeCompra": "METRO",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]Se pidió motor"
   },
   {
     "codigo": "WO-00409669",

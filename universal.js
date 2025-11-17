@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-14",
     "productoIngreso": "motor licuadora universal",
     "lugarDeCompra": "ÚNICO",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió tarjeta"
   },
   {
     "codigo": "GRT-64088",
@@ -29,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-14",
     "productoIngreso": "sanduchera",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio"
   },
   {
     "codigo": "GRT-64038",
@@ -45,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-08",
     "productoIngreso": "ventilador fresh ultra V2",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor"
   },
   {
     "codigo": "GRT-63771",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-10-23",
     "productoIngreso": "licuadora universal",
     "lugarDeCompra": "ALMACEN D'TODO",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor"
   },
   {
     "codigo": "GRT-63683",
@@ -93,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-10-31",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "WORK COM",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]Llegó ventilador nuevo"
   },
   {
     "codigo": "GRT-63681",
@@ -125,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-06",
     "productoIngreso": "olla presion 6 litro",
     "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": ""
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio"
   },
   {
     "codigo": "GRT-63192",
