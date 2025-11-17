@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-Nuevo
+En progreso
 WO-00409760
 9/11/2025 07:51 a. m.
 Garantía
@@ -62,7 +62,7 @@ Yenny Banesa Bonilla Avendaño
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00409669
 8/11/2025 11:07 a. m.
 Garantía
@@ -80,7 +80,7 @@ Luis Ramírez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00408779
 4/11/2025 07:56 p. m.
 Garantía
@@ -89,7 +89,7 @@ Egna Karina Herrera Celis
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00408775
 4/11/2025 07:35 p. m.
 Garantía
