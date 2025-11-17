@@ -173,35 +173,20 @@ let garantiasNewells = [
   {
     "codigo": "WO-00393175",
     "cliente": "Luisa Manrique",
-    "estado": "Pre-terminado",
-    "fecha": "08/09/2025",
-    "interno": "MSA674",
-    "fechaIngreso": "2025-08-28",
-    "productoIngreso": "licuadora oster reversible color negro",
-    "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta -[lunes, 15 de septiembre de 2025]Van a dar carta-[miércoles, 1 de octubre de 2025]carta aprobada-[sábado, 15 de noviembre de 2025]se le entrega carta de cambio"
+    "estado": "Entregado",
+    "fecha": "08/09/2025"
   },
   {
     "codigo": "WO-00393172",
     "cliente": "Daniel Ancizar Botero Ibagon",
-    "estado": "Pre-terminado",
-    "fecha": "08/09/2025",
-    "interno": "LNS640",
-    "fechaIngreso": "2025-08-29",
-    "productoIngreso": "licuadora clasica",
-    "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada-[sábado, 15 de noviembre de 2025]se le entrega licuadora reparada motor nuevo"
+    "estado": "Entregado",
+    "fecha": "08/09/2025"
   },
   {
     "codigo": "WO-00393171",
     "cliente": "Miro Pasaje",
-    "estado": "Pre-terminado",
-    "fecha": "08/09/2025",
-    "interno": "ZXJ936",
-    "fechaIngreso": "2025-08-29",
-    "productoIngreso": "licuadora clasica",
-    "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada-[sábado, 15 de noviembre de 2025]se le entrega licuadora reparada"
+    "estado": "Entregado",
+    "fecha": "08/09/2025"
   },
   {
     "codigo": "WO-00393169",
