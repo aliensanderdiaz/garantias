@@ -82,5 +82,19 @@ let garantiasRedelec = [
     "productoIngreso": "plancha de ropa",
     "lugarDeCompra": "ÉXITO",
     "observaciones": ""
+  },
+  {
+    "codigo": "146121",
+    "cliente": "GLORIA INES MENDEZ VARGAS",
+    "clienteId": "55155144",
+    "fecha": "2025-11-17",
+    "producto": "IR3001",
+    "estado": "TRAMITE",
+    "almacen": "METRO-NEIVA",
+    "interno": "MFL812",
+    "fechaIngreso": "2025-11-13",
+    "productoIngreso": "plancha a vapor impact",
+    "lugarDeCompra": "METRO NEIVA",
+    "observaciones": ""
   }
 ]

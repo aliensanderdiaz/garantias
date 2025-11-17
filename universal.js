@@ -1,5 +1,37 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-64089",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1003802342",
+    "referencia": "L62090",
+    "producto": "LICUADORA ELITE TURBO MAX",
+    "falla": "Tarjeta electrónica Sin continuidad",
+    "s2": "25018223",
+    "fecha": "17/11/2025",
+    "interno": "EJC452",
+    "fechaIngreso": "2025-11-14",
+    "productoIngreso": "motor licuadora universal",
+    "lugarDeCompra": "ÚNICO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-64088",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075251182",
+    "referencia": "L88333",
+    "producto": "SANDUCHERA SONRISA ESENCIAL",
+    "falla": "Cuerpo Quebrado",
+    "s2": "",
+    "fecha": "17/11/2025",
+    "interno": "FBS512",
+    "fechaIngreso": "2025-11-14",
+    "productoIngreso": "sanduchera",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-64038",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
