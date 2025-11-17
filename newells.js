@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00409760",
     "cliente": "Cepeda Gutiérrez Sas",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "09/11/2025",
     "interno": "CDE604",
     "fechaIngreso": "2025-10-31",
@@ -24,13 +24,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00409669",
     "cliente": "Diego Villada",
-    "estado": "En progreso",
-    "fecha": "08/11/2025",
-    "interno": "DMB766",
-    "fechaIngreso": "2025-11-06",
-    "productoIngreso": "freidora oster 4 litros",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[sábado, 8 de noviembre de 2025]Producto reparado con un microsuiche prestado... ya se le dijo que pida retorno"
+    "estado": "Entregado",
+    "fecha": "08/11/2025"
   },
   {
     "codigo": "WO-00408781",
@@ -46,24 +41,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00408779",
     "cliente": "Egna Karina Herrera Celis",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "04/11/2025",
     "interno": "UTQ892",
     "fechaIngreso": "2025-10-27",
     "productoIngreso": "licudaros oster classica",
     "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[martes, 4 de noviembre de 2025]se pide suiche y motor"
+    "observaciones": "[martes, 4 de noviembre de 2025]se pide suiche y motor-[sábado, 15 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00408775",
     "cliente": "Isabel Torres Luna",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "04/11/2025",
     "interno": "WWC962",
     "fechaIngreso": "2025-11-04",
     "productoIngreso": "motor oster de 2 velocidades",
     "lugarDeCompra": "UNIVERSAL DE OSTER",
-    "observaciones": ""
+    "observaciones": "[sábado, 15 de noviembre de 2025]reparada"
   },
   {
     "codigo": "WO-00404823",
@@ -184,7 +179,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-28",
     "productoIngreso": "licuadora oster reversible color negro",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta -[lunes, 15 de septiembre de 2025]Van a dar carta-[miércoles, 1 de octubre de 2025]carta aprobada"
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada y se pide cambio de motor y tarjeta -[lunes, 15 de septiembre de 2025]Van a dar carta-[miércoles, 1 de octubre de 2025]carta aprobada-[sábado, 15 de noviembre de 2025]se le entrega carta de cambio"
   },
   {
     "codigo": "WO-00393172",
@@ -195,7 +190,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-29",
     "productoIngreso": "licuadora clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada"
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada-[sábado, 15 de noviembre de 2025]se le entrega licuadora reparada motor nuevo"
   },
   {
     "codigo": "WO-00393171",
@@ -206,7 +201,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-08-29",
     "productoIngreso": "licuadora clasica",
     "lugarDeCompra": "SUPERTIENDA EL ECONÓMICO LA PLATA HUILA",
-    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada"
+    "observaciones": "[viernes, 12 de septiembre de 2025]revisada se pide cambio de motor -[sábado, 18 de octubre de 2025]reparada-[sábado, 15 de noviembre de 2025]se le entrega licuadora reparada"
   },
   {
     "codigo": "WO-00393169",

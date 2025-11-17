@@ -1,7 +1,39 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-63683",
+    "codigo": "GRT-64038",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "55167411",
+    "referencia": "L75660",
+    "producto": "VENTILADOR FRESH ULTRA",
+    "falla": "Motor Eje dañado",
+    "s2": "",
+    "fecha": "15/11/2025",
+    "interno": "XHR110",
+    "fechaIngreso": "2025-11-08",
+    "productoIngreso": "ventilador fresh ultra V2",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-63771",
     "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075324090",
+    "referencia": "L50850",
+    "producto": "LICUADORA MASS VITAL",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25018194",
+    "fecha": "11/11/2025",
+    "interno": "TGS617",
+    "fechaIngreso": "2025-10-23",
+    "productoIngreso": "licuadora universal",
+    "lugarDeCompra": "ALMACEN D'TODO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-63683",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55208181",
     "referencia": "L71300",
@@ -13,11 +45,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-05",
     "productoIngreso": "ventilador 8\" universal",
     "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[sábado, 15 de noviembre de 2025]Reparado"
   },
   {
     "codigo": "GRT-63682",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7704976",
     "referencia": "L75660",
@@ -33,7 +65,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-63681",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075259322",
     "referencia": "L72818",
@@ -45,17 +77,17 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-10-28",
     "productoIngreso": "ventilador corona",
     "lugarDeCompra": "TECNI REPUESTOS CORDOBA",
-    "observaciones": ""
+    "observaciones": "[sábado, 15 de noviembre de 2025]reparado"
   },
   {
     "codigo": "GRT-63657",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1118363786",
     "referencia": "L22600",
     "producto": "OLLA PRESION CORONA CI 6L",
     "falla": "Cuerpo No coge presión (OAP)",
-    "s2": "",
+    "s2": "25018006",
     "fecha": "08/11/2025",
     "interno": "FKU821",
     "fechaIngreso": "2025-11-06",
@@ -126,22 +158,6 @@ let garantiasUniversal = [
     "productoIngreso": "termo bomba de 4 litros universal",
     "lugarDeCompra": "ALMACENES UNIO",
     "observaciones": "[sábado, 18 de octubre de 2025]producto para cambio-[sábado, 1 de noviembre de 2025]Llega Termobomba nuevo"
-  },
-  {
-    "codigo": "GRT-42301",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1063620018",
-    "referencia": "L71300",
-    "producto": "VENTILADOR COMPACT FRESH",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25014305",
-    "fecha": "09/09/2025",
-    "interno": "PQZ958",
-    "fechaIngreso": "2025-09-06",
-    "productoIngreso": "ventilador 8\"",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[domingo, 14 de septiembre de 2025]llegó motor para cambiar-[domingo, 28 de septiembre de 2025]reparado"
   },
   {
     "codigo": "GRT-40338",

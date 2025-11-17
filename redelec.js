@@ -19,7 +19,7 @@ let garantiasRedelec = [
     "clienteId": "1075235914",
     "fecha": "2025-10-21",
     "producto": "MX9125-2BDLA",
-    "estado": "TRAMITE",
+    "estado": "AUTORIZADO",
     "almacen": "TECNOHOGAR NEIVA",
     "interno": "BKE343",
     "fechaIngreso": "2025-09-18",
@@ -33,7 +33,7 @@ let garantiasRedelec = [
     "clienteId": "12197944",
     "fecha": "2025-10-21",
     "producto": "CM0701B",
-    "estado": "TRAMITE",
+    "estado": "AUTORIZADO",
     "almacen": "TECNOHOGAR NEIVA",
     "interno": "TPT347",
     "fechaIngreso": "2025-09-09",
@@ -67,6 +67,20 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-10-27",
     "productoIngreso": "freidora aire 4.5",
     "lugarDeCompra": "GRUPO MERPES",
+    "observaciones": ""
+  },
+  {
+    "codigo": "146115",
+    "cliente": "MARIA EUGENIA MORENO MORA",
+    "clienteId": "1077845947",
+    "fecha": "2025-11-15",
+    "producto": "D3035",
+    "estado": "TRAMITE",
+    "almacen": "EXITO NEIVA",
+    "interno": "ODU533",
+    "fechaIngreso": "2025-11-10",
+    "productoIngreso": "plancha de ropa",
+    "lugarDeCompra": "ÉXITO",
     "observaciones": ""
   }
 ]
