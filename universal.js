@@ -145,7 +145,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-63191",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075273057",
     "referencia": "L87560",
@@ -157,11 +157,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-10-22",
     "productoIngreso": "freidra universal",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[martes, 28 de octubre de 2025]revisada y reparada microsuiche seguridad nuevo suministrado x almacen oi 24000701"
+    "observaciones": "[martes, 28 de octubre de 2025]revisada y reparada microsuiche seguridad nuevo suministrado x almacen oi 24000701-[domingo, 16 de noviembre de 2025]Llegó freidora nueva"
   },
   {
     "codigo": "GRT-63190",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1000190216",
     "referencia": "L87560",
@@ -173,7 +173,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-09-08",
     "productoIngreso": "freidora de aire",
     "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
-    "observaciones": "[martes, 28 de octubre de 2025]Revisada  y reparada con temporizador  nuevo suministrado por almacen oi 24000186"
+    "observaciones": "[martes, 28 de octubre de 2025]Revisada  y reparada con temporizador  nuevo suministrado por almacen oi 24000186-[domingo, 16 de noviembre de 2025]Llegó freidora nueva"
   },
   {
     "codigo": "GRT-62772",
