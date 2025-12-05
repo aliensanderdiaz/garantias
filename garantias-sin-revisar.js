@@ -1,6 +1,11 @@
 let garantiasSinRevisar = [
-'2025-11-15 - 12:52:37 - RRS986 - Universal - ventialdo universal dynamic de mesa - FALLA: no prendio mas',
-'2025-11-12 - 16:23:07 - KDH360 - Oster - batidora de inmersion oster - FALLA: el cliente mensiona que no tiene fuerza',
+'2025-11-26 - 11:31:09 - CBU388 - Oster - freidora oster de 9 litrod digital - FALLA: no prende',
+
+'2025-12-04 - 16:12:31 - DLN007 - Oster - freidora oster - FALLA: no prende por ratos',
+
+'2025-12-04 - 13:38:04 - QPX449 - Oster - fridora oster 4 litros manual - FALLA: la freidora enciende pero no realiza su funcion las comidas quedan crudas',
+
+'2025-12-04 - 09:34:02 - VXS633 - Oster - exprimidor oster citrico - FALLA: no prende',
 ]
 // garantiasSinRevisar.reverse()
 // 
