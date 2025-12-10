@@ -1,188 +1,242 @@
 let garantiasUniversal = [
   {
-    "codigo": ""
+    "codigo": "GRT-64939",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1010138508",
+    "referencia": "L85643",
+    "producto": "OLLA PRESION ELECTRICA 3L",
+    "falla": "Resistencia Sin continuidad",
+    "s2": "",
+    "fecha": "05/12/2025",
+    "interno": "DFS073",
+    "fechaIngreso": "2025-12-01",
+    "productoIngreso": "olla presión electrica",
+    "lugarDeCompra": "UNICO NEIVA",
+    "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio"
   },
   {
-    "codigo": "0"
+    "codigo": "GRT-64938",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "4946441",
+    "referencia": "L90022",
+    "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
+    "falla": "Ampolleta No Calienta",
+    "s2": "25019233",
+    "fecha": "05/12/2025",
+    "interno": "QLV881",
+    "fechaIngreso": "2025-11-20",
+    "productoIngreso": "termo universal de 4litros",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[jueves, 4 de diciembre de 2025]solicita cambio"
   },
   {
-    "codigo": "John Fredy Bahamon Bonilla"
+    "codigo": "GRT-64937",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1117264773",
+    "referencia": "L34060",
+    "producto": "OLLA PRESION ALIADA CE 6L",
+    "falla": "Cuerpo Deformado",
+    "s2": "",
+    "fecha": "05/12/2025",
+    "interno": "FFG436",
+    "fechaIngreso": "2025-11-25",
+    "productoIngreso": "olla pitadora ultra de 6 litros",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[jueves, 4 de diciembre de 2025]se pidió cambió"
   },
   {
-    "codigo": "User Image"
+    "codigo": "GRT-64768",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "890903024",
+    "referencia": "L75545",
+    "producto": "VENTILADOR DYNAMIC VENTO",
+    "falla": "Cuerpo Deformado",
+    "s2": "25019192",
+    "fecha": "01/12/2025",
+    "interno": "RRS986",
+    "fechaIngreso": "2025-11-15",
+    "productoIngreso": "ventialdo universal dynamic de mesa",
+    "lugarDeCompra": "LANDER Y CIA SAS",
+    "observaciones": "[martes, 9 de diciembre de 2025]supuestamente la arreglaron cambiandole mallas y helice"
   },
   {
-    "codigo": " "
+    "codigo": "GRT-64690",
+    "estado": "Por entregar",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "72041118",
+    "referencia": "L50850",
+    "producto": "LICUADORA MASS VITAL",
+    "falla": "Motor Colector en corto,Selector de velocidades En corto",
+    "s2": "25019048",
+    "fecha": "29/11/2025",
+    "interno": "TNS364",
+    "fechaIngreso": "2025-11-21",
+    "productoIngreso": "licuadora mas vital negra",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[sábado, 6 de diciembre de 2025]llega licuadora nueva"
   },
   {
-    "codigo": "CS REDELEC"
+    "codigo": "GRT-64089",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1003802342",
+    "referencia": "L62090",
+    "producto": "LICUADORA ELITE TURBO MAX",
+    "falla": "Tarjeta electrónica Sin continuidad",
+    "s2": "25018223",
+    "fecha": "17/11/2025",
+    "interno": "EJC452",
+    "fechaIngreso": "2025-11-14",
+    "productoIngreso": "motor licuadora universal",
+    "lugarDeCompra": "ÚNICO",
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió tarjeta-[lunes, 24 de noviembre de 2025]reparada"
   },
   {
-    "codigo": "Orden de Servicio"
+    "codigo": "GRT-64088",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075251182",
+    "referencia": "L88333",
+    "producto": "SANDUCHERA SONRISA ESENCIAL",
+    "falla": "Cuerpo Quebrado",
+    "s2": "Error en el envío a JDE, por favor reintente!",
+    "fecha": "17/11/2025",
+    "interno": "FBS512",
+    "fechaIngreso": "2025-11-14",
+    "productoIngreso": "sanduchera",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio"
   },
   {
-    "codigo": " Ordenes Pendientes"
+    "codigo": "GRT-63771",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075324090",
+    "referencia": "L50850",
+    "producto": "LICUADORA MASS VITAL",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25018194",
+    "fecha": "11/11/2025",
+    "interno": "TGS617",
+    "fechaIngreso": "2025-10-23",
+    "productoIngreso": "licuadora universal",
+    "lugarDeCompra": "ALMACEN D'TODO",
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor-[lunes, 24 de noviembre de 2025]llega motor de licuadora-[lunes, 24 de noviembre de 2025]reparada"
   },
   {
-    "codigo": " Consultas"
+    "codigo": "GRT-63681",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075259322",
+    "referencia": "L72818",
+    "producto": "VENTILADOR CORONA 16\" NEGRO X2",
+    "falla": "Motor Bobinas en corto",
+    "s2": "25017815",
+    "fecha": "09/11/2025",
+    "interno": "SJS030",
+    "fechaIngreso": "2025-10-28",
+    "productoIngreso": "ventilador corona",
+    "lugarDeCompra": "TECNI REPUESTOS CORDOBA",
+    "observaciones": "[sábado, 15 de noviembre de 2025]reparado-[martes, 18 de noviembre de 2025]se entrega ventilador  reparado corona \"motor nuevo\""
   },
   {
-    "codigo": "Informes"
+    "codigo": "GRT-63657",
+    "estado": "Por entregar",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1118363786",
+    "referencia": "L22600",
+    "producto": "OLLA PRESION CORONA CI 6L",
+    "falla": "Cuerpo No coge presión (OAP)",
+    "s2": "25018006",
+    "fecha": "08/11/2025",
+    "interno": "FKU821",
+    "fechaIngreso": "2025-11-06",
+    "productoIngreso": "olla presion 6 litro",
+    "lugarDeCompra": "MERCADO LIBRE",
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[jueves, 20 de noviembre de 2025]SE ENTREGO PRODUCTO AL CLIENTE (olla presión nueva) ok."
   },
   {
-    "codigo": ""
+    "codigo": "GRT-63192",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075291381",
+    "referencia": "L50803",
+    "producto": "LICUADORA LA TRADICIONAL",
+    "falla": "Motor Bobinas en corto,Selector de velocidades Sin continuidad",
+    "s2": "25017650",
+    "fecha": "28/10/2025",
+    "interno": "VMI241",
+    "fechaIngreso": "2025-10-22",
+    "productoIngreso": "licuadora universal",
+    "lugarDeCompra": "SAN ANDRESITO",
+    "observaciones": "[martes, 28 de octubre de 2025]revisada y reparada suiche nuevo suministrado por almacen"
   },
   {
-    "codigo": ""
+    "codigo": "GRT-63190",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1000190216",
+    "referencia": "L87560",
+    "producto": "FREIDORA DE AIRE MASTERFRYER",
+    "falla": "Temporizador Sin continuidad",
+    "s2": "25017364",
+    "fecha": "28/10/2025",
+    "interno": "NHQ126",
+    "fechaIngreso": "2025-09-08",
+    "productoIngreso": "freidora de aire",
+    "lugarDeCompra": "TECNOHOGAR DE COLOMBIA",
+    "observaciones": "[martes, 28 de octubre de 2025]Revisada  y reparada con temporizador  nuevo suministrado por almacen oi 24000186-[domingo, 16 de noviembre de 2025]Llegó freidora nueva"
   },
   {
-    "codigo": "Inicio"
+    "codigo": "GRT-62772",
+    "estado": "Por entregar",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075209078",
+    "referencia": "L90013",
+    "producto": "TERMO BOMBA MULTIBEBIDAS 2.5L",
+    "falla": "Cuerpo Otro",
+    "s2": "25017207",
+    "fecha": "21/10/2025",
+    "interno": "OZS645",
+    "fechaIngreso": "2025-09-26",
+    "productoIngreso": "termo bomba de 4 litros universal",
+    "lugarDeCompra": "ALMACENES UNIO",
+    "observaciones": "[sábado, 18 de octubre de 2025]producto para cambio-[sábado, 1 de noviembre de 2025]Llega Termobomba nuevo"
   },
   {
-    "codigo": "Tickets Pendientes"
+    "codigo": "GRT-40338",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075237206",
+    "referencia": "L83696",
+    "producto": "EXPRIMIDOR CITRUS MAX",
+    "falla": "Motor Colector en corto",
+    "s2": "25012653",
+    "fecha": "06/08/2025",
+    "interno": "YBY954",
+    "fechaIngreso": "2025-07-29",
+    "productoIngreso": "exprimidor de citricos",
+    "lugarDeCompra": "CACHARRERIA EL REY DE LOS PRECIOS BAJOS",
+    "observaciones": "[viernes, 15 de agosto de 2025]MOTOR CON PIÑON martes 5 de agosto-[sábado, 30 de agosto de 2025]MOTOR QUE LLEGÓ... LLEGÓ SIN PIÑONES... ADEMAS NO FUNCIONA-[viernes, 24 de octubre de 2025]dice que enviaron un producto nuevo-[viernes, 24 de octubre de 2025]alejandra firmo el recibido"
   },
   {
-    "codigo": "Ordenes Pendientes"
-  },
-  {
-    "codigo": "Buscar:"
-  },
-  {
-    "codigo": ".",
-    "estado": "#",
-    "tipo": "CS",
-    "clienteId": "Creado por",
-    "referencia": "Tipo de Servicio",
-    "producto": "Consumidor",
-    "falla": "Doc. Consumidor",
-    "s2": "Referencia Producto",
-    "fecha": "Estado"
-  },
-  {
-    "codigo": "72",
-    "estado": "142882",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Cambio de Producto",
-    "producto": "MILENA CORTES CUENCA",
-    "falla": "36181374",
-    "s2": "CJ650W",
-    "fecha": "AUTORIZADO"
-  },
-  {
-    "codigo": "36",
-    "estado": "145114",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Cambio de Producto",
-    "producto": "DIANA PATRICIA PERDOMO",
-    "falla": "1075235914",
-    "s2": "MX9125-2BDLA",
-    "fecha": "AUTORIZADO"
-  },
-  {
-    "codigo": "36",
-    "estado": "145138",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Cambio de Producto",
-    "producto": "FERNANDO VASQUEZ",
-    "falla": "12197944",
-    "s2": "CM0701B",
-    "fecha": "AUTORIZADO"
-  },
-  {
-    "codigo": "25",
-    "estado": "145749",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "PROFESSIONAL CONSULTING SERVICES S.A.S.",
-    "falla": "900882909",
-    "s2": "CM1331S-LA",
-    "fecha": "DESPACHADO"
-  },
-  {
-    "codigo": "22",
-    "estado": "145882",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "BLANCA ELISA GONZALEZ AVILA",
-    "falla": "36177546",
-    "s2": "HF5055B",
-    "fecha": "DESPACHADO"
-  },
-  {
-    "codigo": "17",
-    "estado": "146115",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Cambio de Producto",
-    "producto": "MARIA EUGENIA MORENO MORA",
-    "falla": "1077845947",
-    "s2": "D3035",
-    "fecha": "AUTORIZADO"
-  },
-  {
-    "codigo": "12",
-    "estado": "146553",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "DIANA HORTA",
-    "falla": "1075232582",
-    "s2": "BL0876-1RDLA",
-    "fecha": "TRAMITE"
-  },
-  {
-    "codigo": "7",
-    "estado": "147033",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "ANIBAL ANTONIO DE LOS REYES",
-    "falla": "1083838731",
-    "s2": "MX9125-2BDLA",
-    "fecha": "TRAMITE"
-  },
-  {
-    "codigo": "7",
-    "estado": "147034",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "CANDELARIA VALDERRAMA",
-    "falla": "36148116",
-    "s2": "BLBD210GB",
-    "fecha": "TRAMITE"
-  },
-  {
-    "codigo": "7",
-    "estado": "147036",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "YEIMI EDELMIRA VARGAS",
-    "falla": "36304992",
-    "s2": "BLBD210GB",
-    "fecha": "TRAMITE"
-  },
-  {
-    "codigo": "1",
-    "estado": "147283",
-    "tipo": "Almacenes Universal S.A.S.",
-    "clienteId": "John Fredy Bahamon Bonilla",
-    "referencia": "Garantia",
-    "producto": "CARLOS ENRIQUE ALVAREZ ESCOBAR",
-    "falla": "17629667",
-    "s2": "BLBD210GR",
-    "fecha": "TRAMITE"
-  },
-  {
-    "codigo": "Mostrando registros del 11 al 11 de un total de 11 registrosAnterior12Siguiente"
-  },
-  {
-    "codigo": "Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -"
+    "codigo": "GRT-39110",
+    "estado": "Por entregar",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "40620745",
+    "referencia": "L85320",
+    "producto": "OLLA ARROCERA LA TRADICIONAL10",
+    "falla": "Cuerpo Otro",
+    "s2": "25011545",
+    "fecha": "15/07/2025",
+    "interno": "LKB004",
+    "fechaIngreso": "2025-07-14",
+    "productoIngreso": "olla arrocera negra de 2 libras",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": "[miércoles, 6 de agosto de 2025]Arrocera nueva"
   }
 ]
