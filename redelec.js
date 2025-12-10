@@ -109,7 +109,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-24",
     "productoIngreso": "batidora 2en 1 vertical y manual",
     "lugarDeCompra": "UNIVERSAL DE LA OSTER",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones"
   },
   {
     "codigo": "147034",
@@ -123,7 +123,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-12-01",
     "productoIngreso": "licuadora black Decker",
     "lugarDeCompra": "EXITO",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y teclado"
   },
   {
     "codigo": "147036",
@@ -137,7 +137,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-21",
     "productoIngreso": "licuadora blac decker",
     "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor"
   },
   {
     "codigo": "147283",

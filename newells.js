@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-11-19",
     "productoIngreso": "licuadora oster classica",
     "lugarDeCompra": "GRAN BODEGON",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor"
   },
   {
     "codigo": "WO-00415967",
@@ -30,18 +30,13 @@ let garantiasNewells = [
     "fechaIngreso": "2025-11-29",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]Reparada con microduiche prestado"
   },
   {
     "codigo": "WO-00415283",
     "cliente": "Edinson Fernando Morales Cañon",
-    "estado": "Pre-terminado",
-    "fecha": "29/11/2025",
-    "interno": "XMC029",
-    "fechaIngreso": "2025-11-29",
-    "productoIngreso": "freudora oster clasica",
-    "lugarDeCompra": "METRO",
-    "observaciones": "[lunes, 1 de diciembre de 2025]se pidió carta"
+    "estado": "Entregado",
+    "fecha": "29/11/2025"
   },
   {
     "codigo": "WO-00414357",
@@ -64,18 +59,13 @@ let garantiasNewells = [
     "fechaIngreso": "2025-11-24",
     "productoIngreso": "freidora oster 3,8",
     "lugarDeCompra": "ARA",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]Llegó fusible y motor para reparar"
   },
   {
     "codigo": "WO-00412527",
     "cliente": "Damaris Ortega",
-    "estado": "Pre-terminado",
-    "fecha": "20/11/2025",
-    "interno": "KDH360",
-    "fechaIngreso": "2025-11-12",
-    "productoIngreso": "batidora de inmersion oster",
-    "lugarDeCompra": "TIENDAS ARA",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "20/11/2025"
   },
   {
     "codigo": "WO-00412108",
