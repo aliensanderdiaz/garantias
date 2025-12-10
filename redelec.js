@@ -95,7 +95,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-19",
     "productoIngreso": "licuadora black decker rija de 7velocidaeew",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": ""
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor y teclado"
   },
   {
     "codigo": "147033",
