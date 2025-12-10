@@ -25,7 +25,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-09-18",
     "productoIngreso": "batidora",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor y suiche"
+    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor y suiche-[miércoles, 3 de diciembre de 2025]Carta de cambio entregada"
   },
   {
     "codigo": "145138",
@@ -47,13 +47,13 @@ let garantiasRedelec = [
     "clienteId": "900882909",
     "fecha": "2025-11-05",
     "producto": "CM1331S-LA",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "Sodimac/Homecenter Neiva",
     "interno": "IWT515",
     "fechaIngreso": "2025-10-27",
     "productoIngreso": "cafetera 12 tazas",
     "lugarDeCompra": "HOMECENTER SODIMAC",
-    "observaciones": "[martes, 4 de noviembre de 2025]se reparo con resistencia prestada"
+    "observaciones": "[martes, 4 de noviembre de 2025]se reparo con resistencia prestada-[jueves, 20 de noviembre de 2025]SE ENTREGA PRODUCTO AL CLIENTE (resistencia P.A ) OK.."
   },
   {
     "codigo": "145882",
@@ -61,13 +61,13 @@ let garantiasRedelec = [
     "clienteId": "36177546",
     "fecha": "2025-11-09",
     "producto": "HF5055B",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "GRUPO MERPES",
     "interno": "QTC709",
     "fechaIngreso": "2025-10-27",
     "productoIngreso": "freidora aire 4.5",
     "lugarDeCompra": "GRUPO MERPES",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor"
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor-[miércoles, 26 de noviembre de 2025]DESPACHADO"
   },
   {
     "codigo": "146115",
@@ -75,26 +75,82 @@ let garantiasRedelec = [
     "clienteId": "1077845947",
     "fecha": "2025-11-15",
     "producto": "D3035",
-    "estado": "TRAMITE",
+    "estado": "AUTORIZADO",
     "almacen": "EXITO NEIVA",
     "interno": "ODU533",
     "fechaIngreso": "2025-11-10",
     "productoIngreso": "plancha de ropa",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió automático y resistencia"
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió automático y resistencia-[miércoles, 26 de noviembre de 2025]se va para Bogotá, después aprueban carta"
   },
   {
-    "codigo": "146121",
-    "cliente": "GLORIA INES MENDEZ VARGAS",
-    "clienteId": "55155144",
-    "fecha": "2025-11-17",
-    "producto": "IR3001",
+    "codigo": "146553",
+    "cliente": "DIANA HORTA",
+    "clienteId": "1075232582",
+    "fecha": "2025-11-24",
+    "producto": "BL0876-1RDLA",
     "estado": "TRAMITE",
-    "almacen": "METRO-NEIVA",
-    "interno": "MFL812",
-    "fechaIngreso": "2025-11-13",
-    "productoIngreso": "plancha a vapor impact",
-    "lugarDeCompra": "METRO NEIVA",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió automatico y resistencia"
+    "almacen": "TECNOHOGAR",
+    "interno": "SHD028",
+    "fechaIngreso": "2025-11-19",
+    "productoIngreso": "licuadora black decker rija de 7velocidaeew",
+    "lugarDeCompra": "TECNOHOGAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "147033",
+    "cliente": "ANIBAL ANTONIO DE LOS REYES",
+    "clienteId": "1083838731",
+    "fecha": "2025-12-01",
+    "producto": "MX9125-2BDLA",
+    "estado": "TRAMITE",
+    "almacen": "Universal de la Oster",
+    "interno": "UYL934",
+    "fechaIngreso": "2025-11-24",
+    "productoIngreso": "batidora 2en 1 vertical y manual",
+    "lugarDeCompra": "UNIVERSAL DE LA OSTER",
+    "observaciones": ""
+  },
+  {
+    "codigo": "147034",
+    "cliente": "CANDELARIA VALDERRAMA",
+    "clienteId": "36148116",
+    "fecha": "2025-12-01",
+    "producto": "BLBD210GB",
+    "estado": "TRAMITE",
+    "almacen": "EXITO NEIVA",
+    "interno": "ZGY159",
+    "fechaIngreso": "2025-12-01",
+    "productoIngreso": "licuadora black Decker",
+    "lugarDeCompra": "EXITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "147036",
+    "cliente": "YEIMI EDELMIRA VARGAS",
+    "clienteId": "36304992",
+    "fecha": "2025-12-01",
+    "producto": "BLBD210GB",
+    "estado": "TRAMITE",
+    "almacen": "ALMACENES UNIVERSAL",
+    "interno": "HAG681",
+    "fechaIngreso": "2025-11-21",
+    "productoIngreso": "licuadora blac decker",
+    "lugarDeCompra": "ALMACENE UNIVERSAL",
+    "observaciones": ""
+  },
+  {
+    "codigo": "147283",
+    "cliente": "CARLOS ENRIQUE ALVAREZ ESCOBAR",
+    "clienteId": "17629667",
+    "fecha": "2025-12-09",
+    "producto": "BLBD210GR",
+    "estado": "TRAMITE",
+    "almacen": "SAO 380 NEIVA",
+    "interno": "AMF704",
+    "fechaIngreso": "2025-11-20",
+    "productoIngreso": "lucuadora black decker roja",
+    "lugarDeCompra": "OLIMPICA",
+    "observaciones": "[jueves, 4 de diciembre de 2025]El martes 2 de dciembre a las 11:55 alveiro me escribio que la habian entregado, pero nunca me dijeron que le hicieron, ni nada-[viernes, 5 de diciembre de 2025]SE ENCONTRO ESTABAMOS CONFUNDIDOS SE PIDE MOTOR"
   }
 ]
