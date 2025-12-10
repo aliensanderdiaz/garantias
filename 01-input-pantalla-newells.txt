@@ -3,6 +3,7 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
+Cuenta del centro de servicio
 Más
 Search...
 
@@ -71,7 +72,7 @@ Kelaia Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00415283
 29/11/2025 11:18 a. m.
 Garantía
@@ -107,7 +108,7 @@ Genesy Juliete Curado
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00412527
 20/11/2025 12:38 p. m.
 Garantía
