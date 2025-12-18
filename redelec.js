@@ -14,20 +14,6 @@ let garantiasRedelec = [
     "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro"
   },
   {
-    "codigo": "145114",
-    "cliente": "DIANA PATRICIA PERDOMO",
-    "clienteId": "1075235914",
-    "fecha": "2025-10-21",
-    "producto": "MX9125-2BDLA",
-    "estado": "AUTORIZADO",
-    "almacen": "TECNOHOGAR NEIVA",
-    "interno": "BKE343",
-    "fechaIngreso": "2025-09-18",
-    "productoIngreso": "batidora",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[sábado, 18 de octubre de 2025]pedir motor y suiche-[miércoles, 3 de diciembre de 2025]Carta de cambio entregada"
-  },
-  {
     "codigo": "145138",
     "cliente": "FERNANDO VASQUEZ",
     "clienteId": "12197944",
@@ -137,6 +123,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-12-15",
     "productoIngreso": "licuadora black decker",
     "lugarDeCompra": "ALMACENES EXITO",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor"
   }
 ]

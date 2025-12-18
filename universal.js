@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-15",
     "productoIngreso": "plancha univesal",
     "lugarDeCompra": "SAN ANDRESITO",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió cambio"
   },
   {
     "codigo": "GRT-65320",
@@ -48,22 +48,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio"
   },
   {
-    "codigo": "GRT-64938",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "4946441",
-    "referencia": "L90022",
-    "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
-    "falla": "Ampolleta No Calienta",
-    "s2": "25019233",
-    "fecha": "05/12/2025",
-    "interno": "QLV881",
-    "fechaIngreso": "2025-11-20",
-    "productoIngreso": "termo universal de 4litros",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 4 de diciembre de 2025]solicita cambio-[sábado, 13 de diciembre de 2025]llegó termo nuevo-[martes, 16 de diciembre de 2025]PRODUCTO ENTREGADO AL CLIENTE OK.."
-  },
-  {
     "codigo": "GRT-64937",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -96,22 +80,6 @@ let garantiasUniversal = [
     "observaciones": "[martes, 9 de diciembre de 2025]supuestamente la arreglaron cambiandole mallas y helice"
   },
   {
-    "codigo": "GRT-64690",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "72041118",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Motor Colector en corto,Selector de velocidades En corto",
-    "s2": "25019048",
-    "fecha": "29/11/2025",
-    "interno": "TNS364",
-    "fechaIngreso": "2025-11-21",
-    "productoIngreso": "licuadora mas vital negra",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 6 de diciembre de 2025]llega licuadora nueva-[miércoles, 10 de diciembre de 2025]se le entrega licuadora nueva\n"
-  },
-  {
     "codigo": "GRT-64088",
     "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -142,22 +110,6 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora universal",
     "lugarDeCompra": "ALMACEN D'TODO",
     "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor-[lunes, 24 de noviembre de 2025]llega motor de licuadora-[lunes, 24 de noviembre de 2025]reparada"
-  },
-  {
-    "codigo": "GRT-63681",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075259322",
-    "referencia": "L72818",
-    "producto": "VENTILADOR CORONA 16\" NEGRO X2",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25017815",
-    "fecha": "09/11/2025",
-    "interno": "SJS030",
-    "fechaIngreso": "2025-10-28",
-    "productoIngreso": "ventilador corona",
-    "lugarDeCompra": "TECNI REPUESTOS CORDOBA",
-    "observaciones": "[sábado, 15 de noviembre de 2025]reparado-[martes, 18 de noviembre de 2025]se entrega ventilador  reparado corona \"motor nuevo\""
   },
   {
     "codigo": "GRT-63657",
