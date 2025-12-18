@@ -1,5 +1,37 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-65615",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36452836",
+    "referencia": "L40840",
+    "producto": "PLANCHA A VAPOR CERAMIC HOME",
+    "falla": "Resistencia Sin continuidad,Termofusible Sin continuidad,Termostato Sin continuidad ",
+    "s2": "",
+    "fecha": "18/12/2025",
+    "interno": "LDH008",
+    "fechaIngreso": "2025-12-15",
+    "productoIngreso": "plancha univesal",
+    "lugarDeCompra": "SAN ANDRESITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-65320",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "17774505",
+    "referencia": "L85774",
+    "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
+    "falla": "Selector de temperatura En corto",
+    "s2": "25019725",
+    "fecha": "13/12/2025",
+    "interno": "JTS809",
+    "fechaIngreso": "2025-12-05",
+    "productoIngreso": "estufa electrica 2 puestos",
+    "lugarDeCompra": "CRISTIAN COMUNICACIÓNES",
+    "observaciones": "[sábado, 13 de diciembre de 2025]la repararon con un suiche, pero tambien se pidió cambio"
+  },
+  {
     "codigo": "GRT-64939",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -17,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-64938",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "4946441",
     "referencia": "L90022",
@@ -29,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-20",
     "productoIngreso": "termo universal de 4litros",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 4 de diciembre de 2025]solicita cambio"
+    "observaciones": "[jueves, 4 de diciembre de 2025]solicita cambio-[sábado, 13 de diciembre de 2025]llegó termo nuevo-[martes, 16 de diciembre de 2025]PRODUCTO ENTREGADO AL CLIENTE OK.."
   },
   {
     "codigo": "GRT-64937",
@@ -49,7 +81,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-64768",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "890903024",
     "referencia": "L75545",
@@ -77,23 +109,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-21",
     "productoIngreso": "licuadora mas vital negra",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 6 de diciembre de 2025]llega licuadora nueva"
-  },
-  {
-    "codigo": "GRT-64089",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1003802342",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Tarjeta electrónica Sin continuidad",
-    "s2": "25018223",
-    "fecha": "17/11/2025",
-    "interno": "EJC452",
-    "fechaIngreso": "2025-11-14",
-    "productoIngreso": "motor licuadora universal",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió tarjeta-[lunes, 24 de noviembre de 2025]reparada"
+    "observaciones": "[sábado, 6 de diciembre de 2025]llega licuadora nueva-[miércoles, 10 de diciembre de 2025]se le entrega licuadora nueva\n"
   },
   {
     "codigo": "GRT-64088",
@@ -158,22 +174,6 @@ let garantiasUniversal = [
     "productoIngreso": "olla presion 6 litro",
     "lugarDeCompra": "MERCADO LIBRE",
     "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[jueves, 20 de noviembre de 2025]SE ENTREGO PRODUCTO AL CLIENTE (olla presión nueva) ok."
-  },
-  {
-    "codigo": "GRT-63192",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075291381",
-    "referencia": "L50803",
-    "producto": "LICUADORA LA TRADICIONAL",
-    "falla": "Motor Bobinas en corto,Selector de velocidades Sin continuidad",
-    "s2": "25017650",
-    "fecha": "28/10/2025",
-    "interno": "VMI241",
-    "fechaIngreso": "2025-10-22",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "SAN ANDRESITO",
-    "observaciones": "[martes, 28 de octubre de 2025]revisada y reparada suiche nuevo suministrado por almacen"
   },
   {
     "codigo": "GRT-63190",

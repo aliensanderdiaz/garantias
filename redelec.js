@@ -42,20 +42,6 @@ let garantiasRedelec = [
     "observaciones": "[domingo, 28 de septiembre de 2025]reparada con resistencia prestada"
   },
   {
-    "codigo": "145749",
-    "cliente": "PROFESSIONAL CONSULTING SERVICES S.A.S.",
-    "clienteId": "900882909",
-    "fecha": "2025-11-05",
-    "producto": "CM1331S-LA",
-    "estado": "DESPACHADO",
-    "almacen": "Sodimac/Homecenter Neiva",
-    "interno": "IWT515",
-    "fechaIngreso": "2025-10-27",
-    "productoIngreso": "cafetera 12 tazas",
-    "lugarDeCompra": "HOMECENTER SODIMAC",
-    "observaciones": "[martes, 4 de noviembre de 2025]se reparo con resistencia prestada-[jueves, 20 de noviembre de 2025]SE ENTREGA PRODUCTO AL CLIENTE (resistencia P.A ) OK.."
-  },
-  {
     "codigo": "145882",
     "cliente": "BLANCA ELISA GONZALEZ AVILA",
     "clienteId": "36177546",
@@ -67,21 +53,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-10-27",
     "productoIngreso": "freidora aire 4.5",
     "lugarDeCompra": "GRUPO MERPES",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor-[miércoles, 26 de noviembre de 2025]DESPACHADO"
-  },
-  {
-    "codigo": "146115",
-    "cliente": "MARIA EUGENIA MORENO MORA",
-    "clienteId": "1077845947",
-    "fecha": "2025-11-15",
-    "producto": "D3035",
-    "estado": "AUTORIZADO",
-    "almacen": "EXITO NEIVA",
-    "interno": "ODU533",
-    "fechaIngreso": "2025-11-10",
-    "productoIngreso": "plancha de ropa",
-    "lugarDeCompra": "ÉXITO",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió automático y resistencia-[miércoles, 26 de noviembre de 2025]se va para Bogotá, después aprueban carta"
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor-[miércoles, 26 de noviembre de 2025]DESPACHADO-[miércoles, 17 de diciembre de 2025]llega motor"
   },
   {
     "codigo": "146553",
@@ -89,7 +61,7 @@ let garantiasRedelec = [
     "clienteId": "1075232582",
     "fecha": "2025-11-24",
     "producto": "BL0876-1RDLA",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "TECNOHOGAR",
     "interno": "SHD028",
     "fechaIngreso": "2025-11-19",
@@ -103,7 +75,7 @@ let garantiasRedelec = [
     "clienteId": "1083838731",
     "fecha": "2025-12-01",
     "producto": "MX9125-2BDLA",
-    "estado": "TRAMITE",
+    "estado": "PENDIENTE AUTORIZACION",
     "almacen": "Universal de la Oster",
     "interno": "UYL934",
     "fechaIngreso": "2025-11-24",
@@ -117,7 +89,7 @@ let garantiasRedelec = [
     "clienteId": "36148116",
     "fecha": "2025-12-01",
     "producto": "BLBD210GB",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "EXITO NEIVA",
     "interno": "ZGY159",
     "fechaIngreso": "2025-12-01",
@@ -131,7 +103,7 @@ let garantiasRedelec = [
     "clienteId": "36304992",
     "fecha": "2025-12-01",
     "producto": "BLBD210GB",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "ALMACENES UNIVERSAL",
     "interno": "HAG681",
     "fechaIngreso": "2025-11-21",
@@ -145,12 +117,26 @@ let garantiasRedelec = [
     "clienteId": "17629667",
     "fecha": "2025-12-09",
     "producto": "BLBD210GR",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "SAO 380 NEIVA",
     "interno": "AMF704",
     "fechaIngreso": "2025-11-20",
     "productoIngreso": "lucuadora black decker roja",
     "lugarDeCompra": "OLIMPICA",
     "observaciones": "[jueves, 4 de diciembre de 2025]El martes 2 de dciembre a las 11:55 alveiro me escribio que la habian entregado, pero nunca me dijeron que le hicieron, ni nada-[viernes, 5 de diciembre de 2025]SE ENCONTRO ESTABAMOS CONFUNDIDOS SE PIDE MOTOR"
+  },
+  {
+    "codigo": "147691",
+    "cliente": "MARIA CAMILA BARRIOS RIOS",
+    "clienteId": "1004149300",
+    "fecha": "2025-12-18",
+    "producto": "BLBD210GB",
+    "estado": "TRAMITE",
+    "almacen": "eCommerce",
+    "interno": "ALB702",
+    "fechaIngreso": "2025-12-15",
+    "productoIngreso": "licuadora black decker",
+    "lugarDeCompra": "ALMACENES EXITO",
+    "observaciones": ""
   }
 ]
