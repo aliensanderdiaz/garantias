@@ -19,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-10",
     "productoIngreso": "plancha oster gris con roja",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió termostato"
   },
   {
     "codigo": "WO-00418672",
@@ -30,7 +30,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-06",
     "productoIngreso": "motor licuadora oster",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor y tarjeta"
   },
   {
     "codigo": "WO-00418663",
@@ -41,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-11-26",
     "productoIngreso": "freidora oster de 9 litrod digital",
     "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió tarjeta de control tactil y fusibles"
   },
   {
     "codigo": "WO-00418332",
@@ -52,7 +52,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-04",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "INVERSIONES J.GOMEZ",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió microsuiche y termostato"
   },
   {
     "codigo": "WO-00418322",
@@ -63,7 +63,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-06",
     "productoIngreso": "freidora oster 3.8 litros",
     "lugarDeCompra": "ALMACENES OPORTUNIDADES",
-    "observaciones": ""
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor, termostato, resistencia y carcaza"
   },
   {
     "codigo": "WO-00417846",
