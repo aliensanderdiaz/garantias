@@ -28,32 +28,18 @@ let garantiasRedelec = [
     "observaciones": "[domingo, 28 de septiembre de 2025]reparada con resistencia prestada"
   },
   {
-    "codigo": "145882",
-    "cliente": "BLANCA ELISA GONZALEZ AVILA",
-    "clienteId": "36177546",
-    "fecha": "2025-11-09",
-    "producto": "HF5055B",
-    "estado": "DESPACHADO",
-    "almacen": "GRUPO MERPES",
-    "interno": "QTC709",
-    "fechaIngreso": "2025-10-27",
-    "productoIngreso": "freidora aire 4.5",
-    "lugarDeCompra": "GRUPO MERPES",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió motor-[miércoles, 26 de noviembre de 2025]DESPACHADO-[miércoles, 17 de diciembre de 2025]llega motor"
-  },
-  {
     "codigo": "146553",
     "cliente": "DIANA HORTA",
     "clienteId": "1075232582",
     "fecha": "2025-11-24",
     "producto": "BL0876-1RDLA",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "TECNOHOGAR",
     "interno": "SHD028",
     "fechaIngreso": "2025-11-19",
     "productoIngreso": "licuadora black decker rija de 7velocidaeew",
     "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor y teclado"
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor y teclado-[miércoles, 31 de diciembre de 2025]reparado"
   },
   {
     "codigo": "147033",
@@ -61,7 +47,7 @@ let garantiasRedelec = [
     "clienteId": "1083838731",
     "fecha": "2025-12-01",
     "producto": "MX9125-2BDLA",
-    "estado": "PENDIENTE AUTORIZACION",
+    "estado": "PREFINALIZADO",
     "almacen": "Universal de la Oster",
     "interno": "UYL934",
     "fechaIngreso": "2025-11-24",
@@ -70,32 +56,18 @@ let garantiasRedelec = [
     "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones"
   },
   {
-    "codigo": "147034",
-    "cliente": "CANDELARIA VALDERRAMA",
-    "clienteId": "36148116",
-    "fecha": "2025-12-01",
-    "producto": "BLBD210GB",
-    "estado": "DESPACHADO",
-    "almacen": "EXITO NEIVA",
-    "interno": "ZGY159",
-    "fechaIngreso": "2025-12-01",
-    "productoIngreso": "licuadora black Decker",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y teclado"
-  },
-  {
     "codigo": "147036",
     "cliente": "YEIMI EDELMIRA VARGAS",
     "clienteId": "36304992",
     "fecha": "2025-12-01",
     "producto": "BLBD210GB",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "ALMACENES UNIVERSAL",
     "interno": "HAG681",
     "fechaIngreso": "2025-11-21",
     "productoIngreso": "licuadora blac decker",
     "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor"
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor-[miércoles, 31 de diciembre de 2025]reparado"
   },
   {
     "codigo": "147283",
@@ -103,13 +75,13 @@ let garantiasRedelec = [
     "clienteId": "17629667",
     "fecha": "2025-12-09",
     "producto": "BLBD210GR",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "SAO 380 NEIVA",
     "interno": "AMF704",
     "fechaIngreso": "2025-11-20",
     "productoIngreso": "lucuadora black decker roja",
     "lugarDeCompra": "OLIMPICA",
-    "observaciones": "[jueves, 4 de diciembre de 2025]El martes 2 de dciembre a las 11:55 alveiro me escribio que la habian entregado, pero nunca me dijeron que le hicieron, ni nada-[viernes, 5 de diciembre de 2025]SE ENCONTRO ESTABAMOS CONFUNDIDOS SE PIDE MOTOR"
+    "observaciones": "[jueves, 4 de diciembre de 2025]El martes 2 de dciembre a las 11:55 alveiro me escribio que la habian entregado, pero nunca me dijeron que le hicieron, ni nada-[viernes, 5 de diciembre de 2025]SE ENCONTRO ESTABAMOS CONFUNDIDOS SE PIDE MOTOR-[miércoles, 31 de diciembre de 2025]reparado"
   },
   {
     "codigo": "147691",
@@ -117,7 +89,7 @@ let garantiasRedelec = [
     "clienteId": "1004149300",
     "fecha": "2025-12-18",
     "producto": "BLBD210GB",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "eCommerce",
     "interno": "ALB702",
     "fechaIngreso": "2025-12-15",

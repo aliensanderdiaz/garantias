@@ -1,30 +1,63 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00421284",
+    "cliente": "Sodimac Colombia S.a",
+    "estado": "Pre-terminado",
+    "fecha": "24/12/2025",
+    "interno": "IRK572",
+    "fechaIngreso": "2025-12-17",
+    "productoIngreso": "cafetera oster primalatte espresso",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[miércoles, 24 de diciembre de 2025]reparada sin usar repuestos"
+  },
+  {
+    "codigo": "WO-00421038",
+    "cliente": "Sodimac Colombia S.a",
+    "estado": "En progreso",
+    "fecha": "23/12/2025",
+    "interno": "TPX807",
+    "fechaIngreso": "2025-12-17",
+    "productoIngreso": "liciadora oster reversible negra",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[viernes, 9 de enero de 2026]tarjeta quemada"
+  },
+  {
+    "codigo": "WO-00421036",
+    "cliente": "Sandra Diaz Tovar",
+    "estado": "En progreso",
+    "fecha": "23/12/2025",
+    "interno": "BLC342",
+    "fechaIngreso": "2025-12-13",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 9 de enero de 2026]motor en corto"
+  },
+  {
     "codigo": "WO-00419956",
     "cliente": "William Montenegro",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "18/12/2025",
     "interno": "NFX119",
     "fechaIngreso": "2025-12-17",
     "productoIngreso": "extractor de jugos blanco",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor-[martes, 30 de diciembre de 2025]reparada"
   },
   {
     "codigo": "WO-00418678",
     "cliente": "Carmen Quimbaya",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "13/12/2025",
     "interno": "MKZ801",
     "fechaIngreso": "2025-12-10",
     "productoIngreso": "plancha oster gris con roja",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió termostato"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió termostato-[sábado, 3 de enero de 2026]llegó repuesto"
   },
   {
     "codigo": "WO-00418672",
     "cliente": "Francisco Cortes",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "13/12/2025",
     "interno": "PGY112",
     "fechaIngreso": "2025-12-06",
@@ -35,57 +68,42 @@ let garantiasNewells = [
   {
     "codigo": "WO-00418663",
     "cliente": "Edna Alejandra Mercedes Trujillo",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "13/12/2025",
     "interno": "CBU388",
     "fechaIngreso": "2025-11-26",
     "productoIngreso": "freidora oster de 9 litrod digital",
     "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió tarjeta de control tactil y fusibles"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió tarjeta de control tactil y fusibles-[sábado, 3 de enero de 2026]llegó repuesto"
   },
   {
     "codigo": "WO-00418332",
     "cliente": "Maira Aldana",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "11/12/2025",
     "interno": "DLN007",
     "fechaIngreso": "2025-12-04",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "INVERSIONES J.GOMEZ",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió microsuiche y termostato"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió microsuiche y termostato-[sábado, 3 de enero de 2026]llegó repuesto"
   },
   {
     "codigo": "WO-00418322",
     "cliente": "Jhojan Andrés Gómez Martínez",
-    "estado": "En progreso",
-    "fecha": "11/12/2025",
-    "interno": "JTW648",
-    "fechaIngreso": "2025-12-06",
-    "productoIngreso": "freidora oster 3.8 litros",
-    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor, termostato, resistencia y carcaza"
+    "estado": "Entregado",
+    "fecha": "11/12/2025"
   },
   {
     "codigo": "WO-00417846",
     "cliente": "Maria Orta",
-    "estado": "Pre-terminado",
-    "fecha": "10/12/2025",
-    "interno": "QPX449",
-    "fechaIngreso": "2025-12-04",
-    "productoIngreso": "fridora oster 4 litros manual",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[lunes, 15 de diciembre de 2025]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "10/12/2025"
   },
   {
     "codigo": "WO-00417840",
     "cliente": "Fernando Artunduaga",
-    "estado": "Despachado",
-    "fecha": "10/12/2025",
-    "interno": "VXS633",
-    "fechaIngreso": "2025-12-04",
-    "productoIngreso": "exprimidor oster citrico",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[miércoles, 17 de diciembre de 2025]Llegó repuesto-[miércoles, 17 de diciembre de 2025]llega motor"
+    "estado": "Entregado",
+    "fecha": "10/12/2025"
   },
   {
     "codigo": "WO-00415968",
@@ -188,13 +206,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00408779",
     "cliente": "Egna Karina Herrera Celis",
-    "estado": "Pre-terminado",
-    "fecha": "04/11/2025",
-    "interno": "UTQ892",
-    "fechaIngreso": "2025-10-27",
-    "productoIngreso": "licudaros oster classica",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[martes, 4 de noviembre de 2025]se pide suiche y motor-[sábado, 15 de noviembre de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "04/11/2025"
   },
   {
     "codigo": "WO-00408775",
@@ -217,13 +230,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404810",
     "cliente": "Maria Fernanda Murcia",
-    "estado": "Pre-terminado",
-    "fecha": "22/10/2025",
-    "interno": "UJC882",
-    "fechaIngreso": "2025-09-23",
-    "productoIngreso": "exprimidor de citricos oster",
-    "lugarDeCompra": "ALMACÉNES UNIVERSAL",
-    "observaciones": "[martes, 4 de noviembre de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "22/10/2025"
   },
   {
     "codigo": "WO-00404807",
@@ -264,13 +272,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404306",
     "cliente": "Juan Camilo Parra",
-    "estado": "Pre-terminado",
-    "fecha": "21/10/2025",
-    "interno": "IQQ944",
-    "fechaIngreso": "2025-09-15",
-    "productoIngreso": "licuadora",
-    "lugarDeCompra": "MISCELANEA JIREH",
-    "observaciones": "[miércoles, 22 de octubre de 2025]se pide motor y teclado-[martes, 4 de noviembre de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "21/10/2025"
   },
   {
     "codigo": "WO-00404282",
@@ -335,13 +338,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00390894",
     "cliente": "Fanny Cordoba",
-    "estado": "Pre-terminado",
-    "fecha": "30/08/2025",
-    "interno": "BOU738",
-    "fechaIngreso": "2025-08-14",
-    "productoIngreso": "olla arrocera oster",
-    "lugarDeCompra": "METRO",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto"
+    "estado": "Entregado",
+    "fecha": "30/08/2025"
   },
   {
     "codigo": "WO-00390887",
@@ -358,35 +356,20 @@ let garantiasNewells = [
   {
     "codigo": "WO-00389093",
     "cliente": "Sergio Oliveros",
-    "estado": "Pre-terminado",
-    "fecha": "25/08/2025",
-    "interno": "COD199",
-    "fechaIngreso": "2025-08-19",
-    "productoIngreso": "plancha oster",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 2 de septiembre de 2025]van a dar carta de cambio-[miércoles, 3 de septiembre de 2025]Carta aprobada"
+    "estado": "Entregado",
+    "fecha": "25/08/2025"
   },
   {
     "codigo": "WO-00389091",
     "cliente": "Diana Roa",
-    "estado": "Pre-terminado",
-    "fecha": "25/08/2025",
-    "interno": "YAW643",
-    "fechaIngreso": "2025-08-06",
-    "productoIngreso": "licuadora oster negra  de dos velocidades",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]Esperando repuesto-[domingo, 14 de septiembre de 2025]Reparada"
+    "estado": "Entregado",
+    "fecha": "25/08/2025"
   },
   {
     "codigo": "WO-00389090",
     "cliente": "Ferney Palmo",
-    "estado": "Pre-terminado",
-    "fecha": "25/08/2025",
-    "interno": "QXX223",
-    "fechaIngreso": "2025-08-01",
-    "productoIngreso": "licuadora oster reversible",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 1 de septiembre de 2025]Carta de cambio en espera de aprobacion-[miércoles, 3 de septiembre de 2025]aprobada"
+    "estado": "Entregado",
+    "fecha": "25/08/2025"
   },
   {
     "codigo": "WO-00389089",
@@ -433,13 +416,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00384407",
     "cliente": "Carlos Mauricio Hoyos Pucciny",
-    "estado": "Pre-terminado",
-    "fecha": "05/08/2025",
-    "interno": "FPQ186",
-    "fechaIngreso": "2025-07-26",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "HERNANDO BUSTOS",
-    "observaciones": "[viernes, 15 de agosto de 2025]esperando suiche-[sábado, 30 de agosto de 2025]REPARADA"
+    "estado": "Entregado",
+    "fecha": "05/08/2025"
   },
   {
     "codigo": "WO-00384406",
@@ -680,323 +658,5 @@ let garantiasNewells = [
     "cliente": "Elcy Patricia Montenegro",
     "estado": "Entregado",
     "fecha": "28/04/2025"
-  },
-  {
-    "codigo": "WO-00357066",
-    "cliente": "Jaime Andres Meneses Cabrera",
-    "estado": "Entregado",
-    "fecha": "28/04/2025"
-  },
-  {
-    "codigo": "WO-00352731",
-    "cliente": "Juan Daniel Vargas",
-    "estado": "Entregado",
-    "fecha": "10/04/2025"
-  },
-  {
-    "codigo": "WO-00352730",
-    "cliente": "Almacén El Festival Del Hogar Florencia",
-    "estado": "Entregado",
-    "fecha": "10/04/2025"
-  },
-  {
-    "codigo": "WO-00351290",
-    "cliente": "Jova Perdomo",
-    "estado": "Entregado",
-    "fecha": "04/04/2025"
-  },
-  {
-    "codigo": "WO-00351274",
-    "cliente": "Lina Milena Samboni",
-    "estado": "Entregado",
-    "fecha": "04/04/2025"
-  },
-  {
-    "codigo": "WO-00351273",
-    "cliente": "Ayda Leany Samboni Beltran",
-    "estado": "Entregado",
-    "fecha": "04/04/2025"
-  },
-  {
-    "codigo": "WO-00351092",
-    "cliente": "Ximena Ochoa",
-    "estado": "Entregado",
-    "fecha": "03/04/2025"
-  },
-  {
-    "codigo": "WO-00351050",
-    "cliente": "Eliana Yineth Chacon Tejada",
-    "estado": "Entregado",
-    "fecha": "03/04/2025"
-  },
-  {
-    "codigo": "WO-00350999",
-    "cliente": "Andrea Tovar",
-    "estado": "Entregado",
-    "fecha": "03/04/2025"
-  },
-  {
-    "codigo": "WO-00350992",
-    "cliente": "Gabriel Antonio Goyes Urbano",
-    "estado": "Entregado",
-    "fecha": "03/04/2025"
-  },
-  {
-    "codigo": "WO-00348211",
-    "cliente": "Jorge Armando Trujillo",
-    "estado": "Entregado",
-    "fecha": "26/03/2025"
-  },
-  {
-    "codigo": "WO-00347174",
-    "cliente": "Willian Alberto Padilla Ariza",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347170",
-    "cliente": "Nury Perez",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347169",
-    "cliente": "Margoht Rodríguez",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347060",
-    "cliente": "Aider Díaz",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347057",
-    "cliente": "Silvia Fernanda Mosquera Rojas",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347043",
-    "cliente": "Alberto Betsancut",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347042",
-    "cliente": "Betania Byo Sas",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347035",
-    "cliente": "Karen Lizeth Vásquez Munar",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347034",
-    "cliente": "Ana Beiba Astudillo",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347030",
-    "cliente": "Juan Diego Laverde Ospina",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00347027",
-    "cliente": "Yineth Medina Vargas",
-    "estado": "Entregado",
-    "fecha": "21/03/2025"
-  },
-  {
-    "codigo": "WO-00344313",
-    "cliente": "Mesthil Ruiz Duran",
-    "estado": "Entregado",
-    "fecha": "11/03/2025"
-  },
-  {
-    "codigo": "WO-00344310",
-    "cliente": "Diana Marcela Córdoba Lopez",
-    "estado": "Entregado",
-    "fecha": "11/03/2025"
-  },
-  {
-    "codigo": "WO-00341622",
-    "cliente": "Kerly Alexandra Gutiérrez",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00341614",
-    "cliente": "Diego Fernando Manrrique Fernández",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00341610",
-    "cliente": "Carlos Alberto Martin",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00341608",
-    "cliente": "Karen Muñoz Urbano",
-    "estado": "Entregado",
-    "fecha": "28/02/2025"
-  },
-  {
-    "codigo": "WO-00336658",
-    "cliente": "Almacenes Exito S.a.",
-    "estado": "Entregado",
-    "fecha": "12/02/2025"
-  },
-  {
-    "codigo": "WO-00336649",
-    "cliente": "Almacenes Exito S.a.",
-    "estado": "Entregado",
-    "fecha": "12/02/2025"
-  },
-  {
-    "codigo": "WO-00336212",
-    "cliente": "Almacenes Exito S.a.",
-    "estado": "Entregado",
-    "fecha": "10/02/2025"
-  },
-  {
-    "codigo": "WO-00336209",
-    "cliente": "Almacenes Universal S.a.s.",
-    "estado": "Entregado",
-    "fecha": "10/02/2025"
-  },
-  {
-    "codigo": "WO-00335375",
-    "cliente": "Yenifer Andrea Reyes Cubillos",
-    "estado": "Entregado",
-    "fecha": "06/02/2025"
-  },
-  {
-    "codigo": "WO-00334716",
-    "cliente": "Rosa Escobar",
-    "estado": "Entregado",
-    "fecha": "04/02/2025"
-  },
-  {
-    "codigo": "WO-00334672",
-    "cliente": "Edgar Quimbaya",
-    "estado": "Entregado",
-    "fecha": "04/02/2025"
-  },
-  {
-    "codigo": "WO-00331552",
-    "cliente": "Metro Pitalito",
-    "estado": "Entregado",
-    "fecha": "24/01/2025"
-  },
-  {
-    "codigo": "WO-00331410",
-    "cliente": "Lorena Rengifo",
-    "estado": "Entregado",
-    "fecha": "24/01/2025"
-  },
-  {
-    "codigo": "WO-00331359",
-    "cliente": "Claudia Muñoz Martínez",
-    "estado": "Entregado",
-    "fecha": "24/01/2025"
-  },
-  {
-    "codigo": "WO-00331121",
-    "cliente": "Pedro Nell Trujillo",
-    "estado": "Entregado",
-    "fecha": "23/01/2025"
-  },
-  {
-    "codigo": "WO-00330565",
-    "cliente": "Andrea Tovar",
-    "estado": "Entregado",
-    "fecha": "22/01/2025"
-  },
-  {
-    "codigo": "WO-00330561",
-    "cliente": "Maria Valvanera González",
-    "estado": "Entregado",
-    "fecha": "22/01/2025"
-  },
-  {
-    "codigo": "WO-00328464",
-    "cliente": "Domingo Prieto",
-    "estado": "Entregado",
-    "fecha": "15/01/2025"
-  },
-  {
-    "codigo": "WO-00327001",
-    "cliente": "Angie Marroquín",
-    "estado": "Entregado",
-    "fecha": "09/01/2025"
-  },
-  {
-    "codigo": "WO-00326828",
-    "cliente": "Guillermo Morales",
-    "estado": "Entregado",
-    "fecha": "09/01/2025"
-  },
-  {
-    "codigo": "WO-00326732",
-    "cliente": "Sebastian Jose Jimenez Sánchez",
-    "estado": "Entregado",
-    "fecha": "08/01/2025"
-  },
-  {
-    "codigo": "WO-00326727",
-    "cliente": "Luz Mila Omen Claros",
-    "estado": "Entregado",
-    "fecha": "08/01/2025"
-  },
-  {
-    "codigo": "WO-00325353",
-    "cliente": "Ermelinda Castro De Losada",
-    "estado": "Entregado",
-    "fecha": "02/01/2025"
-  },
-  {
-    "codigo": "WO-00325247",
-    "cliente": "Nahory Nuñez Natera",
-    "estado": "Entregado",
-    "fecha": "31/12/2024"
-  },
-  {
-    "codigo": "WO-00325244",
-    "cliente": "Romulo Scarpeta Perico",
-    "estado": "Entregado",
-    "fecha": "31/12/2024"
-  },
-  {
-    "codigo": "WO-00325240",
-    "cliente": "Rober Antonio Mendez Rodríguez",
-    "estado": "Entregado",
-    "fecha": "31/12/2024"
-  },
-  {
-    "codigo": "WO-00325133",
-    "cliente": "Yuli Mercedes Conde Perez",
-    "estado": "Entregado",
-    "fecha": "30/12/2024"
-  },
-  {
-    "codigo": "WO-00325132",
-    "cliente": "Divi Tatiana Sanchez Diaz",
-    "estado": "Entregado",
-    "fecha": "30/12/2024"
-  },
-  {
-    "codigo": "WO-00325131",
-    "cliente": "Olga Lucia Lozada",
-    "estado": "Entregado",
-    "fecha": "30/12/2024"
   }
 ]
