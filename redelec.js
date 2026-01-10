@@ -89,12 +89,12 @@ let garantiasRedelec = [
     "clienteId": "1004149300",
     "fecha": "2025-12-18",
     "producto": "BLBD210GB",
-    "estado": "DESPACHADO",
+    "estado": "PREFINALIZADO",
     "almacen": "eCommerce",
     "interno": "ALB702",
     "fechaIngreso": "2025-12-15",
     "productoIngreso": "licuadora black decker",
     "lugarDeCompra": "ALMACENES EXITO",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor-[sábado, 10 de enero de 2026]reparada"
   }
 ]

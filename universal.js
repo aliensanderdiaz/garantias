@@ -1,5 +1,21 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-66389",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1117526434",
+    "referencia": "L75680",
+    "producto": "VENTILADOR FRESH ULT  C REMOTO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "26000328",
+    "fecha": "10/01/2026",
+    "interno": "CUA250",
+    "fechaIngreso": "2026-01-08",
+    "productoIngreso": "ventilador universal",
+    "lugarDeCompra": "ALMACEN UNIVERSAL",
+    "observaciones": "[sábado, 10 de enero de 2026]pedir motor"
+  },
+  {
     "codigo": "GRT-65799",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -126,5 +142,5 @@ let garantiasUniversal = [
     "productoIngreso": "sanduchera",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
     "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio"
-  },
+  }
 ]
