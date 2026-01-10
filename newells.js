@@ -85,7 +85,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-06",
     "productoIngreso": "motor licuadora oster",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor y tarjeta"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor y tarjeta-[sábado, 10 de enero de 2026]Dieron carta de cambio"
   },
   {
     "codigo": "WO-00418663",
@@ -130,13 +130,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00415968",
     "cliente": "Bellanit Castro",
-    "estado": "Pre-terminado",
-    "fecha": "01/12/2025",
-    "interno": "EZI896",
-    "fechaIngreso": "2025-11-19",
-    "productoIngreso": "licuadora oster classica",
-    "lugarDeCompra": "GRAN BODEGON",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor-[martes, 16 de diciembre de 2025]llegó motor"
+    "estado": "Entregado",
+    "fecha": "01/12/2025"
   },
   {
     "codigo": "WO-00415967",
@@ -171,13 +166,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00413421",
     "cliente": "Genesy Juliete Curado",
-    "estado": "Pre-terminado",
-    "fecha": "24/11/2025",
-    "interno": "TPF278",
-    "fechaIngreso": "2025-11-24",
-    "productoIngreso": "freidora oster 3,8",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[martes, 9 de diciembre de 2025]Llegó fusible y motor para reparar-[viernes, 12 de diciembre de 2025]reparada"
+    "estado": "Entregado",
+    "fecha": "24/11/2025"
   },
   {
     "codigo": "WO-00412527",
@@ -200,13 +190,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00409759",
     "cliente": "Yenny Banesa Bonilla Avendaño",
-    "estado": "Pre-terminado",
-    "fecha": "09/11/2025",
-    "interno": "ZFW804",
-    "fechaIngreso": "2025-11-04",
-    "productoIngreso": "freidora 4 litros",
-    "lugarDeCompra": "METRO",
-    "observaciones": "[domingo, 16 de noviembre de 2025]Se pidió motor-[martes, 18 de noviembre de 2025]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "09/11/2025"
   },
   {
     "codigo": "WO-00409669",

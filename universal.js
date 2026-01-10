@@ -112,22 +112,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio"
   },
   {
-    "codigo": "GRT-64768",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "890903024",
-    "referencia": "L75545",
-    "producto": "VENTILADOR DYNAMIC VENTO",
-    "falla": "Cuerpo Deformado",
-    "s2": "25019192",
-    "fecha": "01/12/2025",
-    "interno": "RRS986",
-    "fechaIngreso": "2025-11-15",
-    "productoIngreso": "ventialdo universal dynamic de mesa",
-    "lugarDeCompra": "LANDER Y CIA SAS",
-    "observaciones": "[martes, 9 de diciembre de 2025]supuestamente la arreglaron cambiandole mallas y helice"
-  },
-  {
     "codigo": "GRT-64088",
     "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -141,6 +125,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-14",
     "productoIngreso": "sanduchera",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio"
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[sábado, 10 de enero de 2026]no responde que pasó con eso"
   }
 ]

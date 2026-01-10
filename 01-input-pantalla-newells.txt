@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace un minuto
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -161,7 +161,7 @@ Fernando Artunduaga
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00415968
 1/12/2025 06:47 p. m.
 Garantía
@@ -215,7 +215,7 @@ Maria Camila Montoya Tique
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00413421
 24/11/2025 06:09 p. m.
 Garantía
@@ -251,7 +251,7 @@ Cepeda Gutiérrez Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00409759
 9/11/2025 07:42 a. m.
 Garantía

@@ -11,7 +11,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-08-06",
     "productoIngreso": "exprimidor blanco",
     "lugarDeCompra": "TENCOHOGAR",
-    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro"
+    "observaciones": "[martes, 2 de septiembre de 2025]esperando repuesto-[domingo, 14 de septiembre de 2025]dice que no lo encuentran-[domingo, 28 de septiembre de 2025]se cambio motor pero quedo sonando duro-[sábado, 10 de enero de 2026]Carta de cambio autorizada"
   },
   {
     "codigo": "145138",
@@ -25,7 +25,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-09-09",
     "productoIngreso": "cafetera 5 tazas",
     "lugarDeCompra": "TENOHOGAR DE COLOMBIA",
-    "observaciones": "[domingo, 28 de septiembre de 2025]reparada con resistencia prestada"
+    "observaciones": "[domingo, 28 de septiembre de 2025]reparada con resistencia prestada-[sábado, 10 de enero de 2026]Carta de cambio autorizada"
   },
   {
     "codigo": "146553",
@@ -53,7 +53,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-24",
     "productoIngreso": "batidora 2en 1 vertical y manual",
     "lugarDeCompra": "UNIVERSAL DE LA OSTER",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones"
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones-[sábado, 10 de enero de 2026]Va a llegar una batidora nueva al almacen segun los de invermundo."
   },
   {
     "codigo": "147036",
