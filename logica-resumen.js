@@ -64,7 +64,7 @@ garantias.forEach((garantia, index) => {
                     <td>${ garantia.interno }</td>
                     <td>${ garantia.codigo }</td>
                     <td>${ garantia.productoIngreso ? garantia.productoIngreso.substring(0,15) : '' }</td>
-                    <td class="${ estados.includes(garantia.estado) ? 'listo': 'no-listo' }">${ garantia.estado.substring(0,15) }</td>
+                    <td class="${ estados.includes(garantia.estado) ? 'listo': garantia.estado === 'Despachado' ? 'despachado':'no-listo' }">${ garantia.estado.substring(0,15) }</td>
                     <td>${ garantia.lugarDeCompra?.substring(0,15) }</td>
                     <td>${ garantia.observaciones?.toLowerCase().replaceAll('-[', '<br>[') }</td>
                 </tr>

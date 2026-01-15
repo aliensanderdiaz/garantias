@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-En progreso
+Despachado
 WO-00424511
 10/01/2026 01:56 p. m.
 Garantía
@@ -53,7 +53,7 @@ Eloeiter Quintana
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00424509
 10/01/2026 01:45 p. m.
 Garantía
@@ -71,7 +71,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00421038
 23/12/2025 07:59 p. m.
 Garantía
@@ -80,7 +80,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00421036
 23/12/2025 07:51 p. m.
 Garantía
@@ -116,7 +116,7 @@ Francisco Cortes
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00418663
 13/12/2025 10:48 a. m.
 Garantía

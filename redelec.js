@@ -56,20 +56,6 @@ let garantiasRedelec = [
     "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones-[sábado, 10 de enero de 2026]Va a llegar una batidora nueva al almacen segun los de invermundo."
   },
   {
-    "codigo": "147036",
-    "cliente": "YEIMI EDELMIRA VARGAS",
-    "clienteId": "36304992",
-    "fecha": "2025-12-01",
-    "producto": "BLBD210GB",
-    "estado": "PREFINALIZADO",
-    "almacen": "ALMACENES UNIVERSAL",
-    "interno": "HAG681",
-    "fechaIngreso": "2025-11-21",
-    "productoIngreso": "licuadora blac decker",
-    "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor-[miércoles, 31 de diciembre de 2025]reparado"
-  },
-  {
     "codigo": "147283",
     "cliente": "CARLOS ENRIQUE ALVAREZ ESCOBAR",
     "clienteId": "17629667",
@@ -82,19 +68,5 @@ let garantiasRedelec = [
     "productoIngreso": "lucuadora black decker roja",
     "lugarDeCompra": "OLIMPICA",
     "observaciones": "[jueves, 4 de diciembre de 2025]El martes 2 de dciembre a las 11:55 alveiro me escribio que la habian entregado, pero nunca me dijeron que le hicieron, ni nada-[viernes, 5 de diciembre de 2025]SE ENCONTRO ESTABAMOS CONFUNDIDOS SE PIDE MOTOR-[miércoles, 31 de diciembre de 2025]reparado"
-  },
-  {
-    "codigo": "147691",
-    "cliente": "MARIA CAMILA BARRIOS RIOS",
-    "clienteId": "1004149300",
-    "fecha": "2025-12-18",
-    "producto": "BLBD210GB",
-    "estado": "PREFINALIZADO",
-    "almacen": "eCommerce",
-    "interno": "ALB702",
-    "fechaIngreso": "2025-12-15",
-    "productoIngreso": "licuadora black decker",
-    "lugarDeCompra": "ALMACENES EXITO",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor-[sábado, 10 de enero de 2026]reparada"
   }
 ]

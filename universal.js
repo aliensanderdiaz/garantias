@@ -32,22 +32,6 @@ let garantiasUniversal = [
     "observaciones": "[lunes, 5 de enero de 2026]llega termostato"
   },
   {
-    "codigo": "GRT-65798",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075302690",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Tarjeta electrónica Sin continuidad",
-    "s2": "25019960",
-    "fecha": "24/12/2025",
-    "interno": "YZN960",
-    "fechaIngreso": "2025-12-19",
-    "productoIngreso": "motor licuadora universal",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 5 de enero de 2026]llega tarjeta"
-  },
-  {
     "codigo": "GRT-65797",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -93,7 +77,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-15",
     "productoIngreso": "plancha univesal",
     "lugarDeCompra": "SAN ANDRESITO",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió cambio"
+    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: está en gestión de producto sustituto. Ya le voy a informar a la compañera del BPO para que, por favor, nos ayude con la gestión lo más pronto posible."
   },
   {
     "codigo": "GRT-64939",
@@ -109,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-01",
     "productoIngreso": "olla presión electrica",
     "lugarDeCompra": "UNICO NEIVA",
-    "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio"
+    "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: Este caso se está tramitando con la consumidora para el producto sustituto. Estamos a la espera de que ella elija el producto y nos brinde la información necesaria para proceder con el pedido."
   },
   {
     "codigo": "GRT-64088",
@@ -119,12 +103,12 @@ let garantiasUniversal = [
     "referencia": "L88333",
     "producto": "SANDUCHERA SONRISA ESENCIAL",
     "falla": "Cuerpo Quebrado",
-    "s2": "Error en el envío a JDE, por favor reintente!",
+    "s2": "26000449",
     "fecha": "17/11/2025",
     "interno": "FBS512",
     "fechaIngreso": "2025-11-14",
     "productoIngreso": "sanduchera",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[sábado, 10 de enero de 2026]no responde que pasó con eso"
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[sábado, 10 de enero de 2026]no responde que pasó con eso-[miércoles, 14 de enero de 2026]LANDER: debido a un error del sistema, al solicitar el cambio de producto se produjo un inconveniente. Sin embargo, ya corregí el error y registré adecuadamente el cambio de producto. Quedó asociado al pedido S2: 26000449."
   }
 ]

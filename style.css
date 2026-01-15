@@ -47,3 +47,7 @@ table {
     .no-listo::before {
     content: '❌';
   }
+
+    .despachado::before {
+    content: '😬';
+  }

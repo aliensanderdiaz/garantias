@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00424511",
     "cliente": "Eloeiter Quintana",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "10/01/2026",
     "interno": "HDL305",
     "fechaIngreso": "2026-01-02",
@@ -13,7 +13,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00424509",
     "cliente": "Diana Carolina Del Pilar Suaza Saenz",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "10/01/2026",
     "interno": "DKQ327",
     "fechaIngreso": "2026-01-05",
@@ -35,7 +35,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00421038",
     "cliente": "Sodimac Colombia S.a",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "23/12/2025",
     "interno": "TPX807",
     "fechaIngreso": "2025-12-17",
@@ -46,7 +46,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00421036",
     "cliente": "Sandra Diaz Tovar",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "23/12/2025",
     "interno": "BLC342",
     "fechaIngreso": "2025-12-13",
@@ -90,13 +90,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00418663",
     "cliente": "Edna Alejandra Mercedes Trujillo",
-    "estado": "Pre-terminado",
-    "fecha": "13/12/2025",
-    "interno": "CBU388",
-    "fechaIngreso": "2025-11-26",
-    "productoIngreso": "freidora oster de 9 litrod digital",
-    "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió tarjeta de control tactil y fusibles-[sábado, 3 de enero de 2026]llegó repuesto-[sábado, 10 de enero de 2026]reparada"
+    "estado": "Entregado",
+    "fecha": "13/12/2025"
   },
   {
     "codigo": "WO-00418332",
