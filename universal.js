@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-08",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[sábado, 10 de enero de 2026]pedir motor"
+    "observaciones": "[sábado, 10 de enero de 2026]pedir motor-[lunes, 19 de enero de 2026]llega motor"
   },
   {
     "codigo": "GRT-65799",

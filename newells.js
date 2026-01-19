@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-02",
     "productoIngreso": "freidora oster de 4 litros",
     "lugarDeCompra": "A BRSND",
-    "observaciones": "[sábado, 10 de enero de 2026]termofusible"
+    "observaciones": "[sábado, 10 de enero de 2026]termofusible-[lunes, 19 de enero de 2026]llega fusible termico"
   },
   {
     "codigo": "WO-00424509",
@@ -19,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-05",
     "productoIngreso": "cafetera oster digital",
     "lugarDeCompra": "PEPE GANGA",
-    "observaciones": "[sábado, 10 de enero de 2026]control temp, automatico, fusibles"
+    "observaciones": "[sábado, 10 de enero de 2026]control temp, automatico, fusibles-[lunes, 19 de enero de 2026]llega fusible termico y termostato"
   },
   {
     "codigo": "WO-00421284",
@@ -41,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-17",
     "productoIngreso": "liciadora oster reversible negra",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[viernes, 9 de enero de 2026]tarjeta quemada"
+    "observaciones": "[viernes, 9 de enero de 2026]tarjeta quemada-[lunes, 19 de enero de 2026]llega tarjeta"
   },
   {
     "codigo": "WO-00421036",
@@ -52,7 +52,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-13",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 9 de enero de 2026]motor en corto"
+    "observaciones": "[viernes, 9 de enero de 2026]motor en corto-[lunes, 19 de enero de 2026]Llega motor"
   },
   {
     "codigo": "WO-00419956",
@@ -79,13 +79,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00418672",
     "cliente": "Francisco Cortes",
-    "estado": "Pre-terminado",
-    "fecha": "13/12/2025",
-    "interno": "PGY112",
-    "fechaIngreso": "2025-12-06",
-    "productoIngreso": "motor licuadora oster",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió motor y tarjeta-[sábado, 10 de enero de 2026]Dieron carta de cambio"
+    "estado": "Entregado",
+    "fecha": "13/12/2025"
   },
   {
     "codigo": "WO-00418663",

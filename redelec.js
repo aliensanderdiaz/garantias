@@ -53,20 +53,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2025-11-24",
     "productoIngreso": "batidora 2en 1 vertical y manual",
     "lugarDeCompra": "UNIVERSAL DE LA OSTER",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones-[sábado, 10 de enero de 2026]Va a llegar una batidora nueva al almacen segun los de invermundo."
-  },
-  {
-    "codigo": "147283",
-    "cliente": "CARLOS ENRIQUE ALVAREZ ESCOBAR",
-    "clienteId": "17629667",
-    "fecha": "2025-12-09",
-    "producto": "BLBD210GR",
-    "estado": "PREFINALIZADO",
-    "almacen": "SAO 380 NEIVA",
-    "interno": "AMF704",
-    "fechaIngreso": "2025-11-20",
-    "productoIngreso": "lucuadora black decker roja",
-    "lugarDeCompra": "OLIMPICA",
-    "observaciones": "[jueves, 4 de diciembre de 2025]El martes 2 de dciembre a las 11:55 alveiro me escribio que la habian entregado, pero nunca me dijeron que le hicieron, ni nada-[viernes, 5 de diciembre de 2025]SE ENCONTRO ESTABAMOS CONFUNDIDOS SE PIDE MOTOR-[miércoles, 31 de diciembre de 2025]reparado"
+    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones-[sábado, 10 de enero de 2026]Va a llegar una batidora nueva al almacen segun los de invermundo.-[domingo, 18 de enero de 2026]Supuestamente llegó batidora el sabado 17 de enero a las 4:25 con guia 98416904728 por coordinadora"
   }
 ]
