@@ -1,25 +1,80 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00427252",
+    "cliente": "Martha Puentes",
+    "estado": "En progreso",
+    "fecha": "20/01/2026",
+    "interno": "YVD302",
+    "fechaIngreso": "2026-01-17",
+    "productoIngreso": "licuadora oster clásica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[martes, 20 de enero de 2026]pedir motor"
+  },
+  {
+    "codigo": "WO-00427250",
+    "cliente": "Hermesto Tovar Gutierrez",
+    "estado": "En progreso",
+    "fecha": "20/01/2026",
+    "interno": "SUK894",
+    "fechaIngreso": "2026-01-06",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "COMERCIALIZADORA SANTA MARTA",
+    "observaciones": "[martes, 20 de enero de 2026]pedir motor"
+  },
+  {
+    "codigo": "WO-00427245",
+    "cliente": "Sodimac Colombia S.a",
+    "estado": "Pre-terminado",
+    "fecha": "20/01/2026",
+    "interno": "FTZ363",
+    "fechaIngreso": "2026-01-05",
+    "productoIngreso": "cafetera de 12 taza digital",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[martes, 20 de enero de 2026]Reparada sin repuesto, no saben usar el aparato, café dentro de la resistencia"
+  },
+  {
+    "codigo": "WO-00427074",
+    "cliente": "Midia Pilar Dussan Useche",
+    "estado": "En progreso",
+    "fecha": "20/01/2026",
+    "interno": "EZA546",
+    "fechaIngreso": "2026-01-19",
+    "productoIngreso": "licuadora oster de dos velocidades",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[lunes, 19 de enero de 2026]pedir motor"
+  },
+  {
+    "codigo": "WO-00427036",
+    "cliente": "Maria Angelica Vargas Umbelica",
+    "estado": "Pre-terminado",
+    "fecha": "20/01/2026",
+    "interno": "OQN542",
+    "fechaIngreso": "2026-01-15",
+    "productoIngreso": "cafetera espresso maker",
+    "lugarDeCompra": "ARA",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00424511",
     "cliente": "Eloeiter Quintana",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "10/01/2026",
     "interno": "HDL305",
     "fechaIngreso": "2026-01-02",
     "productoIngreso": "freidora oster de 4 litros",
     "lugarDeCompra": "A BRSND",
-    "observaciones": "[sábado, 10 de enero de 2026]termofusible-[lunes, 19 de enero de 2026]llega fusible termico"
+    "observaciones": "[sábado, 10 de enero de 2026]termofusible-[lunes, 19 de enero de 2026]llega fusible termico-[martes, 20 de enero de 2026]reparada"
   },
   {
     "codigo": "WO-00424509",
     "cliente": "Diana Carolina Del Pilar Suaza Saenz",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "10/01/2026",
     "interno": "DKQ327",
     "fechaIngreso": "2026-01-05",
     "productoIngreso": "cafetera oster digital",
     "lugarDeCompra": "PEPE GANGA",
-    "observaciones": "[sábado, 10 de enero de 2026]control temp, automatico, fusibles-[lunes, 19 de enero de 2026]llega fusible termico y termostato"
+    "observaciones": "[sábado, 10 de enero de 2026]control temp, automatico, fusibles-[lunes, 19 de enero de 2026]llega fusible termico y termostato-[martes, 20 de enero de 2026]Reparada"
   },
   {
     "codigo": "WO-00421284",
@@ -35,24 +90,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00421038",
     "cliente": "Sodimac Colombia S.a",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "23/12/2025",
     "interno": "TPX807",
     "fechaIngreso": "2025-12-17",
     "productoIngreso": "liciadora oster reversible negra",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[viernes, 9 de enero de 2026]tarjeta quemada-[lunes, 19 de enero de 2026]llega tarjeta"
+    "observaciones": "[viernes, 9 de enero de 2026]tarjeta quemada-[lunes, 19 de enero de 2026]llega tarjeta-[martes, 20 de enero de 2026]reparada"
   },
   {
     "codigo": "WO-00421036",
     "cliente": "Sandra Diaz Tovar",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "23/12/2025",
     "interno": "BLC342",
     "fechaIngreso": "2025-12-13",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 9 de enero de 2026]motor en corto-[lunes, 19 de enero de 2026]Llega motor"
+    "observaciones": "[viernes, 9 de enero de 2026]motor en corto-[lunes, 19 de enero de 2026]Llega motor-[martes, 20 de enero de 2026]Reparada"
   },
   {
     "codigo": "WO-00419956",
@@ -308,35 +363,5 @@ let garantiasNewells = [
     "cliente": "Daniel Ancizar Botero Ibagon",
     "estado": "Entregado",
     "fecha": "08/09/2025"
-  },
-  {
-    "codigo": "WO-00393171",
-    "cliente": "Miro Pasaje",
-    "estado": "Entregado",
-    "fecha": "08/09/2025"
-  },
-  {
-    "codigo": "WO-00393169",
-    "cliente": "Libardo Ramírez Labrador",
-    "estado": "Entregado",
-    "fecha": "08/09/2025"
-  },
-  {
-    "codigo": "WO-00393168",
-    "cliente": "Uberney Eusatama Trujillo",
-    "estado": "Entregado",
-    "fecha": "08/09/2025"
-  },
-  {
-    "codigo": "WO-00390894",
-    "cliente": "Fanny Cordoba",
-    "estado": "Entregado",
-    "fecha": "30/08/2025"
-  },
-  {
-    "codigo": "WO-00390887",
-    "cliente": "Doris Constanza Medina",
-    "estado": "Entregado",
-    "fecha": "30/08/2025"
   }
 ]

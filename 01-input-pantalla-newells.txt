@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 5 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +44,52 @@ Propietario
 
 Acción
 
-Despachado
+En progreso
+WO-00427252
+20/01/2026 06:51 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Martha Puentes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00427250
+20/01/2026 06:47 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Hermesto Tovar Gutierrez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
+WO-00427245
+20/01/2026 06:36 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Sodimac Colombia S.a
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00427074
+20/01/2026 02:51 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Midia Pilar Dussan Useche
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
+WO-00427036
+20/01/2026 01:58 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Angelica Vargas Umbelica
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
 WO-00424511
 10/01/2026 01:56 p. m.
 Garantía
@@ -53,7 +98,7 @@ Eloeiter Quintana
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00424509
 10/01/2026 01:45 p. m.
 Garantía
@@ -71,7 +116,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00421038
 23/12/2025 07:59 p. m.
 Garantía
@@ -80,7 +125,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00421036
 23/12/2025 07:51 p. m.
 Garantía
@@ -446,51 +491,6 @@ WO-00393172
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Daniel Ancizar Botero Ibagon
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393171
-8/09/2025 09:21 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Miro Pasaje
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393169
-8/09/2025 09:12 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Libardo Ramírez Labrador
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393168
-8/09/2025 09:06 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Uberney Eusatama Trujillo
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00390894
-30/08/2025 11:58 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Fanny Cordoba
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00390887
-30/08/2025 11:46 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Doris Constanza Medina
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

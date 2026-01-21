@@ -15,9 +15,9 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-100	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	100	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-64	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	64	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-40	146553	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA HORTA	1075232582	2025-11-24 23:17:09	40	BLACK+DECKER	BL0876-1RDLA	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-35	147033	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANIBAL ANTONIO DE LOS REYES	1083838731	2025-12-01 23:33:42	35	BLACK+DECKER	MX9125-2BDLA	PREFINALIZADO	Universal de la Oster	Ver Ticket	Trazabilidad
+101	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	101	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+65	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	65	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+41	146553	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA HORTA	1075232582	2025-11-24 23:17:09	41	BLACK+DECKER	BL0876-1RDLA	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
+36	147033	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANIBAL ANTONIO DE LOS REYES	1083838731	2025-12-01 23:33:42	36	BLACK+DECKER	MX9125-2BDLA	PREFINALIZADO	Universal de la Oster	Ver Ticket	Trazabilidad
 Mostrando registros del 1 al 4 de un total de 4 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

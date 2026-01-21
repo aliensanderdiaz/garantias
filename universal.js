@@ -1,5 +1,21 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-66933",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075210482",
+    "referencia": "L87560",
+    "producto": "FREIDORA DE AIRE MASTERFRYER",
+    "falla": "Microsuiche Sin continuidad",
+    "s2": "26000799",
+    "fecha": "20/01/2026",
+    "interno": "VBH559",
+    "fechaIngreso": "2026-01-03",
+    "productoIngreso": "freidora universal de 4.8",
+    "lugarDeCompra": "CRISTIAN COMUNICACIONES",
+    "observaciones": "[martes, 20 de enero de 2026]microsuiche prestado 24000578-[martes, 20 de enero de 2026]reparada con microsuiche prestado"
+  },
+  {
     "codigo": "GRT-66389",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
