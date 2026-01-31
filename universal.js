@@ -1,5 +1,69 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-67528",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075260603",
+    "referencia": "L50803",
+    "producto": "LICUADORA LA TRADICIONAL",
+    "falla": "Motor Bobinas en corto",
+    "s2": "",
+    "fecha": "31/01/2026",
+    "interno": "ZWV504",
+    "fechaIngreso": "2025-12-27",
+    "productoIngreso": "motor licuadora universal",
+    "lugarDeCompra": "ELECTRODOMESTICOS MANA",
+    "observaciones": "[sábado, 31 de enero de 2026]se pide motor"
+  },
+  {
+    "codigo": "GRT-67333",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "55165679",
+    "referencia": "L71150",
+    "producto": "VENTILADOR DE TORRE",
+    "falla": "Motor Bobinas en corto,Tarjeta electrónica En corto",
+    "s2": "26001180",
+    "fecha": "27/01/2026",
+    "interno": "FUD733",
+    "fechaIngreso": "2026-01-20",
+    "productoIngreso": "ventilador de torre",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[martes, 27 de enero de 2026]se pide motores y tarjeta"
+  },
+  {
+    "codigo": "GRT-67200",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "7704976",
+    "referencia": "L75680",
+    "producto": "VENTILADOR FRESH ULT  C REMOTO",
+    "falla": "Motor Colector en corto",
+    "s2": "26001076",
+    "fecha": "26/01/2026",
+    "interno": "IXY029",
+    "fechaIngreso": "2026-01-23",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "WORK COM",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-67199",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075243622",
+    "referencia": "L62070",
+    "producto": "LICUADORA ULTRA+VASO PICATODO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "",
+    "fecha": "26/01/2026",
+    "interno": "GSR788",
+    "fechaIngreso": "2026-01-26",
+    "productoIngreso": "licuadora  universal  ultra",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-66933",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -13,7 +77,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-03",
     "productoIngreso": "freidora universal de 4.8",
     "lugarDeCompra": "CRISTIAN COMUNICACIONES",
-    "observaciones": "[martes, 20 de enero de 2026]microsuiche prestado 24000578-[martes, 20 de enero de 2026]reparada con microsuiche prestado"
+    "observaciones": "[martes, 20 de enero de 2026]microsuiche prestado 24000578-[martes, 20 de enero de 2026]reparada con microsuiche prestado-[miércoles, 28 de enero de 2026]entregado"
   },
   {
     "codigo": "GRT-66389",
@@ -61,23 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-15",
     "productoIngreso": "ventilador corona negro",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 5 de enero de 2026]llega motor"
-  },
-  {
-    "codigo": "GRT-65795",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "12108255",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Colector en corto",
-    "s2": "25019958",
-    "fecha": "24/12/2025",
-    "interno": "YMN877",
-    "fechaIngreso": "2025-12-11",
-    "productoIngreso": "motor ventilador",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[lunes, 5 de enero de 2026]llega motor"
+    "observaciones": "[lunes, 5 de enero de 2026]llega motor-[jueves, 29 de enero de 2026]se le entrega ventilador "
   },
   {
     "codigo": "GRT-65615",
@@ -113,7 +161,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-64088",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075251182",
     "referencia": "L88333",
@@ -125,6 +173,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-11-14",
     "productoIngreso": "sanduchera",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[sábado, 10 de enero de 2026]no responde que pasó con eso-[miércoles, 14 de enero de 2026]LANDER: debido a un error del sistema, al solicitar el cambio de producto se produjo un inconveniente. Sin embargo, ya corregí el error y registré adecuadamente el cambio de producto. Quedó asociado al pedido S2: 26000449."
+    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[sábado, 10 de enero de 2026]no responde que pasó con eso-[miércoles, 14 de enero de 2026]LANDER: debido a un error del sistema, al solicitar el cambio de producto se produjo un inconveniente. Sin embargo, ya corregí el error y registré adecuadamente el cambio de producto. Quedó asociado al pedido S2: 26000449.-[miércoles, 21 de enero de 2026]Llega sanduchera nueva-[sábado, 24 de enero de 2026]entregada\n"
   }
 ]

@@ -40,19 +40,5 @@ let garantiasRedelec = [
     "productoIngreso": "licuadora black decker rija de 7velocidaeew",
     "lugarDeCompra": "TECNOHOGAR",
     "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor y teclado-[miércoles, 31 de diciembre de 2025]reparado"
-  },
-  {
-    "codigo": "147033",
-    "cliente": "ANIBAL ANTONIO DE LOS REYES",
-    "clienteId": "1083838731",
-    "fecha": "2025-12-01",
-    "producto": "MX9125-2BDLA",
-    "estado": "PREFINALIZADO",
-    "almacen": "Universal de la Oster",
-    "interno": "UYL934",
-    "fechaIngreso": "2025-11-24",
-    "productoIngreso": "batidora 2en 1 vertical y manual",
-    "lugarDeCompra": "UNIVERSAL DE LA OSTER",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidio motor y piñones-[sábado, 10 de enero de 2026]Va a llegar una batidora nueva al almacen segun los de invermundo.-[domingo, 18 de enero de 2026]Supuestamente llegó batidora el sabado 17 de enero a las 4:25 con guia 98416904728 por coordinadora"
   }
 ]

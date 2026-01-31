@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 5 minutos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -45,6 +45,42 @@ Propietario
 Acción
 
 En progreso
+WO-00429661
+27/01/2026 05:35 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Harryson Trujillo Vargas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Nuevo
+WO-00429016
+26/01/2026 09:27 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Margarita Ladino Sánchez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00427468
+21/01/2026 10:55 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Adriana Galindo
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
+WO-00427413
+21/01/2026 09:23 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Marcelo Vargas Ramos
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Aprobación pendiente
 WO-00427252
 20/01/2026 06:51 p. m.
 Garantía
@@ -53,7 +89,7 @@ Martha Puentes
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00427250
 20/01/2026 06:47 p. m.
 Garantía
@@ -80,7 +116,7 @@ Midia Pilar Dussan Useche
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00427036
 20/01/2026 01:58 p. m.
 Garantía
@@ -89,7 +125,7 @@ Maria Angelica Vargas Umbelica
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00424511
 10/01/2026 01:56 p. m.
 Garantía
@@ -455,42 +491,6 @@ WO-00404157
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Kelly Jhoana Ome Scarpetta
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393177
-8/09/2025 09:41 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Camilo Andres Guzmán Reyes
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393176
-8/09/2025 09:34 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Luz Mila Omen Claros
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393175
-8/09/2025 09:29 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Luisa Manrique
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00393172
-8/09/2025 09:24 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Daniel Ancizar Botero Ibagon
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
