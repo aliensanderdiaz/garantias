@@ -1,5 +1,6 @@
-2026-01-09 - 11:13:53 - CZM815 - Lugar de Compra: KTRONIX.COM - Otros - freidora universal - FALLA: no prende
-2025-12-11 - 15:18:51 - RQE677 - Lugar de Compra: NOVAVENTA - Otros - cafetera krups - FALLA: no sale el agua
-2025-12-01 - 14:55:19 - USF612 - Lugar de Compra: COMERCIAL BAHIA - Otros - ventilado air protec - FALLA: no prende
-2025-11-24 - 09:46:49 - TBE986 - Lugar de Compra: ALMACENES UNIVERSAL - Otros - ventilado extremo - FALLA: llega la helice con desperfecto y no hace la función
-2025-11-06 - 15:38:43 - UTO455 - Lugar de Compra: NEIVA SAN PEDRO - Otros - molino cafe - FALLA: cliente manifiestan que la helice no gira y cuando logra girar no tiene fuerza
+
+
+
+'2026-02-02 - 11:16:32 - WSC977 - Universal - olla pitadora tradicional - FALLA: se le deformo y la señora dice que no pita - Lugar de Compra: EXITO',
+
+2026-02-04 - 16:29:41 - HOD067 - Oster - licuadora oster de 6velocidades - FALLA: se le sale el agua por la cuchilla - Lugar de Compra: PITALITO

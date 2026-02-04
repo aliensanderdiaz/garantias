@@ -1,13 +1,61 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-67528",
+    "codigo": "GRT-67792",
     "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36067856",
+    "referencia": "L27630",
+    "producto": "OLLA PRESION LPC CI 6L V2",
+    "falla": "Cuerpo Deformado",
+    "s2": "",
+    "fecha": "04/02/2026",
+    "interno": "WSC977",
+    "fechaIngreso": "2026-02-02",
+    "productoIngreso": "olla pitadora tradicional",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio cambio"
+  },
+  {
+    "codigo": "GRT-67784",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "36155354",
+    "referencia": "L40600",
+    "producto": "PLANCHA SECA LA TRADICIONAL",
+    "falla": "Termostato Descalibrado",
+    "s2": "26001796",
+    "fecha": "04/02/2026",
+    "interno": "GVM158",
+    "fechaIngreso": "2025-12-27",
+    "productoIngreso": "planca seca universal",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": "[martes, 3 de febrero de 2026]ingresar y pedir automatico"
+  },
+  {
+    "codigo": "GRT-67783",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "12202172",
+    "referencia": "L50850",
+    "producto": "LICUADORA MASS VITAL",
+    "falla": "Selector de velocidades En corto",
+    "s2": "",
+    "fecha": "04/02/2026",
+    "interno": "FBP757",
+    "fechaIngreso": "2026-01-28",
+    "productoIngreso": "lucuadora mass vital",
+    "lugarDeCompra": "CRISTIAN COMUNICACIONES",
+    "observaciones": "[miércoles, 4 de febrero de 2026]suiche  o cambio"
+  },
+  {
+    "codigo": "GRT-67528",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075260603",
     "referencia": "L50803",
     "producto": "LICUADORA LA TRADICIONAL",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "26001734",
     "fecha": "31/01/2026",
     "interno": "ZWV504",
     "fechaIngreso": "2025-12-27",
@@ -29,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-20",
     "productoIngreso": "ventilador de torre",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 27 de enero de 2026]se pide motores y tarjeta"
+    "observaciones": "[martes, 27 de enero de 2026]se pide motores y tarjeta-[miércoles, 4 de febrero de 2026]llega motor, motor, tarjeta"
   },
   {
     "codigo": "GRT-67200",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7704976",
     "referencia": "L75680",
@@ -45,27 +93,27 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-23",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "WORK COM",
-    "observaciones": ""
+    "observaciones": "[lunes, 2 de febrero de 2026]SE PIDIÓ MOTOR-[lunes, 2 de febrero de 2026]reparado con motor prestado-[miércoles, 4 de febrero de 2026]llega motor"
   },
   {
     "codigo": "GRT-67199",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075243622",
     "referencia": "L62070",
     "producto": "LICUADORA ULTRA+VASO PICATODO",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "26001657",
     "fecha": "26/01/2026",
     "interno": "GSR788",
     "fechaIngreso": "2026-01-26",
     "productoIngreso": "licuadora  universal  ultra",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor o cambio"
   },
   {
     "codigo": "GRT-66933",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075210482",
     "referencia": "L87560",
@@ -77,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-03",
     "productoIngreso": "freidora universal de 4.8",
     "lugarDeCompra": "CRISTIAN COMUNICACIONES",
-    "observaciones": "[martes, 20 de enero de 2026]microsuiche prestado 24000578-[martes, 20 de enero de 2026]reparada con microsuiche prestado-[miércoles, 28 de enero de 2026]entregado"
+    "observaciones": "[martes, 20 de enero de 2026]microsuiche prestado 24000578-[martes, 20 de enero de 2026]reparada con microsuiche prestado-[miércoles, 28 de enero de 2026]entregado-[miércoles, 4 de febrero de 2026]dicen que van a mandar cambio"
   },
   {
     "codigo": "GRT-66389",
@@ -112,22 +160,6 @@ let garantiasUniversal = [
     "observaciones": "[lunes, 5 de enero de 2026]llega termostato"
   },
   {
-    "codigo": "GRT-65797",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7725267",
-    "referencia": "L72818",
-    "producto": "VENTILADOR CORONA 16\" NEGRO X2",
-    "falla": "Motor Bobinas en corto",
-    "s2": "25019959",
-    "fecha": "24/12/2025",
-    "interno": "ULM519",
-    "fechaIngreso": "2025-12-15",
-    "productoIngreso": "ventilador corona negro",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 5 de enero de 2026]llega motor-[jueves, 29 de enero de 2026]se le entrega ventilador "
-  },
-  {
     "codigo": "GRT-65615",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -158,21 +190,5 @@ let garantiasUniversal = [
     "productoIngreso": "olla presión electrica",
     "lugarDeCompra": "UNICO NEIVA",
     "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: Este caso se está tramitando con la consumidora para el producto sustituto. Estamos a la espera de que ella elija el producto y nos brinde la información necesaria para proceder con el pedido."
-  },
-  {
-    "codigo": "GRT-64088",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075251182",
-    "referencia": "L88333",
-    "producto": "SANDUCHERA SONRISA ESENCIAL",
-    "falla": "Cuerpo Quebrado",
-    "s2": "26000449",
-    "fecha": "17/11/2025",
-    "interno": "FBS512",
-    "fechaIngreso": "2025-11-14",
-    "productoIngreso": "sanduchera",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[domingo, 16 de noviembre de 2025]se pidió cambio-[sábado, 10 de enero de 2026]no responde que pasó con eso-[miércoles, 14 de enero de 2026]LANDER: debido a un error del sistema, al solicitar el cambio de producto se produjo un inconveniente. Sin embargo, ya corregí el error y registré adecuadamente el cambio de producto. Quedó asociado al pedido S2: 26000449.-[miércoles, 21 de enero de 2026]Llega sanduchera nueva-[sábado, 24 de enero de 2026]entregada\n"
   }
 ]

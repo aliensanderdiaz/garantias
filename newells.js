@@ -1,5 +1,27 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00431940",
+    "cliente": "Gilma Segura",
+    "estado": "Pre-terminado",
+    "fecha": "04/02/2026",
+    "interno": "HOD067",
+    "fechaIngreso": "2026-02-04",
+    "productoIngreso": "licuadora oster de  6velocidades",
+    "lugarDeCompra": "PITALITO",
+    "observaciones": "[miércoles, 4 de febrero de 2026]no tiene falla se pidió despacho"
+  },
+  {
+    "codigo": "WO-00431917",
+    "cliente": "Yenny Banesa Bonilla Avendaño",
+    "estado": "En progreso",
+    "fecha": "04/02/2026",
+    "interno": "NAP669",
+    "fechaIngreso": "2026-01-29",
+    "productoIngreso": "freidora oster 4litros",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor y termostato"
+  },
+  {
     "codigo": "WO-00429661",
     "cliente": "Harryson Trujillo Vargas",
     "estado": "En progreso",
@@ -8,18 +30,18 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-29",
     "productoIngreso": "exprimidor oster",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 27 de enero de 2026]se pide motor"
+    "observaciones": "[martes, 27 de enero de 2026]se pide motor-[miércoles, 4 de febrero de 2026]LLEGA MOTOR"
   },
   {
     "codigo": "WO-00429016",
     "cliente": "Margarita Ladino Sánchez",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "26/01/2026",
     "interno": "DFJ086",
     "fechaIngreso": "2026-01-21",
     "productoIngreso": "plancha oster aeroceramic",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pide resistencia y automatico, tapas partidas no se pueden pedir\n"
   },
   {
     "codigo": "WO-00427468",
@@ -30,13 +52,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00427413",
     "cliente": "Marcelo Vargas Ramos",
-    "estado": "Pre-terminado",
-    "fecha": "21/01/2026",
-    "interno": "NAE967",
-    "fechaIngreso": "2025-12-29",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "ALKOSTO",
-    "observaciones": "[miércoles, 21 de enero de 2026]Reparada con fusible prestado-[martes, 27 de enero de 2026]se le entrega"
+    "estado": "Entregado",
+    "fecha": "21/01/2026"
   },
   {
     "codigo": "WO-00427252",
@@ -74,13 +91,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00427074",
     "cliente": "Midia Pilar Dussan Useche",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "20/01/2026",
     "interno": "EZA546",
     "fechaIngreso": "2026-01-19",
     "productoIngreso": "licuadora oster de dos velocidades",
     "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[lunes, 19 de enero de 2026]pedir motor"
+    "observaciones": "[lunes, 19 de enero de 2026]pedir motor-[lunes, 2 de febrero de 2026]llegó motor-[lunes, 2 de febrero de 2026]reparado"
   },
   {
     "codigo": "WO-00427036",
@@ -97,13 +114,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00424509",
     "cliente": "Diana Carolina Del Pilar Suaza Saenz",
-    "estado": "Pre-terminado",
-    "fecha": "10/01/2026",
-    "interno": "DKQ327",
-    "fechaIngreso": "2026-01-05",
-    "productoIngreso": "cafetera oster digital",
-    "lugarDeCompra": "PEPE GANGA",
-    "observaciones": "[sábado, 10 de enero de 2026]control temp, automatico, fusibles-[lunes, 19 de enero de 2026]llega fusible termico y termostato-[martes, 20 de enero de 2026]Reparada"
+    "estado": "Entregado",
+    "fecha": "10/01/2026"
   },
   {
     "codigo": "WO-00421284",
@@ -152,13 +164,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00418678",
     "cliente": "Carmen Quimbaya",
-    "estado": "Pre-terminado",
-    "fecha": "13/12/2025",
-    "interno": "MKZ801",
-    "fechaIngreso": "2025-12-10",
-    "productoIngreso": "plancha oster gris con roja",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió termostato-[sábado, 3 de enero de 2026]llegó repuesto-[sábado, 10 de enero de 2026]reparada"
+    "estado": "Entregado",
+    "fecha": "13/12/2025"
   },
   {
     "codigo": "WO-00418672",
@@ -354,18 +361,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404282",
     "cliente": "Fernando Agredo Trujillo",
-    "estado": "Entregado",
-    "fecha": "21/10/2025"
-  },
-  {
-    "codigo": "WO-00404279",
-    "cliente": "Hebert Quimbaya",
-    "estado": "Entregado",
-    "fecha": "21/10/2025"
-  },
-  {
-    "codigo": "WO-00404157",
-    "cliente": "Kelly Jhoana Ome Scarpetta",
     "estado": "Entregado",
     "fecha": "21/10/2025"
   }
