@@ -13,13 +13,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00431917",
     "cliente": "Yenny Banesa Bonilla Avendaño",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "04/02/2026",
     "interno": "NAP669",
     "fechaIngreso": "2026-01-29",
     "productoIngreso": "freidora oster 4litros",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor y termostato"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor y termostato-[jueves, 12 de febrero de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00429661",
@@ -30,7 +30,7 @@ let garantiasNewells = [
     "fechaIngreso": "2025-12-29",
     "productoIngreso": "exprimidor oster",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 27 de enero de 2026]se pide motor-[miércoles, 4 de febrero de 2026]LLEGA MOTOR"
+    "observaciones": "[martes, 27 de enero de 2026]se pide motor-[miércoles, 4 de febrero de 2026]LLEGA MOTOR-[lunes, 9 de febrero de 2026]se le hace el cambio por un ventilador al señor\n "
   },
   {
     "codigo": "WO-00429016",
@@ -58,7 +58,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00427252",
     "cliente": "Martha Puentes",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "20/01/2026",
     "interno": "YVD302",
     "fechaIngreso": "2026-01-17",
@@ -69,7 +69,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00427250",
     "cliente": "Hermesto Tovar Gutierrez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "20/01/2026",
     "interno": "SUK894",
     "fechaIngreso": "2026-01-06",
@@ -97,7 +97,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-19",
     "productoIngreso": "licuadora oster de dos velocidades",
     "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[lunes, 19 de enero de 2026]pedir motor-[lunes, 2 de febrero de 2026]llegó motor-[lunes, 2 de febrero de 2026]reparado"
+    "observaciones": "[lunes, 19 de enero de 2026]pedir motor-[lunes, 2 de febrero de 2026]llegó motor-[lunes, 2 de febrero de 2026]reparado-[jueves, 12 de febrero de 2026]entregado"
   },
   {
     "codigo": "WO-00427036",

@@ -1,23 +1,55 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-67792",
+    "codigo": "GRT-68282",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075296915",
+    "referencia": "L89875",
+    "producto": "OLLA PRESIÓN ELECTRI MULTI PRO",
+    "falla": "Resistencia Sin continuidad",
+    "s2": "26002309",
+    "fecha": "12/02/2026",
+    "interno": "LHS114",
+    "fechaIngreso": "2026-01-30",
+    "productoIngreso": "olla multifuncional universal",
+    "lugarDeCompra": "EN EL ÚNICO",
+    "observaciones": "[jueves, 12 de febrero de 2026]se reparo con cable de poder nuevo prestado"
+  },
+  {
+    "codigo": "GRT-68279",
     "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075289460",
+    "referencia": "L37706",
+    "producto": "OLLA A PRESIÓN TRIEXPRESS 5.6L",
+    "falla": "Cuerpo Quebrado",
+    "s2": "",
+    "fecha": "12/02/2026",
+    "interno": "USI926",
+    "fechaIngreso": "2026-02-10",
+    "productoIngreso": "olla a presion de 5.6 litros cierre externo",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[jueves, 12 de febrero de 2026]asas o cambio"
+  },
+  {
+    "codigo": "GRT-67792",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36067856",
     "referencia": "L27630",
     "producto": "OLLA PRESION LPC CI 6L V2",
     "falla": "Cuerpo Deformado",
-    "s2": "",
+    "s2": "26002014",
     "fecha": "04/02/2026",
     "interno": "WSC977",
     "fechaIngreso": "2026-02-02",
     "productoIngreso": "olla pitadora tradicional",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio cambio"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio cambio-[jueves, 12 de febrero de 2026]Llega olla a presion"
   },
   {
     "codigo": "GRT-67784",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36155354",
     "referencia": "L40600",
@@ -29,17 +61,17 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-27",
     "productoIngreso": "planca seca universal",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[martes, 3 de febrero de 2026]ingresar y pedir automatico"
+    "observaciones": "[martes, 3 de febrero de 2026]ingresar y pedir automatico-[jueves, 12 de febrero de 2026]Llega automatico"
   },
   {
     "codigo": "GRT-67783",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "12202172",
     "referencia": "L50850",
     "producto": "LICUADORA MASS VITAL",
     "falla": "Selector de velocidades En corto",
-    "s2": "",
+    "s2": "26002011",
     "fecha": "04/02/2026",
     "interno": "FBP757",
     "fechaIngreso": "2026-01-28",
@@ -49,7 +81,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-67528",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075260603",
     "referencia": "L50803",
@@ -61,11 +93,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-27",
     "productoIngreso": "motor licuadora universal",
     "lugarDeCompra": "ELECTRODOMESTICOS MANA",
-    "observaciones": "[sábado, 31 de enero de 2026]se pide motor"
+    "observaciones": "[sábado, 31 de enero de 2026]se pide motor-[jueves, 12 de febrero de 2026]Llega licuadora"
   },
   {
     "codigo": "GRT-67333",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55165679",
     "referencia": "L71150",
@@ -77,7 +109,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-20",
     "productoIngreso": "ventilador de torre",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 27 de enero de 2026]se pide motores y tarjeta-[miércoles, 4 de febrero de 2026]llega motor, motor, tarjeta"
+    "observaciones": "[martes, 27 de enero de 2026]se pide motores y tarjeta-[miércoles, 4 de febrero de 2026]llega motor, motor, tarjeta-[jueves, 12 de febrero de 2026]reparado"
   },
   {
     "codigo": "GRT-67200",
@@ -93,11 +125,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-23",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "WORK COM",
-    "observaciones": "[lunes, 2 de febrero de 2026]SE PIDIÓ MOTOR-[lunes, 2 de febrero de 2026]reparado con motor prestado-[miércoles, 4 de febrero de 2026]llega motor"
+    "observaciones": "[lunes, 2 de febrero de 2026]SE PIDIÓ MOTOR-[lunes, 2 de febrero de 2026]reparado con motor prestado-[miércoles, 4 de febrero de 2026]llega motor-[jueves, 12 de febrero de 2026]entregado ventilador"
   },
   {
     "codigo": "GRT-67199",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075243622",
     "referencia": "L62070",
@@ -109,7 +141,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-26",
     "productoIngreso": "licuadora  universal  ultra",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor o cambio"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor o cambio-[jueves, 12 de febrero de 2026]Llega licuadora"
   },
   {
     "codigo": "GRT-66933",
