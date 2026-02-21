@@ -45,6 +45,33 @@ Propietario
 Acción
 
 Pre-terminado
+WO-00436679
+21/02/2026 12:46 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Gilber Fernando Rojas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00436672
+21/02/2026 12:34 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Guillermo Parra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00436665
+21/02/2026 12:24 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Nicolás Salas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
 WO-00431940
 4/02/2026 06:07 p. m.
 Garantía
@@ -62,7 +89,7 @@ Yenny Banesa Bonilla Avendaño
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00429661
 27/01/2026 05:35 p. m.
 Garantía
@@ -71,7 +98,7 @@ Harryson Trujillo Vargas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00429016
 26/01/2026 09:27 a. m.
 Garantía
@@ -125,7 +152,7 @@ Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00427074
 20/01/2026 02:51 p. m.
 Garantía
@@ -224,7 +251,7 @@ Edna Alejandra Mercedes Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00418332
 11/12/2025 05:16 p. m.
 Garantía
@@ -464,33 +491,6 @@ WO-00404609
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Francy Johanna Ramírez
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404604
-22/10/2025 11:11 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Nuri Yineth Polo Ruiz
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404306
-21/10/2025 04:17 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Juan Camilo Parra
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404282
-21/10/2025 03:52 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Fernando Agredo Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
