@@ -21,9 +21,10 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-124	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	124	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-88	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	88	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-64	146553	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA HORTA	1075232582	2025-11-24 23:17:09	64	BLACK+DECKER	BL0876-1RDLA	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-12	149980	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANCISAR RAMÍREZ	4913206	2026-02-04 22:14:03	12	BLACK+DECKER	MX900WG	PENDIENTE AUTORIZACION	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 4 de un total de 4 registrosAnterior1Siguiente
+125	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	125	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+89	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	89	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+65	146553	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA HORTA	1075232582	2025-11-24 23:17:09	65	BLACK+DECKER	BL0876-1RDLA	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
+13	149980	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANCISAR RAMÍREZ	4913206	2026-02-04 22:14:03	13	BLACK+DECKER	MX900WG	PENDIENTE AUTORIZACION	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
+0	150941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YUCELY CAICEDO MANRIQUE	7717254	2026-02-23 23:35:38	0	BLACK+DECKER	BLBD210GB	TRAMITE	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 5 de un total de 5 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

@@ -1,5 +1,16 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00437223",
+    "cliente": "Andrea Mena Lasso",
+    "estado": "En progreso",
+    "fecha": "23/02/2026",
+    "interno": "NHQ981",
+    "fechaIngreso": "2026-02-04",
+    "productoIngreso": "freidora oster 4litros diamond forrce",
+    "lugarDeCompra": "PITALITO",
+    "observaciones": "[lunes, 23 de febrero de 2026]se pide microsuiche, reparada con  microsuiche prestado-[lunes, 23 de febrero de 2026]se pide retorno a lugar de origen"
+  },
+  {
     "codigo": "WO-00436679",
     "cliente": "Gilber Fernando Rojas",
     "estado": "Pre-terminado",
@@ -41,7 +52,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00431917",
     "cliente": "Yenny Banesa Bonilla Avendaño",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "04/02/2026",
     "interno": "NAP669",
     "fechaIngreso": "2026-01-29",
@@ -360,12 +371,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404621",
     "cliente": "Suleima Espinoza",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404609",
-    "cliente": "Francy Johanna Ramírez",
     "estado": "Entregado",
     "fecha": "22/10/2025"
   }

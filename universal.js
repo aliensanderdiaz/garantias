@@ -1,5 +1,53 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-68956",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1079408492",
+    "referencia": "L50017",
+    "producto": "LICUADORA ALIADA",
+    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
+    "s2": "",
+    "fecha": "23/02/2026",
+    "interno": "WSW607",
+    "fechaIngreso": "2026-02-06",
+    "productoIngreso": "licuadora universal aliada",
+    "lugarDeCompra": "EXITO SAN PEDRO",
+    "observaciones": "[lunes, 23 de febrero de 2026]motor y teclado averiado, se pide repuestos o cambio"
+  },
+  {
+    "codigo": "GRT-68954",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "7731841",
+    "referencia": "L75545",
+    "producto": "VENTILADOR DYNAMIC VENTO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "",
+    "fecha": "23/02/2026",
+    "interno": "BKR506",
+    "fechaIngreso": "2026-02-14",
+    "productoIngreso": "ventilado dynami universal negro",
+    "lugarDeCompra": "LANDER DEL UNICO",
+    "observaciones": "[lunes, 23 de febrero de 2026]se pide motor o cambio"
+  },
+  {
+    "codigo": "GRT-68953",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "55201407",
+    "referencia": "L87560",
+    "producto": "FREIDORA DE AIRE MASTERFRYER",
+    "falla": "Microsuiche Sin continuidad",
+    "s2": "26002916",
+    "fecha": "23/02/2026",
+    "interno": "BBS208",
+    "fechaIngreso": "2026-02-23",
+    "productoIngreso": "freidora universal de  5",
+    "lugarDeCompra": "UNICO",
+    "observaciones": "[lunes, 23 de febrero de 2026]se pide microsuiche, pero ya se reparó con microsuiche prestado"
+  },
+  {
     "codigo": "GRT-68822",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -93,7 +141,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-27",
     "productoIngreso": "motor licuadora universal",
     "lugarDeCompra": "ELECTRODOMESTICOS MANA",
-    "observaciones": "[sábado, 31 de enero de 2026]se pide motor-[jueves, 12 de febrero de 2026]Llega licuadora"
+    "observaciones": "[sábado, 31 de enero de 2026]se pide motor-[jueves, 12 de febrero de 2026]Llega licuadora-[lunes, 23 de febrero de 2026]entregada-[lunes, 23 de febrero de 2026]entregada"
   },
   {
     "codigo": "GRT-67333",

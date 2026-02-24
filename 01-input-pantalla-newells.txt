@@ -44,6 +44,15 @@ Propietario
 
 Acción
 
+En progreso
+WO-00437223
+23/02/2026 06:47 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Andrea Mena Lasso
+Colombia
+Jhon Fredy Bahamon Bonilla
+
 Pre-terminado
 WO-00436679
 21/02/2026 12:46 p. m.
@@ -80,7 +89,7 @@ Gilma Segura
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00431917
 4/02/2026 05:17 p. m.
 Garantía
@@ -482,15 +491,6 @@ WO-00404621
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Suleima Espinoza
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404609
-22/10/2025 11:21 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Francy Johanna Ramírez
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
