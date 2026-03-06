@@ -1,47 +1,65 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00440444",
+    "cliente": "Ruben Dario Garcia",
+    "estado": "En progreso",
+    "fecha": "05/03/2026",
+    "interno": "TJQ497",
+    "fechaIngreso": "2026-03-05",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ÉXITO",
+    "observaciones": "[jueves, 5 de marzo de 2026]se pide motor y suiche"
+  },
+  {
+    "codigo": "WO-00440099",
+    "cliente": "Kelly Bocanegra",
+    "estado": "Entregado",
+    "fecha": "04/03/2026"
+  },
+  {
+    "codigo": "WO-00440097",
+    "cliente": "Martha Forero",
+    "estado": "Pre-terminado",
+    "fecha": "04/03/2026",
+    "interno": "CCM245",
+    "fechaIngreso": "2026-02-13",
+    "productoIngreso": "freidora de 4litros digital",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[jueves, 5 de marzo de 2026]no se encontró falla, se pide retorno"
+  },
+  {
     "codigo": "WO-00437223",
     "cliente": "Andrea Mena Lasso",
-    "estado": "En progreso",
-    "fecha": "23/02/2026",
-    "interno": "NHQ981",
-    "fechaIngreso": "2026-02-04",
-    "productoIngreso": "freidora oster 4litros diamond forrce",
-    "lugarDeCompra": "PITALITO",
-    "observaciones": "[lunes, 23 de febrero de 2026]se pide microsuiche, reparada con  microsuiche prestado-[lunes, 23 de febrero de 2026]se pide retorno a lugar de origen"
+    "estado": "Entregado",
+    "fecha": "23/02/2026"
   },
   {
     "codigo": "WO-00436679",
     "cliente": "Gilber Fernando Rojas",
-    "estado": "Pre-terminado",
-    "fecha": "21/02/2026",
-    "interno": "FYW121",
-    "fechaIngreso": "2026-02-20",
-    "productoIngreso": "licuadora oster clasica o",
-    "lugarDeCompra": "NO TIENE",
-    "observaciones": "[sábado, 21 de febrero de 2026]no procede garantia se pide devolucion a lugar de origen"
+    "estado": "Entregado",
+    "fecha": "21/02/2026"
   },
   {
     "codigo": "WO-00436672",
     "cliente": "Guillermo Parra",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "21/02/2026",
     "interno": "LLY055",
     "fechaIngreso": "2026-02-14",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[sábado, 21 de febrero de 2026]se pide motor"
+    "observaciones": "[sábado, 21 de febrero de 2026]se pide motor-[lunes, 2 de marzo de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00436665",
     "cliente": "Nicolás Salas",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "21/02/2026",
     "interno": "GAU899",
     "fechaIngreso": "2026-02-20",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[sábado, 21 de febrero de 2026]reparada con suiche prestado"
+    "observaciones": "[sábado, 21 de febrero de 2026]reparada con suiche prestado-[martes, 3 de marzo de 2026]llego suiche, entregar a mary"
   },
   {
     "codigo": "WO-00431940",
@@ -58,7 +76,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-29",
     "productoIngreso": "freidora oster 4litros",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor y termostato-[jueves, 12 de febrero de 2026]van a dar carta"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor y termostato-[jueves, 12 de febrero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
   },
   {
     "codigo": "WO-00429661",
@@ -80,7 +98,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-21",
     "productoIngreso": "plancha oster aeroceramic",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pide resistencia y automatico, tapas partidas no se pueden pedir\n-[martes, 17 de febrero de 2026]van a dar carta"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pide resistencia y automatico, tapas partidas no se pueden pedir\n-[martes, 17 de febrero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
   },
   {
     "codigo": "WO-00427468",
@@ -103,7 +121,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-17",
     "productoIngreso": "licuadora oster clásica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 20 de enero de 2026]pedir motor-[lunes, 26 de enero de 2026]van a dar carta"
+    "observaciones": "[martes, 20 de enero de 2026]pedir motor-[lunes, 26 de enero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
   },
   {
     "codigo": "WO-00427250",
@@ -114,7 +132,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-01-06",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "COMERCIALIZADORA SANTA MARTA",
-    "observaciones": "[martes, 20 de enero de 2026]pedir motor-[lunes, 26 de enero de 2026]van a dar carta"
+    "observaciones": "[martes, 20 de enero de 2026]pedir motor-[lunes, 26 de enero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
   },
   {
     "codigo": "WO-00427245",
@@ -353,24 +371,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00404807",
     "cliente": "Andres Felipe Mejia",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404805",
-    "cliente": "Cencosud Colombia S.a.",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404799",
-    "cliente": "Maria Elena García Lugo",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404621",
-    "cliente": "Suleima Espinoza",
     "estado": "Entregado",
     "fecha": "22/10/2025"
   }

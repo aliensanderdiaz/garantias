@@ -45,6 +45,33 @@ Propietario
 Acción
 
 En progreso
+WO-00440444
+5/03/2026 10:08 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Ruben Dario Garcia
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00440099
+4/03/2026 07:56 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Kelly Bocanegra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
+WO-00440097
+4/03/2026 07:44 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Martha Forero
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
 WO-00437223
 23/02/2026 06:47 p. m.
 Garantía
@@ -53,7 +80,7 @@ Andrea Mena Lasso
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00436679
 21/02/2026 12:46 p. m.
 Garantía
@@ -62,7 +89,7 @@ Gilber Fernando Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00436672
 21/02/2026 12:34 p. m.
 Garantía
@@ -71,7 +98,7 @@ Guillermo Parra
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00436665
 21/02/2026 12:24 p. m.
 Garantía
@@ -464,33 +491,6 @@ WO-00404807
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Andres Felipe Mejia
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404805
-22/10/2025 04:41 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Cencosud Colombia S.a.
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404799
-22/10/2025 04:34 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Maria Elena García Lugo
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00404621
-22/10/2025 11:37 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Suleima Espinoza
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
