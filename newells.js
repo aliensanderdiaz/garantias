@@ -1,5 +1,60 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00440922",
+    "cliente": "Yasmith Hernández",
+    "estado": "Nuevo",
+    "fecha": "08/03/2026",
+    "interno": "CBU648",
+    "fechaIngreso": "2026-01-29",
+    "productoIngreso": "cafetera oster primalatte",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00440921",
+    "cliente": "Vianed Medina Castro",
+    "estado": "En progreso",
+    "fecha": "08/03/2026",
+    "interno": "NDK586",
+    "fechaIngreso": "2026-02-13",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[domingo, 8 de marzo de 2026]termostato y fusible"
+  },
+  {
+    "codigo": "WO-00440920",
+    "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
+    "estado": "En progreso",
+    "fecha": "08/03/2026",
+    "interno": "DJJ019",
+    "fechaIngreso": "2026-02-05",
+    "productoIngreso": "batidora oster",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor"
+  },
+  {
+    "codigo": "WO-00440702",
+    "cliente": "Alexander Gallego",
+    "estado": "En progreso",
+    "fecha": "06/03/2026",
+    "interno": "ODN240",
+    "fechaIngreso": "2026-03-03",
+    "productoIngreso": "freidora oster de 3,8",
+    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
+    "observaciones": "[viernes, 6 de marzo de 2026]se repara con fusible y timer prestado"
+  },
+  {
+    "codigo": "WO-00440574",
+    "cliente": "Stefania Rojas",
+    "estado": "En progreso",
+    "fecha": "06/03/2026",
+    "interno": "WYK214",
+    "fechaIngreso": "2026-03-03",
+    "productoIngreso": "waffle maker",
+    "lugarDeCompra": "ALAMCEN ARA",
+    "observaciones": "[domingo, 8 de marzo de 2026]se pide resistencia y termostato"
+  },
+  {
     "codigo": "WO-00440444",
     "cliente": "Ruben Dario Garcia",
     "estado": "En progreso",
@@ -343,35 +398,5 @@ let garantiasNewells = [
     "cliente": "Egna Karina Herrera Celis",
     "estado": "Entregado",
     "fecha": "04/11/2025"
-  },
-  {
-    "codigo": "WO-00408775",
-    "cliente": "Isabel Torres Luna",
-    "estado": "Entregado",
-    "fecha": "04/11/2025"
-  },
-  {
-    "codigo": "WO-00404823",
-    "cliente": "Glemys Martinez Caviedes",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404819",
-    "cliente": "Oscar Eduardo Polo Rojas",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404810",
-    "cliente": "Maria Fernanda Murcia",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
-  },
-  {
-    "codigo": "WO-00404807",
-    "cliente": "Andres Felipe Mejia",
-    "estado": "Entregado",
-    "fecha": "22/10/2025"
   }
 ]
