@@ -3,7 +3,6 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
-Cuenta del centro de servicio
 Más
 Search...
 
@@ -45,7 +44,16 @@ Propietario
 
 Acción
 
-Nuevo
+En progreso
+WO-00441761
+11/03/2026 05:29 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Glemys Martinez Caviedes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
 WO-00440922
 8/03/2026 11:40 p. m.
 Garantía
@@ -81,7 +89,7 @@ Alexander Gallego
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00440574
 6/03/2026 11:25 a. m.
 Garantía
@@ -135,7 +143,7 @@ Gilber Fernando Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00436672
 21/02/2026 12:34 p. m.
 Garantía
@@ -483,15 +491,6 @@ WO-00408781
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Luis Ramírez
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00408779
-4/11/2025 07:56 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Egna Karina Herrera Celis
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

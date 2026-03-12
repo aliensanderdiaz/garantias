@@ -21,10 +21,10 @@ Tickets Pendientes
 Ordenes Pendientes
 Buscar:
 .	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-135	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	135	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-99	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	99	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-75	146553	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA HORTA	1075232582	2025-11-24 23:17:09	75	BLACK+DECKER	BL0876-1RDLA	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
-23	149980	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANCISAR RAMÍREZ	4913206	2026-02-04 22:14:03	23	BLACK+DECKER	MX900WG	PENDIENTE AUTORIZACION	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
-10	150941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YUCELY CAICEDO MANRIQUE	7717254	2026-02-23 23:35:38	10	BLACK+DECKER	BLBD210GB	TRAMITE	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
+137	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	137	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+101	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	101	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+77	146553	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	DIANA HORTA	1075232582	2025-11-24 23:17:09	77	BLACK+DECKER	BL0876-1RDLA	PREFINALIZADO	TECNOHOGAR	Ver Ticket	Trazabilidad
+25	149980	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANCISAR RAMÍREZ	4913206	2026-02-04 22:14:03	25	BLACK+DECKER	MX900WG	PENDIENTE AUTORIZACION	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
+12	150941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YUCELY CAICEDO MANRIQUE	7717254	2026-02-23 23:35:38	12	BLACK+DECKER	BLBD210GB	DESPACHADO	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
 Mostrando registros del 1 al 5 de un total de 5 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

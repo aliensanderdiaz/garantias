@@ -1,7 +1,7 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-69643",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "83115119",
     "referencia": "L50861",
@@ -33,13 +33,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-69641",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "12128583",
     "referencia": "L75660",
     "producto": "VENTILADOR FRESH ULTRA",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "26003857",
     "fecha": "09/03/2026",
     "interno": "TRB413",
     "fechaIngreso": "2026-01-13",
@@ -80,30 +80,14 @@ let garantiasUniversal = [
     "observaciones": "[domingo, 8 de marzo de 2026]se pide motor"
   },
   {
-    "codigo": "GRT-69511",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7701801",
-    "referencia": "L71300",
-    "producto": "VENTILADOR COMPACT FRESH",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26003698",
-    "fecha": "06/03/2026",
-    "interno": "CUO277",
-    "fechaIngreso": "2026-01-24",
-    "productoIngreso": "ventilador universal de mesa negro",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 2 de marzo de 2026]pedir motor-[lunes, 2 de marzo de 2026]se reparó con motor prestado-[lunes, 2 de marzo de 2026]se le entrega ventilador a el señor"
-  },
-  {
     "codigo": "GRT-69509",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "4949815",
     "referencia": "L62090",
     "producto": "LICUADORA ELITE TURBO MAX",
     "falla": "Tarjeta electrónica Sin continuidad",
-    "s2": "",
+    "s2": "26003825",
     "fecha": "06/03/2026",
     "interno": "SWW412",
     "fechaIngreso": "2026-02-11",
@@ -113,13 +97,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-69508",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075300133",
     "referencia": "L50803",
     "producto": "LICUADORA LA TRADICIONAL",
     "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "",
+    "s2": "26003822",
     "fecha": "06/03/2026",
     "interno": "JDZ028",
     "fechaIngreso": "2026-02-11",
@@ -157,7 +141,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-02-06",
     "productoIngreso": "licuadora universal aliada",
     "lugarDeCompra": "EXITO SAN PEDRO",
-    "observaciones": "[lunes, 23 de febrero de 2026]motor y teclado averiado, se pide repuestos o cambio-[miércoles, 4 de marzo de 2026]Llegó algo no se si repuestos o producto-[miércoles, 4 de marzo de 2026]llegó licuadora"
+    "observaciones": "[lunes, 23 de febrero de 2026]motor y teclado averiado, se pide repuestos o cambio-[miércoles, 4 de marzo de 2026]Llegó algo no se si repuestos o producto-[miércoles, 4 de marzo de 2026]llegó licuadora-[lunes, 9 de marzo de 2026]entregada licuadora"
   },
   {
     "codigo": "GRT-68817",

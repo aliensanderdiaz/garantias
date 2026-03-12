@@ -1,15 +1,16 @@
 let garantiasNewells = [
   {
-    "codigo": "WO-00440922",
-    "cliente": "Yasmith Hernández",
-    "estado": "Nuevo",
-    "fecha": "08/03/2026",
-    "interno": "CBU648",
-    "fechaIngreso": "2026-01-29",
-    "productoIngreso": "cafetera oster primalatte",
-    "lugarDeCompra": "HOMECENTER",
+    "codigo": "WO-00441761",
+    "cliente": "Glemys Martinez Caviedes",
+    "estado": "En progreso",
+    "fecha": "11/03/2026",
+    "interno": "UWZ732",
+    "fechaIngreso": "2026-03-10",
+    "productoIngreso": "licudora Oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
     "observaciones": ""
   },
+
   {
     "codigo": "WO-00440921",
     "cliente": "Vianed Medina Castro",
@@ -46,13 +47,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440574",
     "cliente": "Stefania Rojas",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "06/03/2026",
     "interno": "WYK214",
     "fechaIngreso": "2026-03-03",
     "productoIngreso": "waffle maker",
     "lugarDeCompra": "ALAMCEN ARA",
-    "observaciones": "[domingo, 8 de marzo de 2026]se pide resistencia y termostato"
+    "observaciones": "[domingo, 8 de marzo de 2026]se pide resistencia y termostato-[miércoles, 11 de marzo de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00440444",
@@ -80,7 +81,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-02-13",
     "productoIngreso": "freidora de 4litros digital",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[jueves, 5 de marzo de 2026]no se encontró falla, se pide retorno"
+    "observaciones": "[jueves, 5 de marzo de 2026]no se encontró falla, se pide retorno-[lunes, 9 de marzo de 2026]estan pidiendo despacho con 23 M&M guia 300005083122"
   },
   {
     "codigo": "WO-00437223",
@@ -97,7 +98,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00436672",
     "cliente": "Guillermo Parra",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "21/02/2026",
     "interno": "LLY055",
     "fechaIngreso": "2026-02-14",
@@ -122,17 +123,7 @@ let garantiasNewells = [
     "estado": "Entregado",
     "fecha": "04/02/2026"
   },
-  {
-    "codigo": "WO-00431917",
-    "cliente": "Yenny Banesa Bonilla Avendaño",
-    "estado": "Pre-terminado",
-    "fecha": "04/02/2026",
-    "interno": "NAP669",
-    "fechaIngreso": "2026-01-29",
-    "productoIngreso": "freidora oster 4litros",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor y termostato-[jueves, 12 de febrero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
-  },
+
   {
     "codigo": "WO-00429661",
     "cliente": "Harryson Trujillo Vargas",
@@ -390,12 +381,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00408781",
     "cliente": "Luis Ramírez",
-    "estado": "Entregado",
-    "fecha": "04/11/2025"
-  },
-  {
-    "codigo": "WO-00408779",
-    "cliente": "Egna Karina Herrera Celis",
     "estado": "Entregado",
     "fecha": "04/11/2025"
   }
