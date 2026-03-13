@@ -168,9 +168,9 @@ let htmlContainerGarantiasExitoPitalito = '<hr><p>'
 
 // 
 
-garantiasExitoPitalito.forEach((garantia) => {
+garantiasExitoPitalito.forEach((garantia, index) => {
     htmlContainerGarantiasExitoPitalito += `
-        <br>${ garantia }
+        <br>${ index + 1 } - ${ garantia }<br>
     `
 })
 

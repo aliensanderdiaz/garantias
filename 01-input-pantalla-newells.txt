@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -45,6 +45,33 @@ Propietario
 Acción
 
 En progreso
+WO-00442051
+12/03/2026 08:58 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Anjhi Valencia
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00442050
+12/03/2026 08:50 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Angie Claros
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00442028
+12/03/2026 08:01 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Fernando Montilla
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
 WO-00441761
 11/03/2026 05:29 p. m.
 Garantía
@@ -53,7 +80,7 @@ Glemys Martinez Caviedes
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00440922
 8/03/2026 11:40 p. m.
 Garantía
@@ -80,7 +107,7 @@ Maria Elvira De Los Angeles Rojas Gomez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00440702
 6/03/2026 03:40 p. m.
 Garantía
@@ -98,7 +125,7 @@ Stefania Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00440444
 5/03/2026 10:08 p. m.
 Garantía
@@ -170,7 +197,7 @@ Gilma Segura
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00431917
 4/02/2026 05:17 p. m.
 Garantía
@@ -188,7 +215,7 @@ Harryson Trujillo Vargas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00429016
 26/01/2026 09:27 a. m.
 Garantía
@@ -464,33 +491,6 @@ WO-00409760
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Cepeda Gutiérrez Sas
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00409759
-9/11/2025 07:42 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Yenny Banesa Bonilla Avendaño
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00409669
-8/11/2025 11:07 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Diego Villada
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00408781
-4/11/2025 08:03 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Luis Ramírez
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

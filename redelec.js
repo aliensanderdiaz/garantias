@@ -53,7 +53,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2026-01-29",
     "productoIngreso": "batidora black decker",
     "lugarDeCompra": "ALAMCENES UNIVETSAL",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor-[miércoles, 18 de febrero de 2026]va para bogotá, despues daran carta"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor-[miércoles, 18 de febrero de 2026]va para bogotá, despues daran carta-[miércoles, 11 de marzo de 2026]se la lleva coordinadora"
   },
   {
     "codigo": "150941",
@@ -68,5 +68,19 @@ let garantiasRedelec = [
     "productoIngreso": "licuadora black decker",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
     "observaciones": "[lunes, 23 de febrero de 2026]se pide motor y teclado"
+  },
+  {
+    "codigo": "151937",
+    "cliente": "ANDRES CRUZ",
+    "clienteId": "1003804161",
+    "fecha": "2026-03-13",
+    "producto": "BLBD210GB",
+    "estado": "TRAMITE",
+    "almacen": "ALMACENES UNIVERSAL",
+    "interno": "HMQ428",
+    "fechaIngreso": "2026-03-09",
+    "productoIngreso": "licuadora black deker",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": ""
   }
 ]

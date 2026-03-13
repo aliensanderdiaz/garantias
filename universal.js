@@ -1,5 +1,21 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-69936",
+    "estado": "Recibido",
+    "tipo": "SIN PROCEDIMIENTO",
+    "clienteId": "55150701",
+    "referencia": "L82320",
+    "producto": "PLANCHA A VAPOR EXTRALITE",
+    "falla": "Cuerpo Otro",
+    "s2": "",
+    "fecha": "13/03/2026",
+    "interno": "VUG634",
+    "fechaIngreso": "2026-03-09",
+    "productoIngreso": "plancha universal a vapor extralite",
+    "lugarDeCompra": "D&CNIDELAR SAS",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-69643",
     "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -257,13 +273,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-65615",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36452836",
     "referencia": "L40840",
     "producto": "PLANCHA A VAPOR CERAMIC HOME",
     "falla": "Resistencia Sin continuidad,Termofusible Sin continuidad,Termostato Sin continuidad ",
-    "s2": "",
+    "s2": "26004000",
     "fecha": "18/12/2025",
     "interno": "LDH008",
     "fechaIngreso": "2025-12-15",
@@ -285,6 +301,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2025-12-01",
     "productoIngreso": "olla presión electrica",
     "lugarDeCompra": "UNICO NEIVA",
-    "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: Este caso se está tramitando con la consumidora para el producto sustituto. Estamos a la espera de que ella elija el producto y nos brinde la información necesaria para proceder con el pedido."
+    "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: Este caso se está tramitando con la consumidora para el producto sustituto. Estamos a la espera de que ella elija el producto y nos brinde la información necesaria para proceder con el pedido.-[miércoles, 11 de marzo de 2026]llega olla a presion viernes 11 de amrzo"
   }
 ]

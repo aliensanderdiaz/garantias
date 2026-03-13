@@ -1,5 +1,38 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00442051",
+    "cliente": "Anjhi Valencia",
+    "estado": "En progreso",
+    "fecha": "12/03/2026",
+    "interno": "IBC793",
+    "fechaIngreso": "2026-03-10",
+    "productoIngreso": "freidora oster digital de 6 litros",
+    "lugarDeCompra": "ALMACEN ARA",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00442050",
+    "cliente": "Angie Claros",
+    "estado": "En progreso",
+    "fecha": "12/03/2026",
+    "interno": "OTD509",
+    "fechaIngreso": "2026-03-12",
+    "productoIngreso": "licuadora oster xpert  plateada",
+    "lugarDeCompra": "CC SANPEDRO PLAZA",
+    "observaciones": "[jueves, 12 de marzo de 2026]se pide tarjeta"
+  },
+  {
+    "codigo": "WO-00442028",
+    "cliente": "Fernando Montilla",
+    "estado": "En progreso",
+    "fecha": "12/03/2026",
+    "interno": "XXJ878",
+    "fechaIngreso": "2026-03-09",
+    "productoIngreso": "freidora oster de 4litros",
+    "lugarDeCompra": "ALAMCENE ARA",
+    "observaciones": "[jueves, 12 de marzo de 2026]fusible y motor-[jueves, 12 de marzo de 2026]se reparó con elementos prestados"
+  },
+  {
     "codigo": "WO-00441761",
     "cliente": "Glemys Martinez Caviedes",
     "estado": "En progreso",
@@ -8,9 +41,14 @@ let garantiasNewells = [
     "fechaIngreso": "2026-03-10",
     "productoIngreso": "licudora Oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[miércoles, 11 de marzo de 2026]se pide motor y suiche (el que viene con tarjeta)"
   },
-
+  {
+    "codigo": "WO-00440922",
+    "cliente": "Yasmith Hernández",
+    "estado": "Entregado",
+    "fecha": "08/03/2026"
+  },
   {
     "codigo": "WO-00440921",
     "cliente": "Vianed Medina Castro",
@@ -36,7 +74,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440702",
     "cliente": "Alexander Gallego",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "06/03/2026",
     "interno": "ODN240",
     "fechaIngreso": "2026-03-03",
@@ -58,13 +96,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440444",
     "cliente": "Ruben Dario Garcia",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "05/03/2026",
     "interno": "TJQ497",
     "fechaIngreso": "2026-03-05",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": "[jueves, 5 de marzo de 2026]se pide motor y suiche"
+    "observaciones": "[jueves, 5 de marzo de 2026]se pide motor y suiche-[jueves, 12 de marzo de 2026]llegan repuestos-[jueves, 12 de marzo de 2026]reparada"
   },
   {
     "codigo": "WO-00440099",
@@ -123,7 +161,12 @@ let garantiasNewells = [
     "estado": "Entregado",
     "fecha": "04/02/2026"
   },
-
+  {
+    "codigo": "WO-00431917",
+    "cliente": "Yenny Banesa Bonilla Avendaño",
+    "estado": "Entregado",
+    "fecha": "04/02/2026"
+  },
   {
     "codigo": "WO-00429661",
     "cliente": "Harryson Trujillo Vargas",
@@ -138,13 +181,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00429016",
     "cliente": "Margarita Ladino Sánchez",
-    "estado": "Pre-terminado",
-    "fecha": "26/01/2026",
-    "interno": "DFJ086",
-    "fechaIngreso": "2026-01-21",
-    "productoIngreso": "plancha oster aeroceramic",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pide resistencia y automatico, tapas partidas no se pueden pedir\n-[martes, 17 de febrero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
+    "estado": "Entregado",
+    "fecha": "26/01/2026"
   },
   {
     "codigo": "WO-00427468",
@@ -365,23 +403,5 @@ let garantiasNewells = [
     "cliente": "Cepeda Gutiérrez Sas",
     "estado": "Entregado",
     "fecha": "09/11/2025"
-  },
-  {
-    "codigo": "WO-00409759",
-    "cliente": "Yenny Banesa Bonilla Avendaño",
-    "estado": "Entregado",
-    "fecha": "09/11/2025"
-  },
-  {
-    "codigo": "WO-00409669",
-    "cliente": "Diego Villada",
-    "estado": "Entregado",
-    "fecha": "08/11/2025"
-  },
-  {
-    "codigo": "WO-00408781",
-    "cliente": "Luis Ramírez",
-    "estado": "Entregado",
-    "fecha": "04/11/2025"
   }
 ]
