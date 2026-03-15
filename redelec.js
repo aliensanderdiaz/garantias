@@ -81,6 +81,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2026-03-09",
     "productoIngreso": "licuadora black deker",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": ""
+    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado"
   }
 ]

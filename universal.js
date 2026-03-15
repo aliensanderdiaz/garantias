@@ -1,19 +1,35 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-69971",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "7686744",
+    "referencia": "L49392",
+    "producto": "EMPACADORA AL VACIO",
+    "falla": "Cuerpo No coge presión (OAP)",
+    "s2": "26004050",
+    "fecha": "13/03/2026",
+    "interno": "FRG604",
+    "fechaIngreso": "2026-03-13",
+    "productoIngreso": "empavadora al vacio",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 13 de marzo de 2026]se pide bomba, pcbx2 y resistencia"
+  },
+  {
     "codigo": "GRT-69936",
-    "estado": "Recibido",
-    "tipo": "SIN PROCEDIMIENTO",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55150701",
     "referencia": "L82320",
     "producto": "PLANCHA A VAPOR EXTRALITE",
     "falla": "Cuerpo Otro",
-    "s2": "",
+    "s2": "NO APLICA S2!",
     "fecha": "13/03/2026",
     "interno": "VUG634",
     "fechaIngreso": "2026-03-09",
     "productoIngreso": "plancha universal a vapor extralite",
     "lugarDeCompra": "D&CNIDELAR SAS",
-    "observaciones": ""
+    "observaciones": "[sábado, 14 de marzo de 2026]funciona bien tema desconocimiento de manejo"
   },
   {
     "codigo": "GRT-69643",
@@ -144,22 +160,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 5 de marzo de 2026]se ajusta motor, no se piden repuestos... lista para entregar"
   },
   {
-    "codigo": "GRT-68956",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1079408492",
-    "referencia": "L50017",
-    "producto": "LICUADORA ALIADA",
-    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "26003056",
-    "fecha": "23/02/2026",
-    "interno": "WSW607",
-    "fechaIngreso": "2026-02-06",
-    "productoIngreso": "licuadora universal aliada",
-    "lugarDeCompra": "EXITO SAN PEDRO",
-    "observaciones": "[lunes, 23 de febrero de 2026]motor y teclado averiado, se pide repuestos o cambio-[miércoles, 4 de marzo de 2026]Llegó algo no se si repuestos o producto-[miércoles, 4 de marzo de 2026]llegó licuadora-[lunes, 9 de marzo de 2026]entregada licuadora"
-  },
-  {
     "codigo": "GRT-68817",
     "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
@@ -254,22 +254,6 @@ let garantiasUniversal = [
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "ALMACEN UNIVERSAL",
     "observaciones": "[sábado, 10 de enero de 2026]pedir motor-[lunes, 19 de enero de 2026]llega motor-[miércoles, 18 de febrero de 2026]reparado"
-  },
-  {
-    "codigo": "GRT-65799",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "37684907",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Termostato Sin continuidad ",
-    "s2": "25019961",
-    "fecha": "24/12/2025",
-    "interno": "NWT535",
-    "fechaIngreso": "2025-12-22",
-    "productoIngreso": "plancha seca universal",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[lunes, 5 de enero de 2026]llega termostato"
   },
   {
     "codigo": "GRT-65615",

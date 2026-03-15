@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -43,6 +43,42 @@ Sort
 Propietario
 
 Acción
+
+En progreso
+WO-00442214
+13/03/2026 12:43 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yiwu Go Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00442213
+13/03/2026 12:39 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yiwu Go Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00442211
+13/03/2026 12:36 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yiwu Go Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00442209
+13/03/2026 12:29 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yiwu Go Sas
+Colombia
+Jhon Fredy Bahamon Bonilla
 
 En progreso
 WO-00442051
@@ -143,7 +179,7 @@ Kelly Bocanegra
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00440097
 4/03/2026 07:44 p. m.
 Garantía
@@ -206,7 +242,7 @@ Yenny Banesa Bonilla Avendaño
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Entregado
 WO-00429661
 27/01/2026 05:35 p. m.
 Garantía
@@ -455,42 +491,6 @@ WO-00413426
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Maria Camila Montoya Tique
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00413421
-24/11/2025 06:09 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Genesy Juliete Curado
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00412527
-20/11/2025 12:38 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Damaris Ortega
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00412108
-18/11/2025 08:38 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Brenda Carolina Gomez Sabogal
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00409760
-9/11/2025 07:51 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Cepeda Gutiérrez Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

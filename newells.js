@@ -1,5 +1,49 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00442214",
+    "cliente": "Yiwu Go Sas",
+    "estado": "En progreso",
+    "fecha": "13/03/2026",
+    "interno": "OFL506",
+    "fechaIngreso": "2026-03-11",
+    "productoIngreso": "freidora oster manual de 3,8",
+    "lugarDeCompra": "YIWU GO SAS",
+    "observaciones": "[viernes, 13 de marzo de 2026]se pide motor termostato fusible"
+  },
+  {
+    "codigo": "WO-00442213",
+    "cliente": "Yiwu Go Sas",
+    "estado": "En progreso",
+    "fecha": "13/03/2026",
+    "interno": "XTK600",
+    "fechaIngreso": "2026-03-11",
+    "productoIngreso": "freidora oster de 3:5 manual",
+    "lugarDeCompra": "YIWUGO",
+    "observaciones": "[viernes, 13 de marzo de 2026]se pide termocontrol"
+  },
+  {
+    "codigo": "WO-00442211",
+    "cliente": "Yiwu Go Sas",
+    "estado": "En progreso",
+    "fecha": "13/03/2026",
+    "interno": "BZY905",
+    "fechaIngreso": "2026-03-11",
+    "productoIngreso": "freidora oster de 3'5 litros",
+    "lugarDeCompra": "YIWU GO SAS",
+    "observaciones": "[viernes, 13 de marzo de 2026]se pide termocontrol"
+  },
+  {
+    "codigo": "WO-00442209",
+    "cliente": "Yiwu Go Sas",
+    "estado": "En progreso",
+    "fecha": "13/03/2026",
+    "interno": "MLD278",
+    "fechaIngreso": "2026-03-11",
+    "productoIngreso": "freidora oster de 3.5",
+    "lugarDeCompra": "YIWU",
+    "observaciones": "[2026-03-11 - 09:30:51]se recibe. como chupada la parte de las parrillas -[viernes, 13 de marzo de 2026]se pide motor y termocontrol, plasticos no se pueden pedir"
+  },
+  {
     "codigo": "WO-00442051",
     "cliente": "Anjhi Valencia",
     "estado": "En progreso",
@@ -8,7 +52,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-03-10",
     "productoIngreso": "freidora oster digital de 6 litros",
     "lugarDeCompra": "ALMACEN ARA",
-    "observaciones": ""
+    "observaciones": "[sábado, 14 de marzo de 2026]Se pide tarjetasX2, sensor"
   },
   {
     "codigo": "WO-00442050",
@@ -113,13 +157,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440097",
     "cliente": "Martha Forero",
-    "estado": "Pre-terminado",
-    "fecha": "04/03/2026",
-    "interno": "CCM245",
-    "fechaIngreso": "2026-02-13",
-    "productoIngreso": "freidora de 4litros digital",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[jueves, 5 de marzo de 2026]no se encontró falla, se pide retorno-[lunes, 9 de marzo de 2026]estan pidiendo despacho con 23 M&M guia 300005083122"
+    "estado": "Entregado",
+    "fecha": "04/03/2026"
   },
   {
     "codigo": "WO-00437223",
@@ -170,13 +209,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00429661",
     "cliente": "Harryson Trujillo Vargas",
-    "estado": "Despachado",
-    "fecha": "27/01/2026",
-    "interno": "BLJ551",
-    "fechaIngreso": "2025-12-29",
-    "productoIngreso": "exprimidor oster",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 27 de enero de 2026]se pide motor-[miércoles, 4 de febrero de 2026]LLEGA MOTOR-[lunes, 9 de febrero de 2026]se le hace el cambio por un ventilador al señor\n "
+    "estado": "Entregado",
+    "fecha": "27/01/2026"
   },
   {
     "codigo": "WO-00429016",
@@ -379,29 +413,5 @@ let garantiasNewells = [
     "cliente": "Maria Camila Montoya Tique",
     "estado": "Entregado",
     "fecha": "24/11/2025"
-  },
-  {
-    "codigo": "WO-00413421",
-    "cliente": "Genesy Juliete Curado",
-    "estado": "Entregado",
-    "fecha": "24/11/2025"
-  },
-  {
-    "codigo": "WO-00412527",
-    "cliente": "Damaris Ortega",
-    "estado": "Entregado",
-    "fecha": "20/11/2025"
-  },
-  {
-    "codigo": "WO-00412108",
-    "cliente": "Brenda Carolina Gomez Sabogal",
-    "estado": "Entregado",
-    "fecha": "18/11/2025"
-  },
-  {
-    "codigo": "WO-00409760",
-    "cliente": "Cepeda Gutiérrez Sas",
-    "estado": "Entregado",
-    "fecha": "09/11/2025"
   }
 ]
