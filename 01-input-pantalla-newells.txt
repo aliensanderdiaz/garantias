@@ -45,6 +45,15 @@ Propietario
 Acción
 
 En progreso
+WO-00443297
+17/03/2026 08:58 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maria Elvira De Los Angeles Rojas Gomez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
 WO-00442214
 13/03/2026 12:43 p. m.
 Garantía
@@ -125,7 +134,7 @@ Yasmith Hernández
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00440921
 8/03/2026 11:11 p. m.
 Garantía
@@ -134,7 +143,7 @@ Vianed Medina Castro
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00440920
 8/03/2026 11:06 p. m.
 Garantía
@@ -482,15 +491,6 @@ WO-00414357
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Oscar Eduardo Parra Montoya
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00413426
-24/11/2025 06:21 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Maria Camila Montoya Tique
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

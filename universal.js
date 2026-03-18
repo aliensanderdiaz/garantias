@@ -1,7 +1,23 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-69971",
+    "codigo": "GRT-70230",
     "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "12118538",
+    "referencia": "L75680",
+    "producto": "VENTILADOR FRESH ULT  C REMOTO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "26004161",
+    "fecha": "18/03/2026",
+    "interno": "AZZ251",
+    "fechaIngreso": "2026-03-13",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": "[martes, 17 de marzo de 2026]se pide motor"
+  },
+  {
+    "codigo": "GRT-69971",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7686744",
     "referencia": "L49392",
@@ -33,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-69643",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "83115119",
     "referencia": "L50861",
@@ -45,11 +61,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-02-16",
     "productoIngreso": "licuadora roja universal potency",
     "lugarDeCompra": "FERRETERIA LA UNION SANTA MARIA HUILA",
-    "observaciones": "[domingo, 8 de marzo de 2026]motor"
+    "observaciones": "[domingo, 8 de marzo de 2026]motor-[lunes, 16 de marzo de 2026]LLEGA LICUADORA"
   },
   {
     "codigo": "GRT-69642",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "12202172",
     "referencia": "L72818",
@@ -61,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-28",
     "productoIngreso": "ventilador corona",
     "lugarDeCompra": "LANDER Y CIA",
-    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor"
+    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor-[lunes, 16 de marzo de 2026]LLEGA MOTOR-[lunes, 16 de marzo de 2026]reparado"
   },
   {
     "codigo": "GRT-69641",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "12128583",
     "referencia": "L75660",
@@ -77,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-13",
     "productoIngreso": "ventilador universal dynamic",
     "lugarDeCompra": "ÚNICO",
-    "observaciones": "[domingo, 8 de marzo de 2026]motor o cambio"
+    "observaciones": "[domingo, 8 de marzo de 2026]motor o cambio-[lunes, 16 de marzo de 2026]LLEGA VENTILADOR"
   },
   {
     "codigo": "GRT-69640",
@@ -93,43 +109,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-07",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n"
-  },
-  {
-    "codigo": "GRT-69639",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "26427261",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26003783",
-    "fecha": "09/03/2026",
-    "interno": "GHX976",
-    "fechaIngreso": "2026-03-02",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor"
-  },
-  {
-    "codigo": "GRT-69509",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "4949815",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Tarjeta electrónica Sin continuidad",
-    "s2": "26003825",
-    "fecha": "06/03/2026",
-    "interno": "SWW412",
-    "fechaIngreso": "2026-02-11",
-    "productoIngreso": "licuadora universal turbo max",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[jueves, 5 de marzo de 2026]tarjeta o cambio de producto"
+    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas"
   },
   {
     "codigo": "GRT-69508",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075300133",
     "referencia": "L50803",
@@ -141,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-02-11",
     "productoIngreso": "licuadora tradicional",
     "lugarDeCompra": "D&C NIDELAR SAS",
-    "observaciones": "[jueves, 5 de marzo de 2026]motor y teclado o cambio"
+    "observaciones": "[jueves, 5 de marzo de 2026]motor y teclado o cambio-[lunes, 16 de marzo de 2026]LLEGA LICUADORA"
   },
   {
     "codigo": "GRT-69507",
@@ -270,21 +254,5 @@ let garantiasUniversal = [
     "productoIngreso": "plancha univesal",
     "lugarDeCompra": "SAN ANDRESITO",
     "observaciones": "[jueves, 18 de diciembre de 2025]se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: está en gestión de producto sustituto. Ya le voy a informar a la compañera del BPO para que, por favor, nos ayude con la gestión lo más pronto posible."
-  },
-  {
-    "codigo": "GRT-64939",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1010138508",
-    "referencia": "L85643",
-    "producto": "OLLA PRESION ELECTRICA 3L",
-    "falla": "Resistencia Sin continuidad",
-    "s2": "26003471",
-    "fecha": "05/12/2025",
-    "interno": "DFS073",
-    "fechaIngreso": "2025-12-01",
-    "productoIngreso": "olla presión electrica",
-    "lugarDeCompra": "UNICO NEIVA",
-    "observaciones": "[jueves, 4 de diciembre de 2025]dice que la repararon, pero tambien se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: Este caso se está tramitando con la consumidora para el producto sustituto. Estamos a la espera de que ella elija el producto y nos brinde la información necesaria para proceder con el pedido.-[miércoles, 11 de marzo de 2026]llega olla a presion viernes 11 de amrzo"
   }
 ]

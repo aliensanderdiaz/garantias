@@ -1,5 +1,16 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00443297",
+    "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
+    "estado": "En progreso",
+    "fecha": "17/03/2026",
+    "interno": "WRM611",
+    "fechaIngreso": "2026-03-16",
+    "productoIngreso": "plancha oster  aero ceramic",
+    "lugarDeCompra": "ALAMCEN UNIVERSAL",
+    "observaciones": "[martes, 17 de marzo de 2026]se pide termostato"
+  },
+  {
     "codigo": "WO-00442214",
     "cliente": "Yiwu Go Sas",
     "estado": "En progreso",
@@ -96,24 +107,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440921",
     "cliente": "Vianed Medina Castro",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/03/2026",
     "interno": "NDK586",
     "fechaIngreso": "2026-02-13",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[domingo, 8 de marzo de 2026]termostato y fusible"
+    "observaciones": "[domingo, 8 de marzo de 2026]termostato y fusible-[lunes, 16 de marzo de 2026]llegan repuestos-[lunes, 16 de marzo de 2026]reparada-[lunes, 16 de marzo de 2026]se escribió correo a Maria Camila Arenas Paredes de homecenter, para que recojan producto reparado"
   },
   {
     "codigo": "WO-00440920",
     "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "08/03/2026",
     "interno": "DJJ019",
     "fechaIngreso": "2026-02-05",
     "productoIngreso": "batidora oster",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor"
+    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor-[lunes, 16 de marzo de 2026]llegan repuestos-[lunes, 16 de marzo de 2026]reparado"
   },
   {
     "codigo": "WO-00440702",
@@ -407,11 +418,5 @@ let garantiasNewells = [
     "cliente": "Oscar Eduardo Parra Montoya",
     "estado": "Entregado",
     "fecha": "26/11/2025"
-  },
-  {
-    "codigo": "WO-00413426",
-    "cliente": "Maria Camila Montoya Tique",
-    "estado": "Entregado",
-    "fecha": "24/11/2025"
   }
 ]
