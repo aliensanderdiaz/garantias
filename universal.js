@@ -1,5 +1,43 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-70531",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "52557606",
+    "referencia": "L39754",
+    "producto": "SARTEN AMATISTA 20CM+TV",
+    "falla": "Antiadherente Desprendido",
+    "s2": "",
+    "fecha": "24/03/2026",
+    "interno": "MHT004",
+    "fechaIngreso": "2026-03-18",
+    "productoIngreso": "son tres sartenes universal de 30cm 16cm 20cm",
+    "lugarDeCompra": "UNICO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-70530",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "52557606",
+    "referencia": "L38756",
+    "producto": "CACEROLA AMATISTA 16CM+TV",
+    "falla": "Antiadherente Desprendido",
+    "s2": "",
+    "fecha": "24/03/2026"
+  },
+  {
+    "codigo": "GRT-70529",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "52557606",
+    "referencia": "L39756",
+    "producto": "SARTEN AMATISTA 30CM+TV",
+    "falla": "Antiadherente Desprendido",
+    "s2": "",
+    "fecha": "24/03/2026"
+  },
+  {
     "codigo": "GRT-70230",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -30,38 +68,6 @@ let garantiasUniversal = [
     "productoIngreso": "empavadora al vacio",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
     "observaciones": "[viernes, 13 de marzo de 2026]se pide bomba, pcbx2 y resistencia"
-  },
-  {
-    "codigo": "GRT-69936",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55150701",
-    "referencia": "L82320",
-    "producto": "PLANCHA A VAPOR EXTRALITE",
-    "falla": "Cuerpo Otro",
-    "s2": "NO APLICA S2!",
-    "fecha": "13/03/2026",
-    "interno": "VUG634",
-    "fechaIngreso": "2026-03-09",
-    "productoIngreso": "plancha universal a vapor extralite",
-    "lugarDeCompra": "D&CNIDELAR SAS",
-    "observaciones": "[sábado, 14 de marzo de 2026]funciona bien tema desconocimiento de manejo"
-  },
-  {
-    "codigo": "GRT-69643",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "83115119",
-    "referencia": "L50861",
-    "producto": "LICUADORA POTENCY MIX VINO",
-    "falla": "Motor Colector en corto",
-    "s2": "26003786",
-    "fecha": "09/03/2026",
-    "interno": "IKB364",
-    "fechaIngreso": "2026-02-16",
-    "productoIngreso": "licuadora roja universal potency",
-    "lugarDeCompra": "FERRETERIA LA UNION SANTA MARIA HUILA",
-    "observaciones": "[domingo, 8 de marzo de 2026]motor-[lunes, 16 de marzo de 2026]LLEGA LICUADORA"
   },
   {
     "codigo": "GRT-69642",
@@ -112,22 +118,6 @@ let garantiasUniversal = [
     "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas"
   },
   {
-    "codigo": "GRT-69508",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075300133",
-    "referencia": "L50803",
-    "producto": "LICUADORA LA TRADICIONAL",
-    "falla": "Motor Bobinas en corto,Selector de velocidades En corto",
-    "s2": "26003822",
-    "fecha": "06/03/2026",
-    "interno": "JDZ028",
-    "fechaIngreso": "2026-02-11",
-    "productoIngreso": "licuadora tradicional",
-    "lugarDeCompra": "D&C NIDELAR SAS",
-    "observaciones": "[jueves, 5 de marzo de 2026]motor y teclado o cambio-[lunes, 16 de marzo de 2026]LLEGA LICUADORA"
-  },
-  {
     "codigo": "GRT-69507",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -161,7 +151,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-68279",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075289460",
     "referencia": "L37706",
@@ -173,7 +163,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-02-10",
     "productoIngreso": "olla a presion de 5.6 litros cierre externo",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 12 de febrero de 2026]asas o cambio"
+    "observaciones": "[jueves, 12 de febrero de 2026]asas o cambio-[miércoles, 18 de marzo de 2026]llega olla a presion"
   },
   {
     "codigo": "GRT-67783",
@@ -190,69 +180,5 @@ let garantiasUniversal = [
     "productoIngreso": "lucuadora mass vital",
     "lugarDeCompra": "CRISTIAN COMUNICACIONES",
     "observaciones": "[miércoles, 4 de febrero de 2026]suiche  o cambio"
-  },
-  {
-    "codigo": "GRT-67333",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55165679",
-    "referencia": "L71150",
-    "producto": "VENTILADOR DE TORRE",
-    "falla": "Motor Bobinas en corto,Tarjeta electrónica En corto",
-    "s2": "26001180",
-    "fecha": "27/01/2026",
-    "interno": "FUD733",
-    "fechaIngreso": "2026-01-20",
-    "productoIngreso": "ventilador de torre",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 27 de enero de 2026]se pide motores y tarjeta-[miércoles, 4 de febrero de 2026]llega motor, motor, tarjeta-[jueves, 12 de febrero de 2026]reparado"
-  },
-  {
-    "codigo": "GRT-67199",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075243622",
-    "referencia": "L62070",
-    "producto": "LICUADORA ULTRA+VASO PICATODO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26001657",
-    "fecha": "26/01/2026",
-    "interno": "GSR788",
-    "fechaIngreso": "2026-01-26",
-    "productoIngreso": "licuadora  universal  ultra",
-    "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor o cambio-[jueves, 12 de febrero de 2026]Llega licuadora"
-  },
-  {
-    "codigo": "GRT-66389",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1117526434",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26000328",
-    "fecha": "10/01/2026",
-    "interno": "CUA250",
-    "fechaIngreso": "2026-01-08",
-    "productoIngreso": "ventilador universal",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[sábado, 10 de enero de 2026]pedir motor-[lunes, 19 de enero de 2026]llega motor-[miércoles, 18 de febrero de 2026]reparado"
-  },
-  {
-    "codigo": "GRT-65615",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "36452836",
-    "referencia": "L40840",
-    "producto": "PLANCHA A VAPOR CERAMIC HOME",
-    "falla": "Resistencia Sin continuidad,Termofusible Sin continuidad,Termostato Sin continuidad ",
-    "s2": "26004000",
-    "fecha": "18/12/2025",
-    "interno": "LDH008",
-    "fechaIngreso": "2025-12-15",
-    "productoIngreso": "plancha univesal",
-    "lugarDeCompra": "SAN ANDRESITO",
-    "observaciones": "[jueves, 18 de diciembre de 2025]se pidió cambio-[miércoles, 14 de enero de 2026]LANDER: está en gestión de producto sustituto. Ya le voy a informar a la compañera del BPO para que, por favor, nos ayude con la gestión lo más pronto posible."
   }
 ]

@@ -5,13 +5,13 @@ let garantiasRedelec = [
     "clienteId": "1003804161",
     "fecha": "2026-03-13",
     "producto": "BLBD210GB",
-    "estado": "TRAMITE",
-    "almacen": "ALMACENES UNIVERSAL",
+    "estado": "PENDIENTE AUTORIZACION",
+    "almacen": "",
     "interno": "HMQ428",
     "fechaIngreso": "2026-03-09",
     "productoIngreso": "licuadora black deker",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado"
+    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado-[martes, 24 de marzo de 2026]despachado a bogota, despues dan carta"
   },
   {
     "codigo": "150941",
@@ -25,7 +25,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2026-02-20",
     "productoIngreso": "licuadora black decker",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[lunes, 23 de febrero de 2026]se pide motor y teclado"
+    "observaciones": "[lunes, 23 de febrero de 2026]se pide motor y teclado-[miércoles, 18 de marzo de 2026]llega motor y tarjeta (teclado)-[viernes, 20 de marzo de 2026]El motor que llegó no funcionó, se le puso un motor prestado para solucionar."
   },
   {
     "codigo": "149980",
