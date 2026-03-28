@@ -2,18 +2,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00445086",
     "cliente": "Andres Bernate",
-    "estado": "Pre-terminado",
-    "fecha": "24/03/2026",
-    "interno": "EMB049",
-    "fechaIngreso": "2026-03-24",
-    "productoIngreso": "freidora oster de 3.8 litros",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[martes, 24 de marzo de 2026]reparada con fusibles prestados"
+    "estado": "Entregado",
+    "fecha": "24/03/2026"
   },
   {
     "codigo": "WO-00443297",
     "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "17/03/2026",
     "interno": "WRM611",
     "fechaIngreso": "2026-03-16",
@@ -24,68 +19,38 @@ let garantiasNewells = [
   {
     "codigo": "WO-00442214",
     "cliente": "Yiwu Go Sas",
-    "estado": "Aprobación pendiente",
-    "fecha": "13/03/2026",
-    "interno": "OFL506",
-    "fechaIngreso": "2026-03-11",
-    "productoIngreso": "freidora oster manual de 3,8",
-    "lugarDeCompra": "YIWU GO SAS",
-    "observaciones": "[viernes, 13 de marzo de 2026]se pide motor termostato fusible-[jueves, 19 de marzo de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "13/03/2026"
   },
   {
     "codigo": "WO-00442213",
     "cliente": "Yiwu Go Sas",
-    "estado": "En progreso",
-    "fecha": "13/03/2026",
-    "interno": "XTK600",
-    "fechaIngreso": "2026-03-11",
-    "productoIngreso": "freidora oster de 3:5 manual",
-    "lugarDeCompra": "YIWUGO",
-    "observaciones": "[viernes, 13 de marzo de 2026]se pide termocontrol-[martes, 24 de marzo de 2026]llega repuesto"
+    "estado": "Entregado",
+    "fecha": "13/03/2026"
   },
   {
     "codigo": "WO-00442211",
     "cliente": "Yiwu Go Sas",
-    "estado": "En progreso",
-    "fecha": "13/03/2026",
-    "interno": "BZY905",
-    "fechaIngreso": "2026-03-11",
-    "productoIngreso": "freidora oster de 3'5 litros",
-    "lugarDeCompra": "YIWU GO SAS",
-    "observaciones": "[viernes, 13 de marzo de 2026]se pide termocontrol-[martes, 24 de marzo de 2026]llega repuesto"
+    "estado": "Entregado",
+    "fecha": "13/03/2026"
   },
   {
     "codigo": "WO-00442209",
     "cliente": "Yiwu Go Sas",
-    "estado": "Aprobación pendiente",
-    "fecha": "13/03/2026",
-    "interno": "MLD278",
-    "fechaIngreso": "2026-03-11",
-    "productoIngreso": "freidora oster de 3.5",
-    "lugarDeCompra": "YIWU",
-    "observaciones": "[2026-03-11 - 09:30:51]se recibe. como chupada la parte de las parrillas -[viernes, 13 de marzo de 2026]se pide motor y termocontrol, plasticos no se pueden pedir-[jueves, 19 de marzo de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "13/03/2026"
   },
   {
     "codigo": "WO-00442051",
     "cliente": "Anjhi Valencia",
-    "estado": "Aprobación pendiente",
-    "fecha": "12/03/2026",
-    "interno": "IBC793",
-    "fechaIngreso": "2026-03-10",
-    "productoIngreso": "freidora oster digital de 6 litros",
-    "lugarDeCompra": "ALMACEN ARA",
-    "observaciones": "[sábado, 14 de marzo de 2026]Se pide tarjetasX2, sensor-[jueves, 19 de marzo de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "12/03/2026"
   },
   {
     "codigo": "WO-00442050",
     "cliente": "Angie Claros",
-    "estado": "En progreso",
-    "fecha": "12/03/2026",
-    "interno": "OTD509",
-    "fechaIngreso": "2026-03-12",
-    "productoIngreso": "licuadora oster xpert  plateada",
-    "lugarDeCompra": "CC SANPEDRO PLAZA",
-    "observaciones": "[jueves, 12 de marzo de 2026]se pide tarjeta-[martes, 24 de marzo de 2026]llego tarjeta sabado 21 de marzo"
+    "estado": "Entregado",
+    "fecha": "12/03/2026"
   },
   {
     "codigo": "WO-00442028",
@@ -137,13 +102,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440444",
     "cliente": "Ruben Dario Garcia",
-    "estado": "Pre-terminado",
-    "fecha": "05/03/2026",
-    "interno": "TJQ497",
-    "fechaIngreso": "2026-03-05",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ÉXITO",
-    "observaciones": "[jueves, 5 de marzo de 2026]se pide motor y suiche-[jueves, 12 de marzo de 2026]llegan repuestos-[jueves, 12 de marzo de 2026]reparada"
+    "estado": "Entregado",
+    "fecha": "05/03/2026"
   },
   {
     "codigo": "WO-00440099",
@@ -172,13 +132,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00436672",
     "cliente": "Guillermo Parra",
-    "estado": "Pre-terminado",
-    "fecha": "21/02/2026",
-    "interno": "LLY055",
-    "fechaIngreso": "2026-02-14",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACEN UNIVERSAL",
-    "observaciones": "[sábado, 21 de febrero de 2026]se pide motor-[lunes, 2 de marzo de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "21/02/2026"
   },
   {
     "codigo": "WO-00436665",
@@ -225,24 +180,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00427252",
     "cliente": "Martha Puentes",
-    "estado": "Pre-terminado",
-    "fecha": "20/01/2026",
-    "interno": "YVD302",
-    "fechaIngreso": "2026-01-17",
-    "productoIngreso": "licuadora oster clásica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[martes, 20 de enero de 2026]pedir motor-[lunes, 26 de enero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
+    "estado": "Entregado",
+    "fecha": "20/01/2026"
   },
   {
     "codigo": "WO-00427250",
     "cliente": "Hermesto Tovar Gutierrez",
-    "estado": "Pre-terminado",
-    "fecha": "20/01/2026",
-    "interno": "SUK894",
-    "fechaIngreso": "2026-01-06",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "COMERCIALIZADORA SANTA MARTA",
-    "observaciones": "[martes, 20 de enero de 2026]pedir motor-[lunes, 26 de enero de 2026]van a dar carta-[jueves, 5 de marzo de 2026]carta autorizada"
+    "estado": "Entregado",
+    "fecha": "20/01/2026"
   },
   {
     "codigo": "WO-00427245",

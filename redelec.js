@@ -5,13 +5,13 @@ let garantiasRedelec = [
     "clienteId": "1003804161",
     "fecha": "2026-03-13",
     "producto": "BLBD210GB",
-    "estado": "PENDIENTE AUTORIZACION",
+    "estado": "PREFINALIZADO",
     "almacen": "",
     "interno": "HMQ428",
     "fechaIngreso": "2026-03-09",
     "productoIngreso": "licuadora black deker",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado-[martes, 24 de marzo de 2026]despachado a bogota, despues dan carta"
+    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado-[martes, 24 de marzo de 2026]despachado a bogota, despues dan carta-[miércoles, 25 de marzo de 2026]parece que van a mandar licuadora nueva"
   },
   {
     "codigo": "150941",
@@ -39,21 +39,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2026-01-29",
     "productoIngreso": "batidora black decker",
     "lugarDeCompra": "ALAMCENES UNIVETSAL",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor-[miércoles, 18 de febrero de 2026]va para bogotá, despues daran carta-[miércoles, 11 de marzo de 2026]se la lleva coordinadora"
-  },
-  {
-    "codigo": "146553",
-    "cliente": "DIANA HORTA",
-    "clienteId": "1075232582",
-    "fecha": "2025-11-24",
-    "producto": "BL0876-1RDLA",
-    "estado": "PREFINALIZADO",
-    "almacen": "TECNOHOGAR",
-    "interno": "SHD028",
-    "fechaIngreso": "2025-11-19",
-    "productoIngreso": "licuadora black decker rija de 7velocidaeew",
-    "lugarDeCompra": "TECNOHOGAR",
-    "observaciones": "[martes, 9 de diciembre de 2025]se pidió motor y teclado-[miércoles, 31 de diciembre de 2025]reparado"
+    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor-[miércoles, 18 de febrero de 2026]va para bogotá, despues daran carta-[miércoles, 11 de marzo de 2026]se la lleva coordinadora-[martes, 24 de marzo de 2026]carta autorizada"
   },
   {
     "codigo": "145138",

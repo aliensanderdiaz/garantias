@@ -39,7 +39,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-70230",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "12118538",
     "referencia": "L75680",
@@ -51,7 +51,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-03-13",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[martes, 17 de marzo de 2026]se pide motor"
+    "observaciones": "[martes, 17 de marzo de 2026]se pide motor-[jueves, 26 de marzo de 2026]llega motor-[viernes, 27 de marzo de 2026]Reparado"
   },
   {
     "codigo": "GRT-69971",
@@ -115,7 +115,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-07",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas"
+    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas-[sábado, 28 de marzo de 2026]Buenos días, al validar los repuestos de la referencia, se evidencia que el sensor no se encuentra dentro de estos. Por lo tanto, procederé a verificar si es posible enviar un producto nuevo para realizar la sustitución al cliente. Una vez tenga respuesta, te estaré informando por este mismo medio"
   },
   {
     "codigo": "GRT-69507",

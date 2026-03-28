@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-Pre-terminado
+Entregado
 WO-00445086
 24/03/2026 05:04 p. m.
 Garantía
@@ -53,7 +53,7 @@ Andres Bernate
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00443297
 17/03/2026 08:58 p. m.
 Garantía
@@ -62,7 +62,7 @@ Maria Elvira De Los Angeles Rojas Gomez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Entregado
 WO-00442214
 13/03/2026 12:43 p. m.
 Garantía
@@ -71,7 +71,7 @@ Yiwu Go Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00442213
 13/03/2026 12:39 p. m.
 Garantía
@@ -80,7 +80,7 @@ Yiwu Go Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00442211
 13/03/2026 12:36 p. m.
 Garantía
@@ -89,7 +89,7 @@ Yiwu Go Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Entregado
 WO-00442209
 13/03/2026 12:29 p. m.
 Garantía
@@ -98,7 +98,7 @@ Yiwu Go Sas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Entregado
 WO-00442051
 12/03/2026 08:58 p. m.
 Garantía
@@ -107,7 +107,7 @@ Anjhi Valencia
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00442050
 12/03/2026 08:50 p. m.
 Garantía
@@ -179,7 +179,7 @@ Stefania Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00440444
 5/03/2026 10:08 p. m.
 Garantía
@@ -224,7 +224,7 @@ Gilber Fernando Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00436672
 21/02/2026 12:34 p. m.
 Garantía
@@ -296,7 +296,7 @@ Marcelo Vargas Ramos
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00427252
 20/01/2026 06:51 p. m.
 Garantía
@@ -305,7 +305,7 @@ Martha Puentes
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00427250
 20/01/2026 06:47 p. m.
 Garantía
