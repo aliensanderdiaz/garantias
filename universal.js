@@ -1,13 +1,13 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-70531",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52557606",
     "referencia": "L39754",
     "producto": "SARTEN AMATISTA 20CM+TV",
     "falla": "Antiadherente Desprendido",
-    "s2": "",
+    "s2": "26004999",
     "fecha": "24/03/2026",
     "interno": "MHT004",
     "fechaIngreso": "2026-03-18",
@@ -17,24 +17,24 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-70530",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52557606",
     "referencia": "L38756",
     "producto": "CACEROLA AMATISTA 16CM+TV",
     "falla": "Antiadherente Desprendido",
-    "s2": "",
+    "s2": "26004998",
     "fecha": "24/03/2026"
   },
   {
     "codigo": "GRT-70529",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52557606",
     "referencia": "L39756",
     "producto": "SARTEN AMATISTA 30CM+TV",
     "falla": "Antiadherente Desprendido",
-    "s2": "",
+    "s2": "26004997",
     "fecha": "24/03/2026"
   },
   {
@@ -67,7 +67,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-03-13",
     "productoIngreso": "empavadora al vacio",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 13 de marzo de 2026]se pide bomba, pcbx2 y resistencia"
+    "observaciones": "[viernes, 13 de marzo de 2026]se pide bomba, pcbx2 y resistencia-[sábado, 28 de marzo de 2026]Comentario\nSE ENVIA CAMBIO AL CSA BAJO PEDIDO S2: 26004084\n\nJessica Paola Vergara Viloria / 2026-03-15 5:53:15 pm"
   },
   {
     "codigo": "GRT-69642",
@@ -115,7 +115,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-07",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas-[sábado, 28 de marzo de 2026]Buenos días, al validar los repuestos de la referencia, se evidencia que el sensor no se encuentra dentro de estos. Por lo tanto, procederé a verificar si es posible enviar un producto nuevo para realizar la sustitución al cliente. Una vez tenga respuesta, te estaré informando por este mismo medio"
+    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas-[sábado, 28 de marzo de 2026]Buenos días, al validar los repuestos de la referencia, se evidencia que el sensor no se encuentra dentro de estos. Por lo tanto, procederé a verificar si es posible enviar un producto nuevo para realizar la sustitución al cliente. Una vez tenga respuesta, te estaré informando por este mismo medio-[lunes, 30 de marzo de 2026]van a enviar una freidora con el número de pedido S2: 26004887"
   },
   {
     "codigo": "GRT-69507",
@@ -164,21 +164,5 @@ let garantiasUniversal = [
     "productoIngreso": "olla a presion de 5.6 litros cierre externo",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
     "observaciones": "[jueves, 12 de febrero de 2026]asas o cambio-[miércoles, 18 de marzo de 2026]llega olla a presion"
-  },
-  {
-    "codigo": "GRT-67783",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "12202172",
-    "referencia": "L50850",
-    "producto": "LICUADORA MASS VITAL",
-    "falla": "Selector de velocidades En corto",
-    "s2": "26002011",
-    "fecha": "04/02/2026",
-    "interno": "FBP757",
-    "fechaIngreso": "2026-01-28",
-    "productoIngreso": "lucuadora mass vital",
-    "lugarDeCompra": "CRISTIAN COMUNICACIONES",
-    "observaciones": "[miércoles, 4 de febrero de 2026]suiche  o cambio"
   }
 ]

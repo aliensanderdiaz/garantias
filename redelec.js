@@ -11,7 +11,7 @@ let garantiasRedelec = [
     "fechaIngreso": "2026-03-09",
     "productoIngreso": "licuadora black deker",
     "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado-[martes, 24 de marzo de 2026]despachado a bogota, despues dan carta-[miércoles, 25 de marzo de 2026]parece que van a mandar licuadora nueva"
+    "observaciones": "[sábado, 14 de marzo de 2026]se pide motor y teclado-[martes, 24 de marzo de 2026]despachado a bogota, despues dan carta-[miércoles, 25 de marzo de 2026]parece que van a mandar licuadora nueva-[lunes, 30 de marzo de 2026]llegó licuadora"
   },
   {
     "codigo": "150941",

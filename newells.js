@@ -14,7 +14,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-03-16",
     "productoIngreso": "plancha oster  aero ceramic",
     "lugarDeCompra": "ALAMCEN UNIVERSAL",
-    "observaciones": "[martes, 17 de marzo de 2026]se pide termostato"
+    "observaciones": "[martes, 17 de marzo de 2026]se pide termostato-[lunes, 30 de marzo de 2026]llega repuesto"
   },
   {
     "codigo": "WO-00442214",
@@ -61,13 +61,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00441761",
     "cliente": "Glemys Martinez Caviedes",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "11/03/2026",
     "interno": "UWZ732",
     "fechaIngreso": "2026-03-10",
     "productoIngreso": "licudora Oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 11 de marzo de 2026]se pide motor y suiche (el que viene con tarjeta)-[jueves, 19 de marzo de 2026]van a dar carta"
+    "observaciones": "[miércoles, 11 de marzo de 2026]se pide motor y suiche (el que viene con tarjeta)-[jueves, 19 de marzo de 2026]van a dar carta-[lunes, 30 de marzo de 2026]carta autorizada"
   },
   {
     "codigo": "WO-00440922",
