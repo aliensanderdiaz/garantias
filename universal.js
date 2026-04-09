@@ -49,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-70531",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52557606",
     "referencia": "L39754",
@@ -61,11 +61,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-03-18",
     "productoIngreso": "son tres sartenes universal de 30cm 16cm 20cm",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 8 de abril de 2026]se pidió cambio"
+    "observaciones": "[miércoles, 8 de abril de 2026]se pidió cambio-[jueves, 9 de abril de 2026]llego grt-70531 y grt-70529, falta grt-70530-[jueves, 9 de abril de 2026]llega sarten L39756, L39754-[jueves, 9 de abril de 2026]LLEGA LA GRT-70530 L38756"
   },
   {
     "codigo": "GRT-70530",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52557606",
     "referencia": "L38756",
@@ -76,7 +76,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-70529",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52557606",
     "referencia": "L39756",
@@ -84,22 +84,6 @@ let garantiasUniversal = [
     "falla": "Antiadherente Desprendido",
     "s2": "26004997",
     "fecha": "24/03/2026"
-  },
-  {
-    "codigo": "GRT-69971",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7686744",
-    "referencia": "L49392",
-    "producto": "EMPACADORA AL VACIO",
-    "falla": "Cuerpo No coge presión (OAP)",
-    "s2": "26004050",
-    "fecha": "13/03/2026",
-    "interno": "FRG604",
-    "fechaIngreso": "2026-03-13",
-    "productoIngreso": "empavadora al vacio",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 13 de marzo de 2026]se pide bomba, pcbx2 y resistencia-[sábado, 28 de marzo de 2026]Comentario\nSE ENVIA CAMBIO AL CSA BAJO PEDIDO S2: 26004084\n\nJessica Paola Vergara Viloria / 2026-03-15 5:53:15 pm"
   },
   {
     "codigo": "GRT-69642",
@@ -132,22 +116,6 @@ let garantiasUniversal = [
     "productoIngreso": "ventilador universal dynamic",
     "lugarDeCompra": "ÚNICO",
     "observaciones": "[domingo, 8 de marzo de 2026]motor o cambio-[lunes, 16 de marzo de 2026]LLEGA VENTILADOR"
-  },
-  {
-    "codigo": "GRT-69640",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36155280",
-    "referencia": "L85729",
-    "producto": "EASYFRYER PRO AIRFRYER 3.5L",
-    "falla": "Tarjeta electrónica Sin continuidad,Tarjeta Panel de control Sin continuidad",
-    "s2": "26003784",
-    "fecha": "09/03/2026",
-    "interno": "RHH768",
-    "fechaIngreso": "2026-01-07",
-    "productoIngreso": "freidora universal digital",
-    "lugarDeCompra": "ÉXITO",
-    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas-[sábado, 28 de marzo de 2026]Buenos días, al validar los repuestos de la referencia, se evidencia que el sensor no se encuentra dentro de estos. Por lo tanto, procederé a verificar si es posible enviar un producto nuevo para realizar la sustitución al cliente. Una vez tenga respuesta, te estaré informando por este mismo medio-[lunes, 30 de marzo de 2026]van a enviar una freidora con el número de pedido S2: 26004887-[miércoles, 8 de abril de 2026]se le presta freidora del almacen y se le hace entrega de una digital"
   },
   {
     "codigo": "GRT-68817",

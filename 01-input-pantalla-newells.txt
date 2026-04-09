@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 17 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-Nuevo
+En progreso
 WO-00448661
 8/04/2026 07:46 a. m.
 Garantía
@@ -53,7 +53,7 @@ Lucia Andrade
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00448328
 6/04/2026 07:56 p. m.
 Garantía
