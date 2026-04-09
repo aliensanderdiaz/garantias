@@ -1,5 +1,53 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-71172",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "80857118",
+    "referencia": "L85729",
+    "producto": "EASYFRYER PRO AIRFRYER 3.5L",
+    "falla": "Tarjeta electrónica En corto,Tarjeta Panel de control En corto",
+    "s2": "",
+    "fecha": "08/04/2026",
+    "interno": "PXX891",
+    "fechaIngreso": "2026-03-20",
+    "productoIngreso": "freidora universal digital",
+    "lugarDeCompra": "ALKOSTO DE BOGOTA",
+    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio"
+  },
+  {
+    "codigo": "GRT-71171",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "55199702",
+    "referencia": "L37599",
+    "producto": "OLLA PRESION ABRE FACIL 7L+TV",
+    "falla": "Cuerpo No coge presión (OAP)",
+    "s2": "",
+    "fecha": "08/04/2026",
+    "interno": "PNO507",
+    "fechaIngreso": "2026-03-19",
+    "productoIngreso": "olla pitadora universal en acero",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio"
+  },
+  {
+    "codigo": "GRT-70995",
+    "estado": "Por entregar",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "36281117",
+    "referencia": "L50803",
+    "producto": "LICUADORA LA TRADICIONAL",
+    "falla": "Cuerpo Mal ensamble",
+    "s2": "NO APLICA S2!",
+    "fecha": "04/04/2026",
+    "interno": "IIO676",
+    "fechaIngreso": "2026-03-30",
+    "productoIngreso": "licuadora universal",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[sábado, 4 de abril de 2026]re ajusta internamente, se repara sin repuesto, lista para entregar"
+  },
+  {
     "codigo": "GRT-70531",
     "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -13,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-03-18",
     "productoIngreso": "son tres sartenes universal de 30cm 16cm 20cm",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[miércoles, 8 de abril de 2026]se pidió cambio"
   },
   {
     "codigo": "GRT-70530",
@@ -36,22 +84,6 @@ let garantiasUniversal = [
     "falla": "Antiadherente Desprendido",
     "s2": "26004997",
     "fecha": "24/03/2026"
-  },
-  {
-    "codigo": "GRT-70230",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "12118538",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26004161",
-    "fecha": "18/03/2026",
-    "interno": "AZZ251",
-    "fechaIngreso": "2026-03-13",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[martes, 17 de marzo de 2026]se pide motor-[jueves, 26 de marzo de 2026]llega motor-[viernes, 27 de marzo de 2026]Reparado"
   },
   {
     "codigo": "GRT-69971",
@@ -115,23 +147,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-01-07",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ÉXITO",
-    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas-[sábado, 28 de marzo de 2026]Buenos días, al validar los repuestos de la referencia, se evidencia que el sensor no se encuentra dentro de estos. Por lo tanto, procederé a verificar si es posible enviar un producto nuevo para realizar la sustitución al cliente. Una vez tenga respuesta, te estaré informando por este mismo medio-[lunes, 30 de marzo de 2026]van a enviar una freidora con el número de pedido S2: 26004887"
-  },
-  {
-    "codigo": "GRT-69507",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075292428",
-    "referencia": "L62195",
-    "producto": "LICUADORA ICE POWER",
-    "falla": "Cuerpo Mal ensamble",
-    "s2": "NO APLICA S2!",
-    "fecha": "06/03/2026",
-    "interno": "RUN970",
-    "fechaIngreso": "2026-03-02",
-    "productoIngreso": "licuadora universal ice power",
-    "lugarDeCompra": "EL UNICO",
-    "observaciones": "[jueves, 5 de marzo de 2026]se ajusta motor, no se piden repuestos... lista para entregar"
+    "observaciones": "[lunes, 26 de enero de 2026]2 tarjetas, 2 fusibles, sensor temperatura\n-[martes, 17 de marzo de 2026]LLEGA TERMOFUSIBLE, CIRCUITO CONTROL, PANEL DE CONTROL, no llega sensor de temperatura, el tecnico dice que las 2 tarjetas no funcionan, que es necesario el sensor y ademas el cable conector entre tarjetas-[sábado, 28 de marzo de 2026]Buenos días, al validar los repuestos de la referencia, se evidencia que el sensor no se encuentra dentro de estos. Por lo tanto, procederé a verificar si es posible enviar un producto nuevo para realizar la sustitución al cliente. Una vez tenga respuesta, te estaré informando por este mismo medio-[lunes, 30 de marzo de 2026]van a enviar una freidora con el número de pedido S2: 26004887-[miércoles, 8 de abril de 2026]se le presta freidora del almacen y se le hace entrega de una digital"
   },
   {
     "codigo": "GRT-68817",

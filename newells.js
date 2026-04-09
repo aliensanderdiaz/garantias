@@ -1,5 +1,38 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00448661",
+    "cliente": "Lucia Andrade",
+    "estado": "Nuevo",
+    "fecha": "08/04/2026",
+    "interno": "DMJ612",
+    "fechaIngreso": "2026-03-28",
+    "productoIngreso": "freidora oster 3.8",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00448328",
+    "cliente": "Kelaia Trujillo",
+    "estado": "En progreso",
+    "fecha": "06/04/2026",
+    "interno": "OER399",
+    "fechaIngreso": "2026-03-17",
+    "productoIngreso": "freidora digital oster",
+    "lugarDeCompra": "MERCADO LIBRE",
+    "observaciones": "[domingo, 5 de abril de 2026]Reparada con microsuiche prestado"
+  },
+  {
+    "codigo": "WO-00447984",
+    "cliente": "Saul Guilombo",
+    "estado": "Despachado",
+    "fecha": "04/04/2026",
+    "interno": "HTL592",
+    "fechaIngreso": "2026-03-28",
+    "productoIngreso": "freidora oster de 7.5 digital",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[miércoles, 8 de abril de 2026]se pidieron tarjetas y sensor-[miércoles, 8 de abril de 2026]llega repuestos"
+  },
+  {
     "codigo": "WO-00445086",
     "cliente": "Andres Bernate",
     "estado": "Entregado",
@@ -8,13 +41,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00443297",
     "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
-    "estado": "Despachado",
-    "fecha": "17/03/2026",
-    "interno": "WRM611",
-    "fechaIngreso": "2026-03-16",
-    "productoIngreso": "plancha oster  aero ceramic",
-    "lugarDeCompra": "ALAMCEN UNIVERSAL",
-    "observaciones": "[martes, 17 de marzo de 2026]se pide termostato-[lunes, 30 de marzo de 2026]llega repuesto"
+    "estado": "Entregado",
+    "fecha": "17/03/2026"
   },
   {
     "codigo": "WO-00442214",
@@ -61,13 +89,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00441761",
     "cliente": "Glemys Martinez Caviedes",
-    "estado": "Pre-terminado",
-    "fecha": "11/03/2026",
-    "interno": "UWZ732",
-    "fechaIngreso": "2026-03-10",
-    "productoIngreso": "licudora Oster clasica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 11 de marzo de 2026]se pide motor y suiche (el que viene con tarjeta)-[jueves, 19 de marzo de 2026]van a dar carta-[lunes, 30 de marzo de 2026]carta autorizada"
+    "estado": "Entregado",
+    "fecha": "11/03/2026"
   },
   {
     "codigo": "WO-00440922",
@@ -290,23 +313,5 @@ let garantiasNewells = [
     "cliente": "Bellanit Castro",
     "estado": "Entregado",
     "fecha": "01/12/2025"
-  },
-  {
-    "codigo": "WO-00415967",
-    "cliente": "Jose Norbey Parra González",
-    "estado": "Entregado",
-    "fecha": "01/12/2025"
-  },
-  {
-    "codigo": "WO-00415285",
-    "cliente": "Kelaia Trujillo",
-    "estado": "Entregado",
-    "fecha": "29/11/2025"
-  },
-  {
-    "codigo": "WO-00415283",
-    "cliente": "Edinson Fernando Morales Cañon",
-    "estado": "Entregado",
-    "fecha": "29/11/2025"
   }
 ]
