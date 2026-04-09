@@ -8,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-03-28",
     "productoIngreso": "freidora oster 3.8",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[jueves, 9 de abril de 2026]reparado con timer prestado"
   },
   {
     "codigo": "WO-00448328",
