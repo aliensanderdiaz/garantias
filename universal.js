@@ -1,35 +1,35 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-71172",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "80857118",
     "referencia": "L85729",
     "producto": "EASYFRYER PRO AIRFRYER 3.5L",
     "falla": "Tarjeta electrónica En corto,Tarjeta Panel de control En corto",
-    "s2": "",
+    "s2": "26005540",
     "fecha": "08/04/2026",
     "interno": "PXX891",
     "fechaIngreso": "2026-03-20",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ALKOSTO DE BOGOTA",
-    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio"
+    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]llega freidora"
   },
   {
     "codigo": "GRT-71171",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "55199702",
     "referencia": "L37599",
     "producto": "OLLA PRESION ABRE FACIL 7L+TV",
     "falla": "Cuerpo No coge presión (OAP)",
-    "s2": "",
+    "s2": "26005539",
     "fecha": "08/04/2026",
     "interno": "PNO507",
     "fechaIngreso": "2026-03-19",
     "productoIngreso": "olla pitadora universal en acero",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio"
+    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]Llega olla"
   },
   {
     "codigo": "GRT-70995",
@@ -46,44 +46,6 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora universal",
     "lugarDeCompra": "HOMECENTER",
     "observaciones": "[sábado, 4 de abril de 2026]re ajusta internamente, se repara sin repuesto, lista para entregar"
-  },
-  {
-    "codigo": "GRT-70531",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "52557606",
-    "referencia": "L39754",
-    "producto": "SARTEN AMATISTA 20CM+TV",
-    "falla": "Antiadherente Desprendido",
-    "s2": "26004999",
-    "fecha": "24/03/2026",
-    "interno": "MHT004",
-    "fechaIngreso": "2026-03-18",
-    "productoIngreso": "son tres sartenes universal de 30cm 16cm 20cm",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 8 de abril de 2026]se pidió cambio-[jueves, 9 de abril de 2026]llego grt-70531 y grt-70529, falta grt-70530-[jueves, 9 de abril de 2026]llega sarten L39756, L39754-[jueves, 9 de abril de 2026]LLEGA LA GRT-70530 L38756"
-  },
-  {
-    "codigo": "GRT-70530",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "52557606",
-    "referencia": "L38756",
-    "producto": "CACEROLA AMATISTA 16CM+TV",
-    "falla": "Antiadherente Desprendido",
-    "s2": "26004998",
-    "fecha": "24/03/2026"
-  },
-  {
-    "codigo": "GRT-70529",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "52557606",
-    "referencia": "L39756",
-    "producto": "SARTEN AMATISTA 30CM+TV",
-    "falla": "Antiadherente Desprendido",
-    "s2": "26004997",
-    "fecha": "24/03/2026"
   },
   {
     "codigo": "GRT-69642",

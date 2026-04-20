@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 17 minutos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +44,43 @@ Propietario
 
 Acción
 
+Pre-terminado
+WO-00451422
+19/04/2026 09:31 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Alexander Gallego
+Colombia
+Jhon Fredy Bahamon Bonilla
+
 En progreso
+WO-00451417
+19/04/2026 09:26 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Alexander Gallego
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00451410
+19/04/2026 09:16 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Lina Medina
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00451406
+19/04/2026 09:10 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Alexander Gallego
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Despachado
 WO-00448661
 8/04/2026 07:46 a. m.
 Garantía
@@ -62,7 +98,7 @@ Kelaia Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00447984
 4/04/2026 05:13 p. m.
 Garantía
@@ -455,42 +491,6 @@ WO-00418332
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Maira Aldana
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00418322
-11/12/2025 05:00 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Jhojan Andrés Gómez Martínez
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00417846
-10/12/2025 10:51 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Maria Orta
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00417840
-10/12/2025 10:32 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Fernando Artunduaga
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00415968
-1/12/2025 06:47 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Bellanit Castro
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
