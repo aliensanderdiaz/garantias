@@ -1,5 +1,27 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00451693",
+    "cliente": "Carlos Alberto Sánchez",
+    "estado": "En progreso",
+    "fecha": "20/04/2026",
+    "interno": "FXV021",
+    "fechaIngreso": "2026-04-20",
+    "productoIngreso": "freidora oster digital",
+    "lugarDeCompra": "HOGAR Y ESTILO",
+    "observaciones": "[martes, 21 de abril de 2026]se piden 2 tarjetas y sensor"
+  },
+  {
+    "codigo": "WO-00451438",
+    "cliente": "Melva Herrera Garzon",
+    "estado": "En progreso",
+    "fecha": "20/04/2026",
+    "interno": "SQP670",
+    "fechaIngreso": "2026-04-06",
+    "productoIngreso": "plancha oster a vapor",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[lunes, 20 de abril de 2026]pedir termostato"
+  },
+  {
     "codigo": "WO-00451422",
     "cliente": "Alexander Gallego",
     "estado": "Pre-terminado",
@@ -8,7 +30,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-04-09",
     "productoIngreso": "freidora oster 3'8",
     "lugarDeCompra": "ALMACENES OPORTUNIDADES LAGO",
-    "observaciones": "[domingo, 19 de abril de 2026]no tiene falla, esta freidora no tiene microsuiche de proteccion-[domingo, 19 de abril de 2026]no se de donde sacaron que la falla era está directa, si las 3 freidoras, tenian la misma falla de no enciende"
+    "observaciones": "[domingo, 19 de abril de 2026]no tiene falla, esta freidora no tiene microsuiche de proteccion-[domingo, 19 de abril de 2026]no se de donde sacaron que la falla era está directa, si las 3 freidoras, tenian la misma falla de no enciende-[martes, 21 de abril de 2026]8844 se pide retorno"
   },
   {
     "codigo": "WO-00451417",
@@ -19,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-04-09",
     "productoIngreso": "freidora oster de 3,8",
     "lugarDeCompra": "NO",
-    "observaciones": "[domingo, 19 de abril de 2026]se pide motor y termostato"
+    "observaciones": "[domingo, 19 de abril de 2026]se pide motor y termostato-[martes, 21 de abril de 2026]8846"
   },
   {
     "codigo": "WO-00451410",
@@ -41,7 +63,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-04-09",
     "productoIngreso": "freidora oster 3.8",
     "lugarDeCompra": "ALMACENES OPORTUNIDADES",
-    "observaciones": "[domingo, 19 de abril de 2026]reparado con temporizador prestado"
+    "observaciones": "[domingo, 19 de abril de 2026]reparado con temporizador prestado-[martes, 21 de abril de 2026]8845 pedir retorno"
   },
   {
     "codigo": "WO-00448661",
@@ -321,17 +343,5 @@ let garantiasNewells = [
     "cliente": "Francisco Cortes",
     "estado": "Entregado",
     "fecha": "13/12/2025"
-  },
-  {
-    "codigo": "WO-00418663",
-    "cliente": "Edna Alejandra Mercedes Trujillo",
-    "estado": "Entregado",
-    "fecha": "13/12/2025"
-  },
-  {
-    "codigo": "WO-00418332",
-    "cliente": "Maira Aldana",
-    "estado": "Entregado",
-    "fecha": "11/12/2025"
   }
 ]
