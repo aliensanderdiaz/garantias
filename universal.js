@@ -1,5 +1,16 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-72517",
+    "estado": "Diagnosticado",
+    "tipo": "SIN PROCEDIMIENTO",
+    "clienteId": "1075217931",
+    "referencia": "L85774",
+    "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
+    "falla": "Resistencia Sin continuidad",
+    "s2": "",
+    "fecha": "29/04/2026"
+  },
+  {
     "codigo": "GRT-72104",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -33,13 +44,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-72036",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "55178269",
     "referencia": "L24340",
     "producto": "OLLA PRESION ESENCIAL CI 3L V2",
     "falla": "Cuerpo Deformado",
-    "s2": "",
+    "s2": "26006316",
     "fecha": "20/04/2026",
     "interno": "XGN595",
     "fechaIngreso": "2026-04-20",
@@ -62,22 +73,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ALKOSTO DE BOGOTA",
     "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]llega freidora"
-  },
-  {
-    "codigo": "GRT-71171",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "55199702",
-    "referencia": "L37599",
-    "producto": "OLLA PRESION ABRE FACIL 7L+TV",
-    "falla": "Cuerpo No coge presión (OAP)",
-    "s2": "26005539",
-    "fecha": "08/04/2026",
-    "interno": "PNO507",
-    "fechaIngreso": "2026-03-19",
-    "productoIngreso": "olla pitadora universal en acero",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]Llega olla"
   },
   {
     "codigo": "GRT-70995",

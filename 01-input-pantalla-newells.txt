@@ -44,7 +44,16 @@ Propietario
 
 Acción
 
-En progreso
+Despachado
+WO-00452337
+22/04/2026 04:39 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Martha Puentes
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Aprobación pendiente
 WO-00451693
 20/04/2026 05:58 p. m.
 Garantía
@@ -53,7 +62,7 @@ Carlos Alberto Sánchez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00451438
 20/04/2026 08:40 a. m.
 Garantía
@@ -71,7 +80,7 @@ Alexander Gallego
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00451417
 19/04/2026 09:26 p. m.
 Garantía
@@ -80,7 +89,7 @@ Alexander Gallego
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00451410
 19/04/2026 09:16 p. m.
 Garantía
@@ -89,7 +98,7 @@ Lina Medina
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00451406
 19/04/2026 09:10 p. m.
 Garantía
@@ -107,7 +116,7 @@ Lucia Andrade
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00448328
 6/04/2026 07:56 p. m.
 Garantía
@@ -482,15 +491,6 @@ WO-00418678
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Carmen Quimbaya
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00418672
-13/12/2025 11:03 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Francisco Cortes
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

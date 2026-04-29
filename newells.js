@@ -1,8 +1,19 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00452337",
+    "cliente": "Martha Puentes",
+    "estado": "Despachado",
+    "fecha": "22/04/2026",
+    "interno": "JZV225",
+    "fechaIngreso": "2026-04-05",
+    "productoIngreso": "licuadora Oster clásica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[miércoles, 22 de abril de 2026]se reparó con suiche prestado"
+  },
+  {
     "codigo": "WO-00451693",
     "cliente": "Carlos Alberto Sánchez",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "20/04/2026",
     "interno": "FXV021",
     "fechaIngreso": "2026-04-20",
@@ -13,7 +24,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00451438",
     "cliente": "Melva Herrera Garzon",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "20/04/2026",
     "interno": "SQP670",
     "fechaIngreso": "2026-04-06",
@@ -35,7 +46,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00451417",
     "cliente": "Alexander Gallego",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "19/04/2026",
     "interno": "CVP800",
     "fechaIngreso": "2026-04-09",
@@ -46,18 +57,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00451410",
     "cliente": "Lina Medina",
-    "estado": "En progreso",
-    "fecha": "19/04/2026",
-    "interno": "IZN463",
-    "fechaIngreso": "2026-04-06",
-    "productoIngreso": "freidora Oster 4 litros",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[domingo, 19 de abril de 2026]reparado con microsuiche prestado-[domingo, 19 de abril de 2026]se envio correo a paola sanclemente de newells pidiendo retorno"
+    "estado": "Entregado",
+    "fecha": "19/04/2026"
   },
   {
     "codigo": "WO-00451406",
     "cliente": "Alexander Gallego",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "19/04/2026",
     "interno": "TXJ047",
     "fechaIngreso": "2026-04-09",
@@ -79,13 +85,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00448328",
     "cliente": "Kelaia Trujillo",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "06/04/2026",
     "interno": "OER399",
     "fechaIngreso": "2026-03-17",
     "productoIngreso": "freidora digital oster",
     "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": "[domingo, 5 de abril de 2026]Reparada con microsuiche prestado"
+    "observaciones": "[domingo, 5 de abril de 2026]Reparada con microsuiche prestado-[sábado, 25 de abril de 2026]llega repuesto devolver a mary"
   },
   {
     "codigo": "WO-00447984",
@@ -335,12 +341,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00418678",
     "cliente": "Carmen Quimbaya",
-    "estado": "Entregado",
-    "fecha": "13/12/2025"
-  },
-  {
-    "codigo": "WO-00418672",
-    "cliente": "Francisco Cortes",
     "estado": "Entregado",
     "fecha": "13/12/2025"
   }
