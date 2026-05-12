@@ -1,18 +1,39 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-73139",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "12210272",
+    "referencia": "L85774",
+    "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
+    "falla": "Selector de temperatura Otro",
+    "s2": "",
+    "fecha": "12/05/2026",
+    "interno": "IHN073",
+    "fechaIngreso": "2026-05-07",
+    "productoIngreso": "estufa electrica de 2 puestos",
+    "lugarDeCompra": "COMERCIAL BAHIA",
+    "observaciones": "[lunes, 11 de mayo de 2026]reparada con repuestos prestados"
+  },
+  {
     "codigo": "GRT-72517",
-    "estado": "Diagnosticado",
-    "tipo": "SIN PROCEDIMIENTO",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075217931",
     "referencia": "L85774",
     "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
     "falla": "Resistencia Sin continuidad",
     "s2": "",
-    "fecha": "29/04/2026"
+    "fecha": "29/04/2026",
+    "interno": "DWN336",
+    "fechaIngreso": "2026-04-28",
+    "productoIngreso": "estufa electrica de 2 puestos",
+    "lugarDeCompra": "COMERCIAL BAHIA",
+    "observaciones": "[lunes, 11 de mayo de 2026]cambio o 2 termostatos"
   },
   {
     "codigo": "GRT-72104",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1077863996",
     "referencia": "L75680",
@@ -24,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-04-16",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "COMERCIALIZADORA CORDON",
-    "observaciones": "[martes, 21 de abril de 2026]se pide motor"
+    "observaciones": "[martes, 21 de abril de 2026]se pide motor-[sábado, 2 de mayo de 2026]llega motor-[miércoles, 6 de mayo de 2026]reparada"
   },
   {
     "codigo": "GRT-72102",
@@ -43,22 +64,6 @@ let garantiasUniversal = [
     "observaciones": "[martes, 21 de abril de 2026]se pide tarjeta o cambio"
   },
   {
-    "codigo": "GRT-72036",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "55178269",
-    "referencia": "L24340",
-    "producto": "OLLA PRESION ESENCIAL CI 3L V2",
-    "falla": "Cuerpo Deformado",
-    "s2": "26006316",
-    "fecha": "20/04/2026",
-    "interno": "XGN595",
-    "fechaIngreso": "2026-04-20",
-    "productoIngreso": "olla a presion esencial",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[lunes, 20 de abril de 2026]se pide cambio"
-  },
-  {
     "codigo": "GRT-71172",
     "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
@@ -73,22 +78,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ALKOSTO DE BOGOTA",
     "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]llega freidora"
-  },
-  {
-    "codigo": "GRT-70995",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36281117",
-    "referencia": "L50803",
-    "producto": "LICUADORA LA TRADICIONAL",
-    "falla": "Cuerpo Mal ensamble",
-    "s2": "NO APLICA S2!",
-    "fecha": "04/04/2026",
-    "interno": "IIO676",
-    "fechaIngreso": "2026-03-30",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[sábado, 4 de abril de 2026]re ajusta internamente, se repara sin repuesto, lista para entregar"
   },
   {
     "codigo": "GRT-69642",

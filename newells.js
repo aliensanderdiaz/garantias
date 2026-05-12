@@ -13,13 +13,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00451693",
     "cliente": "Carlos Alberto Sánchez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "20/04/2026",
     "interno": "FXV021",
     "fechaIngreso": "2026-04-20",
     "productoIngreso": "freidora oster digital",
     "lugarDeCompra": "HOGAR Y ESTILO",
-    "observaciones": "[martes, 21 de abril de 2026]se piden 2 tarjetas y sensor"
+    "observaciones": "[martes, 21 de abril de 2026]se piden 2 tarjetas y sensor-[lunes, 11 de mayo de 2026]dieron carta de cambio, toca enviar a bogota la freidora sin reparar"
   },
   {
     "codigo": "WO-00451438",
@@ -30,29 +30,19 @@ let garantiasNewells = [
     "fechaIngreso": "2026-04-06",
     "productoIngreso": "plancha oster a vapor",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[lunes, 20 de abril de 2026]pedir termostato"
+    "observaciones": "[lunes, 20 de abril de 2026]pedir termostato-[lunes, 11 de mayo de 2026]dieron carta de cambio, toca enviar el producto sin reparar a bogota"
   },
   {
     "codigo": "WO-00451422",
     "cliente": "Alexander Gallego",
-    "estado": "Pre-terminado",
-    "fecha": "19/04/2026",
-    "interno": "OVN737",
-    "fechaIngreso": "2026-04-09",
-    "productoIngreso": "freidora oster 3'8",
-    "lugarDeCompra": "ALMACENES OPORTUNIDADES LAGO",
-    "observaciones": "[domingo, 19 de abril de 2026]no tiene falla, esta freidora no tiene microsuiche de proteccion-[domingo, 19 de abril de 2026]no se de donde sacaron que la falla era está directa, si las 3 freidoras, tenian la misma falla de no enciende-[martes, 21 de abril de 2026]8844 se pide retorno"
+    "estado": "Entregado",
+    "fecha": "19/04/2026"
   },
   {
     "codigo": "WO-00451417",
     "cliente": "Alexander Gallego",
-    "estado": "Pre-terminado",
-    "fecha": "19/04/2026",
-    "interno": "CVP800",
-    "fechaIngreso": "2026-04-09",
-    "productoIngreso": "freidora oster de 3,8",
-    "lugarDeCompra": "NO",
-    "observaciones": "[domingo, 19 de abril de 2026]se pide motor y termostato-[martes, 21 de abril de 2026]8846"
+    "estado": "Entregado",
+    "fecha": "19/04/2026"
   },
   {
     "codigo": "WO-00451410",
@@ -63,46 +53,26 @@ let garantiasNewells = [
   {
     "codigo": "WO-00451406",
     "cliente": "Alexander Gallego",
-    "estado": "Pre-terminado",
-    "fecha": "19/04/2026",
-    "interno": "TXJ047",
-    "fechaIngreso": "2026-04-09",
-    "productoIngreso": "freidora oster 3.8",
-    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
-    "observaciones": "[domingo, 19 de abril de 2026]reparado con temporizador prestado-[martes, 21 de abril de 2026]8845 pedir retorno"
+    "estado": "Entregado",
+    "fecha": "19/04/2026"
   },
   {
     "codigo": "WO-00448661",
     "cliente": "Lucia Andrade",
-    "estado": "Despachado",
-    "fecha": "08/04/2026",
-    "interno": "DMJ612",
-    "fechaIngreso": "2026-03-28",
-    "productoIngreso": "freidora oster 3.8",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[jueves, 9 de abril de 2026]reparado con timer prestado"
+    "estado": "Entregado",
+    "fecha": "08/04/2026"
   },
   {
     "codigo": "WO-00448328",
     "cliente": "Kelaia Trujillo",
-    "estado": "Pre-terminado",
-    "fecha": "06/04/2026",
-    "interno": "OER399",
-    "fechaIngreso": "2026-03-17",
-    "productoIngreso": "freidora digital oster",
-    "lugarDeCompra": "MERCADO LIBRE",
-    "observaciones": "[domingo, 5 de abril de 2026]Reparada con microsuiche prestado-[sábado, 25 de abril de 2026]llega repuesto devolver a mary"
+    "estado": "Entregado",
+    "fecha": "06/04/2026"
   },
   {
     "codigo": "WO-00447984",
     "cliente": "Saul Guilombo",
-    "estado": "Pre-terminado",
-    "fecha": "04/04/2026",
-    "interno": "HTL592",
-    "fechaIngreso": "2026-03-28",
-    "productoIngreso": "freidora oster de 7.5 digital",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 8 de abril de 2026]se pidieron tarjetas y sensor-[miércoles, 8 de abril de 2026]llega repuestos-[sábado, 18 de abril de 2026]reparada"
+    "estado": "Entregado",
+    "fecha": "04/04/2026"
   },
   {
     "codigo": "WO-00445086",
