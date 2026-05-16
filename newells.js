@@ -1,8 +1,52 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00457579",
+    "cliente": "Valentina Arias",
+    "estado": "En progreso",
+    "fecha": "12/05/2026",
+    "interno": "CES863",
+    "fechaIngreso": "2026-05-08",
+    "productoIngreso": "freidora oster 3:8litros",
+    "lugarDeCompra": "ARA",
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió termostato"
+  },
+  {
+    "codigo": "WO-00457577",
+    "cliente": "Diana Isabell Becerra",
+    "estado": "En progreso",
+    "fecha": "12/05/2026",
+    "interno": "NVA468",
+    "fechaIngreso": "2026-05-08",
+    "productoIngreso": "licuadora oster clásica",
+    "lugarDeCompra": "CRISTALERIA LA VAJILLA",
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche "
+  },
+  {
+    "codigo": "WO-00457574",
+    "cliente": "Diana Isabell Becerra",
+    "estado": "En progreso",
+    "fecha": "12/05/2026",
+    "interno": "GVV953",
+    "fechaIngreso": "2026-05-08",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "CRISTALERIA LA VAJILLA",
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche"
+  },
+  {
+    "codigo": "WO-00457566",
+    "cliente": "Yeison Trujillo",
+    "estado": "En progreso",
+    "fecha": "12/05/2026",
+    "interno": "ENW244",
+    "fechaIngreso": "2026-05-06",
+    "productoIngreso": "freidora oster digital",
+    "lugarDeCompra": "GUADALUPE JAVIER TOCORA CARDOZO",
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió 2 tarjetas y sensor"
+  },
+  {
     "codigo": "WO-00452337",
     "cliente": "Martha Puentes",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "22/04/2026",
     "interno": "JZV225",
     "fechaIngreso": "2026-04-05",
@@ -289,29 +333,5 @@ let garantiasNewells = [
     "cliente": "Sodimac Colombia S.a",
     "estado": "Entregado",
     "fecha": "24/12/2025"
-  },
-  {
-    "codigo": "WO-00421038",
-    "cliente": "Sodimac Colombia S.a",
-    "estado": "Entregado",
-    "fecha": "23/12/2025"
-  },
-  {
-    "codigo": "WO-00421036",
-    "cliente": "Sandra Diaz Tovar",
-    "estado": "Entregado",
-    "fecha": "23/12/2025"
-  },
-  {
-    "codigo": "WO-00419956",
-    "cliente": "William Montenegro",
-    "estado": "Entregado",
-    "fecha": "18/12/2025"
-  },
-  {
-    "codigo": "WO-00418678",
-    "cliente": "Carmen Quimbaya",
-    "estado": "Entregado",
-    "fecha": "13/12/2025"
   }
 ]

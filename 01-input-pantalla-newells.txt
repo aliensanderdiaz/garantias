@@ -3,7 +3,6 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
-Cuenta del centro de servicio
 Más
 Search...
 
@@ -45,7 +44,43 @@ Propietario
 
 Acción
 
-Despachado
+En progreso
+WO-00457579
+12/05/2026 06:07 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Valentina Arias
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00457577
+12/05/2026 06:03 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Diana Isabell Becerra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00457574
+12/05/2026 06:00 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Diana Isabell Becerra
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00457566
+12/05/2026 05:53 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yeison Trujillo
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
 WO-00452337
 22/04/2026 04:39 p. m.
 Garantía
@@ -456,42 +491,6 @@ WO-00421284
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Sodimac Colombia S.a
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00421038
-23/12/2025 07:59 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Sodimac Colombia S.a
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00421036
-23/12/2025 07:51 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Sandra Diaz Tovar
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00419956
-18/12/2025 05:25 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-William Montenegro
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00418678
-13/12/2025 11:09 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Carmen Quimbaya
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

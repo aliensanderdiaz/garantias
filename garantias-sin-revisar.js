@@ -1,83 +1,39 @@
 let garantiasSinRevisar = [
 
 {
-"_id": "69f3c7912cb79d2fc1cae5fc",
-"fechaDeIngreso": "2026-04-30",
-"horaDeIngreso": "16:20:16",
-"codigo": "YAR039",
+"_id": "6a05e86461617ca1c8519784",
+"fechaDeIngreso": "2026-05-14",
+"horaDeIngreso": "10:21:07",
+"codigo": "QBT380",
 "producto": "ventilador universal digital",
-"falla": "motor frenado no prende",
-"referencia": "L76680",
-"lugarDeCompra": "EL UNICO",
+"falla": "permo la potenci en el nivel uno y traquea",
+"referencia": "L75680",
+"lugarDeCompra": "COMERCIAL BAHIA",
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "69fb5538f56d973b1dc6015a",
-"fechaDeIngreso": "2026-05-06",
-"horaDeIngreso": "09:50:30",
-"codigo": "ENW244",
-"producto": "freidora oster digital",
-"falla": "le falla el tactil sube la temperatura donde ella quiera",
-"referencia": "CKSTAF90D-013",
-"lugarDeCompra": "GUADALUPE JAVIER TOCORA CARDOZO",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "69fb7bb16057139b7788c8af",
-"fechaDeIngreso": "2026-05-06",
-"horaDeIngreso": "12:34:39",
-"codigo": "ZLC940",
-"producto": "ventilador universal fresh ultra",
-"falla": "frenado",
-"referencia": "L76669",
-"lugarDeCompra": "UNICO",
+"_id": "6a0612e73b013c2c74b14e71",
+"fechaDeIngreso": "2026-05-14",
+"horaDeIngreso": "13:22:29",
+"codigo": "NPM231",
+"producto": "olla presion de 4 litros en acero",
+"falla": "no hablanda nada",
+"referencia": "L37570",
+"lugarDeCompra": "HOMECENTER",
 "tipoDeServicio": "Garantía Universal"
 },
-
 {
-"_id": "69fdf657b3a9fa06a8bed613",
-"fechaDeIngreso": "2026-05-08",
-"horaDeIngreso": "09:42:29",
-"codigo": "GVV953",
-"producto": "licuadora oster clasica",
-"falla": "no prende",
-"referencia": "BLST4655",
-"lugarDeCompra": "CRISTALERIA LA VAJILLA",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "69fdfa30b3a9fa06a8bed61f",
-"fechaDeIngreso": "2026-05-08",
-"horaDeIngreso": "09:58:54",
-"codigo": "NVA468",
-"producto": "licuadora oster clásica",
-"falla": "no prende",
-"referencia": "BLST4655",
-"lugarDeCompra": "CRISTALERIA LA VAJILLA",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "69fe0528e09a717c0b9b4c8c",
-"fechaDeIngreso": "2026-05-08",
-"horaDeIngreso": "10:45:43",
-"codigo": "CES863",
-"producto": "freidora oster 3:8litros",
-"falla": "no alumbra el bombillo ni calienta",
+"_id": "6a0645160707270cd6f3db1e",
+"fechaDeIngreso": "2026-05-14",
+"horaDeIngreso": "16:56:36",
+"codigo": "WZX531",
+"producto": "freidora de aire manual 3 8 oster",
+"falla": "no calienta",
 "referencia": "CKSTAF38MNS",
 "lugarDeCompra": "ARA",
 "tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "69fe0930e09a717c0b9b4c99",
-"fechaDeIngreso": "2026-05-08",
-"horaDeIngreso": "11:02:56",
-"codigo": "DNK091",
-"producto": "ventilador universal digital fresh ultra",
-"falla": "no prende",
-"referencia": "L76680",
-"lugarDeCompra": "UNICO",
-"tipoDeServicio": "Garantía Universal"
 }
+
 ]
 // garantiasSinRevisar.reverse()
 // 
@@ -88,6 +44,8 @@ let garantiasExitoPitalito = [
 
 
     // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
+    '2026-05-08 - 11:02:56 - DNK091 - Garantía Universal - ventilador universal digital fresh ultra - Falla: no prende - Lugar de Compra: UNICO - Referencia: L76680',
+    '2026-04-30 - 16:20:16 - YAR039 - Garantía Universal - ventilador universal digital - Falla: motor frenado no prende - Lugar de Compra: EL UNICO - Referencia: L76680'
 
 ]
 
