@@ -1,80 +1,104 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00463230",
+    "cliente": "Jose Gilmer Martínez Medina",
+    "estado": "En progreso",
+    "fecha": "01/06/2026",
+    "interno": "ENZ522",
+    "fechaIngreso": "2026-05-27",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSL",
+    "observaciones": "[lunes, 1 de junio de 2026]pedir motor"
+  },
+  {
+    "codigo": "WO-00461778",
+    "cliente": "Hugo Gerardo Bonilla Ordóñez",
+    "estado": "Nuevo",
+    "fecha": "27/05/2026",
+    "interno": "VAJ092",
+    "fechaIngreso": "2026-05-25",
+    "productoIngreso": "cafetera oster de 5 taza",
+    "lugarDeCompra": "METRO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00461777",
+    "cliente": "Cristian Devia Devia",
+    "estado": "En progreso",
+    "fecha": "27/05/2026",
+    "interno": "VIS288",
+    "fechaIngreso": "2026-05-25",
+    "productoIngreso": "plancha oster azul",
+    "lugarDeCompra": "METRO",
+    "observaciones": "[lunes, 1 de junio de 2026]no la pudo abrir, se pidieron  repuestos como para que den cambio"
+  },
+  {
+    "codigo": "WO-00460508",
+    "cliente": "Magaly Torres",
+    "estado": "Pre-terminado",
+    "fecha": "23/05/2026",
+    "interno": "WZX531",
+    "fechaIngreso": "2026-05-14",
+    "productoIngreso": "freidora de aire manual 3 8 oster",
+    "lugarDeCompra": "ARA",
+    "observaciones": "[sábado, 23 de mayo de 2026]reparado con timer prestado-[sábado, 30 de mayo de 2026]llega timer, devolver a mary"
+  },
+  {
     "codigo": "WO-00457579",
     "cliente": "Valentina Arias",
-    "estado": "En progreso",
-    "fecha": "12/05/2026",
-    "interno": "CES863",
-    "fechaIngreso": "2026-05-08",
-    "productoIngreso": "freidora oster 3:8litros",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió termostato"
+    "estado": "Entregado",
+    "fecha": "12/05/2026"
   },
   {
     "codigo": "WO-00457577",
     "cliente": "Diana Isabell Becerra",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "12/05/2026",
     "interno": "NVA468",
     "fechaIngreso": "2026-05-08",
     "productoIngreso": "licuadora oster clásica",
     "lugarDeCompra": "CRISTALERIA LA VAJILLA",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche "
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche -[jueves, 21 de mayo de 2026]van a dar carta-[jueves, 28 de mayo de 2026]carta aprobada, enviar producto a bogota"
   },
   {
     "codigo": "WO-00457574",
     "cliente": "Diana Isabell Becerra",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "12/05/2026",
     "interno": "GVV953",
     "fechaIngreso": "2026-05-08",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "CRISTALERIA LA VAJILLA",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche"
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche-[martes, 26 de mayo de 2026]van a dar carta, enviar licuadora dañada a bogota"
   },
   {
     "codigo": "WO-00457566",
     "cliente": "Yeison Trujillo",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "12/05/2026",
     "interno": "ENW244",
     "fechaIngreso": "2026-05-06",
     "productoIngreso": "freidora oster digital",
     "lugarDeCompra": "GUADALUPE JAVIER TOCORA CARDOZO",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió 2 tarjetas y sensor"
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió 2 tarjetas y sensor-[jueves, 21 de mayo de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00452337",
     "cliente": "Martha Puentes",
-    "estado": "Pre-terminado",
-    "fecha": "22/04/2026",
-    "interno": "JZV225",
-    "fechaIngreso": "2026-04-05",
-    "productoIngreso": "licuadora Oster clásica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 22 de abril de 2026]se reparó con suiche prestado"
+    "estado": "Entregado",
+    "fecha": "22/04/2026"
   },
   {
     "codigo": "WO-00451693",
     "cliente": "Carlos Alberto Sánchez",
-    "estado": "Pre-terminado",
-    "fecha": "20/04/2026",
-    "interno": "FXV021",
-    "fechaIngreso": "2026-04-20",
-    "productoIngreso": "freidora oster digital",
-    "lugarDeCompra": "HOGAR Y ESTILO",
-    "observaciones": "[martes, 21 de abril de 2026]se piden 2 tarjetas y sensor-[lunes, 11 de mayo de 2026]dieron carta de cambio, toca enviar a bogota la freidora sin reparar"
+    "estado": "Entregado",
+    "fecha": "20/04/2026"
   },
   {
     "codigo": "WO-00451438",
     "cliente": "Melva Herrera Garzon",
-    "estado": "Pre-terminado",
-    "fecha": "20/04/2026",
-    "interno": "SQP670",
-    "fechaIngreso": "2026-04-06",
-    "productoIngreso": "plancha oster a vapor",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[lunes, 20 de abril de 2026]pedir termostato-[lunes, 11 de mayo de 2026]dieron carta de cambio, toca enviar el producto sin reparar a bogota"
+    "estado": "Entregado",
+    "fecha": "20/04/2026"
   },
   {
     "codigo": "WO-00451422",
@@ -309,29 +333,5 @@ let garantiasNewells = [
     "cliente": "Midia Pilar Dussan Useche",
     "estado": "Entregado",
     "fecha": "20/01/2026"
-  },
-  {
-    "codigo": "WO-00427036",
-    "cliente": "Maria Angelica Vargas Umbelica",
-    "estado": "Entregado",
-    "fecha": "20/01/2026"
-  },
-  {
-    "codigo": "WO-00424511",
-    "cliente": "Eloeiter Quintana",
-    "estado": "Entregado",
-    "fecha": "10/01/2026"
-  },
-  {
-    "codigo": "WO-00424509",
-    "cliente": "Diana Carolina Del Pilar Suaza Saenz",
-    "estado": "Entregado",
-    "fecha": "10/01/2026"
-  },
-  {
-    "codigo": "WO-00421284",
-    "cliente": "Sodimac Colombia S.a",
-    "estado": "Entregado",
-    "fecha": "24/12/2025"
   }
 ]

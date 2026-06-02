@@ -1,7 +1,71 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-73244",
+    "codigo": "GRT-74350",
     "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075306929",
+    "referencia": "L75680",
+    "producto": "VENTILADOR FRESH ULT  C REMOTO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "26008713",
+    "fecha": "02/06/2026",
+    "interno": "WWM155",
+    "fechaIngreso": "2026-05-28",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[lunes, 1 de junio de 2026]se pide motor"
+  },
+  {
+    "codigo": "GRT-74349",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "4884718",
+    "referencia": "L87560",
+    "producto": "FREIDORA DE AIRE MASTERFRYER",
+    "falla": "Microsuiche Sin continuidad",
+    "s2": "26008712",
+    "fecha": "02/06/2026",
+    "interno": "IMP143",
+    "fechaIngreso": "2026-05-27",
+    "productoIngreso": "freidora universal",
+    "lugarDeCompra": "BERNAL  AIPE",
+    "observaciones": "[lunes, 1 de junio de 2026]se reparo con microsuiche prestado"
+  },
+  {
+    "codigo": "GRT-74348",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "7706573",
+    "referencia": "L40830",
+    "producto": "PLANCHA A VAPOR CERAMIC PRO",
+    "falla": "Termostato Sin continuidad ",
+    "s2": "26008711",
+    "fecha": "02/06/2026",
+    "interno": "FQR339",
+    "fechaIngreso": "2026-05-26",
+    "productoIngreso": "plancha univetsal",
+    "lugarDeCompra": "UNICO",
+    "observaciones": "[lunes, 1 de junio de 2026]se pide termostato"
+  },
+  {
+    "codigo": "GRT-73943",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "26422926",
+    "referencia": "L75680",
+    "producto": "VENTILADOR FRESH ULT  C REMOTO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "26008245",
+    "fecha": "26/05/2026",
+    "interno": "QBT380",
+    "fechaIngreso": "2026-05-14",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "COMERCIAL BAHIA",
+    "observaciones": "[martes, 26 de mayo de 2026]pedir motor"
+  },
+  {
+    "codigo": "GRT-73244",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55201407",
     "referencia": "L76680",
@@ -13,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-08",
     "productoIngreso": "ventilador universal digital fresh ultra",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[viernes, 15 de mayo de 2026]llega motor"
+    "observaciones": "[viernes, 15 de mayo de 2026]llega motor-[sábado, 16 de mayo de 2026]reparada con motor  nuevo"
   },
   {
     "codigo": "GRT-73243",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1004147291",
     "referencia": "L76660",
@@ -29,23 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-06",
     "productoIngreso": "ventilador universal fresh ultra",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió cambio o motor"
-  },
-  {
-    "codigo": "GRT-73242",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075321549",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26007489",
-    "fecha": "12/05/2026",
-    "interno": "YAR039",
-    "fechaIngreso": "2026-04-30",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "EL UNICO",
-    "observaciones": "[viernes, 15 de mayo de 2026]llega motor"
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió cambio o motor-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegó motor-[sábado, 23 de mayo de 2026]reparado"
   },
   {
     "codigo": "GRT-73139",
@@ -61,11 +109,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-07",
     "productoIngreso": "estufa electrica de 2 puestos",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[lunes, 11 de mayo de 2026]reparada con repuestos prestados"
+    "observaciones": "[lunes, 11 de mayo de 2026]reparada con repuestos prestados-[viernes, 22 de mayo de 2026]llego algo (e)-[viernes, 22 de mayo de 2026]llego algo (e)"
   },
   {
     "codigo": "GRT-72517",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075217931",
     "referencia": "L85774",
@@ -77,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-04-28",
     "productoIngreso": "estufa electrica de 2 puestos",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[lunes, 11 de mayo de 2026]cambio o 2 termostatos"
+    "observaciones": "[lunes, 11 de mayo de 2026]cambio o 2 termostatos-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegaron 2 termostatos"
   },
   {
     "codigo": "GRT-72104",
@@ -126,22 +174,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "ALKOSTO DE BOGOTA",
     "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]llega freidora"
-  },
-  {
-    "codigo": "GRT-69642",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "12202172",
-    "referencia": "L72818",
-    "producto": "VENTILADOR CORONA 16\" NEGRO X2",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26003785",
-    "fecha": "09/03/2026",
-    "interno": "FBI929",
-    "fechaIngreso": "2026-01-28",
-    "productoIngreso": "ventilador corona",
-    "lugarDeCompra": "LANDER Y CIA",
-    "observaciones": "[domingo, 8 de marzo de 2026]se pide motor-[lunes, 16 de marzo de 2026]LLEGA MOTOR-[lunes, 16 de marzo de 2026]reparado"
   },
   {
     "codigo": "GRT-69641",

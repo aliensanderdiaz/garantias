@@ -14,20 +14,6 @@ let garantiasRedelec = [
     "observaciones": "[lunes, 23 de febrero de 2026]se pide motor y teclado-[miércoles, 18 de marzo de 2026]llega motor y tarjeta (teclado)-[viernes, 20 de marzo de 2026]El motor que llegó no funcionó, se le puso un motor prestado para solucionar."
   },
   {
-    "codigo": "149980",
-    "cliente": "ANCISAR RAMÍREZ",
-    "clienteId": "4913206",
-    "fecha": "2026-02-04",
-    "producto": "MX900WG",
-    "estado": "PREFINALIZADO",
-    "almacen": "ALMACENES UNIVERSAL",
-    "interno": "ECY562",
-    "fechaIngreso": "2026-01-29",
-    "productoIngreso": "batidora black decker",
-    "lugarDeCompra": "ALAMCENES UNIVETSAL",
-    "observaciones": "[miércoles, 4 de febrero de 2026]se pidio motor-[miércoles, 18 de febrero de 2026]va para bogotá, despues daran carta-[miércoles, 11 de marzo de 2026]se la lleva coordinadora-[martes, 24 de marzo de 2026]carta autorizada-[sábado, 25 de abril de 2026]va  a llegar una batidora con guia 98416455656"
-  },
-  {
     "codigo": "145138",
     "cliente": "FERNANDO VASQUEZ",
     "clienteId": "12197944",

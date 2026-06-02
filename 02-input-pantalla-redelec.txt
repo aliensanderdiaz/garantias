@@ -13,10 +13,12 @@ Informes
 
 Inicio
 Tickets Pendientes
-Ordenes Pendientes
-.	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Ver Ticket	Trazabilidad
-59	150941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YUCELY CAICEDO MANRIQUE	7717254	2026-02-23 23:35:38	59	BLACK+DECKER	BLBD210GB	DESPACHADO	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
-72	149980	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Interface	ANCISAR RAMÍREZ	4913206	2026-02-04 22:14:03	72	BLACK+DECKER	MX900WG	PREFINALIZADO	ALMACENES UNIVERSAL	Ver Ticket	Trazabilidad
-148	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	148	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
-184	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	184	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	Ver Ticket	Trazabilidad
+ Ordenes Pendientes
+Ej: 152124,152123,152122
+Buscar:
+	.	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Guía Recogida	Rótulo	Ver Ticket	Trazabilidad
+71	150941	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	YUCELY CAICEDO MANRIQUE	7717254	2026-02-23 23:35:38	71	BLACK+DECKER	BLBD210GB	DESPACHADO	ALMACENES UNIVERSAL	—		Ver Ticket	Trazabilidad
+160	145138	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	FERNANDO VASQUEZ	12197944	2025-10-21 21:07:46	160	BLACK+DECKER	CM0701B	AUTORIZADO	TECNOHOGAR NEIVA	—		Ver Ticket	Trazabilidad
+196	142882	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Cambio de Producto	MILENA CORTES CUENCA	36181374	2025-08-30 16:39:21	196	BLACK+DECKER	CJ650W	AUTORIZADO	TECNOHOGAR NEIVA	—		Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 3 de un total de 3 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

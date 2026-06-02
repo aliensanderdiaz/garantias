@@ -45,6 +45,42 @@ Propietario
 Acción
 
 En progreso
+WO-00463230
+1/06/2026 07:44 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Gilmer Martínez Medina
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Nuevo
+WO-00461778
+27/05/2026 08:41 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Hugo Gerardo Bonilla Ordóñez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00461777
+27/05/2026 08:32 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Cristian Devia Devia
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
+WO-00460508
+23/05/2026 11:55 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Magaly Torres
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
 WO-00457579
 12/05/2026 06:07 p. m.
 Garantía
@@ -53,7 +89,7 @@ Valentina Arias
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00457577
 12/05/2026 06:03 p. m.
 Garantía
@@ -62,7 +98,7 @@ Diana Isabell Becerra
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00457574
 12/05/2026 06:00 p. m.
 Garantía
@@ -71,7 +107,7 @@ Diana Isabell Becerra
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00457566
 12/05/2026 05:53 p. m.
 Garantía
@@ -80,7 +116,7 @@ Yeison Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00452337
 22/04/2026 04:39 p. m.
 Garantía
@@ -89,7 +125,7 @@ Martha Puentes
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00451693
 20/04/2026 05:58 p. m.
 Garantía
@@ -98,7 +134,7 @@ Carlos Alberto Sánchez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00451438
 20/04/2026 08:40 a. m.
 Garantía
@@ -455,42 +491,6 @@ WO-00427074
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Midia Pilar Dussan Useche
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427036
-20/01/2026 01:58 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Maria Angelica Vargas Umbelica
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00424511
-10/01/2026 01:56 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Eloeiter Quintana
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00424509
-10/01/2026 01:45 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Diana Carolina Del Pilar Suaza Saenz
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00421284
-24/12/2025 07:02 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Sodimac Colombia S.a
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
