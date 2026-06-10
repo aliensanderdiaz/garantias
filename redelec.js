@@ -1,5 +1,19 @@
 let garantiasRedelec = [
   {
+    "codigo": "156246",
+    "cliente": "MIGUEL ANGEL BELTRAN SUPELANO",
+    "clienteId": "1075253934",
+    "fecha": "2026-06-05",
+    "producto": "FP4342-0BDLA",
+    "estado": "TRAMITE",
+    "almacen": "",
+    "interno": "QIV543",
+    "fechaIngreso": "2026-06-02",
+    "productoIngreso": "procesador de alimentos",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": ""
+  },
+  {
     "codigo": "150941",
     "cliente": "YUCELY CAICEDO MANRIQUE",
     "clienteId": "7717254",

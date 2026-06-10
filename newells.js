@@ -1,19 +1,41 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00464942",
+    "cliente": "Olver Antury Carvajal",
+    "estado": "En progreso",
+    "fecha": "09/06/2026",
+    "interno": "OXY368",
+    "fechaIngreso": "2026-06-06",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "TIENDAS MIO",
+    "observaciones": "[martes, 9 de junio de 2026]pedir suiche-[martes, 9 de junio de 2026]ERICA PAOLA PEÑA\n\nC.C.\n\n1004208562"
+  },
+  {
+    "codigo": "WO-00464933",
+    "cliente": "Maribel Martínez",
+    "estado": "En progreso",
+    "fecha": "09/06/2026",
+    "interno": "GYJ693",
+    "fechaIngreso": "2026-05-30",
+    "productoIngreso": "freidor oster de 3.8",
+    "lugarDeCompra": "ALKOMPRAR NEIVA",
+    "observaciones": ""
+  },
+  {
     "codigo": "WO-00463230",
     "cliente": "Jose Gilmer Martínez Medina",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "01/06/2026",
     "interno": "ENZ522",
     "fechaIngreso": "2026-05-27",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSL",
-    "observaciones": "[lunes, 1 de junio de 2026]pedir motor"
+    "observaciones": "[lunes, 1 de junio de 2026]pedir motor-[martes, 9 de junio de 2026]reparado"
   },
   {
     "codigo": "WO-00461778",
     "cliente": "Hugo Gerardo Bonilla Ordóñez",
-    "estado": "Nuevo",
+    "estado": "Pre-terminado",
     "fecha": "27/05/2026",
     "interno": "VAJ092",
     "fechaIngreso": "2026-05-25",
@@ -24,13 +46,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00461777",
     "cliente": "Cristian Devia Devia",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "27/05/2026",
     "interno": "VIS288",
     "fechaIngreso": "2026-05-25",
     "productoIngreso": "plancha oster azul",
     "lugarDeCompra": "METRO",
-    "observaciones": "[lunes, 1 de junio de 2026]no la pudo abrir, se pidieron  repuestos como para que den cambio"
+    "observaciones": "[lunes, 1 de junio de 2026]no la pudo abrir, se pidieron  repuestos como para que den cambio-[jueves, 4 de junio de 2026]van a dar cambio"
   },
   {
     "codigo": "WO-00460508",
@@ -319,18 +341,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00427250",
     "cliente": "Hermesto Tovar Gutierrez",
-    "estado": "Entregado",
-    "fecha": "20/01/2026"
-  },
-  {
-    "codigo": "WO-00427245",
-    "cliente": "Sodimac Colombia S.a",
-    "estado": "Entregado",
-    "fecha": "20/01/2026"
-  },
-  {
-    "codigo": "WO-00427074",
-    "cliente": "Midia Pilar Dussan Useche",
     "estado": "Entregado",
     "fecha": "20/01/2026"
   }

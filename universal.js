@@ -1,5 +1,85 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-74847",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "4924314",
+    "referencia": "L87560",
+    "producto": "FREIDORA DE AIRE MASTERFRYER",
+    "falla": "Microsuiche Sin continuidad",
+    "s2": "PENDIENTE",
+    "fecha": "10/06/2026",
+    "interno": "NAQ006",
+    "fechaIngreso": "2026-06-01",
+    "productoIngreso": "freidora universal",
+    "lugarDeCompra": "ALMACEN PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-74846",
+    "estado": "Diagnosticado",
+    "tipo": "SIN PROCEDIMIENTO",
+    "clienteId": "53140628",
+    "referencia": "L37570",
+    "producto": "OLLA PRESION ABRE FACIL TV 4L",
+    "falla": "Cuerpo Mal ensamble",
+    "s2": "",
+    "fecha": "10/06/2026",
+    "interno": "NPM231",
+    "fechaIngreso": "2026-05-14",
+    "productoIngreso": "olla presion de 4 litros en acero",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-74845",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "4906672",
+    "referencia": "L40600",
+    "producto": "PLANCHA SECA LA TRADICIONAL",
+    "falla": "Termostato Sin continuidad ",
+    "s2": "26009172",
+    "fecha": "10/06/2026",
+    "interno": "MMM114",
+    "fechaIngreso": "2026-06-04",
+    "productoIngreso": "plancha seca universal",
+    "lugarDeCompra": "EL PORTAL",
+    "observaciones": "[martes, 9 de junio de 2026]pedir automatico"
+  },
+  {
+    "codigo": "GRT-74598",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1075264768",
+    "referencia": "L62090",
+    "producto": "LICUADORA ELITE TURBO MAX",
+    "falla": "Motor Bobinas en corto,Panel de control Otro",
+    "s2": "26009152",
+    "fecha": "05/06/2026",
+    "interno": "MQZ277",
+    "fechaIngreso": "2026-06-01",
+    "productoIngreso": "licuadora universal elite turbo",
+    "lugarDeCompra": "UNICO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-74597",
+    "estado": "Solicitud / producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36291641",
+    "referencia": "L62090",
+    "producto": "LICUADORA ELITE TURBO MAX",
+    "falla": "Embrague de motor Desgastado,Motor Bobinas en corto,Panel de control Dañado ",
+    "s2": "26009151",
+    "fecha": "05/06/2026",
+    "interno": "LNE717",
+    "fechaIngreso": "2026-06-01",
+    "productoIngreso": "licuadora universal elite turbo",
+    "lugarDeCompra": "UNICO",
+    "observaciones": ""
+  },
+  {
     "codigo": "GRT-74350",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -29,7 +109,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-27",
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "BERNAL  AIPE",
-    "observaciones": "[lunes, 1 de junio de 2026]se reparo con microsuiche prestado"
+    "observaciones": "[lunes, 1 de junio de 2026]se reparo con microsuiche prestado-[martes, 2 de junio de 2026]entregado"
   },
   {
     "codigo": "GRT-74348",
@@ -93,7 +173,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-06",
     "productoIngreso": "ventilador universal fresh ultra",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió cambio o motor-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegó motor-[sábado, 23 de mayo de 2026]reparado"
+    "observaciones": "[sábado, 16 de mayo de 2026]se pidió cambio o motor-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegó motor-[sábado, 23 de mayo de 2026]reparado-[miércoles, 3 de junio de 2026]entregado\n"
   },
   {
     "codigo": "GRT-73139",
@@ -125,7 +205,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-04-28",
     "productoIngreso": "estufa electrica de 2 puestos",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[lunes, 11 de mayo de 2026]cambio o 2 termostatos-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegaron 2 termostatos"
+    "observaciones": "[lunes, 11 de mayo de 2026]cambio o 2 termostatos-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegaron 2 termostatos-[jueves, 4 de junio de 2026]entregada estufa "
   },
   {
     "codigo": "GRT-72104",

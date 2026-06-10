@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -45,6 +45,24 @@ Propietario
 Acción
 
 En progreso
+WO-00464942
+9/06/2026 08:14 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Olver Antury Carvajal
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00464933
+9/06/2026 07:53 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Maribel Martínez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Pre-terminado
 WO-00463230
 1/06/2026 07:44 p. m.
 Garantía
@@ -53,7 +71,7 @@ Jose Gilmer Martínez Medina
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Nuevo
+Pre-terminado
 WO-00461778
 27/05/2026 08:41 a. m.
 Garantía
@@ -62,7 +80,7 @@ Hugo Gerardo Bonilla Ordóñez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00461777
 27/05/2026 08:32 a. m.
 Garantía
@@ -473,24 +491,6 @@ WO-00427250
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Hermesto Tovar Gutierrez
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427245
-20/01/2026 06:36 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Sodimac Colombia S.a
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427074
-20/01/2026 02:51 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Midia Pilar Dussan Useche
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

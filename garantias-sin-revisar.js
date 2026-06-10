@@ -1,16 +1,5 @@
 let garantiasSinRevisar = [
 {
-"_id": "6a0612e73b013c2c74b14e71",
-"fechaDeIngreso": "2026-05-14",
-"horaDeIngreso": "13:22:29",
-"codigo": "NPM231",
-"producto": "olla presion de 4 litros en acero",
-"falla": "no hablanda nada",
-"referencia": "L37570",
-"lugarDeCompra": "HOMECENTER",
-"tipoDeServicio": "Garantía Universal"
-},
-{
 "_id": "6a1757404f6ac8441002276b",
 "fechaDeIngreso": "2026-05-27",
 "horaDeIngreso": "15:42:37",
@@ -22,47 +11,14 @@ let garantiasSinRevisar = [
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "6a1af9ece85feff9b7103c61",
-"fechaDeIngreso": "2026-05-30",
-"horaDeIngreso": "09:53:31",
-"codigo": "GYJ693",
-"producto": "freidor oster de 3.8",
-"falla": "no funciona con la temperatura adecuada. y presenta falla en la perilla",
-"referencia": "CKSTAF38MNS",
-"lugarDeCompra": "ALKOMPRAR NEIVA",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6a1d9070fbebec13c1b83301",
-"fechaDeIngreso": "2026-06-01",
-"horaDeIngreso": "09:00:14",
-"codigo": "MQZ277",
-"producto": "licuadora universal elite turbo",
-"falla": "no prende y sale humo",
-"referencia": "L62090",
-"lugarDeCompra": "UNICO",
-"tipoDeServicio": "Garantía Universal"
-},
-{
-"_id": "6a1d9831fbebec13c1b83310",
-"fechaDeIngreso": "2026-06-01",
-"horaDeIngreso": "09:33:20",
-"codigo": "LNE717",
-"producto": "licuadora universal elite turbo",
-"falla": "sale chispas el motor y el acople esta gastado",
-"referencia": "L62090",
-"lugarDeCompra": "UNICO",
-"tipoDeServicio": "Garantía Universal"
-},
-{
-"_id": "6a1df35fb18ea7bbcc5a2d06",
-"fechaDeIngreso": "2026-06-01",
-"horaDeIngreso": "16:02:21",
-"codigo": "NAQ006",
-"producto": "freidora universal",
+"_id": "6a287b33a7fc99c56e6b90ad",
+"fechaDeIngreso": "2026-06-09",
+"horaDeIngreso": "15:44:33",
+"codigo": "CKI310",
+"producto": "ventilador universal",
 "falla": "no prende",
-"referencia": "L87560",
-"lugarDeCompra": "ALMACEN PITALITO",
+"referencia": "L71150",
+"lugarDeCompra": "PUNTONET",
 "tipoDeServicio": "Garantía Universal"
 }
 ]
