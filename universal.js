@@ -1,5 +1,21 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-75383",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1005825146",
+    "referencia": "L71150",
+    "producto": "VENTILADOR DE TORRE",
+    "falla": "Motor Bobinas en corto,Tarjeta electrónica En corto",
+    "s2": "26009814",
+    "fecha": "19/06/2026",
+    "interno": "CKI310",
+    "fechaIngreso": "2026-06-09",
+    "productoIngreso": "ventilador universal",
+    "lugarDeCompra": "PUNTONET",
+    "observaciones": "[viernes, 19 de junio de 2026]motor y tarjeta"
+  },
+  {
     "codigo": "GRT-74847",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -7,13 +23,13 @@ let garantiasUniversal = [
     "referencia": "L87560",
     "producto": "FREIDORA DE AIRE MASTERFRYER",
     "falla": "Microsuiche Sin continuidad",
-    "s2": "PENDIENTE",
+    "s2": "26009173",
     "fecha": "10/06/2026",
     "interno": "NAQ006",
     "fechaIngreso": "2026-06-01",
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "ALMACEN PITALITO",
-    "observaciones": ""
+    "observaciones": "[martes, 16 de junio de 2026]entrega microsuiche"
   },
   {
     "codigo": "GRT-74846",
@@ -45,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-04",
     "productoIngreso": "plancha seca universal",
     "lugarDeCompra": "EL PORTAL",
-    "observaciones": "[martes, 9 de junio de 2026]pedir automatico"
+    "observaciones": "[martes, 9 de junio de 2026]pedir automatico-[martes, 16 de junio de 2026]entrega automatico"
   },
   {
     "codigo": "GRT-74598",
@@ -61,7 +77,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-01",
     "productoIngreso": "licuadora universal elite turbo",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[martes, 16 de junio de 2026]preguntar"
   },
   {
     "codigo": "GRT-74597",
@@ -77,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-01",
     "productoIngreso": "licuadora universal elite turbo",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[martes, 16 de junio de 2026]preguntar"
   },
   {
     "codigo": "GRT-74350",
@@ -141,7 +157,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-14",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[martes, 26 de mayo de 2026]pedir motor"
+    "observaciones": "[martes, 26 de mayo de 2026]pedir motor-[martes, 16 de junio de 2026]entrega motor"
   },
   {
     "codigo": "GRT-73244",

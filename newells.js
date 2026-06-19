@@ -1,5 +1,27 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00467258",
+    "cliente": "Diana Jimena Aguilar Espinoza",
+    "estado": "Pre-terminado",
+    "fecha": "19/06/2026",
+    "interno": "YSI436",
+    "fechaIngreso": "2026-06-16",
+    "productoIngreso": "batidora oster",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 19 de junio de 2026]reparada sin repuestos"
+  },
+  {
+    "codigo": "WO-00467255",
+    "cliente": "Ana Iris Gullombo",
+    "estado": "En progreso",
+    "fecha": "19/06/2026",
+    "interno": "YHP127",
+    "fechaIngreso": "2026-06-11",
+    "productoIngreso": "licuadora oster clásica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[viernes, 19 de junio de 2026]pedir suiche electronico"
+  },
+  {
     "codigo": "WO-00464942",
     "cliente": "Olver Antury Carvajal",
     "estado": "En progreso",
@@ -13,13 +35,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00464933",
     "cliente": "Maribel Martínez",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "09/06/2026",
     "interno": "GYJ693",
     "fechaIngreso": "2026-05-30",
     "productoIngreso": "freidor oster de 3.8",
     "lugarDeCompra": "ALKOMPRAR NEIVA",
-    "observaciones": ""
+    "observaciones": "[miércoles, 17 de junio de 2026]dieron carta , enviar a bogota"
   },
   {
     "codigo": "WO-00463230",
@@ -30,7 +52,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-05-27",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSL",
-    "observaciones": "[lunes, 1 de junio de 2026]pedir motor-[martes, 9 de junio de 2026]reparado"
+    "observaciones": "[lunes, 1 de junio de 2026]pedir motor-[martes, 9 de junio de 2026]reparado-[martes, 16 de junio de 2026]se le entrega licuadora reparada con motor nuevo"
   },
   {
     "codigo": "WO-00461778",
@@ -331,17 +353,5 @@ let garantiasNewells = [
     "cliente": "Marcelo Vargas Ramos",
     "estado": "Entregado",
     "fecha": "21/01/2026"
-  },
-  {
-    "codigo": "WO-00427252",
-    "cliente": "Martha Puentes",
-    "estado": "Entregado",
-    "fecha": "20/01/2026"
-  },
-  {
-    "codigo": "WO-00427250",
-    "cliente": "Hermesto Tovar Gutierrez",
-    "estado": "Entregado",
-    "fecha": "20/01/2026"
   }
 ]

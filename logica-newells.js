@@ -3,6 +3,11 @@ garantiasNewells.sort((a,b) => a.codigo.localeCompare(b.codigo))
 garantiasNewells = garantiasNewells.filter(garantia => garantia.estado !== 'Entregado')
 
 const containerNewells = document.querySelector('.containerNewells')
+const titulo_sin_revisar = document.querySelector('.titulo-sin-revisar')
+const titulo_para_reparar = document.querySelector('.titulo-para-reparar')
+
+titulo_sin_revisar.innerHTML = `${ garantiasSinRevisar.length } garantías sin revisar`
+titulo_para_reparar.innerHTML = `${ garantiasExitoPitalito.length } garantías para revisar`
 
 let htmlNewells = ''
 

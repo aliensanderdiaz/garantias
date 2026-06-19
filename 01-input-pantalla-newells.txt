@@ -2,7 +2,6 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
-Productos
 Más
 Search...
 
@@ -11,38 +10,56 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
 Número de elemento
 
-Sort
+Ordenar
 Estado de la orden de trabajo
 
-Sort
+Ordenar
 Número de orden de trabajo
 
-Sort
+Ordenar
 Fecha de creación
 Clasificados en orden descendente
 
-Sort
+Ordenar
 Tipo de pedido
 
-Sort
+Ordenar
 Cuenta
 
-Sort
+Ordenar
 Contacto
 
-Sort
+Ordenar
 País
 
-Sort
+Ordenar
 Propietario
 
 Acción
+
+Pre-terminado
+WO-00467258
+19/06/2026 03:17 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Diana Jimena Aguilar Espinoza
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00467255
+19/06/2026 03:08 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Ana Iris Gullombo
+Colombia
+Jhon Fredy Bahamon Bonilla
 
 En progreso
 WO-00464942
@@ -53,7 +70,7 @@ Olver Antury Carvajal
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Pre-terminado
 WO-00464933
 9/06/2026 07:53 p. m.
 Garantía
@@ -473,24 +490,6 @@ WO-00427413
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Marcelo Vargas Ramos
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427252
-20/01/2026 06:51 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Martha Puentes
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427250
-20/01/2026 06:47 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Hermesto Tovar Gutierrez
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

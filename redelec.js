@@ -5,7 +5,7 @@ let garantiasRedelec = [
     "clienteId": "1075253934",
     "fecha": "2026-06-05",
     "producto": "FP4342-0BDLA",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "",
     "interno": "QIV543",
     "fechaIngreso": "2026-06-02",
