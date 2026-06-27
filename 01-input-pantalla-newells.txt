@@ -2,6 +2,7 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
+Productos
 Más
 Search...
 
@@ -43,7 +44,43 @@ Propietario
 
 Acción
 
+En progreso
+WO-00469711
+27/06/2026 02:06 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Yuri Losada Espinoza
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00469705
+27/06/2026 01:15 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Henry Cardenas Escobar
+Colombia
+Jhon Fredy Bahamon Bonilla
+
 Pre-terminado
+WO-00467484
+22/06/2026 10:01 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Olga Rivas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00467479
+22/06/2026 09:56 a. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Vanesa Cuesta
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
 WO-00467258
 19/06/2026 03:17 p. m.
 Garantía
@@ -52,7 +89,7 @@ Diana Jimena Aguilar Espinoza
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Aprobación pendiente
 WO-00467255
 19/06/2026 03:08 p. m.
 Garantía
@@ -61,7 +98,7 @@ Ana Iris Gullombo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00464942
 9/06/2026 08:14 p. m.
 Garantía
@@ -70,7 +107,7 @@ Olver Antury Carvajal
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00464933
 9/06/2026 07:53 p. m.
 Garantía
@@ -79,7 +116,7 @@ Maribel Martínez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00463230
 1/06/2026 07:44 p. m.
 Garantía
@@ -88,7 +125,7 @@ Jose Gilmer Martínez Medina
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00461778
 27/05/2026 08:41 a. m.
 Garantía
@@ -97,7 +134,7 @@ Hugo Gerardo Bonilla Ordóñez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00461777
 27/05/2026 08:32 a. m.
 Garantía
@@ -106,7 +143,7 @@ Cristian Devia Devia
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00460508
 23/05/2026 11:55 a. m.
 Garantía
@@ -124,7 +161,7 @@ Valentina Arias
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00457577
 12/05/2026 06:03 p. m.
 Garantía
@@ -133,7 +170,7 @@ Diana Isabell Becerra
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00457574
 12/05/2026 06:00 p. m.
 Garantía
@@ -142,7 +179,7 @@ Diana Isabell Becerra
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00457566
 12/05/2026 05:53 p. m.
 Garantía
@@ -454,42 +491,6 @@ WO-00431917
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Yenny Banesa Bonilla Avendaño
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00429661
-27/01/2026 05:35 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Harryson Trujillo Vargas
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00429016
-26/01/2026 09:27 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Margarita Ladino Sánchez
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427468
-21/01/2026 10:55 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Adriana Galindo
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00427413
-21/01/2026 09:23 a. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Marcelo Vargas Ramos
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

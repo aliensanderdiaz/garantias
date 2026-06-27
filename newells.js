@@ -1,91 +1,100 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00469711",
+    "cliente": "Yuri Losada Espinoza",
+    "estado": "En progreso",
+    "fecha": "27/06/2026",
+    "interno": "BMR408",
+    "fechaIngreso": "2026-06-16",
+    "productoIngreso": "licuadora oster de 2 velocidad negra",
+    "lugarDeCompra": "ALMACENE UNIVERSAL",
+    "observaciones": "[sábado, 27 de junio de 2026]se pidió motor y suiche"
+  },
+  {
+    "codigo": "WO-00469705",
+    "cliente": "Henry Cardenas Escobar",
+    "estado": "En progreso",
+    "fecha": "27/06/2026",
+    "interno": "FLH467",
+    "fechaIngreso": "2026-06-23",
+    "productoIngreso": "licuadora oster de dos velocidades oster roja",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[sábado, 27 de junio de 2026]solicito motor"
+  },
+  {
+    "codigo": "WO-00467484",
+    "cliente": "Olga Rivas",
+    "estado": "Pre-terminado",
+    "fecha": "22/06/2026",
+    "interno": "UBE258",
+    "fechaIngreso": "2026-06-16",
+    "productoIngreso": "freidora oster  de 3'8",
+    "lugarDeCompra": "ARA",
+    "observaciones": "[viernes, 26 de junio de 2026]llegó repuesto-[sábado, 27 de junio de 2026]reparado"
+  },
+  {
+    "codigo": "WO-00467479",
+    "cliente": "Vanesa Cuesta",
+    "estado": "En progreso",
+    "fecha": "22/06/2026",
+    "interno": "XVN246",
+    "fechaIngreso": "2026-06-17",
+    "productoIngreso": "freoidora oster de 3.8",
+    "lugarDeCompra": "ARA",
+    "observaciones": "[sábado, 27 de junio de 2026]Se pidió motor y timer"
+  },
+  {
     "codigo": "WO-00467258",
     "cliente": "Diana Jimena Aguilar Espinoza",
-    "estado": "Pre-terminado",
-    "fecha": "19/06/2026",
-    "interno": "YSI436",
-    "fechaIngreso": "2026-06-16",
-    "productoIngreso": "batidora oster",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 19 de junio de 2026]reparada sin repuestos"
+    "estado": "Entregado",
+    "fecha": "19/06/2026"
   },
   {
     "codigo": "WO-00467255",
     "cliente": "Ana Iris Gullombo",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "19/06/2026",
     "interno": "YHP127",
     "fechaIngreso": "2026-06-11",
     "productoIngreso": "licuadora oster clásica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[viernes, 19 de junio de 2026]pedir suiche electronico"
+    "observaciones": "[viernes, 19 de junio de 2026]pedir suiche electronico-[viernes, 26 de junio de 2026]van a dar carta de cambio, enviar producto a bogota"
   },
   {
     "codigo": "WO-00464942",
     "cliente": "Olver Antury Carvajal",
-    "estado": "En progreso",
-    "fecha": "09/06/2026",
-    "interno": "OXY368",
-    "fechaIngreso": "2026-06-06",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "TIENDAS MIO",
-    "observaciones": "[martes, 9 de junio de 2026]pedir suiche-[martes, 9 de junio de 2026]ERICA PAOLA PEÑA\n\nC.C.\n\n1004208562"
+    "estado": "Entregado",
+    "fecha": "09/06/2026"
   },
   {
     "codigo": "WO-00464933",
     "cliente": "Maribel Martínez",
-    "estado": "Pre-terminado",
-    "fecha": "09/06/2026",
-    "interno": "GYJ693",
-    "fechaIngreso": "2026-05-30",
-    "productoIngreso": "freidor oster de 3.8",
-    "lugarDeCompra": "ALKOMPRAR NEIVA",
-    "observaciones": "[miércoles, 17 de junio de 2026]dieron carta , enviar a bogota"
+    "estado": "Entregado",
+    "fecha": "09/06/2026"
   },
   {
     "codigo": "WO-00463230",
     "cliente": "Jose Gilmer Martínez Medina",
-    "estado": "Pre-terminado",
-    "fecha": "01/06/2026",
-    "interno": "ENZ522",
-    "fechaIngreso": "2026-05-27",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACENES UNIVERSL",
-    "observaciones": "[lunes, 1 de junio de 2026]pedir motor-[martes, 9 de junio de 2026]reparado-[martes, 16 de junio de 2026]se le entrega licuadora reparada con motor nuevo"
+    "estado": "Entregado",
+    "fecha": "01/06/2026"
   },
   {
     "codigo": "WO-00461778",
     "cliente": "Hugo Gerardo Bonilla Ordóñez",
-    "estado": "Pre-terminado",
-    "fecha": "27/05/2026",
-    "interno": "VAJ092",
-    "fechaIngreso": "2026-05-25",
-    "productoIngreso": "cafetera oster de 5 taza",
-    "lugarDeCompra": "METRO",
-    "observaciones": ""
+    "estado": "Entregado",
+    "fecha": "27/05/2026"
   },
   {
     "codigo": "WO-00461777",
     "cliente": "Cristian Devia Devia",
-    "estado": "Pre-terminado",
-    "fecha": "27/05/2026",
-    "interno": "VIS288",
-    "fechaIngreso": "2026-05-25",
-    "productoIngreso": "plancha oster azul",
-    "lugarDeCompra": "METRO",
-    "observaciones": "[lunes, 1 de junio de 2026]no la pudo abrir, se pidieron  repuestos como para que den cambio-[jueves, 4 de junio de 2026]van a dar cambio"
+    "estado": "Entregado",
+    "fecha": "27/05/2026"
   },
   {
     "codigo": "WO-00460508",
     "cliente": "Magaly Torres",
-    "estado": "Pre-terminado",
-    "fecha": "23/05/2026",
-    "interno": "WZX531",
-    "fechaIngreso": "2026-05-14",
-    "productoIngreso": "freidora de aire manual 3 8 oster",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[sábado, 23 de mayo de 2026]reparado con timer prestado-[sábado, 30 de mayo de 2026]llega timer, devolver a mary"
+    "estado": "Entregado",
+    "fecha": "23/05/2026"
   },
   {
     "codigo": "WO-00457579",
@@ -96,35 +105,20 @@ let garantiasNewells = [
   {
     "codigo": "WO-00457577",
     "cliente": "Diana Isabell Becerra",
-    "estado": "Pre-terminado",
-    "fecha": "12/05/2026",
-    "interno": "NVA468",
-    "fechaIngreso": "2026-05-08",
-    "productoIngreso": "licuadora oster clásica",
-    "lugarDeCompra": "CRISTALERIA LA VAJILLA",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche -[jueves, 21 de mayo de 2026]van a dar carta-[jueves, 28 de mayo de 2026]carta aprobada, enviar producto a bogota"
+    "estado": "Entregado",
+    "fecha": "12/05/2026"
   },
   {
     "codigo": "WO-00457574",
     "cliente": "Diana Isabell Becerra",
-    "estado": "Pre-terminado",
-    "fecha": "12/05/2026",
-    "interno": "GVV953",
-    "fechaIngreso": "2026-05-08",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "CRISTALERIA LA VAJILLA",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió suiche-[martes, 26 de mayo de 2026]van a dar carta, enviar licuadora dañada a bogota"
+    "estado": "Entregado",
+    "fecha": "12/05/2026"
   },
   {
     "codigo": "WO-00457566",
     "cliente": "Yeison Trujillo",
-    "estado": "Pre-terminado",
-    "fecha": "12/05/2026",
-    "interno": "ENW244",
-    "fechaIngreso": "2026-05-06",
-    "productoIngreso": "freidora oster digital",
-    "lugarDeCompra": "GUADALUPE JAVIER TOCORA CARDOZO",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió 2 tarjetas y sensor-[jueves, 21 de mayo de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "12/05/2026"
   },
   {
     "codigo": "WO-00452337",
@@ -329,29 +323,5 @@ let garantiasNewells = [
     "cliente": "Yenny Banesa Bonilla Avendaño",
     "estado": "Entregado",
     "fecha": "04/02/2026"
-  },
-  {
-    "codigo": "WO-00429661",
-    "cliente": "Harryson Trujillo Vargas",
-    "estado": "Entregado",
-    "fecha": "27/01/2026"
-  },
-  {
-    "codigo": "WO-00429016",
-    "cliente": "Margarita Ladino Sánchez",
-    "estado": "Entregado",
-    "fecha": "26/01/2026"
-  },
-  {
-    "codigo": "WO-00427468",
-    "cliente": "Adriana Galindo",
-    "estado": "Entregado",
-    "fecha": "21/01/2026"
-  },
-  {
-    "codigo": "WO-00427413",
-    "cliente": "Marcelo Vargas Ramos",
-    "estado": "Entregado",
-    "fecha": "21/01/2026"
   }
 ]

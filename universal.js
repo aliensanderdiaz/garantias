@@ -1,5 +1,37 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-75906",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "12142046",
+    "referencia": "L76680",
+    "producto": "VENTILADOR FRESH ULTRA P CRM",
+    "falla": "Motor Bobinas en corto",
+    "s2": "26010373",
+    "fecha": "27/06/2026",
+    "interno": "IXN651",
+    "fechaIngreso": "2026-06-12",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "LANDER UNICO",
+    "observaciones": "[sábado, 27 de junio de 2026]se pide motor"
+  },
+  {
+    "codigo": "GRT-75905",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1010146207",
+    "referencia": "L50017",
+    "producto": "LICUADORA ALIADA",
+    "falla": "Motor Bobinas en corto",
+    "s2": "26010372",
+    "fecha": "27/06/2026",
+    "interno": "SJY155",
+    "fechaIngreso": "2026-06-25",
+    "productoIngreso": "licuadora universla aliada",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[sábado, 27 de junio de 2026]solicito motor"
+  },
+  {
     "codigo": "GRT-75383",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -13,11 +45,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-09",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "PUNTONET",
-    "observaciones": "[viernes, 19 de junio de 2026]motor y tarjeta"
+    "observaciones": "[viernes, 19 de junio de 2026]SE PIDIÓ motor y tarjeta"
   },
   {
     "codigo": "GRT-74847",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "4924314",
     "referencia": "L87560",
@@ -29,12 +61,12 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-01",
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "ALMACEN PITALITO",
-    "observaciones": "[martes, 16 de junio de 2026]entrega microsuiche"
+    "observaciones": "[martes, 16 de junio de 2026]llega microsuiche a almacen, entregar microsuiche a doña mary porque ya se habia reparado con repuesto prestado"
   },
   {
     "codigo": "GRT-74846",
-    "estado": "Diagnosticado",
-    "tipo": "SIN PROCEDIMIENTO",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
     "clienteId": "53140628",
     "referencia": "L37570",
     "producto": "OLLA PRESION ABRE FACIL TV 4L",
@@ -45,7 +77,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-14",
     "productoIngreso": "olla presion de 4 litros en acero",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[sábado, 27 de junio de 2026]se pidió cambio hoy 27 de junio de 2026, porque nunca la revisaron, ni nada"
   },
   {
     "codigo": "GRT-74845",
@@ -61,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-04",
     "productoIngreso": "plancha seca universal",
     "lugarDeCompra": "EL PORTAL",
-    "observaciones": "[martes, 9 de junio de 2026]pedir automatico-[martes, 16 de junio de 2026]entrega automatico"
+    "observaciones": "[martes, 9 de junio de 2026]pedir automatico-[martes, 16 de junio de 2026]llegó automatico"
   },
   {
     "codigo": "GRT-74598",
@@ -77,7 +109,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-01",
     "productoIngreso": "licuadora universal elite turbo",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[martes, 16 de junio de 2026]preguntar"
+    "observaciones": "[martes, 16 de junio de 2026]llegó producto nuevo"
   },
   {
     "codigo": "GRT-74597",
@@ -93,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-01",
     "productoIngreso": "licuadora universal elite turbo",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[martes, 16 de junio de 2026]preguntar"
+    "observaciones": "[martes, 16 de junio de 2026]llegó producto nuevo"
   },
   {
     "codigo": "GRT-74350",
@@ -112,22 +144,6 @@ let garantiasUniversal = [
     "observaciones": "[lunes, 1 de junio de 2026]se pide motor"
   },
   {
-    "codigo": "GRT-74349",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "4884718",
-    "referencia": "L87560",
-    "producto": "FREIDORA DE AIRE MASTERFRYER",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "26008712",
-    "fecha": "02/06/2026",
-    "interno": "IMP143",
-    "fechaIngreso": "2026-05-27",
-    "productoIngreso": "freidora universal",
-    "lugarDeCompra": "BERNAL  AIPE",
-    "observaciones": "[lunes, 1 de junio de 2026]se reparo con microsuiche prestado-[martes, 2 de junio de 2026]entregado"
-  },
-  {
     "codigo": "GRT-74348",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -144,102 +160,6 @@ let garantiasUniversal = [
     "observaciones": "[lunes, 1 de junio de 2026]se pide termostato"
   },
   {
-    "codigo": "GRT-73943",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "26422926",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26008245",
-    "fecha": "26/05/2026",
-    "interno": "QBT380",
-    "fechaIngreso": "2026-05-14",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[martes, 26 de mayo de 2026]pedir motor-[martes, 16 de junio de 2026]entrega motor"
-  },
-  {
-    "codigo": "GRT-73244",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55201407",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26007490",
-    "fecha": "12/05/2026",
-    "interno": "DNK091",
-    "fechaIngreso": "2026-05-08",
-    "productoIngreso": "ventilador universal digital fresh ultra",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[viernes, 15 de mayo de 2026]llega motor-[sábado, 16 de mayo de 2026]reparada con motor  nuevo"
-  },
-  {
-    "codigo": "GRT-73243",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1004147291",
-    "referencia": "L76660",
-    "producto": "VENTILADOR FRESH ULTRA P 2EN1",
-    "falla": "Motor Bobinas en corto",
-    "s2": "Error en el envío a JDE, por favor reintente!",
-    "fecha": "12/05/2026",
-    "interno": "ZLC940",
-    "fechaIngreso": "2026-05-06",
-    "productoIngreso": "ventilador universal fresh ultra",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 16 de mayo de 2026]se pidió cambio o motor-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegó motor-[sábado, 23 de mayo de 2026]reparado-[miércoles, 3 de junio de 2026]entregado\n"
-  },
-  {
-    "codigo": "GRT-73139",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "12210272",
-    "referencia": "L85774",
-    "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
-    "falla": "Selector de temperatura Otro",
-    "s2": "26007601",
-    "fecha": "12/05/2026",
-    "interno": "IHN073",
-    "fechaIngreso": "2026-05-07",
-    "productoIngreso": "estufa electrica de 2 puestos",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[lunes, 11 de mayo de 2026]reparada con repuestos prestados-[viernes, 22 de mayo de 2026]llego algo (e)-[viernes, 22 de mayo de 2026]llego algo (e)"
-  },
-  {
-    "codigo": "GRT-72517",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075217931",
-    "referencia": "L85774",
-    "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
-    "falla": "Resistencia Sin continuidad",
-    "s2": "Error en el envío a JDE, por favor reintente!",
-    "fecha": "29/04/2026",
-    "interno": "DWN336",
-    "fechaIngreso": "2026-04-28",
-    "productoIngreso": "estufa electrica de 2 puestos",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[lunes, 11 de mayo de 2026]cambio o 2 termostatos-[miércoles, 20 de mayo de 2026]llego algo-[viernes, 22 de mayo de 2026]llegaron 2 termostatos-[jueves, 4 de junio de 2026]entregada estufa "
-  },
-  {
-    "codigo": "GRT-72104",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1077863996",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Eje dañado",
-    "s2": "26006275",
-    "fecha": "21/04/2026",
-    "interno": "AQK973",
-    "fechaIngreso": "2026-04-16",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "COMERCIALIZADORA CORDON",
-    "observaciones": "[martes, 21 de abril de 2026]se pide motor-[sábado, 2 de mayo de 2026]llega motor-[miércoles, 6 de mayo de 2026]reparada"
-  },
-  {
     "codigo": "GRT-72102",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -254,69 +174,5 @@ let garantiasUniversal = [
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
     "observaciones": "[martes, 21 de abril de 2026]se pide tarjeta o cambio"
-  },
-  {
-    "codigo": "GRT-71172",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "80857118",
-    "referencia": "L85729",
-    "producto": "EASYFRYER PRO AIRFRYER 3.5L",
-    "falla": "Tarjeta electrónica En corto,Tarjeta Panel de control En corto",
-    "s2": "26005540",
-    "fecha": "08/04/2026",
-    "interno": "PXX891",
-    "fechaIngreso": "2026-03-20",
-    "productoIngreso": "freidora universal digital",
-    "lugarDeCompra": "ALKOSTO DE BOGOTA",
-    "observaciones": "[miércoles, 8 de abril de 2026]repuestos o cambio-[jueves, 16 de abril de 2026]llega freidora"
-  },
-  {
-    "codigo": "GRT-69641",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "12128583",
-    "referencia": "L75660",
-    "producto": "VENTILADOR FRESH ULTRA",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26003857",
-    "fecha": "09/03/2026",
-    "interno": "TRB413",
-    "fechaIngreso": "2026-01-13",
-    "productoIngreso": "ventilador universal dynamic",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[domingo, 8 de marzo de 2026]motor o cambio-[lunes, 16 de marzo de 2026]LLEGA VENTILADOR"
-  },
-  {
-    "codigo": "GRT-68817",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "83169499",
-    "referencia": "L75545",
-    "producto": "VENTILADOR DYNAMIC VENTO",
-    "falla": "Cuerpo Otro,Motor Colector en corto",
-    "s2": "26003029",
-    "fecha": "21/02/2026",
-    "interno": "ZGZ746",
-    "fechaIngreso": "2026-02-16",
-    "productoIngreso": "universal dynamic negro",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 21 de febrero de 2026]se pide cambio-[miércoles, 4 de marzo de 2026]Llegá ventilador"
-  },
-  {
-    "codigo": "GRT-68279",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075289460",
-    "referencia": "L37706",
-    "producto": "OLLA A PRESIÓN TRIEXPRESS 5.6L",
-    "falla": "Cuerpo Quebrado",
-    "s2": "26002648",
-    "fecha": "12/02/2026",
-    "interno": "USI926",
-    "fechaIngreso": "2026-02-10",
-    "productoIngreso": "olla a presion de 5.6 litros cierre externo",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 12 de febrero de 2026]asas o cambio-[miércoles, 18 de marzo de 2026]llega olla a presion"
   }
 ]

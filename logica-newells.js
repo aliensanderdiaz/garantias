@@ -6,8 +6,8 @@ const containerNewells = document.querySelector('.containerNewells')
 const titulo_sin_revisar = document.querySelector('.titulo-sin-revisar')
 const titulo_para_reparar = document.querySelector('.titulo-para-reparar')
 
-titulo_sin_revisar.innerHTML = `${ garantiasSinRevisar.length } garantías sin revisar`
-titulo_para_reparar.innerHTML = `${ garantiasExitoPitalito.length } garantías para revisar`
+titulo_sin_revisar.innerHTML = `*${ garantiasSinRevisar.length } garantías sin revisar*`.toUpperCase()
+titulo_para_reparar.innerHTML = `*${ garantiasExitoPitalito.length } garantías para reparar*`.toUpperCase()
 
 let htmlNewells = ''
 

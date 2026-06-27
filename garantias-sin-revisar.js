@@ -55,50 +55,6 @@ let garantiasSinRevisar = [
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "6a2c72b63004ad5f00c21baf",
-"fechaDeIngreso": "2026-06-12",
-"horaDeIngreso": "15:57:24",
-"codigo": "IXN651",
-"producto": "ventilador universal digital",
-"falla": "motor recalentado",
-"referencia": "L76680",
-"lugarDeCompra": "LANDER UNICO",
-"tipoDeServicio": "Garantía Universal"
-},
-{
-"_id": "6a31afb043fcea55a74184bb",
-"fechaDeIngreso": "2026-06-16",
-"horaDeIngreso": "15:18:55",
-"codigo": "BMR408",
-"producto": "licuadora oster de 2 velocidad negra",
-"falla": "no prendio",
-"referencia": "BLSTKAGBRD",
-"lugarDeCompra": "ALMACENE UNIVERSAL",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6a31c48560dfad598e453bc4",
-"fechaDeIngreso": "2026-06-16",
-"horaDeIngreso": "16:47:48",
-"codigo": "UBE258",
-"producto": "freidora oster  de 3'8",
-"falla": "la freidora prende unos 15 minutos y luego se calienta y se apaga sola",
-"referencia": "CKSTAF38MNS-014",
-"lugarDeCompra": "ARA",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6a33055f8fea32e4506f8929",
-"fechaDeIngreso": "2026-06-17",
-"horaDeIngreso": "15:36:39",
-"codigo": "XVN246",
-"producto": "freoidora oster de 3.8",
-"falla": "no calienta",
-"referencia": "CKSTAF38MNS",
-"lugarDeCompra": "ARA",
-"tipoDeServicio": "Garantía Oster"
-},
-{
 "_id": "6a3400e2dbee369cc7946ecb",
 "fechaDeIngreso": "2026-06-18",
 "horaDeIngreso": "09:29:52",
@@ -107,6 +63,28 @@ let garantiasSinRevisar = [
 "falla": "no prende a ratos",
 "referencia": "BLST4655-013",
 "lugarDeCompra": "ALAMCENES UNIVERSAL",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a3d63acc609a8cfc28bfc6f",
+"fechaDeIngreso": "2026-06-25",
+"horaDeIngreso": "12:21:46",
+"codigo": "BWF949",
+"producto": "licuadora universal",
+"falla": "suena feo",
+"referencia": "L62195",
+"lugarDeCompra": "LANDER ÚNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a3ee106dc781b85248362d7",
+"fechaDeIngreso": "2026-06-26",
+"horaDeIngreso": "15:28:51",
+"codigo": "BMU146",
+"producto": "freidora oster",
+"falla": "se tiene que mover la canasta para que funcione y ya no volvio a funcionar",
+"referencia": "CKSTAF60WDDF-013",
+"lugarDeCompra": "ALKOMPRAR",
 "tipoDeServicio": "Garantía Oster"
 }
 ]
@@ -119,9 +97,10 @@ let garantiasExitoPitalito = [
 
 
     // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
-    '2026-05-08 - 11:02:56 - DNK091 - Garantía Universal - ventilador universal digital fresh ultra - Falla: no prende - Lugar de Compra: UNICO - Referencia: L76680',
-    '2026-04-30 - 16:20:16 - YAR039 - Garantía Universal - ventilador universal digital - Falla: motor frenado no prende - Lugar de Compra: EL UNICO - Referencia: L76680'
 
+
+
+    '2026-06-04 - 09:27:08 - MMM114 - GRT-74845 - Garantía Universal - plancha seca universal - FALLA: no calieta - *REPARAR CON TERMOSTATO NUEVO*'
 ]
 
 
