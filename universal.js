@@ -97,7 +97,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-74598",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075264768",
     "referencia": "L62090",
@@ -113,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-74597",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36291641",
     "referencia": "L62090",
