@@ -1,25 +1,47 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00471750",
+    "cliente": "Viny González",
+    "estado": "En progreso",
+    "fecha": "06/07/2026",
+    "interno": "BMU146",
+    "fechaIngreso": "2026-06-26",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[lunes, 6 de julio de 2026]se repara con icrosuiche prestado y se manda correo para que envien guia "
+  },
+  {
+    "codigo": "WO-00471078",
+    "cliente": "Oscar Rojas",
+    "estado": "En progreso",
+    "fecha": "03/07/2026",
+    "interno": "YKV386",
+    "fechaIngreso": "2026-06-30",
+    "productoIngreso": "plancha vaporizada portatil",
+    "lugarDeCompra": "ARA",
+    "observaciones": "[viernes, 3 de julio de 2026]se pide termostato, resistencia, tanque"
+  },
+  {
     "codigo": "WO-00469711",
     "cliente": "Yuri Losada Espinoza",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "27/06/2026",
     "interno": "BMR408",
     "fechaIngreso": "2026-06-16",
     "productoIngreso": "licuadora oster de 2 velocidad negra",
     "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": "[sábado, 27 de junio de 2026]se pidió motor y suiche"
+    "observaciones": "[sábado, 27 de junio de 2026]se pidió motor y suiche-[sábado, 4 de julio de 2026]LLEGÓ MOTOR Y SUICHE-[lunes, 6 de julio de 2026]reparado"
   },
   {
     "codigo": "WO-00469705",
     "cliente": "Henry Cardenas Escobar",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "27/06/2026",
     "interno": "FLH467",
     "fechaIngreso": "2026-06-23",
     "productoIngreso": "licuadora oster de dos velocidades oster roja",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 27 de junio de 2026]solicito motor"
+    "observaciones": "[sábado, 27 de junio de 2026]solicito motor-[sábado, 4 de julio de 2026]llegó motor-[lunes, 6 de julio de 2026]reparada"
   },
   {
     "codigo": "WO-00467484",
@@ -52,7 +74,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00467255",
     "cliente": "Ana Iris Gullombo",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "19/06/2026",
     "interno": "YHP127",
     "fechaIngreso": "2026-06-11",
@@ -311,17 +333,5 @@ let garantiasNewells = [
     "cliente": "Nicolás Salas",
     "estado": "Entregado",
     "fecha": "21/02/2026"
-  },
-  {
-    "codigo": "WO-00431940",
-    "cliente": "Gilma Segura",
-    "estado": "Entregado",
-    "fecha": "04/02/2026"
-  },
-  {
-    "codigo": "WO-00431917",
-    "cliente": "Yenny Banesa Bonilla Avendaño",
-    "estado": "Entregado",
-    "fecha": "04/02/2026"
   }
 ]

@@ -1,23 +1,23 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-75906",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "12142046",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26010373",
-    "fecha": "27/06/2026",
-    "interno": "IXN651",
-    "fechaIngreso": "2026-06-12",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[sábado, 27 de junio de 2026]se pide motor"
+    "codigo": "GRT-76385",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "12200112",
+    "referencia": "L62195",
+    "producto": "LICUADORA ICE POWER",
+    "falla": "Motor Otro",
+    "s2": "",
+    "fecha": "06/07/2026",
+    "interno": "BWF949",
+    "fechaIngreso": "2026-06-25",
+    "productoIngreso": "licuadora universal",
+    "lugarDeCompra": "LANDER ÚNICO",
+    "observaciones": "[martes, 30 de junio de 2026]la falla es el aspa del ventilador cogió mucho fuego-[lunes, 6 de julio de 2026]se pide motor o cambio"
   },
   {
     "codigo": "GRT-75905",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1010146207",
     "referencia": "L50017",
@@ -29,11 +29,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-25",
     "productoIngreso": "licuadora universla aliada",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[sábado, 27 de junio de 2026]solicito motor"
+    "observaciones": "[sábado, 27 de junio de 2026]solicito motor-[sábado, 4 de julio de 2026]llego motor-[lunes, 6 de julio de 2026]reparada"
   },
   {
     "codigo": "GRT-75383",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1005825146",
     "referencia": "L71150",
@@ -45,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-09",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "PUNTONET",
-    "observaciones": "[viernes, 19 de junio de 2026]SE PIDIÓ motor y tarjeta"
+    "observaciones": "[viernes, 19 de junio de 2026]SE PIDIÓ motor y tarjeta-[miércoles, 1 de julio de 2026]llegaron los repuestos-[lunes, 6 de julio de 2026]reparado"
   },
   {
     "codigo": "GRT-74847",
@@ -65,13 +65,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-74846",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "53140628",
     "referencia": "L37570",
     "producto": "OLLA PRESION ABRE FACIL TV 4L",
     "falla": "Cuerpo Mal ensamble",
-    "s2": "",
+    "s2": "26010550",
     "fecha": "10/06/2026",
     "interno": "NPM231",
     "fechaIngreso": "2026-05-14",
@@ -129,7 +129,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-74350",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075306929",
     "referencia": "L75680",
@@ -141,11 +141,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-28",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 1 de junio de 2026]se pide motor"
+    "observaciones": "[lunes, 1 de junio de 2026]se pide motor-[lunes, 6 de julio de 2026]LLEGA VENTILADOR"
   },
   {
     "codigo": "GRT-74348",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7706573",
     "referencia": "L40830",
@@ -157,7 +157,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-26",
     "productoIngreso": "plancha univetsal",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 1 de junio de 2026]se pide termostato"
+    "observaciones": "[lunes, 1 de junio de 2026]se pide termostato-[lunes, 6 de julio de 2026]Llega plancha"
   },
   {
     "codigo": "GRT-72102",

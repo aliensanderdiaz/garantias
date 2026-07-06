@@ -17,7 +17,6 @@ Tickets Pendientes
 Ej: 152124,152123,152122
 Buscar:
 	.	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Guía Recogida	Rótulo	Ver Ticket	Trazabilidad
--1	157342	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ALDEMAR ÁLVAREZ	1076984541	2026-06-27 17:22:01	-1	BLACK+DECKER	BLBD210GB	TRAMITE		—		Ver Ticket	Trazabilidad
-15	156246	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	MIGUEL ANGEL BELTRAN SUPELANO	1075253934	2026-06-05 01:59:31	15	BLACK+DECKER	FP4342-0BDLA	PREFINALIZADO		—		Ver Ticket	Trazabilidad
-Mostrando registros del 1 al 2 de un total de 2 registrosAnterior1Siguiente
+5	157342	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	ALDEMAR ÁLVAREZ	1076984541	2026-06-27 17:22:01	5	BLACK+DECKER	BLBD210GB	PREFINALIZADO		—		Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 1 de un total de 1 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

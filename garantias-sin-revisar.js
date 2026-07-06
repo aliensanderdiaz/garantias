@@ -66,26 +66,59 @@ let garantiasSinRevisar = [
 "tipoDeServicio": "Garantía Oster"
 },
 {
-"_id": "6a3d63acc609a8cfc28bfc6f",
-"fechaDeIngreso": "2026-06-25",
-"horaDeIngreso": "12:21:46",
-"codigo": "BWF949",
-"producto": "licuadora universal",
-"falla": "suena feo",
-"referencia": "L62195",
-"lugarDeCompra": "LANDER ÚNICO",
+"_id": "6a4544cbeb38f84cc73f7268",
+"fechaDeIngreso": "2026-07-01",
+"horaDeIngreso": "11:48:09",
+"codigo": "AIN272",
+"producto": "ventilador universal digital",
+"falla": "ventila muy poco",
+"referencia": "L75680",
+"lugarDeCompra": "COMERCIAL BAHIA",
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "6a3ee106dc781b85248362d7",
-"fechaDeIngreso": "2026-06-26",
-"horaDeIngreso": "15:28:51",
-"codigo": "BMU146",
-"producto": "freidora oster",
-"falla": "se tiene que mover la canasta para que funcione y ya no volvio a funcionar",
-"referencia": "CKSTAF60WDDF-013",
-"lugarDeCompra": "ALKOMPRAR",
-"tipoDeServicio": "Garantía Oster"
+"_id": "6a469968aaaa299dbdfe87b0",
+"fechaDeIngreso": "2026-07-02",
+"horaDeIngreso": "12:01:26",
+"codigo": "FPS165",
+"producto": "ventilador universal digital",
+"falla": "suena super duro cuando lo prenden",
+"referencia": "NORMAL",
+"lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a46d45870c9ea94ef2ceda0",
+"fechaDeIngreso": "2026-07-02",
+"horaDeIngreso": "16:12:54",
+"codigo": "SVC402",
+"producto": "olla a presion 6litros universal en acero",
+"falla": "no ajusta y presenta fallas",
+"referencia": "L37560",
+"lugarDeCompra": "HOMECENTER",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a46d6e770c9ea94ef2cedb1",
+"fechaDeIngreso": "2026-07-02",
+"horaDeIngreso": "16:23:48",
+"codigo": "CFN410",
+"producto": "termo de 4 litros universal",
+"falla": "no calienta",
+"referencia": "L90022",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a46d75870c9ea94ef2cedba",
+"fechaDeIngreso": "2026-07-02",
+"horaDeIngreso": "16:25:42",
+"codigo": "XAZ171",
+"producto": "termo de 4 litros",
+"falla": "no calienta",
+"referencia": "L90022",
+"lugarDeCompra": "ALMACENE UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
 }
 ]
 // garantiasSinRevisar.reverse()
