@@ -1,5 +1,27 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00472186",
+    "cliente": "Maria Mercedes Trujillo Rojas",
+    "estado": "En progreso",
+    "fecha": "08/07/2026",
+    "interno": "BRD475",
+    "fechaIngreso": "2026-06-18",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALAMCENES UNIVERSAL",
+    "observaciones": "[miércoles, 8 de julio de 2026]suiche"
+  },
+  {
+    "codigo": "WO-00472019",
+    "cliente": "Tania Trujillo",
+    "estado": "En progreso",
+    "fecha": "08/07/2026",
+    "interno": "UOI759",
+    "fechaIngreso": "2026-06-12",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[miércoles, 8 de julio de 2026]reparado con timer prestado"
+  },
+  {
     "codigo": "WO-00471750",
     "cliente": "Viny González",
     "estado": "En progreso",
@@ -46,13 +68,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00467484",
     "cliente": "Olga Rivas",
-    "estado": "Pre-terminado",
-    "fecha": "22/06/2026",
-    "interno": "UBE258",
-    "fechaIngreso": "2026-06-16",
-    "productoIngreso": "freidora oster  de 3'8",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[viernes, 26 de junio de 2026]llegó repuesto-[sábado, 27 de junio de 2026]reparado"
+    "estado": "Entregado",
+    "fecha": "22/06/2026"
   },
   {
     "codigo": "WO-00467479",
@@ -319,18 +336,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00436679",
     "cliente": "Gilber Fernando Rojas",
-    "estado": "Entregado",
-    "fecha": "21/02/2026"
-  },
-  {
-    "codigo": "WO-00436672",
-    "cliente": "Guillermo Parra",
-    "estado": "Entregado",
-    "fecha": "21/02/2026"
-  },
-  {
-    "codigo": "WO-00436665",
-    "cliente": "Nicolás Salas",
     "estado": "Entregado",
     "fecha": "21/02/2026"
   }
