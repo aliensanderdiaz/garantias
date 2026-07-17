@@ -3,6 +3,7 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
+Cuenta del centro de servicio
 Más
 Search...
 
@@ -44,7 +45,7 @@ Propietario
 
 Acción
 
-En progreso
+Aprobación pendiente
 WO-00472186
 8/07/2026 05:41 p. m.
 Garantía
@@ -53,7 +54,7 @@ Maria Mercedes Trujillo Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00472019
 8/07/2026 09:19 a. m.
 Garantía
@@ -62,7 +63,7 @@ Tania Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Despachado
 WO-00471750
 6/07/2026 06:26 p. m.
 Garantía
@@ -71,7 +72,7 @@ Viny González
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00471078
 3/07/2026 10:23 a. m.
 Garantía
@@ -89,7 +90,7 @@ Yuri Losada Espinoza
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00469705
 27/06/2026 01:15 p. m.
 Garantía
@@ -107,7 +108,7 @@ Olga Rivas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-En progreso
+Entregado
 WO-00467479
 22/06/2026 09:56 a. m.
 Garantía
@@ -125,7 +126,7 @@ Diana Jimena Aguilar Espinoza
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Pre-terminado
+Entregado
 WO-00467255
 19/06/2026 03:08 p. m.
 Garantía
@@ -473,24 +474,6 @@ WO-00440097
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Martha Forero
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00437223
-23/02/2026 06:47 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Andrea Mena Lasso
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00436679
-21/02/2026 12:46 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Gilber Fernando Rojas
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands

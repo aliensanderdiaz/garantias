@@ -1,7 +1,23 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-76539",
+    "codigo": "GRT-76847",
     "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "83040188",
+    "referencia": "L76680",
+    "producto": "VENTILADOR FRESH ULTRA P CRM",
+    "falla": "Motor Colector en corto",
+    "s2": "26011238",
+    "fecha": "14/07/2026",
+    "interno": "UWZ180",
+    "fechaIngreso": "2026-07-14",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "UNICO",
+    "observaciones": "[viernes, 17 de julio de 2026]se pidió motor"
+  },
+  {
+    "codigo": "GRT-76539",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36312326",
     "referencia": "L76680",
@@ -13,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-27",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]motor-[miércoles, 15 de julio de 2026]lelga motor"
   },
   {
     "codigo": "GRT-76537",
@@ -33,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-76535",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075314104",
     "referencia": "L76680",
@@ -45,11 +61,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-12",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "EL UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor"
   },
   {
     "codigo": "GRT-76534",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1128268246",
     "referencia": "L75680",
@@ -61,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-01",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor"
   },
   {
     "codigo": "GRT-76533",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7687018",
     "referencia": "L76680",
@@ -77,43 +93,43 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-10",
     "productoIngreso": "ventilador universal  digital",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]Llega motor"
   },
   {
     "codigo": "GRT-76532",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "83086252",
     "referencia": "L90022",
     "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
     "falla": "Ampolleta No Calienta",
-    "s2": "",
+    "s2": "26011071",
     "fecha": "08/07/2026",
     "interno": "XAZ171",
     "fechaIngreso": "2026-07-02",
     "productoIngreso": "termo de 4 litros",
     "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide cambio"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide cambio-[miércoles, 15 de julio de 2026]llega termo"
   },
   {
     "codigo": "GRT-76530",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "83086252",
     "referencia": "L90022",
     "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
     "falla": "Ampolleta No Calienta",
-    "s2": "",
+    "s2": "26011070",
     "fecha": "08/07/2026",
     "interno": "CFN410",
     "fechaIngreso": "2026-07-02",
     "productoIngreso": "termo de 4 litros universal",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 8 de julio de 2026]se valida cambio"
+    "observaciones": "[miércoles, 8 de julio de 2026]se valida cambio-[miércoles, 15 de julio de 2026]llega termo"
   },
   {
     "codigo": "GRT-76529",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075302051",
     "referencia": "L76680",
@@ -125,39 +141,23 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-02",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor"
   },
   {
     "codigo": "GRT-76528",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7709756",
     "referencia": "L37560",
     "producto": "OLLA PRESION ABRE FACIL TV 6L",
     "falla": "Cuerpo Deformado",
-    "s2": "",
+    "s2": "26011084",
     "fecha": "08/07/2026",
     "interno": "SVC402",
     "fechaIngreso": "2026-07-02",
     "productoIngreso": "olla a presion 6litros universal en acero",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 8 de julio de 2026]tapa no ajusta, se pide cambio"
-  },
-  {
-    "codigo": "GRT-76385",
-    "estado": "Solicitud de validación para cambio de producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "12200112",
-    "referencia": "L62195",
-    "producto": "LICUADORA ICE POWER",
-    "falla": "Motor Otro",
-    "s2": "",
-    "fecha": "06/07/2026",
-    "interno": "BWF949",
-    "fechaIngreso": "2026-06-25",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "LANDER ÚNICO",
-    "observaciones": "[martes, 30 de junio de 2026]la falla es el aspa del ventilador cogió mucho fuego-[lunes, 6 de julio de 2026]se pide motor o cambio"
+    "observaciones": "[miércoles, 8 de julio de 2026]tapa no ajusta, se pide cambio-[miércoles, 15 de julio de 2026]llegó olla"
   },
   {
     "codigo": "GRT-75905",
@@ -192,38 +192,6 @@ let garantiasUniversal = [
     "observaciones": "[martes, 16 de junio de 2026]llega microsuiche a almacen, entregar microsuiche a doña mary porque ya se habia reparado con repuesto prestado"
   },
   {
-    "codigo": "GRT-74846",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "53140628",
-    "referencia": "L37570",
-    "producto": "OLLA PRESION ABRE FACIL TV 4L",
-    "falla": "Cuerpo Mal ensamble",
-    "s2": "26010550",
-    "fecha": "10/06/2026",
-    "interno": "NPM231",
-    "fechaIngreso": "2026-05-14",
-    "productoIngreso": "olla presion de 4 litros en acero",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[sábado, 27 de junio de 2026]se pidió cambio hoy 27 de junio de 2026, porque nunca la revisaron, ni nada"
-  },
-  {
-    "codigo": "GRT-74845",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "4906672",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Termostato Sin continuidad ",
-    "s2": "26009172",
-    "fecha": "10/06/2026",
-    "interno": "MMM114",
-    "fechaIngreso": "2026-06-04",
-    "productoIngreso": "plancha seca universal",
-    "lugarDeCompra": "EL PORTAL",
-    "observaciones": "[martes, 9 de junio de 2026]pedir automatico-[martes, 16 de junio de 2026]llegó automatico"
-  },
-  {
     "codigo": "GRT-74598",
     "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
@@ -256,24 +224,8 @@ let garantiasUniversal = [
     "observaciones": "[martes, 16 de junio de 2026]llegó producto nuevo"
   },
   {
-    "codigo": "GRT-74348",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7706573",
-    "referencia": "L40830",
-    "producto": "PLANCHA A VAPOR CERAMIC PRO",
-    "falla": "Termostato Sin continuidad ",
-    "s2": "26008711",
-    "fecha": "02/06/2026",
-    "interno": "FQR339",
-    "fechaIngreso": "2026-05-26",
-    "productoIngreso": "plancha univetsal",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 1 de junio de 2026]se pide termostato-[lunes, 6 de julio de 2026]Llega plancha"
-  },
-  {
     "codigo": "GRT-72102",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075244417",
     "referencia": "L76680",
@@ -285,6 +237,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-04-18",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[martes, 21 de abril de 2026]se pide tarjeta o cambio"
+    "observaciones": "[martes, 21 de abril de 2026]se pide tarjeta o cambio-[miércoles, 15 de julio de 2026]llega una cafetera y un sarten?"
   }
 ]
