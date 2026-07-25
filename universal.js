@@ -65,7 +65,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-76534",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1128268246",
     "referencia": "L75680",
@@ -77,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-01",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor-[sábado, 25 de julio de 2026]reparado"
   },
   {
     "codigo": "GRT-76533",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7687018",
     "referencia": "L76680",
@@ -93,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-10",
     "productoIngreso": "ventilador universal  digital",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]Llega motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]Llega motor-[sábado, 25 de julio de 2026]reparado"
   },
   {
     "codigo": "GRT-76532",
@@ -144,38 +144,6 @@ let garantiasUniversal = [
     "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor"
   },
   {
-    "codigo": "GRT-76528",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "7709756",
-    "referencia": "L37560",
-    "producto": "OLLA PRESION ABRE FACIL TV 6L",
-    "falla": "Cuerpo Deformado",
-    "s2": "26011084",
-    "fecha": "08/07/2026",
-    "interno": "SVC402",
-    "fechaIngreso": "2026-07-02",
-    "productoIngreso": "olla a presion 6litros universal en acero",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 8 de julio de 2026]tapa no ajusta, se pide cambio-[miércoles, 15 de julio de 2026]llegó olla"
-  },
-  {
-    "codigo": "GRT-75905",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1010146207",
-    "referencia": "L50017",
-    "producto": "LICUADORA ALIADA",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26010372",
-    "fecha": "27/06/2026",
-    "interno": "SJY155",
-    "fechaIngreso": "2026-06-25",
-    "productoIngreso": "licuadora universla aliada",
-    "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[sábado, 27 de junio de 2026]solicito motor-[sábado, 4 de julio de 2026]llego motor-[lunes, 6 de julio de 2026]reparada"
-  },
-  {
     "codigo": "GRT-74847",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -222,21 +190,5 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora universal elite turbo",
     "lugarDeCompra": "UNICO",
     "observaciones": "[martes, 16 de junio de 2026]llegó producto nuevo"
-  },
-  {
-    "codigo": "GRT-72102",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075244417",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Tarjeta Panel de control En corto",
-    "s2": "26010965",
-    "fecha": "21/04/2026",
-    "interno": "GZE045",
-    "fechaIngreso": "2026-04-18",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[martes, 21 de abril de 2026]se pide tarjeta o cambio-[miércoles, 15 de julio de 2026]llega una cafetera y un sarten?"
   }
 ]

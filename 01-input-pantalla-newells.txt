@@ -3,7 +3,6 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
-Cuenta del centro de servicio
 Más
 Search...
 
@@ -45,7 +44,25 @@ Propietario
 
 Acción
 
-Aprobación pendiente
+Entregado
+WO-00473852
+16/07/2026 12:12 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jenifer Guzmán
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
+WO-00473291
+14/07/2026 12:49 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Fabio Nelson Sánchez Santacruz
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Entregado
 WO-00472186
 8/07/2026 05:41 p. m.
 Garantía
@@ -63,7 +80,7 @@ Tania Trujillo
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Entregado
 WO-00471750
 6/07/2026 06:26 p. m.
 Garantía

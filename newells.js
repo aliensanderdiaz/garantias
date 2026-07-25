@@ -1,16 +1,21 @@
 let garantiasNewells = [
-
-
+  {
+    "codigo": "WO-00473852",
+    "cliente": "Jenifer Guzmán",
+    "estado": "Entregado",
+    "fecha": "16/07/2026"
+  },
+  {
+    "codigo": "WO-00473291",
+    "cliente": "Fabio Nelson Sánchez Santacruz",
+    "estado": "Entregado",
+    "fecha": "14/07/2026"
+  },
   {
     "codigo": "WO-00472186",
     "cliente": "Maria Mercedes Trujillo Rojas",
-    "estado": "Aprobación pendiente",
-    "fecha": "08/07/2026",
-    "interno": "BRD475",
-    "fechaIngreso": "2026-06-18",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALAMCENES UNIVERSAL",
-    "observaciones": "[miércoles, 8 de julio de 2026]suiche-[jueves, 16 de julio de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "08/07/2026"
   },
   {
     "codigo": "WO-00472019",
@@ -21,13 +26,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00471750",
     "cliente": "Viny González",
-    "estado": "Despachado",
-    "fecha": "06/07/2026",
-    "interno": "BMU146",
-    "fechaIngreso": "2026-06-26",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[lunes, 6 de julio de 2026]se repara con icrosuiche prestado y se manda correo para que envien guia "
+    "estado": "Entregado",
+    "fecha": "06/07/2026"
   },
   {
     "codigo": "WO-00471078",

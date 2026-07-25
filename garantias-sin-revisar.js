@@ -53,6 +53,61 @@ let garantiasSinRevisar = [
 "referencia": "BVSTDCS121B",
 "lugarDeCompra": "MAXI MUEBLES",
 "tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a5fe703abcc1acdc206dad3",
+"fechaDeIngreso": "2026-07-21",
+"horaDeIngreso": "16:39:14",
+"codigo": "JLM923",
+"producto": "licuaodora black deker",
+"falla": "salio chispas",
+"referencia": "BLBD210GB",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía B&D"
+},
+{
+"_id": "6a6149ceb696f11ac9b5b705",
+"fechaDeIngreso": "2026-07-22",
+"horaDeIngreso": "17:53:01",
+"codigo": "JXB311",
+"producto": "olla a presion electri multi pro",
+"falla": "sale un erro cuando la prende",
+"referencia": "L89875",
+"lugarDeCompra": "EL UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a62301c7d7541bc8457e7de",
+"fechaDeIngreso": "2026-07-23",
+"horaDeIngreso": "10:15:38",
+"codigo": "NPB361",
+"producto": "termo bomba universal de 4 litros",
+"falla": "no mantiene el calor",
+"referencia": "L90022",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a637e386f10f7ca5ae51a46",
+"fechaDeIngreso": "2026-07-24",
+"horaDeIngreso": "10:01:10",
+"codigo": "MZI683",
+"producto": "freidora oster de 4 litros",
+"falla": "no enciende",
+"referencia": "CKSTAF401MDF-013",
+"lugarDeCompra": "ALKOMPRAR",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a6388146f10f7ca5ae51a61",
+"fechaDeIngreso": "2026-07-24",
+"horaDeIngreso": "10:43:14",
+"codigo": "MRU228",
+"producto": "plancha oster azul aeroglide",
+"falla": "cliente manifista que se pega la ropa mientas se plancha",
+"referencia": "GCSTAC7202-013",
+"lugarDeCompra": "HOMECENTER",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 // garantiasSinRevisar.reverse()
@@ -68,9 +123,7 @@ let garantiasExitoPitalito = [
 
 
     '2026-05-27 - 15:42:37 - JUZ073 - Garantía Universal - ventilador universal digital - Falla: no prende - Lugar de Compra: UNICO - Referencia: L76680',
-    '2026-06-10 - 15:38:44 - ZNS049 - Garantía Universal - ventilador universal digital - Falla: salio humo - Lugar de Compra: LANDER UNICO - Referencia: L76680',
     '2026-06-12 - 15:45:04 - YRP282 - Garantía Universal - ventilador universal digital - Falla: frenado - Lugar de Compra: EL UNICO - Referencia: L76680',
-    '2026-07-01 - 11:48:09 - AIN272 - Garantía Universal - ventilador universal digital - Falla: ventila muy poco - Lugar de Compra: COMERCIAL BAHIA - Referencia: L75680',
     '2026-07-02 - 12:01:26 - FPS165 - Garantía Universal - ventilador universal digital - Falla: suena super duro cuando lo prenden - Lugar de Compra: UNICO - Referencia: NORMAL',
 ]
 
