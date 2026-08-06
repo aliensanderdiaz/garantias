@@ -1,5 +1,11 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00477386",
+    "cliente": "Alexander Gallego",
+    "estado": "Entregado",
+    "fecha": "28/07/2026"
+  },
+  {
     "codigo": "WO-00473852",
     "cliente": "Jenifer Guzmán",
     "estado": "Entregado",
@@ -295,12 +301,6 @@ let garantiasNewells = [
   {
     "codigo": "WO-00440099",
     "cliente": "Kelly Bocanegra",
-    "estado": "Entregado",
-    "fecha": "04/03/2026"
-  },
-  {
-    "codigo": "WO-00440097",
-    "cliente": "Martha Forero",
     "estado": "Entregado",
     "fecha": "04/03/2026"
   }

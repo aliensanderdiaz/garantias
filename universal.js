@@ -1,7 +1,39 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-76847",
+    "codigo": "GRT-78225",
     "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "1075293779",
+    "referencia": "L75680",
+    "producto": "VENTILADOR FRESH ULT  C REMOTO",
+    "falla": "Motor sÍncrono Bobinas en corto",
+    "s2": "26012721",
+    "fecha": "06/08/2026",
+    "interno": "KAE412",
+    "fechaIngreso": "2026-07-27",
+    "productoIngreso": "ventilador universal digital",
+    "lugarDeCompra": "MARCELA MURCIA DUSSAN",
+    "observaciones": ""
+  },
+  {
+    "codigo": "GRT-78224",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36301774",
+    "referencia": "L75545",
+    "producto": "VENTILADOR DYNAMIC VENTO",
+    "falla": "Motor Bobinas en corto",
+    "s2": "",
+    "fecha": "06/08/2026",
+    "interno": "KBQ158",
+    "fechaIngreso": "2026-07-25",
+    "productoIngreso": "ventilador universal dynamic",
+    "lugarDeCompra": "EN EL ÚNICO",
+    "observaciones": "[jueves, 6 de agosto de 2026]se solicita motor o cambio"
+  },
+  {
+    "codigo": "GRT-76847",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "83040188",
     "referencia": "L76680",
@@ -13,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-14",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[viernes, 17 de julio de 2026]se pidió motor"
+    "observaciones": "[viernes, 17 de julio de 2026]se pidió motor-[jueves, 30 de julio de 2026]llegó motor-[jueves, 6 de agosto de 2026]reparado"
   },
   {
     "codigo": "GRT-76539",
@@ -46,38 +78,6 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora universal elite turbo max",
     "lugarDeCompra": "LANDER UNICO",
     "observaciones": "[miércoles, 8 de julio de 2026]cambio"
-  },
-  {
-    "codigo": "GRT-76535",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075314104",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26010970",
-    "fecha": "08/07/2026",
-    "interno": "YRP282",
-    "fechaIngreso": "2026-06-12",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "EL UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor"
-  },
-  {
-    "codigo": "GRT-76534",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1128268246",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26010969",
-    "fecha": "08/07/2026",
-    "interno": "AIN272",
-    "fechaIngreso": "2026-07-01",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[miércoles, 8 de julio de 2026]se pide motor-[miércoles, 15 de julio de 2026]llega motor-[sábado, 25 de julio de 2026]reparado"
   },
   {
     "codigo": "GRT-76533",

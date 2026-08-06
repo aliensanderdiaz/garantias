@@ -108,6 +108,160 @@ let garantiasSinRevisar = [
 "referencia": "GCSTAC7202-013",
 "lugarDeCompra": "HOMECENTER",
 "tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a650beca616bef71e5f4634",
+"fechaDeIngreso": "2026-07-25",
+"horaDeIngreso": "14:18:02",
+"codigo": "PAO906",
+"producto": "plancha universal azul",
+"falla": "el cable tiene que moverse para que caliente",
+"referencia": "L82340",
+"lugarDeCompra": "LANDER UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a68b7e5507d9bfb9ef3c4bc",
+"fechaDeIngreso": "2026-07-28",
+"horaDeIngreso": "09:08:34",
+"codigo": "HNW233",
+"producto": "ventilador corona negro",
+"falla": "frenado",
+"referencia": "L82818",
+"lugarDeCompra": "DISTRIBUIDORA B&M",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a68d0b8bf683535fc750292",
+"fechaDeIngreso": "2026-07-28",
+"horaDeIngreso": "10:54:30",
+"codigo": "FJC074",
+"producto": "termo universal negro practitermo",
+"falla": "se sale el agua por toda la tapa",
+"referencia": "L60520",
+"lugarDeCompra": "ÚNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a6a14b7ee6e785b5b90e4cc",
+"fechaDeIngreso": "2026-07-29",
+"horaDeIngreso": "09:56:54",
+"codigo": "KMU610",
+"producto": "licuadora universal negra",
+"falla": "no prende",
+"referencia": "L62090",
+"lugarDeCompra": "LANDER DEL UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a6b62c14fc74be8c55a56ba",
+"fechaDeIngreso": "2026-07-30",
+"horaDeIngreso": "09:42:09",
+"codigo": "GPQ420",
+"producto": "sarten en acero",
+"falla": "se le oxido unas partes y la señora dice que no tiene porqué si es acero",
+"referencia": "0I 25000822",
+"lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a6d0ccbc4f21ed368938fd8",
+"fechaDeIngreso": "2026-07-31",
+"horaDeIngreso": "15:59:54",
+"codigo": "GET522",
+"producto": "ventilador universal",
+"falla": "no prende quemado",
+"referencia": "L76680",
+"lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a6e6b96adb1d312aaf7e18b",
+"fechaDeIngreso": "2026-08-01",
+"horaDeIngreso": "16:56:37",
+"codigo": "YKQ791",
+"producto": "lucuadora universal elite",
+"falla": "se prende y se apaga al rato",
+"referencia": "L62090",
+"lugarDeCompra": "LANDER PAGUINA",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a70a6df225f65e5d80b2787",
+"fechaDeIngreso": "2026-08-03",
+"horaDeIngreso": "09:34:06",
+"codigo": "VDH463",
+"producto": "licuadora universal elite",
+"falla": "no prende",
+"referencia": "L62090",
+"lugarDeCompra": "LANDER ÚNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a70f83d018c563b30eea1c1",
+"fechaDeIngreso": "2026-08-03",
+"horaDeIngreso": "15:21:15",
+"codigo": "VWW132",
+"producto": "ventilador universal digital",
+"falla": "frenado",
+"referencia": "L75690",
+"lugarDeCompra": "EN EL UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a726b30818ff5c3e506b87e",
+"fechaDeIngreso": "2026-08-04",
+"horaDeIngreso": "17:43:58",
+"codigo": "FGZ022",
+"producto": "ventilador universla digital",
+"falla": "no prende",
+"referencia": "L76680",
+"lugarDeCompra": "EN EL UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a735fb67d80213852dec61b",
+"fechaDeIngreso": "2026-08-05",
+"horaDeIngreso": "11:07:15",
+"codigo": "JCB050",
+"producto": "freidora universal",
+"falla": "no prende",
+"referencia": "L87560",
+"lugarDeCompra": "ÚNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a736cd17d80213852dec69a",
+"fechaDeIngreso": "2026-08-05",
+"horaDeIngreso": "12:03:10",
+"codigo": "CWM927",
+"producto": "ventilador universal dynamic",
+"falla": "los botones no funcionan",
+"referencia": "L75545",
+"lugarDeCompra": "LANDER",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a749ec512b28cdff112c9f8",
+"fechaDeIngreso": "2026-08-06",
+"horaDeIngreso": "09:48:35",
+"codigo": "MTL699",
+"producto": "milk frother",
+"falla": "no prende y el boton no sirve",
+"referencia": "L60752",
+"lugarDeCompra": "LANDER DEL UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a74e4ffc57c57653cd88f36",
+"fechaDeIngreso": "2026-08-06",
+"horaDeIngreso": "14:48:14",
+"codigo": "ISK203",
+"producto": "arrocera10 taza diamod",
+"falla": "se salta el boton sin haber terminado de cocinar",
+"referencia": "CKSTRCB100DFBLK-013",
+"lugarDeCompra": "TODO PRECIO LOS PAISAS",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 // garantiasSinRevisar.reverse()
@@ -123,7 +277,6 @@ let garantiasExitoPitalito = [
 
 
     '2026-05-27 - 15:42:37 - JUZ073 - Garantía Universal - ventilador universal digital - Falla: no prende - Lugar de Compra: UNICO - Referencia: L76680',
-    '2026-06-12 - 15:45:04 - YRP282 - Garantía Universal - ventilador universal digital - Falla: frenado - Lugar de Compra: EL UNICO - Referencia: L76680',
     '2026-07-02 - 12:01:26 - FPS165 - Garantía Universal - ventilador universal digital - Falla: suena super duro cuando lo prenden - Lugar de Compra: UNICO - Referencia: NORMAL',
 ]
 
