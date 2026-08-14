@@ -1,5 +1,49 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00479988",
+    "cliente": "Deiny Farfan",
+    "estado": "En progreso",
+    "fecha": "08/08/2026",
+    "interno": "ISK203",
+    "fechaIngreso": "2026-08-06",
+    "productoIngreso": "arrocera10 taza diamod",
+    "lugarDeCompra": "TODO PRECIO LOS PAISAS",
+    "observaciones": "[sábado, 8 de agosto de 2026]toca pedir el explosivo para pedir sendor"
+  },
+  {
+    "codigo": "WO-00479980",
+    "cliente": "Armando Manrique",
+    "estado": "En progreso",
+    "fecha": "08/08/2026",
+    "interno": "MZI683",
+    "fechaIngreso": "2026-07-24",
+    "productoIngreso": "freidora oster de 4 litros",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[sábado, 8 de agosto de 2026]reparado con microsuiche prestado"
+  },
+  {
+    "codigo": "WO-00479974",
+    "cliente": "Maximuebles Jc Sas",
+    "estado": "En progreso",
+    "fecha": "08/08/2026",
+    "interno": "AEX601",
+    "fechaIngreso": "2026-07-17",
+    "productoIngreso": "cafetera oster de 12 taza",
+    "lugarDeCompra": "MAXI MUEBLES",
+    "observaciones": "[sábado, 8 de agosto de 2026]se repara con cable prestado"
+  },
+  {
+    "codigo": "WO-00479972",
+    "cliente": "Carlos Alberto Garcia",
+    "estado": "En progreso",
+    "fecha": "08/08/2026",
+    "interno": "EOH424",
+    "fechaIngreso": "2026-07-15",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[sábado, 8 de agosto de 2026]se pide motor"
+  },
+  {
     "codigo": "WO-00477386",
     "cliente": "Alexander Gallego",
     "estado": "Entregado",
@@ -279,29 +323,5 @@ let garantiasNewells = [
     "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
     "estado": "Entregado",
     "fecha": "08/03/2026"
-  },
-  {
-    "codigo": "WO-00440702",
-    "cliente": "Alexander Gallego",
-    "estado": "Entregado",
-    "fecha": "06/03/2026"
-  },
-  {
-    "codigo": "WO-00440574",
-    "cliente": "Stefania Rojas",
-    "estado": "Entregado",
-    "fecha": "06/03/2026"
-  },
-  {
-    "codigo": "WO-00440444",
-    "cliente": "Ruben Dario Garcia",
-    "estado": "Entregado",
-    "fecha": "05/03/2026"
-  },
-  {
-    "codigo": "WO-00440099",
-    "cliente": "Kelly Bocanegra",
-    "estado": "Entregado",
-    "fecha": "04/03/2026"
   }
 ]
