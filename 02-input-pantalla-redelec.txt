@@ -15,10 +15,8 @@ Inicio
 Tickets Pendientes
  Ordenes Pendientes
 Ej: 152124,152123,152122
-
-Warning: mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/invermun/public_html/redelec/master_pag/PagTicketsPendientes.php on line 198
 Buscar:
 	.	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Guía Recogida	Rótulo	Ver Ticket	Trazabilidad
-Ningún dato disponible en esta tabla
-Mostrando registros del 0 al 0 de un total de 0 registrosAnteriorSiguiente
+1	159710	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	WALTER POSADA PASCUAS	7723037	2026-08-17 23:11:51	1	BLACK+DECKER	BLBD210GB	TRAMITE		—		Ver Ticket	Trazabilidad
+Mostrando registros del 1 al 1 de un total de 1 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

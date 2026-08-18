@@ -1,5 +1,60 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00481625",
+    "cliente": "Jose Medardo Garzon Rodriguez",
+    "estado": "Nuevo",
+    "fecha": "17/08/2026",
+    "interno": "MRU228",
+    "fechaIngreso": "2026-07-24",
+    "productoIngreso": "plancha oster azul aeroglide",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": "[lunes, 17 de agosto de 2026]pedir explosivo para pedir termostato y ressitencia"
+  },
+  {
+    "codigo": "WO-00481616",
+    "cliente": "Katherine Vargas",
+    "estado": "En progreso",
+    "fecha": "17/08/2026",
+    "interno": "LNR535",
+    "fechaIngreso": "2026-08-14",
+    "productoIngreso": "freidora oster de 7.digital",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor, resistencia, aspa"
+  },
+  {
+    "codigo": "WO-00481611",
+    "cliente": "Luisa Pérez",
+    "estado": "En progreso",
+    "fecha": "17/08/2026",
+    "interno": "SJE939",
+    "fechaIngreso": "2026-08-14",
+    "productoIngreso": "freidora oster de 3 8",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor"
+  },
+  {
+    "codigo": "WO-00481605",
+    "cliente": "Viny González",
+    "estado": "Aprobación pendiente",
+    "fecha": "17/08/2026",
+    "interno": "DUR568",
+    "fechaIngreso": "2026-08-14",
+    "productoIngreso": "freidora oster  6 litros",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[lunes, 17 de agosto de 2026]microsuiche o cambio por ser segunda vez"
+  },
+  {
+    "codigo": "WO-00481599",
+    "cliente": "Duvan Camilo Benitez",
+    "estado": "En progreso",
+    "fecha": "17/08/2026",
+    "interno": "VXB704",
+    "fechaIngreso": "2026-08-14",
+    "productoIngreso": "freidora oster manual 4 litros",
+    "lugarDeCompra": "CORBETA",
+    "observaciones": "[lunes, 17 de agosto de 2026]motor ventilador"
+  },
+  {
     "codigo": "WO-00479988",
     "cliente": "Deiny Farfan",
     "estado": "En progreso",
@@ -8,7 +63,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-08-06",
     "productoIngreso": "arrocera10 taza diamod",
     "lugarDeCompra": "TODO PRECIO LOS PAISAS",
-    "observaciones": "[sábado, 8 de agosto de 2026]toca pedir el explosivo para pedir sendor"
+    "observaciones": "[sábado, 8 de agosto de 2026]toca pedir el explosivo para pedir sendor-[lunes, 17 de agosto de 2026]sensor pedido"
   },
   {
     "codigo": "WO-00479980",
@@ -293,35 +348,5 @@ let garantiasNewells = [
     "cliente": "Angie Claros",
     "estado": "Entregado",
     "fecha": "12/03/2026"
-  },
-  {
-    "codigo": "WO-00442028",
-    "cliente": "Fernando Montilla",
-    "estado": "Entregado",
-    "fecha": "12/03/2026"
-  },
-  {
-    "codigo": "WO-00441761",
-    "cliente": "Glemys Martinez Caviedes",
-    "estado": "Entregado",
-    "fecha": "11/03/2026"
-  },
-  {
-    "codigo": "WO-00440922",
-    "cliente": "Yasmith Hernández",
-    "estado": "Entregado",
-    "fecha": "08/03/2026"
-  },
-  {
-    "codigo": "WO-00440921",
-    "cliente": "Vianed Medina Castro",
-    "estado": "Entregado",
-    "fecha": "08/03/2026"
-  },
-  {
-    "codigo": "WO-00440920",
-    "cliente": "Maria Elvira De Los Angeles Rojas Gomez",
-    "estado": "Entregado",
-    "fecha": "08/03/2026"
   }
 ]

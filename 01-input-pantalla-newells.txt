@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -43,6 +43,51 @@ Ordenar
 Propietario
 
 Acción
+
+Nuevo
+WO-00481625
+17/08/2026 10:26 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Jose Medardo Garzon Rodriguez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00481616
+17/08/2026 10:07 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Katherine Vargas
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00481611
+17/08/2026 09:58 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Luisa Pérez
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+Aprobación pendiente
+WO-00481605
+17/08/2026 09:50 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Viny González
+Colombia
+Jhon Fredy Bahamon Bonilla
+
+En progreso
+WO-00481599
+17/08/2026 09:36 p. m.
+Garantía
+ALMACENES UNIVERSAL S.A.S.
+Duvan Camilo Benitez
+Colombia
+Jhon Fredy Bahamon Bonilla
 
 En progreso
 WO-00479988
@@ -446,51 +491,6 @@ WO-00442050
 Garantía
 ALMACENES UNIVERSAL S.A.S.
 Angie Claros
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00442028
-12/03/2026 08:01 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Fernando Montilla
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00441761
-11/03/2026 05:29 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Glemys Martinez Caviedes
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00440922
-8/03/2026 11:40 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Yasmith Hernández
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00440921
-8/03/2026 11:11 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Vianed Medina Castro
-Colombia
-Jhon Fredy Bahamon Bonilla
-
-Entregado
-WO-00440920
-8/03/2026 11:06 p. m.
-Garantía
-ALMACENES UNIVERSAL S.A.S.
-Maria Elvira De Los Angeles Rojas Gomez
 Colombia
 Jhon Fredy Bahamon Bonilla
 .© 2020 Newell Brands
