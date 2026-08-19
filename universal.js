@@ -17,13 +17,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78756",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1079508907",
     "referencia": "L60520",
     "producto": "PRACTITERMO PLASTICO 1.9L",
     "falla": "Tapa Falla de apertura y cierre",
-    "s2": "",
+    "s2": "26013372",
     "fecha": "18/08/2026",
     "interno": "FJC074",
     "fechaIngreso": "2026-07-28",
@@ -144,22 +144,6 @@ let garantiasUniversal = [
     "observaciones": "[lunes, 17 de agosto de 2026]acoples partidos"
   },
   {
-    "codigo": "GRT-78746",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36379235",
-    "referencia": "L89875",
-    "producto": "OLLA PRESIÓN ELECTRI MULTI PRO",
-    "falla": "Resistencia Sin continuidad",
-    "s2": "NO APLICA S2!",
-    "fecha": "17/08/2026",
-    "interno": "JXB311",
-    "fechaIngreso": "2026-07-22",
-    "productoIngreso": "olla a presion electri multi pro",
-    "lugarDeCompra": "EL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]Error de manejo, ver manual"
-  },
-  {
     "codigo": "GRT-78745",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -177,13 +161,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78744",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075232418",
     "referencia": "L39894",
     "producto": "SARTEN HIBRIDO 24 CM + TV",
     "falla": "Cuerpo Oxidado",
-    "s2": "",
+    "s2": "26013362",
     "fecha": "17/08/2026",
     "interno": "GPQ420",
     "fechaIngreso": "2026-07-30",
@@ -241,7 +225,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78299",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075306745",
     "referencia": "L85729",
@@ -257,7 +241,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78297",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "26433978",
     "referencia": "L76680",
@@ -289,7 +273,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78295",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "800219612",
     "referencia": "L90022",
@@ -318,22 +302,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal de aire elite canasta en vidrio",
     "lugarDeCompra": "UNICO",
     "observaciones": "[sábado, 8 de agosto de 2026]se solicita motor y tarjeta de control o cambio de producto"
-  },
-  {
-    "codigo": "GRT-78291",
-    "estado": "Solicitud / repuesto",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36301774",
-    "referencia": "L82340",
-    "producto": "PLANCHA A VAPOR COLOR AZUL",
-    "falla": "Cable Sin continuidad",
-    "s2": "26012765",
-    "fecha": "08/08/2026",
-    "interno": "PAO906",
-    "fechaIngreso": "2026-07-25",
-    "productoIngreso": "plancha universal azul",
-    "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]se reparó con cable prestado-[sábado, 15 de agosto de 2026]llego termostato, devolver a mary"
   },
   {
     "codigo": "GRT-78289",
@@ -401,7 +369,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78224",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36301774",
     "referencia": "L75545",

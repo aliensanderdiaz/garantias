@@ -22,11 +22,11 @@ garantiasUniversal = garantiasUniversal.filter(garantia => garantia.estado !== '
 let garantias = [...garantiasNewells, ...garantiasRedelec, ...garantiasUniversal]
 
 garantias.sort((a,b) => {
-    if (!a.fecha) {
+    if (!a.fechaIngreso) {
         return false
     }
 
-    return a.fecha.localeCompare(b.fecha)
+    return a.fechaIngreso.localeCompare(b.fechaIngreso)
 })
 
 const container = document.querySelector('.container')

@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 All
-50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace 2 minutos
+50+ elementos • Ordenado por Fecha de creación • Filtrado por Todas las órdenes de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -44,7 +44,7 @@ Propietario
 
 Acción
 
-Nuevo
+En progreso
 WO-00481625
 17/08/2026 10:26 p. m.
 Garantía

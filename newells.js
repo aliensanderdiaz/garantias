@@ -2,7 +2,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00481625",
     "cliente": "Jose Medardo Garzon Rodriguez",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "17/08/2026",
     "interno": "MRU228",
     "fechaIngreso": "2026-07-24",
