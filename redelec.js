@@ -5,7 +5,7 @@ let garantiasRedelec = [
     "clienteId": "7723037",
     "fecha": "2026-08-17",
     "producto": "BLBD210GB",
-    "estado": "TRAMITE",
+    "estado": "DESPACHADO",
     "almacen": "",
     "interno": "JLM923",
     "fechaIngreso": "2026-07-21",

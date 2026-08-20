@@ -13,51 +13,51 @@ let garantiasNewells = [
   {
     "codigo": "WO-00481616",
     "cliente": "Katherine Vargas",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "17/08/2026",
     "interno": "LNR535",
     "fechaIngreso": "2026-08-14",
     "productoIngreso": "freidora oster de 7.digital",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor, resistencia, aspa"
+    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor, resistencia, aspa-[jueves, 20 de agosto de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00481611",
     "cliente": "Luisa Pérez",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "17/08/2026",
     "interno": "SJE939",
     "fechaIngreso": "2026-08-14",
     "productoIngreso": "freidora oster de 3 8",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor"
+    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor-[jueves, 20 de agosto de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00481605",
     "cliente": "Viny González",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "17/08/2026",
     "interno": "DUR568",
     "fechaIngreso": "2026-08-14",
     "productoIngreso": "freidora oster  6 litros",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[lunes, 17 de agosto de 2026]microsuiche o cambio por ser segunda vez"
+    "observaciones": "[lunes, 17 de agosto de 2026]microsuiche o cambio por ser segunda vez-[miércoles, 19 de agosto de 2026]aprobaron carta"
   },
   {
     "codigo": "WO-00481599",
     "cliente": "Duvan Camilo Benitez",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "17/08/2026",
     "interno": "VXB704",
     "fechaIngreso": "2026-08-14",
     "productoIngreso": "freidora oster manual 4 litros",
     "lugarDeCompra": "CORBETA",
-    "observaciones": "[lunes, 17 de agosto de 2026]motor ventilador"
+    "observaciones": "[lunes, 17 de agosto de 2026]motor ventilador-[jueves, 20 de agosto de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00479988",
     "cliente": "Deiny Farfan",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "08/08/2026",
     "interno": "ISK203",
     "fechaIngreso": "2026-08-06",
@@ -68,7 +68,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00479980",
     "cliente": "Armando Manrique",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "08/08/2026",
     "interno": "MZI683",
     "fechaIngreso": "2026-07-24",
@@ -90,7 +90,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00479972",
     "cliente": "Carlos Alberto Garcia",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "08/08/2026",
     "interno": "EOH424",
     "fechaIngreso": "2026-07-15",

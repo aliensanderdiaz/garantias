@@ -413,7 +413,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-06-10",
     "productoIngreso": "licuadora universal elite turbo max",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]cambio-[miércoles, 12 de agosto de 2026]se le hace entrega de la licuadora nueva -[lunes, 17 de agosto de 2026]no se puede sacar del sistema"
+    "observaciones": "[miércoles, 8 de julio de 2026]cambio-[miércoles, 12 de agosto de 2026]se le hace entrega de la licuadora nueva -[lunes, 17 de agosto de 2026]no se puede sacar del sistema-[miércoles, 19 de agosto de 2026]no se porque entregaron una licuadora nueva si ni siquiera ha llegado al almacen"
   },
   {
     "codigo": "GRT-76532",
