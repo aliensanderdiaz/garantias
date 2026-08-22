@@ -33,13 +33,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78755",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075288056",
     "referencia": "L75545",
     "producto": "VENTILADOR DYNAMIC VENTO",
     "falla": "Selector de velocidades Sin continuidad",
-    "s2": "",
+    "s2": "26013542",
     "fecha": "18/08/2026",
     "interno": "CWM927",
     "fechaIngreso": "2026-08-05",
@@ -65,13 +65,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78753",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "80273616",
     "referencia": "L75660",
     "producto": "VENTILADOR FRESH ULTRA",
     "falla": "Motor Colector en corto",
-    "s2": "",
+    "s2": "26013544",
     "fecha": "18/08/2026",
     "interno": "OHW612",
     "fechaIngreso": "2026-08-13",
@@ -97,13 +97,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78751",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1084923113",
     "referencia": "L85774",
     "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
     "falla": "Cableado interno Cable expuesto,Resistencia Sin continuidad",
-    "s2": "",
+    "s2": "26013547",
     "fecha": "18/08/2026",
     "interno": "RVY307",
     "fechaIngreso": "2026-08-13",
@@ -224,22 +224,6 @@ let garantiasUniversal = [
     "observaciones": "[sábado, 8 de agosto de 2026]motor o cambio"
   },
   {
-    "codigo": "GRT-78299",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075306745",
-    "referencia": "L85729",
-    "producto": "EASYFRYER PRO AIRFRYER 3.5L",
-    "falla": "Motor Acoples dañados,Tarjeta electrónica En corto",
-    "s2": "26012777",
-    "fecha": "08/08/2026",
-    "interno": "LNL140",
-    "fechaIngreso": "2026-07-10",
-    "productoIngreso": "freidora universal digital",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]motor y tarjetas-[sábado, 15 de agosto de 2026]Llegan motor, tarjeta y panel"
-  },
-  {
     "codigo": "GRT-78297",
     "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -257,7 +241,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78296",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "55150634",
     "referencia": "L60752",
@@ -269,7 +253,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-06",
     "productoIngreso": "milk frother",
     "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]validacion cambio"
+    "observaciones": "[lunes, 17 de agosto de 2026]validacion cambio-[viernes, 21 de agosto de 2026]llega mezclador"
   },
   {
     "codigo": "GRT-78295",
@@ -285,7 +269,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-23",
     "productoIngreso": "termo bomba universal de 4 litros",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 8 de agosto de 2026]se pide cambio-[sábado, 15 de agosto de 2026]llega termo"
+    "observaciones": "[sábado, 8 de agosto de 2026]se pide cambio-[sábado, 15 de agosto de 2026]llega termo-[viernes, 21 de agosto de 2026]se le entrega termo nuevo"
   },
   {
     "codigo": "GRT-78294",

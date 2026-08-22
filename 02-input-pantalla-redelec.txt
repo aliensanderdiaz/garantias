@@ -17,6 +17,6 @@ Tickets Pendientes
 Ej: 152124,152123,152122
 Buscar:
 	.	#	CS	Creado por	Tipo de Servicio	Consumidor	Doc. Consumidor	Fecha Recibo	Dias Hábiles Transcurridos	Marca	Referencia Producto	Estado	Almacén	Guía Recogida	Rótulo	Ver Ticket	Trazabilidad
-3	159710	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	WALTER POSADA PASCUAS	7723037	2026-08-17 23:11:51	3	BLACK+DECKER	BLBD210GB	DESPACHADO		—		Ver Ticket	Trazabilidad
+4	159710	Almacenes Universal S.A.S.	John Fredy Bahamon Bonilla	Garantia	WALTER POSADA PASCUAS	7723037	2026-08-17 23:11:51	4	BLACK+DECKER	BLBD210GB	DESPACHADO		—		Ver Ticket	Trazabilidad
 Mostrando registros del 1 al 1 de un total de 1 registrosAnterior1Siguiente
 Este portal web es propiedad de Invermundo S.A. Master Invermundo De Aplicaciones y Sistemas - MIDAS -

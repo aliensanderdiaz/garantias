@@ -13,7 +13,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00481616",
     "cliente": "Katherine Vargas",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "17/08/2026",
     "interno": "LNR535",
     "fechaIngreso": "2026-08-14",
@@ -24,7 +24,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00481611",
     "cliente": "Luisa Pérez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "17/08/2026",
     "interno": "SJE939",
     "fechaIngreso": "2026-08-14",
@@ -46,7 +46,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00481599",
     "cliente": "Duvan Camilo Benitez",
-    "estado": "Aprobación pendiente",
+    "estado": "Pre-terminado",
     "fecha": "17/08/2026",
     "interno": "VXB704",
     "fechaIngreso": "2026-08-14",
@@ -68,13 +68,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00479980",
     "cliente": "Armando Manrique",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "08/08/2026",
     "interno": "MZI683",
     "fechaIngreso": "2026-07-24",
     "productoIngreso": "freidora oster de 4 litros",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[sábado, 8 de agosto de 2026]reparado con microsuiche prestado"
+    "observaciones": "[sábado, 8 de agosto de 2026]reparado con microsuiche prestado-[sábado, 22 de agosto de 2026]devolver microsuiche a mary"
   },
   {
     "codigo": "WO-00479974",
@@ -85,7 +85,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-07-17",
     "productoIngreso": "cafetera oster de 12 taza",
     "lugarDeCompra": "MAXI MUEBLES",
-    "observaciones": "[sábado, 8 de agosto de 2026]se repara con cable prestado"
+    "observaciones": "[sábado, 8 de agosto de 2026]se repara con cable prestado-[viernes, 21 de agosto de 2026]entregada"
   },
   {
     "codigo": "WO-00479972",
@@ -96,7 +96,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-07-15",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 8 de agosto de 2026]se pide motor"
+    "observaciones": "[sábado, 8 de agosto de 2026]se pide motor-[sábado, 22 de agosto de 2026]llega motor"
   },
   {
     "codigo": "WO-00477386",

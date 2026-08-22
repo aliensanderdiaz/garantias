@@ -47,6 +47,28 @@ let garantiasSinRevisar = [
 "referencia": "GCSTES-101-013",
 "lugarDeCompra": "ALKOMPRAR",
 "tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a887de8204292baa3ba4719",
+"fechaDeIngreso": "2026-08-21",
+"horaDeIngreso": "11:33:42",
+"codigo": "SHP966",
+"producto": "licuadora potency plus",
+"falla": "no prende",
+"referencia": "L62125",
+"lugarDeCompra": "LANDER",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a88d165dbbebb2644fcb4bb",
+"fechaDeIngreso": "2026-08-21",
+"horaDeIngreso": "17:29:54",
+"codigo": "MRG029",
+"producto": "ventilador universal",
+"falla": "prende en la tercera",
+"referencia": "L75680",
+"lugarDeCompra": "COMERCIAL BAHIA",
+"tipoDeServicio": "Garantía Universal"
 }
 ]
 
@@ -62,9 +84,13 @@ let garantiasExitoPitalito = [
 
 
     // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
+
+
     '2026-05-27 - 15:42:37 - JUZ073 - GRT-76539 - ventilador universal digital - FALLA: no prende - Lugar de Compra: UNICO - MOTOR',
-    '2026-07-10 - 15:03:27 - LNL140 - GRT-78299 - freidora universal digital - FALLA: prende pero siente que no arranca el ventilador - Lugar de Compra: ÚNICO - MOTOR, TARJETA Y PANEL',
-    '2026-07-31 - 15:59:54 - GET522 - GRT-78297 - ventilador universal - FALLA: no prende quemado - Lugar de Compra: UNICO - MOTOR'
+    '2026-07-31 - 15:59:54 - GET522 - GRT-78297 - ventilador universal - FALLA: no prende quemado - Lugar de Compra: UNICO - MOTOR',
+    '2026-07-15 - 18:08:45 - EOH424 - WO-00479972 - licuadora oster clasica - FALLA: motor salio chispas - Fecha De Compra: 2026-07-13 - Lugar de Compra: ALMACENES UNIVERSAL - MOTOR',
+    '2026-07-21 - 16:39:14 - JLM923 - 159710 - licuaodora black deker - FALLA: salio chispas - Fecha De Compra: 2026-06-05 - Lugar de Compra: ALMACENES UNIVERSAL - MOTOR',
+
 
 ]
 

@@ -2,7 +2,6 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
-Productos
 Más
 Search...
 
@@ -53,7 +52,7 @@ Jose Medardo Garzon Rodriguez
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00481616
 17/08/2026 10:07 p. m.
 Garantía
@@ -62,7 +61,7 @@ Katherine Vargas
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00481611
 17/08/2026 09:58 p. m.
 Garantía
@@ -80,7 +79,7 @@ Viny González
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Aprobación pendiente
+Pre-terminado
 WO-00481599
 17/08/2026 09:36 p. m.
 Garantía
@@ -98,7 +97,7 @@ Deiny Farfan
 Colombia
 Jhon Fredy Bahamon Bonilla
 
-Despachado
+Pre-terminado
 WO-00479980
 8/08/2026 04:09 p. m.
 Garantía

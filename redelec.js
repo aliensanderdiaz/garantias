@@ -11,6 +11,6 @@ let garantiasRedelec = [
     "fechaIngreso": "2026-07-21",
     "productoIngreso": "licuaodora black deker",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 25 de julio de 2026]pedir motor"
+    "observaciones": "[sábado, 25 de julio de 2026]pedir motor-[sábado, 22 de agosto de 2026]llega motor"
   }
 ]
