@@ -224,22 +224,6 @@ let garantiasUniversal = [
     "observaciones": "[sábado, 8 de agosto de 2026]motor o cambio"
   },
   {
-    "codigo": "GRT-78297",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "26433978",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26012775",
-    "fecha": "08/08/2026",
-    "interno": "GET522",
-    "fechaIngreso": "2026-07-31",
-    "productoIngreso": "ventilador universal",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]solicito motor-[sábado, 15 de agosto de 2026]LLEGÓ MOTOR"
-  },
-  {
     "codigo": "GRT-78296",
     "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
@@ -254,22 +238,6 @@ let garantiasUniversal = [
     "productoIngreso": "milk frother",
     "lugarDeCompra": "LANDER DEL UNICO",
     "observaciones": "[lunes, 17 de agosto de 2026]validacion cambio-[viernes, 21 de agosto de 2026]llega mezclador"
-  },
-  {
-    "codigo": "GRT-78295",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "800219612",
-    "referencia": "L90022",
-    "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
-    "falla": "Ampolleta No Calienta",
-    "s2": "26012855",
-    "fecha": "08/08/2026",
-    "interno": "NPB361",
-    "fechaIngreso": "2026-07-23",
-    "productoIngreso": "termo bomba universal de 4 litros",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 8 de agosto de 2026]se pide cambio-[sábado, 15 de agosto de 2026]llega termo-[viernes, 21 de agosto de 2026]se le entrega termo nuevo"
   },
   {
     "codigo": "GRT-78294",
@@ -369,7 +337,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-76539",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36312326",
     "referencia": "L76680",
@@ -381,7 +349,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-05-27",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 8 de julio de 2026]motor-[miércoles, 15 de julio de 2026]lelga motor"
+    "observaciones": "[miércoles, 8 de julio de 2026]motor-[miércoles, 15 de julio de 2026]lelga motor-[sábado, 22 de agosto de 2026]reparado"
   },
   {
     "codigo": "GRT-76537",

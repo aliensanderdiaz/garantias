@@ -19,7 +19,8 @@ htmlNewells += `
             <th scope="col">Código</th>
             <th scope="col">Fecha</th>
             <th scope="col">Estado</th>
-            <th scope="col">Cliente</th>
+            <th scope="col">Lugar</th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>`
@@ -31,7 +32,8 @@ garantiasNewells.forEach((garantia, index) => {
                     <th scope="row">${ garantia.codigo }</th>
                     <td>${ garantia.fecha }</td>
                     <td>${ garantia.estado }</td>
-                    <td>${ garantia.cliente }</td>
+                    <td>${ garantia.lugarDeCompra }</td>
+                    <td>${ garantia.observaciones }</td>
                 </tr>
     `
 })

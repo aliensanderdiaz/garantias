@@ -27,17 +27,6 @@ let garantiasSinRevisar = [
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "6a84af4fe57dff8ad5e19e43",
-"fechaDeIngreso": "2026-08-18",
-"horaDeIngreso": "14:15:25",
-"codigo": "GWL369",
-"producto": "ventilador universal fresh ultra",
-"falla": "no prendio mas",
-"referencia": "L76660",
-"lugarDeCompra": "UNICO",
-"tipoDeServicio": "Garantía Universal"
-},
-{
 "_id": "6a84bf4063b401b75a3f8138",
 "fechaDeIngreso": "2026-08-18",
 "horaDeIngreso": "15:23:26",
@@ -49,17 +38,6 @@ let garantiasSinRevisar = [
 "tipoDeServicio": "Garantía Oster"
 },
 {
-"_id": "6a887de8204292baa3ba4719",
-"fechaDeIngreso": "2026-08-21",
-"horaDeIngreso": "11:33:42",
-"codigo": "SHP966",
-"producto": "licuadora potency plus",
-"falla": "no prende",
-"referencia": "L62125",
-"lugarDeCompra": "LANDER",
-"tipoDeServicio": "Garantía Universal"
-},
-{
 "_id": "6a88d165dbbebb2644fcb4bb",
 "fechaDeIngreso": "2026-08-21",
 "horaDeIngreso": "17:29:54",
@@ -69,7 +47,62 @@ let garantiasSinRevisar = [
 "referencia": "L75680",
 "lugarDeCompra": "COMERCIAL BAHIA",
 "tipoDeServicio": "Garantía Universal"
-}
+},
+{
+"_id": "6a8a15c8d1b102c165ec80bb",
+"fechaDeIngreso": "2026-08-22",
+"horaDeIngreso": "16:33:59",
+"codigo": "HWS901",
+"producto": "licuadora  universal tradicional",
+"falla": "motor chispas",
+"referencia": "L50803",
+"lugarDeCompra": "LA FERIA DEL ALUMINIO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a8c51bf27d1907f3b47eb87",
+"fechaDeIngreso": "2026-08-24",
+"horaDeIngreso": "09:14:21",
+"codigo": "AML965",
+"producto": "freidora universal digital",
+"falla": "no prende y se demoraba para asar",
+"referencia": "L87580",
+"lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a8c562d27d1907f3b47eb96",
+"fechaDeIngreso": "2026-08-24",
+"horaDeIngreso": "09:33:15",
+"codigo": "ZYY232",
+"producto": "plancha universal seca",
+"falla": "se le safo la perilla",
+"referencia": "L40600",
+"lugarDeCompra": "ALKOMPRAR",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a8cbad5996d09c0e12d2a1e",
+"fechaDeIngreso": "2026-08-24",
+"horaDeIngreso": "16:42:34",
+"codigo": "ZRX198",
+"producto": "licuadora de 8",
+"falla": "no prende",
+"referencia": "BLSTPEG-GPB-013",
+"lugarDeCompra": "METRO PITALITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a8cc5ab996d09c0e12d2a39",
+"fechaDeIngreso": "2026-08-24",
+"horaDeIngreso": "17:28:56",
+"codigo": "AYU091",
+"producto": "ventilador universal digital",
+"falla": "no prende",
+"referencia": "L76680",
+"lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
 ]
 
 
@@ -86,10 +119,6 @@ let garantiasExitoPitalito = [
     // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
 
 
-    '2026-05-27 - 15:42:37 - JUZ073 - GRT-76539 - ventilador universal digital - FALLA: no prende - Lugar de Compra: UNICO - MOTOR',
-    '2026-07-31 - 15:59:54 - GET522 - GRT-78297 - ventilador universal - FALLA: no prende quemado - Lugar de Compra: UNICO - MOTOR',
-    '2026-07-15 - 18:08:45 - EOH424 - WO-00479972 - licuadora oster clasica - FALLA: motor salio chispas - Fecha De Compra: 2026-07-13 - Lugar de Compra: ALMACENES UNIVERSAL - MOTOR',
-    '2026-07-21 - 16:39:14 - JLM923 - 159710 - licuaodora black deker - FALLA: salio chispas - Fecha De Compra: 2026-06-05 - Lugar de Compra: ALMACENES UNIVERSAL - MOTOR',
 
 
 ]
