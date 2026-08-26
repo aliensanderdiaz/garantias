@@ -1,5 +1,37 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-79282",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36176866",
+    "referencia": "L76660",
+    "producto": "VENTILADOR FRESH ULTRA P 2EN1",
+    "falla": "Motor Bobinas en corto",
+    "s2": "",
+    "fecha": "26/08/2026",
+    "interno": "GWL369",
+    "fechaIngreso": "2026-08-18",
+    "productoIngreso": "ventilador universal fresh ultra",
+    "lugarDeCompra": "UNICO",
+    "observaciones": "[miércoles, 26 de agosto de 2026]se solicita motor o validacion cambio"
+  },
+  {
+    "codigo": "GRT-79281",
+    "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "36169650",
+    "referencia": "L62125",
+    "producto": "LIC POTENCY PLUS VASO PLASTICO",
+    "falla": "Motor Bobinas en corto,Suiche ON-OFF En corto",
+    "s2": "",
+    "fecha": "26/08/2026",
+    "interno": "SHP966",
+    "fechaIngreso": "2026-08-21",
+    "productoIngreso": "licuadora potency plus",
+    "lugarDeCompra": "LANDER",
+    "observaciones": "[miércoles, 26 de agosto de 2026]se pide motor y suiche o cambio"
+  },
+  {
     "codigo": "GRT-78757",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",

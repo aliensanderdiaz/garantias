@@ -2,6 +2,7 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
+Productos
 Más
 Search...
 
@@ -57,6 +58,15 @@ Maximuebles Jc Sas
 LATAM
 Jhon Fredy Bahamon Bonilla
 2217256
+
+En progreso
+WO-00483378
+26/08/2026 06:26 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Luz Derly Delgado Beltran
+LATAM
+Jhon Fredy Bahamon Bonilla
+2110673
 
 Pre-terminado
 WO-00469711
@@ -489,15 +499,6 @@ Luz Mary Plazas Fierro
 LATAM
 Jhon Fredy Bahamon Bonilla
 33160051
-
-Entregado
-WO-00015902
-10/05/2021 03:09 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Gloria Escobar
-LATAM
-Jhon Fredy Bahamon Bonilla
-GCSTBSRC202013
 .© 2020 Newell Brands
 
 Órdenes de trabajo

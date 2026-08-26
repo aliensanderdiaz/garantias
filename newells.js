@@ -11,6 +11,17 @@ let garantiasNewells = [
     "observaciones": "[sábado, 8 de agosto de 2026]se repara con cable prestado-[viernes, 21 de agosto de 2026]entregada"
   },
   {
+    "codigo": "WO-00483378",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "26/08/2026",
+    "interno": "XCO549",
+    "fechaIngreso": "2026-08-25",
+    "productoIngreso": "licuadora oster de dos velocidades",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[miércoles, 26 de agosto de 2026]motor y suiche"
+  },
+  {
     "codigo": "WO-00469711",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -319,12 +330,6 @@ let garantiasNewells = [
   },
   {
     "codigo": "WO-00015892",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
-  },
-  {
-    "codigo": "WO-00015902",
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "10/05/2021"
