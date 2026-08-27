@@ -3,6 +3,7 @@ Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
 Productos
+Cuenta del centro de servicio
 Más
 Search...
 
@@ -85,24 +86,6 @@ Carlos Alberto Garcia
 LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
-
-Pre-terminado
-WO-00479980
-8/08/2026 04:09 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Armando Manrique
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204926
-
-Pre-terminado
-WO-00479988
-8/08/2026 05:10 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Deiny Farfan
-LATAM
-Jhon Fredy Bahamon Bonilla
-2212402
 
 Pre-terminado
 WO-00481625
@@ -499,6 +482,24 @@ Luz Mary Plazas Fierro
 LATAM
 Jhon Fredy Bahamon Bonilla
 33160051
+
+Entregado
+WO-00015902
+10/05/2021 03:09 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Gloria Escobar
+LATAM
+Jhon Fredy Bahamon Bonilla
+GCSTBSRC202013
+
+Entregado
+WO-00016621
+13/05/2021 03:59 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Esther Julia Garcia
+LATAM
+Jhon Fredy Bahamon Bonilla
+2499013000
 .© 2020 Newell Brands
 
 Órdenes de trabajo

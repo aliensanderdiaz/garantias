@@ -44,28 +44,6 @@ let garantiasNewells = [
     "observaciones": "[sábado, 8 de agosto de 2026]se pide motor-[sábado, 22 de agosto de 2026]llega motor-[sábado, 22 de agosto de 2026]Reparado"
   },
   {
-    "codigo": "WO-00479980",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "08/08/2026",
-    "interno": "MZI683",
-    "fechaIngreso": "2026-07-24",
-    "productoIngreso": "freidora oster de 4 litros",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[sábado, 8 de agosto de 2026]reparado con microsuiche prestado-[sábado, 22 de agosto de 2026]devolver microsuiche a mary-[martes, 25 de agosto de 2026]envié correo"
-  },
-  {
-    "codigo": "WO-00479988",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "08/08/2026",
-    "interno": "ISK203",
-    "fechaIngreso": "2026-08-06",
-    "productoIngreso": "arrocera10 taza diamod",
-    "lugarDeCompra": "TODO PRECIO LOS PAISAS",
-    "observaciones": "[sábado, 8 de agosto de 2026]toca pedir el explosivo para pedir sendor-[lunes, 17 de agosto de 2026]sensor pedido-[sábado, 22 de agosto de 2026]lelga sensor-[martes, 25 de agosto de 2026]se envio correo"
-  },
-  {
     "codigo": "WO-00481625",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -333,5 +311,17 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "10/05/2021"
+  },
+  {
+    "codigo": "WO-00015902",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "10/05/2021"
+  },
+  {
+    "codigo": "WO-00016621",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "13/05/2021"
   }
 ]

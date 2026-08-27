@@ -49,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78756",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1079508907",
     "referencia": "L60520",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-28",
     "productoIngreso": "termo universal negro practitermo",
     "lugarDeCompra": "ÚNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]Validación / Cambio producto"
+    "observaciones": "[lunes, 17 de agosto de 2026]Validación / Cambio producto-[miércoles, 26 de agosto de 2026]llega practitermo"
   },
   {
     "codigo": "GRT-78755",
@@ -113,7 +113,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78752",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "7696775",
     "referencia": "L71300",
@@ -125,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-10",
     "productoIngreso": "ventilado universal pequeño",
     "lugarDeCompra": "UNICO.",
-    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor\n"
+    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor\n-[miércoles, 26 de agosto de 2026]llega motor"
   },
   {
     "codigo": "GRT-78751",
@@ -145,7 +145,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78749",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1007681856",
     "referencia": "L75680",
@@ -157,11 +157,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-08",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]solicitud de motor"
+    "observaciones": "[lunes, 17 de agosto de 2026]solicitud de motor-[miércoles, 26 de agosto de 2026]Llega motor"
   },
   {
     "codigo": "GRT-78748",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1061020303",
     "referencia": "L50803",
@@ -173,7 +173,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-12",
     "productoIngreso": "licuadora la tradicional",
     "lugarDeCompra": "CRISTALERIA",
-    "observaciones": "[lunes, 17 de agosto de 2026]acoples partidos"
+    "observaciones": "[lunes, 17 de agosto de 2026]acoples partidos-[miércoles, 26 de agosto de 2026]Llega embrague y cuchilla"
   },
   {
     "codigo": "GRT-78745",
@@ -193,7 +193,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78744",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075232418",
     "referencia": "L39894",
@@ -205,7 +205,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-30",
     "productoIngreso": "sarten en acero",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]se valida cambio"
+    "observaciones": "[lunes, 17 de agosto de 2026]se valida cambio-[miércoles, 26 de agosto de 2026]llega sarten"
   },
   {
     "codigo": "GRT-78304",

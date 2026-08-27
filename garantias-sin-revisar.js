@@ -103,6 +103,39 @@ let garantiasSinRevisar = [
 "lugarDeCompra": "UNICO",
 "tipoDeServicio": "Garantía Universal"
 },
+{
+"_id": "6a8efa8bc0e5497b3f31cbf2",
+"fechaDeIngreso": "2026-08-26",
+"horaDeIngreso": "09:39:06",
+"codigo": "CGS975",
+"producto": "freidora oster de 3,8 litros",
+"falla": "prende pero no calienta la señora dice que es la segunda vez",
+"referencia": "CKSTAF38MNS-014",
+"lugarDeCompra": "HOMECENTER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a8efd67c0e5497b3f31cc01",
+"fechaDeIngreso": "2026-08-26",
+"horaDeIngreso": "09:51:18",
+"codigo": "GAJ714",
+"producto": "ventilador universal digital",
+"falla": "motor quemado",
+"referencia": "L76680",
+"lugarDeCompra": "LANDER UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a8f6626f2277a1e1a16d254",
+"fechaDeIngreso": "2026-08-26",
+"horaDeIngreso": "17:18:13",
+"codigo": "AXL459",
+"producto": "freidora universal",
+"falla": "no prende",
+"referencia": "L87560",
+"lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+}
 ]
 
 
@@ -118,8 +151,9 @@ let garantiasExitoPitalito = [
 
     // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
 
-
-
+'2026-08-08 - 10:45:58 - GUT507 - GRT-78749 - Garantía Universal - ventilador universal digital - FALLA: se frena - MOTOR',
+'2026-08-10 - 11:35:36 - ZFA049 - GRT-78752 - Garantía Universal - ventilado universal pequeño - FALLA: se quemo - MOTOR',
+'2026-08-12 - 15:16:46 - HYA392 - GRT-78748 - Garantía Universal - licuadora la tradicional - FALLA: motor se partio y el acople de la cuchilla lo daño - EMBRAGUE Y CUCHILLA'
 
 ]
 
