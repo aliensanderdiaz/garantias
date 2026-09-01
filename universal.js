@@ -1,13 +1,13 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-79282",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36176866",
     "referencia": "L76660",
     "producto": "VENTILADOR FRESH ULTRA P 2EN1",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "26014138",
     "fecha": "26/08/2026",
     "interno": "GWL369",
     "fechaIngreso": "2026-08-18",
@@ -65,7 +65,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78755",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075288056",
     "referencia": "L75545",
@@ -77,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-05",
     "productoIngreso": "ventilador universal dynamic",
     "lugarDeCompra": "LANDER",
-    "observaciones": "[lunes, 17 de agosto de 2026]Solicito suiche (selector velocidades) o validacion cambio de producto"
+    "observaciones": "[lunes, 17 de agosto de 2026]Solicito suiche (selector velocidades) o validacion cambio de producto-[viernes, 28 de agosto de 2026]Llega ventilador"
   },
   {
     "codigo": "GRT-78754",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1076903558",
     "referencia": "L87560",
@@ -93,11 +93,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-15",
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado"
+    "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado-[jueves, 27 de agosto de 2026]DEVOLVER MICROSUICHE A MARY-[jueves, 27 de agosto de 2026]Reparada"
   },
   {
     "codigo": "GRT-78753",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "80273616",
     "referencia": "L75660",
@@ -109,7 +109,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-13",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]Se solicita motor o validacion de cambio"
+    "observaciones": "[lunes, 17 de agosto de 2026]Se solicita motor o validacion de cambio-[viernes, 28 de agosto de 2026]Llega ventilador"
   },
   {
     "codigo": "GRT-78752",
@@ -126,22 +126,6 @@ let garantiasUniversal = [
     "productoIngreso": "ventilado universal pequeño",
     "lugarDeCompra": "UNICO.",
     "observaciones": "[lunes, 17 de agosto de 2026]se pide motor\n-[miércoles, 26 de agosto de 2026]llega motor"
-  },
-  {
-    "codigo": "GRT-78751",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1084923113",
-    "referencia": "L85774",
-    "producto": "HORNILLA ELÉCTRICA CLÁSICA 2P",
-    "falla": "Cableado interno Cable expuesto,Resistencia Sin continuidad",
-    "s2": "26013547",
-    "fecha": "18/08/2026",
-    "interno": "RVY307",
-    "fechaIngreso": "2026-08-13",
-    "productoIngreso": "estufa electrica universal de 2 puestos",
-    "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[lunes, 17 de agosto de 2026]daño en las resistencias y el cableado, se valida cambio"
   },
   {
     "codigo": "GRT-78749",
@@ -177,7 +161,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78745",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "26460580",
     "referencia": "L87560",
@@ -189,7 +173,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-05",
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "ÚNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado"
+    "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado-[jueves, 27 de agosto de 2026]DEVOLVER MICROSUICHE A MARY-[jueves, 27 de agosto de 2026]Reparada"
   },
   {
     "codigo": "GRT-78744",
@@ -289,13 +273,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78289",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "5823590",
     "referencia": "L62090",
     "producto": "LICUADORA ELITE TURBO MAX",
     "falla": "Tarjeta electrónica En corto",
-    "s2": "",
+    "s2": "26014132",
     "fecha": "08/08/2026",
     "interno": "KMU610",
     "fechaIngreso": "2026-07-29",
@@ -305,13 +289,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78288",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075226786",
     "referencia": "L62090",
     "producto": "LICUADORA ELITE TURBO MAX",
     "falla": "Tarjeta electrónica En corto",
-    "s2": "",
+    "s2": "26014129",
     "fecha": "08/08/2026",
     "interno": "VDH463",
     "fechaIngreso": "2026-08-03",
@@ -321,13 +305,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78287",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "26425623",
     "referencia": "L62090",
     "producto": "LICUADORA ELITE TURBO MAX",
     "falla": "Tarjeta electrónica En corto",
-    "s2": "",
+    "s2": "26014127",
     "fecha": "08/08/2026",
     "interno": "YKQ791",
     "fechaIngreso": "2026-08-01",
@@ -385,13 +369,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-76537",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1015444623",
     "referencia": "L62090",
     "producto": "LICUADORA ELITE TURBO MAX",
     "falla": "Motor Bobinas en corto,Tarjeta Panel de control En corto",
-    "s2": "",
+    "s2": "26014076",
     "fecha": "08/07/2026",
     "interno": "VPK733",
     "fechaIngreso": "2026-06-10",

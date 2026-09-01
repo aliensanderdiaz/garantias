@@ -11,9 +11,20 @@ let garantiasNewells = [
     "observaciones": "[sábado, 8 de agosto de 2026]se repara con cable prestado-[viernes, 21 de agosto de 2026]entregada"
   },
   {
-    "codigo": "WO-00483378",
+    "codigo": "WO-00485282",
     "cliente": "LATAM",
     "estado": "En progreso",
+    "fecha": "31/08/2026",
+    "interno": "UXL050",
+    "fechaIngreso": "2026-08-18",
+    "productoIngreso": "plancha vapor oster",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[martes, 1 de septiembre de 2026]problema hidraulico, se piden repuestos"
+  },
+  {
+    "codigo": "WO-00483378",
+    "cliente": "LATAM",
+    "estado": "Despachado",
     "fecha": "26/08/2026",
     "interno": "XCO549",
     "fechaIngreso": "2026-08-25",
@@ -317,11 +328,5 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "10/05/2021"
-  },
-  {
-    "codigo": "WO-00016621",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "13/05/2021"
   }
 ]

@@ -27,17 +27,6 @@ let garantiasSinRevisar = [
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "6a84bf4063b401b75a3f8138",
-"fechaDeIngreso": "2026-08-18",
-"horaDeIngreso": "15:23:26",
-"codigo": "UXL050",
-"producto": "plancha vapor oster",
-"falla": "no bota vapor y le sales una bolitas blancas en el vapor",
-"referencia": "GCSTES-101-013",
-"lugarDeCompra": "ALKOMPRAR",
-"tipoDeServicio": "Garantía Oster"
-},
-{
 "_id": "6a88d165dbbebb2644fcb4bb",
 "fechaDeIngreso": "2026-08-21",
 "horaDeIngreso": "17:29:54",
@@ -134,6 +123,50 @@ let garantiasSinRevisar = [
 "falla": "no prende",
 "referencia": "L87560",
 "lugarDeCompra": "UNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a919a515170049a38ecd81d",
+"fechaDeIngreso": "2026-08-28",
+"horaDeIngreso": "09:25:19",
+"codigo": "VJN431",
+"producto": "licuadora universal de teclas negra",
+"falla": "sale chispas en el motor",
+"referencia": "L50803",
+"lugarDeCompra": "OLÍMPICA",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a9331b49a899bfeb60c0273",
+"fechaDeIngreso": "2026-08-29",
+"horaDeIngreso": "14:23:30",
+"codigo": "KBQ219",
+"producto": "lucuadora universal potency",
+"falla": "sale chispas",
+"referencia": "L50861",
+"lugarDeCompra": "CRISTALERIA EL HOGAR MODERNO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6a95b0e28f75d752a52f2894",
+"fechaDeIngreso": "2026-08-31",
+"horaDeIngreso": "11:50:41",
+"codigo": "EXM030",
+"producto": "freidora de aire 3,8 oster",
+"falla": "no enciende",
+"referencia": "CKSTAF38MNS-014",
+"lugarDeCompra": "ARA",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6a95d5b7fc52b07fa9ff5c76",
+"fechaDeIngreso": "2026-08-31",
+"horaDeIngreso": "14:27:49",
+"codigo": "OWK414",
+"producto": "plancha vertocal pro",
+"falla": "no calienta bien no sale vapor",
+"referencia": "L95830",
+"lugarDeCompra": "UNICO LANDER",
 "tipoDeServicio": "Garantía Universal"
 }
 ]

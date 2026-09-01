@@ -2,8 +2,6 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
-Productos
-Cuenta del centro de servicio
 Más
 Search...
 
@@ -61,6 +59,15 @@ Jhon Fredy Bahamon Bonilla
 2217256
 
 En progreso
+WO-00485282
+31/08/2026 03:50 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Sindi Caterine Cortes Rojas
+LATAM
+Jhon Fredy Bahamon Bonilla
+2205985
+
+Despachado
 WO-00483378
 26/08/2026 06:26 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -491,15 +498,6 @@ Gloria Escobar
 LATAM
 Jhon Fredy Bahamon Bonilla
 GCSTBSRC202013
-
-Entregado
-WO-00016621
-13/05/2021 03:59 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Esther Julia Garcia
-LATAM
-Jhon Fredy Bahamon Bonilla
-2499013000
 .© 2020 Newell Brands
 
 Órdenes de trabajo
