@@ -2,6 +2,7 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
+Productos
 Más
 Search...
 
@@ -49,6 +50,15 @@ Producto
 
 Acción
 
+Nuevo
+WO-00485769
+2/09/2026 08:27 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Claudia Esperanza Murcia
+LATAM
+Jhon Fredy Bahamon Bonilla
+2204926
+
 En progreso
 WO-00479974
 8/08/2026 03:44 p. m.
@@ -59,13 +69,22 @@ Jhon Fredy Bahamon Bonilla
 2217256
 
 En progreso
-WO-00485282
-31/08/2026 03:50 p. m.
+WO-00485725
+2/09/2026 03:27 p. m.
 ALMACENES UNIVERSAL S.A.S.
-Sindi Caterine Cortes Rojas
+Olga Marina Gomez
 LATAM
 Jhon Fredy Bahamon Bonilla
-2205985
+2174272
+
+En progreso
+WO-00485768
+2/09/2026 07:45 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Vianed Medina Castro
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
 
 Despachado
 WO-00483378
@@ -102,6 +121,24 @@ Jose Medardo Garzon Rodriguez
 LATAM
 Jhon Fredy Bahamon Bonilla
 2226866
+
+Pre-terminado
+WO-00485282
+31/08/2026 03:50 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Sindi Caterine Cortes Rojas
+LATAM
+Jhon Fredy Bahamon Bonilla
+2205985
+
+Pre-terminado
+WO-00485730
+2/09/2026 03:41 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Juan Camilo Calderon
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
 
 Entregado
 WO-00008264
@@ -462,42 +499,6 @@ Benjamin Osorio Valenzuela
 LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
-
-Entregado
-WO-00139576
-9/10/2022 11:28 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Lisseth Cruz Ruiz
-LATAM
-Jhon Fredy Bahamon Bonilla
-2129371
-
-Entregado
-WO-00015863
-10/05/2021 11:53 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Yedmi Bermeo
-LATAM
-Jhon Fredy Bahamon Bonilla
-2081367
-
-Entregado
-WO-00015892
-10/05/2021 02:21 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Luz Mary Plazas Fierro
-LATAM
-Jhon Fredy Bahamon Bonilla
-33160051
-
-Entregado
-WO-00015902
-10/05/2021 03:09 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Gloria Escobar
-LATAM
-Jhon Fredy Bahamon Bonilla
-GCSTBSRC202013
 .© 2020 Newell Brands
 
 Órdenes de trabajo

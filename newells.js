@@ -1,5 +1,16 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00485769",
+    "cliente": "LATAM",
+    "estado": "Nuevo",
+    "fecha": "02/09/2026",
+    "interno": "BIZ912",
+    "fechaIngreso": "2026-09-01",
+    "productoIngreso": "freidora oster 4litros",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[miércoles, 2 de septiembre de 2026]prende norma"
+  },
+  {
     "codigo": "WO-00479974",
     "cliente": "LATAM",
     "estado": "En progreso",
@@ -11,15 +22,26 @@ let garantiasNewells = [
     "observaciones": "[sábado, 8 de agosto de 2026]se repara con cable prestado-[viernes, 21 de agosto de 2026]entregada"
   },
   {
-    "codigo": "WO-00485282",
+    "codigo": "WO-00485725",
     "cliente": "LATAM",
     "estado": "En progreso",
-    "fecha": "31/08/2026",
-    "interno": "UXL050",
-    "fechaIngreso": "2026-08-18",
-    "productoIngreso": "plancha vapor oster",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[martes, 1 de septiembre de 2026]problema hidraulico, se piden repuestos"
+    "fecha": "02/09/2026",
+    "interno": "ZRX198",
+    "fechaIngreso": "2026-08-24",
+    "productoIngreso": "licuadora de 8",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00485768",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "02/09/2026",
+    "interno": "CGS975",
+    "fechaIngreso": "2026-08-26",
+    "productoIngreso": "freidora oster de 3,8 litros",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": ""
   },
   {
     "codigo": "WO-00483378",
@@ -64,6 +86,28 @@ let garantiasNewells = [
     "productoIngreso": "plancha oster azul aeroglide",
     "lugarDeCompra": "HOMECENTER",
     "observaciones": "[lunes, 17 de agosto de 2026]pedir explosivo para pedir termostato y ressitencia-[lunes, 24 de agosto de 2026]van a d ar carta"
+  },
+  {
+    "codigo": "WO-00485282",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "31/08/2026",
+    "interno": "UXL050",
+    "fechaIngreso": "2026-08-18",
+    "productoIngreso": "plancha vapor oster",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[martes, 1 de septiembre de 2026]problema hidraulico, se piden repuestos"
+  },
+  {
+    "codigo": "WO-00485730",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "02/09/2026",
+    "interno": "EXM030",
+    "fechaIngreso": "2026-08-31",
+    "productoIngreso": "freidora de aire 3,8 oster",
+    "lugarDeCompra": "ARA",
+    "observaciones": ""
   },
   {
     "codigo": "WO-00008264",
@@ -304,29 +348,5 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "08/10/2022"
-  },
-  {
-    "codigo": "WO-00139576",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "09/10/2022"
-  },
-  {
-    "codigo": "WO-00015863",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
-  },
-  {
-    "codigo": "WO-00015892",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
-  },
-  {
-    "codigo": "WO-00015902",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
   }
 ]
