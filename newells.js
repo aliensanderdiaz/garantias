@@ -1,25 +1,9 @@
 let garantiasNewells = [
   {
-    "codigo": "WO-00485725",
+    "codigo": "WO-00485769",
     "cliente": "LATAM",
-    "estado": "Aprobación pendiente",
-    "fecha": "02/09/2026",
-    "interno": "ZRX198",
-    "fechaIngreso": "2026-08-24",
-    "productoIngreso": "licuadora de 8",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[miércoles, 9 de septiembre de 2026]van a dar carta"
-  },
-  {
-    "codigo": "WO-00483378",
-    "cliente": "LATAM",
-    "estado": "Despachado",
-    "fecha": "26/08/2026",
-    "interno": "XCO549",
-    "fechaIngreso": "2026-08-25",
-    "productoIngreso": "licuadora oster de dos velocidades",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[miércoles, 26 de agosto de 2026]motor y suiche-[miércoles, 9 de septiembre de 2026]Llega motor y suiche"
+    "estado": "Entregado",
+    "fecha": "02/09/2026"
   },
   {
     "codigo": "WO-00485768",
@@ -33,300 +17,301 @@ let garantiasNewells = [
     "observaciones": "[miércoles, 9 de septiembre de 2026]Llega resistencia y otro repuesto"
   },
   {
-    "codigo": "WO-00469711",
+    "codigo": "WO-00485730",
     "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "02/09/2026"
+  },
+  {
+    "codigo": "WO-00485725",
+    "cliente": "Si",
     "estado": "Pre-terminado",
-    "fecha": "27/06/2026",
-    "interno": "BMR408",
-    "fechaIngreso": "2026-06-16",
-    "productoIngreso": "licuadora oster de 2 velocidad negra",
-    "lugarDeCompra": "ALMACENE UNIVERSAL",
-    "observaciones": "[sábado, 27 de junio de 2026]se pidió motor y suiche-[sábado, 4 de julio de 2026]LLEGÓ MOTOR Y SUICHE-[lunes, 6 de julio de 2026]reparado"
+    "fecha": "02/09/2026",
+    "interno": "ZRX198",
+    "fechaIngreso": "2026-08-24",
+    "productoIngreso": "licuadora de 8",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": "[miércoles, 9 de septiembre de 2026]van a dar carta"
+  },
+  {
+    "codigo": "WO-00485282",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "31/08/2026"
+  },
+  {
+    "codigo": "WO-00483378",
+    "cliente": "LATAM",
+    "estado": "Despachado",
+    "fecha": "26/08/2026",
+    "interno": "XCO549",
+    "fechaIngreso": "2026-08-25",
+    "productoIngreso": "licuadora oster de dos velocidades",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[miércoles, 26 de agosto de 2026]motor y suiche-[miércoles, 9 de septiembre de 2026]Llega motor y suiche"
+  },
+  {
+    "codigo": "WO-00481625",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "17/08/2026"
+  },
+  {
+    "codigo": "WO-00481616",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "17/08/2026"
+  },
+  {
+    "codigo": "WO-00481611",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "17/08/2026"
+  },
+  {
+    "codigo": "WO-00481605",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "17/08/2026"
+  },
+  {
+    "codigo": "WO-00481599",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "17/08/2026"
+  },
+  {
+    "codigo": "WO-00479988",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "08/08/2026"
+  },
+  {
+    "codigo": "WO-00479980",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "08/08/2026"
+  },
+  {
+    "codigo": "WO-00479974",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "08/08/2026"
   },
   {
     "codigo": "WO-00479972",
     "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "08/08/2026",
-    "interno": "EOH424",
-    "fechaIngreso": "2026-07-15",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 8 de agosto de 2026]se pide motor-[sábado, 22 de agosto de 2026]llega motor-[sábado, 22 de agosto de 2026]Reparado"
+    "estado": "Entregado",
+    "fecha": "08/08/2026"
   },
   {
-    "codigo": "WO-00485769",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "02/09/2026",
-    "interno": "BIZ912",
-    "fechaIngreso": "2026-09-01",
-    "productoIngreso": "freidora oster 4litros",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]prende norma"
+    "codigo": "WO-00477386",
+    "cliente": "Si",
+    "estado": "Entregado",
+    "fecha": "28/07/2026"
   },
   {
-    "codigo": "WO-00008264",
+    "codigo": "WO-00473852",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "15/03/2021"
+    "fecha": "16/07/2026"
   },
   {
-    "codigo": "WO-00009609",
+    "codigo": "WO-00473291",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "30/03/2021"
+    "fecha": "14/07/2026"
   },
   {
-    "codigo": "WO-00009713",
+    "codigo": "WO-00472186",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "31/03/2021"
+    "fecha": "08/07/2026"
   },
   {
-    "codigo": "WO-00009985",
+    "codigo": "WO-00472019",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "06/04/2021"
+    "fecha": "08/07/2026"
   },
   {
-    "codigo": "WO-00010390",
+    "codigo": "WO-00471750",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "08/04/2021"
+    "fecha": "06/07/2026"
   },
   {
-    "codigo": "WO-00011325",
-    "cliente": "LATAM",
+    "codigo": "WO-00471078",
+    "cliente": "Si",
     "estado": "Entregado",
-    "fecha": "16/04/2021"
+    "fecha": "03/07/2026"
   },
   {
-    "codigo": "WO-00086603",
+    "codigo": "WO-00469711",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "14/03/2022"
+    "fecha": "27/06/2026"
   },
   {
-    "codigo": "WO-00088117",
+    "codigo": "WO-00469705",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "22/03/2022"
+    "fecha": "27/06/2026"
   },
   {
-    "codigo": "WO-00088156",
+    "codigo": "WO-00467484",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "22/03/2022"
+    "fecha": "22/06/2026"
   },
   {
-    "codigo": "WO-00090393",
-    "cliente": "LATAM",
+    "codigo": "WO-00467479",
+    "cliente": "Si",
     "estado": "Entregado",
-    "fecha": "30/03/2022"
+    "fecha": "22/06/2026"
   },
   {
-    "codigo": "WO-00090533",
+    "codigo": "WO-00467258",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "30/03/2022"
+    "fecha": "19/06/2026"
   },
   {
-    "codigo": "WO-00092491",
+    "codigo": "WO-00467255",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "06/04/2022"
+    "fecha": "19/06/2026"
   },
   {
-    "codigo": "WO-00092549",
+    "codigo": "WO-00464942",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "06/04/2022"
+    "fecha": "09/06/2026"
   },
   {
-    "codigo": "WO-00094493",
+    "codigo": "WO-00464933",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "19/04/2022"
+    "fecha": "09/06/2026"
   },
   {
-    "codigo": "WO-00095721",
+    "codigo": "WO-00463230",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "22/04/2022"
+    "fecha": "01/06/2026"
   },
   {
-    "codigo": "WO-00096554",
+    "codigo": "WO-00461778",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "26/04/2022"
+    "fecha": "27/05/2026"
   },
   {
-    "codigo": "WO-00097317",
+    "codigo": "WO-00461777",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "28/04/2022"
+    "fecha": "27/05/2026"
   },
   {
-    "codigo": "WO-00097421",
+    "codigo": "WO-00460508",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "28/04/2022"
+    "fecha": "23/05/2026"
   },
   {
-    "codigo": "WO-00099597",
+    "codigo": "WO-00457579",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "06/05/2022"
+    "fecha": "12/05/2026"
   },
   {
-    "codigo": "WO-00100770",
+    "codigo": "WO-00457577",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "12/05/2022"
+    "fecha": "12/05/2026"
   },
   {
-    "codigo": "WO-00102118",
+    "codigo": "WO-00457574",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "18/05/2022"
+    "fecha": "12/05/2026"
   },
   {
-    "codigo": "WO-00102355",
+    "codigo": "WO-00457566",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "19/05/2022"
+    "fecha": "12/05/2026"
   },
   {
-    "codigo": "WO-00123940",
+    "codigo": "WO-00452337",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "06/08/2022"
+    "fecha": "22/04/2026"
   },
   {
-    "codigo": "WO-00123941",
+    "codigo": "WO-00451693",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "06/08/2022"
+    "fecha": "20/04/2026"
   },
   {
-    "codigo": "WO-00124109",
+    "codigo": "WO-00451438",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "08/08/2022"
+    "fecha": "20/04/2026"
   },
   {
-    "codigo": "WO-00124355",
+    "codigo": "WO-00451422",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "09/08/2022"
+    "fecha": "19/04/2026"
   },
   {
-    "codigo": "WO-00124806",
+    "codigo": "WO-00451417",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "11/08/2022"
+    "fecha": "19/04/2026"
   },
   {
-    "codigo": "WO-00124925",
+    "codigo": "WO-00451410",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "11/08/2022"
+    "fecha": "19/04/2026"
   },
   {
-    "codigo": "WO-00127138",
+    "codigo": "WO-00451406",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "23/08/2022"
+    "fecha": "19/04/2026"
   },
   {
-    "codigo": "WO-00128499",
+    "codigo": "WO-00448661",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "27/08/2022"
+    "fecha": "08/04/2026"
   },
   {
-    "codigo": "WO-00133900",
+    "codigo": "WO-00448328",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "18/09/2022"
+    "fecha": "06/04/2026"
   },
   {
-    "codigo": "WO-00134027",
+    "codigo": "WO-00447984",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "19/09/2022"
+    "fecha": "04/04/2026"
   },
   {
-    "codigo": "WO-00134282",
+    "codigo": "WO-00445086",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "20/09/2022"
+    "fecha": "24/03/2026"
   },
   {
-    "codigo": "WO-00134309",
+    "codigo": "WO-00443297",
     "cliente": "LATAM",
     "estado": "Entregado",
-    "fecha": "20/09/2022"
-  },
-  {
-    "codigo": "WO-00137053",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "29/09/2022"
-  },
-  {
-    "codigo": "WO-00138334",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "03/10/2022"
-  },
-  {
-    "codigo": "WO-00138539",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "04/10/2022"
-  },
-  {
-    "codigo": "WO-00139375",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "07/10/2022"
-  },
-  {
-    "codigo": "WO-00139571",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "08/10/2022"
-  },
-  {
-    "codigo": "WO-00139572",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "08/10/2022"
-  },
-  {
-    "codigo": "WO-00139576",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "09/10/2022"
-  },
-  {
-    "codigo": "WO-00015863",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
-  },
-  {
-    "codigo": "WO-00015892",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
-  },
-  {
-    "codigo": "WO-00015902",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "10/05/2021"
+    "fecha": "17/03/2026"
   }
 ]

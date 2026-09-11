@@ -15,7 +15,6 @@ let garantiasSinRevisar = [
 "lugarDeCompra": "UNICO",
 "tipoDeServicio": "Garantía Universal"
 },
-
 {
 "_id": "6aa08bdf539b3934336e4736",
 "fechaDeIngreso": "2026-09-08",
@@ -35,6 +34,17 @@ let garantiasSinRevisar = [
 "producto": "termo bomba universal 4 litros",
 "falla": "no calienta",
 "referencia": "L90022",
+"lugarDeCompra": "ÚNICO",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6aa2c0b727578ed0f4abe81a",
+"fechaDeIngreso": "2026-09-10",
+"horaDeIngreso": "09:37:41",
+"codigo": "KYJ137",
+"producto": "lucuadora universal",
+"falla": "no prende",
+"referencia": "L62070",
 "lugarDeCompra": "ÚNICO",
 "tipoDeServicio": "Garantía Universal"
 }
@@ -59,7 +69,13 @@ let garantiasExitoPitalito = [
     // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
 '2026-08-25 - 14:33:05 - XCO549 - WO-00483378 - Garantía Oster - licuadora oster de dos velocidades - FALLA: motor recalendato - Lugar de Compra: ALMACÉN UNIVERSAL',
 
-'2026-08-26 - 09:39:06 - CGS975 - WO-00485768 - Garantía Oster - freidora oster de 3,8 litros - FALLA: prende pero no calienta la señora dice que es la segunda vez - Lugar de Compra: HOMECENTER'
+'2026-08-26 - 09:39:06 - CGS975 - WO-00485768 - Garantía Oster - freidora oster de 3,8 litros - FALLA: prende pero no calienta la señora dice que es la segunda vez - Lugar de Compra: HOMECENTER',
+'MRG029	GRT-79767	ventilador univ',
+'HWS901	GRT-79758	licuadora univ',
+'AYU091	GRT-79769	ventilador univ',
+'GAJ714	GRT-79762	ventilador univ',
+'KBQ219	GRT-79759	lucuadora unive',
+'OWK414	GRT-79760	plancha vertoca'
 ]
 
 

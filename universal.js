@@ -7,7 +7,7 @@ let garantiasUniversal = [
     "referencia": "L40600",
     "producto": "PLANCHA SECA LA TRADICIONAL",
     "falla": "Termostato Sin continuidad ",
-    "s2": "PENDIENTE",
+    "s2": "26014932",
     "fecha": "09/09/2026",
     "interno": "AVP790",
     "fechaIngreso": "2026-09-07",
@@ -49,7 +49,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-79774",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "35253250",
     "referencia": "L87580",
@@ -61,11 +61,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-24",
     "productoIngreso": "freidora universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]25000870 tarjeta y suiche o cambio"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]25000870 tarjeta y suiche o cambio-[viernes, 11 de septiembre de 2026]llega freidora"
   },
   {
     "codigo": "GRT-79773",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075279078",
     "referencia": "L75545",
@@ -77,11 +77,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-01",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor-[viernes, 11 de septiembre de 2026]llega ventilador"
   },
   {
     "codigo": "GRT-79771",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36155811",
     "referencia": "L50803",
@@ -93,11 +93,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-28",
     "productoIngreso": "licuadora universal de teclas negra",
     "lugarDeCompra": "OLÍMPICA",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]24000531 motor y tecado"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]24000531 motor y tecado-[viernes, 11 de septiembre de 2026]llega licuadora"
   },
   {
     "codigo": "GRT-79769",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1003951410",
     "referencia": "L76680",
@@ -109,11 +109,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-24",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]24000144 motor"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]24000144 motor-[viernes, 11 de septiembre de 2026]llega motor"
   },
   {
     "codigo": "GRT-79767",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1131111818",
     "referencia": "L75680",
@@ -125,11 +125,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-21",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "COMERCIAL BAHIA",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor-[viernes, 11 de septiembre de 2026]llega motor"
   },
   {
     "codigo": "GRT-79766",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7715160",
     "referencia": "L25675",
@@ -141,11 +141,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-18",
     "productoIngreso": "olla a presion ultra max",
     "lugarDeCompra": "UNICO",
-    "observaciones": ""
+    "observaciones": "[viernes, 11 de septiembre de 2026]llega olla a presion ultra"
   },
   {
     "codigo": "GRT-79764",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "52159167",
     "referencia": "L63270",
@@ -157,11 +157,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-15",
     "productoIngreso": "moledor automatico universal de sal y pimienta",
     "lugarDeCompra": "NOVAVENTA",
-    "observaciones": ""
+    "observaciones": "[viernes, 11 de septiembre de 2026]llega moledor"
   },
   {
     "codigo": "GRT-79762",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55153672",
     "referencia": "L76680",
@@ -173,11 +173,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-26",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]motor 24000144"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]motor 24000144-[viernes, 11 de septiembre de 2026]Llega motor"
   },
   {
     "codigo": "GRT-79761",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36380843",
     "referencia": "L87560",
@@ -189,11 +189,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-26",
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]reparado con microsuiche"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]reparado con microsuiche-[viernes, 11 de septiembre de 2026]Llega freidora"
   },
   {
     "codigo": "GRT-79760",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075304559",
     "referencia": "L95830",
@@ -205,11 +205,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-31",
     "productoIngreso": "plancha vertocal pro",
     "lugarDeCompra": "UNICO LANDER",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 25000218 tanque termostato"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 25000218 tanque termostato-[viernes, 11 de septiembre de 2026]llega control y resistencia mas tanque"
   },
   {
     "codigo": "GRT-79759",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55153460",
     "referencia": "L50861",
@@ -221,11 +221,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-29",
     "productoIngreso": "lucuadora universal potency",
     "lugarDeCompra": "CRISTALERIA EL HOGAR MODERNO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 25000069 pedir motor"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 25000069 pedir motor-[viernes, 11 de septiembre de 2026]llega motor"
   },
   {
     "codigo": "GRT-79758",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "30516912",
     "referencia": "L50803",
@@ -237,7 +237,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-22",
     "productoIngreso": "licuadora  universal tradicional",
     "lugarDeCompra": "LA FERIA DEL ALUMINIO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 24000581 pedir motor"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 24000581 pedir motor-[viernes, 11 de septiembre de 2026]llega motor"
   },
   {
     "codigo": "GRT-79282",
@@ -273,7 +273,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78757",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1014229697",
     "referencia": "L75690",
@@ -285,7 +285,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-03",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "EN EL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]Se solicita motor o validacion para cambio"
+    "observaciones": "[lunes, 17 de agosto de 2026]Se solicita motor o validacion para cambio-[viernes, 11 de septiembre de 2026]llega ventilador aero"
   },
   {
     "codigo": "GRT-78756",
@@ -334,38 +334,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "LANDER DEL UNICO",
     "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado-[jueves, 27 de agosto de 2026]DEVOLVER MICROSUICHE A MARY-[jueves, 27 de agosto de 2026]Reparada"
-  },
-  {
-    "codigo": "GRT-78752",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7696775",
-    "referencia": "L71300",
-    "producto": "VENTILADOR COMPACT FRESH",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26013293",
-    "fecha": "18/08/2026",
-    "interno": "ZFA049",
-    "fechaIngreso": "2026-08-10",
-    "productoIngreso": "ventilado universal pequeño",
-    "lugarDeCompra": "UNICO.",
-    "observaciones": "[lunes, 17 de agosto de 2026]se pide motor\n-[miércoles, 26 de agosto de 2026]llega motor-[miércoles, 2 de septiembre de 2026]reparado-[martes, 8 de septiembre de 2026]se le entreaga ventilador reparado motor\n"
-  },
-  {
-    "codigo": "GRT-78749",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1007681856",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26013292",
-    "fecha": "18/08/2026",
-    "interno": "GUT507",
-    "fechaIngreso": "2026-08-08",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]solicitud de motor-[miércoles, 26 de agosto de 2026]Llega motor-[miércoles, 2 de septiembre de 2026]reparado"
   },
   {
     "codigo": "GRT-78745",
@@ -449,7 +417,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-78289",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "5823590",
     "referencia": "L62090",
@@ -461,11 +429,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-29",
     "productoIngreso": "licuadora universal negra",
     "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]Se solicita tarjeta o cambio"
+    "observaciones": "[sábado, 8 de agosto de 2026]Se solicita tarjeta o cambio-[viernes, 11 de septiembre de 2026]llega licuadora elite"
   },
   {
     "codigo": "GRT-78288",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1075226786",
     "referencia": "L62090",
@@ -477,11 +445,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-03",
     "productoIngreso": "licuadora universal elite",
     "lugarDeCompra": "LANDER ÚNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]Validación / Cambio producto"
+    "observaciones": "[lunes, 17 de agosto de 2026]Validación / Cambio producto-[viernes, 11 de septiembre de 2026]Llega licuadora elite"
   },
   {
     "codigo": "GRT-78287",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "26425623",
     "referencia": "L62090",
@@ -493,7 +461,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-01",
     "productoIngreso": "lucuadora universal elite",
     "lugarDeCompra": "LANDER PAGUINA",
-    "observaciones": "[sábado, 8 de agosto de 2026]Solicito tarjeta electronica o validacion para cambio"
+    "observaciones": "[sábado, 8 de agosto de 2026]Solicito tarjeta electronica o validacion para cambio-[viernes, 11 de septiembre de 2026]llega licuadora elite"
   },
   {
     "codigo": "GRT-78224",
