@@ -127,10 +127,10 @@ htmlUniversal += `
     </thead>
     <tbody>`
 
-garantiasUniversal.forEach((garantia) => {
+garantiasUniversal.forEach((garantia, index) => {
     htmlUniversal += `
                 <tr>
-                <td>${ garantia.interno }</td>
+                <td>${index + 1} - ${ garantia.interno }</td>
                     <th scope="row">${ garantia.codigo }</th>
                     <td>${ garantia.fecha }</td>
                     <td>${ garantia.estado }</td>

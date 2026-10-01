@@ -50,6 +50,78 @@ Producto
 
 Acción
 
+En progreso
+WO-00491987
+30/09/2026 02:19 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Javier Cardoso Gutierrez
+LATAM
+Jhon Fredy Bahamon Bonilla
+FPSTJE316W013
+
+Pre-terminado
+WO-00491876
+30/09/2026 11:37 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Anyi Lorena Lugo
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
+En progreso
+WO-00491865
+30/09/2026 11:04 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Lucero Marin
+LATAM
+Jhon Fredy Bahamon Bonilla
+2204926
+
+En progreso
+WO-00491864
+30/09/2026 11:00 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Jimena Yumary Correa
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
+En progreso
+WO-00491080
+28/09/2026 10:36 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Lucero Losada Vargas
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
+Pre-terminado
+WO-00491073
+28/09/2026 10:31 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Didier Fabián Erazo Lasso
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
+Pre-terminado
+WO-00488614
+17/09/2026 06:27 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Yuly Sofia Perdomo Perdomo
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
+Pre-terminado
+WO-00488595
+17/09/2026 05:58 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Yuri Paola Alvarado
+LATAM
+Jhon Fredy Bahamon Bonilla
+2217256
+
 Entregado
 WO-00485769
 2/09/2026 08:27 p. m.
@@ -59,7 +131,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2204926
 
-Despachado
+Pre-terminado
 WO-00485768
 2/09/2026 07:45 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -96,7 +168,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2205985
 
-Despachado
+Entregado
 WO-00483378
 26/08/2026 06:26 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -431,79 +503,6 @@ Alexander Gallego
 LATAM
 Jhon Fredy Bahamon Bonilla
 2214165
-
-Entregado
-WO-00451417
-19/04/2026 09:26 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Alexander Gallego
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Entregado
-WO-00451410
-19/04/2026 09:16 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Lina Medina
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204926
-
-Entregado
-WO-00451406
-19/04/2026 09:10 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Alexander Gallego
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Entregado
-WO-00448661
-8/04/2026 07:46 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Lucia Andrade
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Entregado
-WO-00448328
-6/04/2026 07:56 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Kelaia Trujillo
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204927
-
-Entregado
-WO-00447984
-4/04/2026 05:13 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Saul Guilombo
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204933
-
-Entregado
-WO-00445086
-24/03/2026 05:04 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Andres Bernate
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Entregado
-WO-00443297
-17/03/2026 08:58 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Maria Elvira De Los Angeles Rojas Gomez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2122055
 .© 2020 Newell Brands
 
-Operación correcta notificación,Estado de la orden de trabajo cambió correctamente. Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
 Órdenes de trabajo

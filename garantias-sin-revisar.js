@@ -5,48 +5,48 @@
 
 let garantiasSinRevisar = [
 {
-"_id": "6a98a347ec1b3e14d69e21d4",
-"fechaDeIngreso": "2026-09-02",
-"horaDeIngreso": "17:29:25",
-"codigo": "GYO855",
-"producto": "ventilador universal digital",
-"falla": "se frena",
-"referencia": "L76680",
-"lugarDeCompra": "UNICO",
+"_id": "6aba9a490c3df08ce8a701de",
+"fechaDeIngreso": "2026-09-28",
+"horaDeIngreso": "11:48:06",
+"codigo": "GJN781",
+"producto": "santen granito",
+"falla": "se pelo y tienes unos rayones el sarten",
+"referencia": "OI25000090",
+"lugarDeCompra": "LANDER",
 "tipoDeServicio": "Garantía Universal"
 },
 {
-"_id": "6aa08bdf539b3934336e4736",
-"fechaDeIngreso": "2026-09-08",
-"horaDeIngreso": "17:27:41",
-"codigo": "TIW873",
-"producto": "ventilaldor universal digital",
-"falla": "frenado",
-"referencia": "L76680",
-"lugarDeCompra": "LANDER DEL ÚNICO",
-"tipoDeServicio": "Garantía Universal"
-},
-{
-"_id": "6aa1849e9321848fb1c3055d",
-"fechaDeIngreso": "2026-09-09",
-"horaDeIngreso": "11:09:00",
-"codigo": "HNW227",
-"producto": "termo bomba universal 4 litros",
-"falla": "no calienta",
-"referencia": "L90022",
-"lugarDeCompra": "ÚNICO",
-"tipoDeServicio": "Garantía Universal"
-},
-{
-"_id": "6aa2c0b727578ed0f4abe81a",
-"fechaDeIngreso": "2026-09-10",
-"horaDeIngreso": "09:37:41",
-"codigo": "KYJ137",
-"producto": "lucuadora universal",
+"_id": "6abad07fc3ece56a29780513",
+"fechaDeIngreso": "2026-09-28",
+"horaDeIngreso": "15:39:26",
+"codigo": "JHZ655",
+"producto": "licuadora oster clasica",
 "falla": "no prende",
-"referencia": "L62070",
-"lugarDeCompra": "ÚNICO",
-"tipoDeServicio": "Garantía Universal"
+"referencia": "BLST4655-013",
+"lugarDeCompra": "ALMACEN SUPER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6abc3ba49bbfeb43a4cfad94",
+"fechaDeIngreso": "2026-09-29",
+"horaDeIngreso": "17:28:51",
+"codigo": "KDC068",
+"producto": "licuadora oster xtreme mix",
+"falla": "no enciende",
+"referencia": "BLSTXPG-BW",
+"lugarDeCompra": "MOVILCENTER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6abd741ff932534205fb5efd",
+"fechaDeIngreso": "2026-09-30",
+"horaDeIngreso": "15:42:05",
+"codigo": "ELB381",
+"producto": "licuadora oster clasica",
+"falla": "motor recalentado y mirar suiche",
+"referencia": "BLST4655-013",
+"lugarDeCompra": "MEICO",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 
@@ -63,19 +63,17 @@ let garantiasSinRevisar = [
 
 
 // SIN REPARAR
+// '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
+
+
 let garantiasExitoPitalito = [
 
 
-    // '2026-03-28 - 16:35:22 - WO-00447984 - HTL592 - Garantía Oster - freidora oster de 7.5 digital - FALLA: no calienta - Lugar de Compra: HOMECENTER'
-'2026-08-25 - 14:33:05 - XCO549 - WO-00483378 - Garantía Oster - licuadora oster de dos velocidades - FALLA: motor recalendato - Lugar de Compra: ALMACÉN UNIVERSAL',
+    'RLA742	GRT-80158	ventilador univ	- ALMACENES UNIVE - llega motor',
+    'KSC477	GRT-80159	licuadora unive	- LANDER ÚNICO - lega motor',
+    'AVP790	GRT-80160	plancha seca un	- OLIMPICA - llega termostato'
 
-'2026-08-26 - 09:39:06 - CGS975 - WO-00485768 - Garantía Oster - freidora oster de 3,8 litros - FALLA: prende pero no calienta la señora dice que es la segunda vez - Lugar de Compra: HOMECENTER',
-'MRG029	GRT-79767	ventilador univ',
-'HWS901	GRT-79758	licuadora univ',
-'AYU091	GRT-79769	ventilador univ',
-'GAJ714	GRT-79762	ventilador univ',
-'KBQ219	GRT-79759	lucuadora unive',
-'OWK414	GRT-79760	plancha vertoca'
+
 ]
 
 

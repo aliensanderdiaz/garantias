@@ -1,5 +1,93 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00491987",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "30/09/2026",
+    "interno": "AJK067",
+    "fechaIngreso": "2026-09-23",
+    "productoIngreso": "extractor de jugos",
+    "lugarDeCompra": "HOMECENTER",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00491876",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "30/09/2026",
+    "interno": "NYD596",
+    "fechaIngreso": "2026-09-21",
+    "productoIngreso": "freidora oster de 3.8",
+    "lugarDeCompra": "MUNDIAL TODO PARA TU HOGAR",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00491865",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "30/09/2026",
+    "interno": "GNV786",
+    "fechaIngreso": "2026-09-24",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "MARITZA TRUJILLO POLANIA",
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir resistencia termocontrol motor (soporte para enrollar cable sobrecalentado)"
+  },
+  {
+    "codigo": "WO-00491864",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "30/09/2026",
+    "interno": "ZCI687",
+    "fechaIngreso": "2026-09-26",
+    "productoIngreso": "freidora oster 3.8",
+    "lugarDeCompra": "ALAMCENES OPORTUNIDADES",
+    "observaciones": ""
+  },
+  {
+    "codigo": "WO-00491080",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "28/09/2026",
+    "interno": "PFQ131",
+    "fechaIngreso": "2026-09-23",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir termocontrol y resistencia-[domingo, 27 de septiembre de 2026]viene con la coraza con sobrecalentamiento"
+  },
+  {
+    "codigo": "WO-00491073",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "28/09/2026",
+    "interno": "KQF330",
+    "fechaIngreso": "2026-09-25",
+    "productoIngreso": "freidora oster de 3.8",
+    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
+    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con ajustes internos"
+  },
+  {
+    "codigo": "WO-00488614",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "17/09/2026",
+    "interno": "LZH543",
+    "fechaIngreso": "2026-09-15",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "ARA",
+    "observaciones": "[jueves, 17 de septiembre de 2026]La tapa esta averiada por calor, Reparado con fusibles prestados-[miércoles, 30 de septiembre de 2026]Llega fusible, entregar a mary"
+  },
+  {
+    "codigo": "WO-00488595",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "17/09/2026",
+    "interno": "IZY122",
+    "fechaIngreso": "2026-09-11",
+    "productoIngreso": "cafetera oster de 12 taza",
+    "lugarDeCompra": "CRISTALERÍA ISNOS",
+    "observaciones": "[jueves, 17 de septiembre de 2026]se piden mangueras-[lunes, 21 de septiembre de 2026]dieron carta, enviar producto sin reparar para funza"
+  },
+  {
     "codigo": "WO-00485769",
     "cliente": "LATAM",
     "estado": "Entregado",
@@ -8,13 +96,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00485768",
     "cliente": "LATAM",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "02/09/2026",
     "interno": "CGS975",
     "fechaIngreso": "2026-08-26",
     "productoIngreso": "freidora oster de 3,8 litros",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[miércoles, 9 de septiembre de 2026]Llega resistencia y otro repuesto"
+    "observaciones": "[miércoles, 9 de septiembre de 2026]Llega resistencia y otro repuesto-[jueves, 17 de septiembre de 2026]reparada"
   },
   {
     "codigo": "WO-00485730",
@@ -42,13 +130,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00483378",
     "cliente": "LATAM",
-    "estado": "Despachado",
-    "fecha": "26/08/2026",
-    "interno": "XCO549",
-    "fechaIngreso": "2026-08-25",
-    "productoIngreso": "licuadora oster de dos velocidades",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[miércoles, 26 de agosto de 2026]motor y suiche-[miércoles, 9 de septiembre de 2026]Llega motor y suiche"
+    "estado": "Entregado",
+    "fecha": "26/08/2026"
   },
   {
     "codigo": "WO-00481625",
@@ -265,53 +348,5 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "19/04/2026"
-  },
-  {
-    "codigo": "WO-00451417",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "19/04/2026"
-  },
-  {
-    "codigo": "WO-00451410",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "19/04/2026"
-  },
-  {
-    "codigo": "WO-00451406",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "19/04/2026"
-  },
-  {
-    "codigo": "WO-00448661",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "08/04/2026"
-  },
-  {
-    "codigo": "WO-00448328",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "06/04/2026"
-  },
-  {
-    "codigo": "WO-00447984",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "04/04/2026"
-  },
-  {
-    "codigo": "WO-00445086",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "24/03/2026"
-  },
-  {
-    "codigo": "WO-00443297",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "17/03/2026"
   }
 ]
