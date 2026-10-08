@@ -2,13 +2,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00491987",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "30/09/2026",
     "interno": "AJK067",
     "fechaIngreso": "2026-09-23",
     "productoIngreso": "extractor de jugos",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": ""
+    "observaciones": "[jueves, 1 de octubre de 2026]Se pide motor"
   },
   {
     "codigo": "WO-00491876",
@@ -19,73 +19,58 @@ let garantiasNewells = [
     "fechaIngreso": "2026-09-21",
     "productoIngreso": "freidora oster de 3.8",
     "lugarDeCompra": "MUNDIAL TODO PARA TU HOGAR",
-    "observaciones": ""
+    "observaciones": "[jueves, 1 de octubre de 2026]Revisada y reparada con fusibles prestado"
   },
   {
     "codigo": "WO-00491865",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Pre-terminado",
     "fecha": "30/09/2026",
     "interno": "GNV786",
     "fechaIngreso": "2026-09-24",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "MARITZA TRUJILLO POLANIA",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir resistencia termocontrol motor (soporte para enrollar cable sobrecalentado)"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir resistencia termocontrol motor (soporte para enrollar cable sobrecalentado)-[martes, 6 de octubre de 2026]van a dar carta-[martes, 6 de octubre de 2026]carta aprobada"
   },
   {
     "codigo": "WO-00491864",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Despachado",
     "fecha": "30/09/2026",
     "interno": "ZCI687",
     "fechaIngreso": "2026-09-26",
     "productoIngreso": "freidora oster 3.8",
     "lugarDeCompra": "ALAMCENES OPORTUNIDADES",
-    "observaciones": ""
+    "observaciones": "[jueves, 1 de octubre de 2026]Se pide resistencia (cable solo marcas, manija con pegamento)"
   },
   {
     "codigo": "WO-00491080",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Intervención técnica",
     "fecha": "28/09/2026",
     "interno": "PFQ131",
     "fechaIngreso": "2026-09-23",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir termocontrol y resistencia-[domingo, 27 de septiembre de 2026]viene con la coraza con sobrecalentamiento"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir termocontrol y resistencia-[domingo, 27 de septiembre de 2026]viene con la coraza con sobrecalentamiento-[viernes, 2 de octubre de 2026]Llegan los 2 repuestos"
   },
   {
     "codigo": "WO-00491073",
     "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "28/09/2026",
-    "interno": "KQF330",
-    "fechaIngreso": "2026-09-25",
-    "productoIngreso": "freidora oster de 3.8",
-    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con ajustes internos"
+    "estado": "Entregado",
+    "fecha": "28/09/2026"
   },
   {
     "codigo": "WO-00488614",
     "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "17/09/2026",
-    "interno": "LZH543",
-    "fechaIngreso": "2026-09-15",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[jueves, 17 de septiembre de 2026]La tapa esta averiada por calor, Reparado con fusibles prestados-[miércoles, 30 de septiembre de 2026]Llega fusible, entregar a mary"
+    "estado": "Entregado",
+    "fecha": "17/09/2026"
   },
   {
     "codigo": "WO-00488595",
     "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "17/09/2026",
-    "interno": "IZY122",
-    "fechaIngreso": "2026-09-11",
-    "productoIngreso": "cafetera oster de 12 taza",
-    "lugarDeCompra": "CRISTALERÍA ISNOS",
-    "observaciones": "[jueves, 17 de septiembre de 2026]se piden mangueras-[lunes, 21 de septiembre de 2026]dieron carta, enviar producto sin reparar para funza"
+    "estado": "Entregado",
+    "fecha": "17/09/2026"
   },
   {
     "codigo": "WO-00485769",
@@ -113,13 +98,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00485725",
     "cliente": "Si",
-    "estado": "Pre-terminado",
-    "fecha": "02/09/2026",
-    "interno": "ZRX198",
-    "fechaIngreso": "2026-08-24",
-    "productoIngreso": "licuadora de 8",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[miércoles, 9 de septiembre de 2026]van a dar carta"
+    "estado": "Entregado",
+    "fecha": "02/09/2026"
   },
   {
     "codigo": "WO-00485282",

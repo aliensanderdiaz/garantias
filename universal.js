@@ -17,19 +17,19 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81401",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36348108",
     "referencia": "L50803",
     "producto": "LICUADORA LA TRADICIONAL",
     "falla": "Motor Bobinas en corto,Selector de velocidades Sin continuidad",
-    "s2": "",
+    "s2": "26016306",
     "fecha": "30/09/2026",
     "interno": "ENS519",
     "fechaIngreso": "2026-09-25",
     "productoIngreso": "motor licuadora universal negra  tradicional",
     "lugarDeCompra": "COMERCIALIZADORA MAITTE",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]motor y teclado"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]motor y teclado-[martes, 6 de octubre de 2026]llega licuadora"
   },
   {
     "codigo": "GRT-81400",
@@ -45,17 +45,17 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-15",
     "productoIngreso": "olla arrocera 7taza  negra  universal",
     "lugarDeCompra": "TIENDA POPULAR",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]reparado con fusible"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]reparado con fusible-[martes, 6 de octubre de 2026]se le entrega olla arrocera a el señor reparada "
   },
   {
     "codigo": "GRT-81399",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "83235110",
     "referencia": "L95485",
     "producto": "PLANCHA A VAPOR POWER",
     "falla": "Resistencia Sin continuidad,Termostato Sin continuidad ",
-    "s2": "",
+    "s2": "26016546",
     "fecha": "30/09/2026",
     "interno": "HFN122",
     "fechaIngreso": "2026-09-12",
@@ -65,61 +65,61 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81398",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "55172395",
     "referencia": "L90022",
     "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
     "falla": "Cuerpo Mal ensamble",
-    "s2": "",
+    "s2": "26016338",
     "fecha": "30/09/2026",
     "interno": "WAB184",
     "fechaIngreso": "2026-09-15",
     "productoIngreso": "termo bomba de 4 litros",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]se valida cambio"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]se valida cambio-[martes, 6 de octubre de 2026]llega termo"
   },
   {
     "codigo": "GRT-81396",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7686082",
     "referencia": "L34010",
     "producto": "OLLA PRESION ALIADA CE 4.5L",
     "falla": "Cuerpo Deformado",
-    "s2": "",
+    "s2": "26016305",
     "fecha": "30/09/2026",
     "interno": "YAB350",
     "fechaIngreso": "2026-09-15",
     "productoIngreso": "olla pitadora aliada",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]Se valida cambio"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]Se valida cambio-[martes, 6 de octubre de 2026]llega olla a presion"
   },
   {
     "codigo": "GRT-81395",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1003806938",
     "referencia": "L62070",
     "producto": "LICUADORA ULTRA+VASO PICATODO",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "26016315",
     "fecha": "30/09/2026",
     "interno": "KYJ137",
     "fechaIngreso": "2026-09-10",
     "productoIngreso": "lucuadora universal",
     "lugarDeCompra": "ÚNICO",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]se solicita motor o se valida cambio de producto"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]se solicita motor o se valida cambio de producto-[martes, 6 de octubre de 2026]llega licuadora"
   },
   {
     "codigo": "GRT-81383",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "80039578",
     "referencia": "L75690",
     "producto": "VENTILADOR AERO JET14 ASPAS+CR",
     "falla": "Motor Bobinas en corto",
-    "s2": "",
+    "s2": "26016298",
     "fecha": "30/09/2026",
     "interno": "WTS206",
     "fechaIngreso": "2026-09-24",
@@ -129,23 +129,23 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81382",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1012429471",
     "referencia": "L87580",
     "producto": "FREIDORA DE AIRE INOX 6.2 L",
     "falla": "Microsuiche Sin continuidad",
-    "s2": "",
+    "s2": "26016330",
     "fecha": "30/09/2026",
     "interno": "PGS626",
     "fechaIngreso": "2026-09-22",
     "productoIngreso": "freidora de aire inox de 6 litros",
     "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado"
+    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado-[martes, 6 de octubre de 2026]llega freidora"
   },
   {
     "codigo": "GRT-81381",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "55162564",
     "referencia": "L87560",
@@ -157,7 +157,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-18",
     "productoIngreso": "freidora universal de 4 .8 litros",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado"
+    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado-[lunes, 5 de octubre de 2026]Llega microsuiche"
   },
   {
     "codigo": "GRT-81379",
@@ -177,7 +177,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81377",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075278680",
     "referencia": "L87560",
@@ -189,11 +189,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-22",
     "productoIngreso": "freidora universal de 5",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado"
+    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado-[lunes, 5 de octubre de 2026]LLega microsuiche devolver a doña mary"
   },
   {
     "codigo": "GRT-81375",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36181536",
     "referencia": "L71300",
@@ -205,17 +205,17 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-17",
     "productoIngreso": "ventilador universal de mesa",
     "lugarDeCompra": "LANDER PAGIINA",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]Llega motor"
   },
   {
     "codigo": "GRT-81374",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "35529126",
     "referencia": "L88331",
     "producto": "SANDUCHERA 2P MULTIFUNCIONAL",
     "falla": "Térmico Sin continuidad",
-    "s2": "",
+    "s2": "26016528",
     "fecha": "30/09/2026",
     "interno": "FJV203",
     "fechaIngreso": "2026-09-14",
@@ -225,7 +225,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81373",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36181536",
     "referencia": "L75680",
@@ -237,27 +237,27 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-17",
     "productoIngreso": "ventilalodor universal digital  solo motor",
     "lugarDeCompra": "LANDER PAGINA",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir tarjeta y motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir tarjeta y motor-[lunes, 5 de octubre de 2026]Llega tarjeta y motor"
   },
   {
     "codigo": "GRT-81186",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36169944",
     "referencia": "L87560",
     "producto": "FREIDORA DE AIRE MASTERFRYER",
     "falla": "Microsuiche En corto,Temporizador Sin continuidad",
-    "s2": "",
+    "s2": "26016328",
     "fecha": "28/09/2026",
     "interno": "EYG894",
     "fechaIngreso": "2026-09-22",
     "productoIngreso": "freidora de aire",
     "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche y temporizador prestado-[lunes, 28 de septiembre de 2026]depronto den producto nuevo"
+    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche y temporizador prestado-[lunes, 28 de septiembre de 2026]depronto den producto nuevo-[martes, 6 de octubre de 2026]llega freidora"
   },
   {
     "codigo": "GRT-81185",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1076903558",
     "referencia": "L76680",
@@ -269,27 +269,27 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-08",
     "productoIngreso": "ventilaldor universal digital",
     "lugarDeCompra": "LANDER DEL ÚNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]llega motor"
   },
   {
     "codigo": "GRT-81184",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "7706178",
     "referencia": "L90022",
     "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
     "falla": "Ampolleta No Calienta",
-    "s2": "",
+    "s2": "26016339",
     "fecha": "28/09/2026",
     "interno": "HNW227",
     "fechaIngreso": "2026-09-09",
     "productoIngreso": "termo bomba universal 4 litros",
     "lugarDeCompra": "ÚNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir cambio, el calor se pasa a coraza exterior"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir cambio, el calor se pasa a coraza exterior-[martes, 6 de octubre de 2026]llega termo"
   },
   {
     "codigo": "GRT-81183",
-    "estado": "Solicitud / repuesto",
+    "estado": "En reparación",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075242639",
     "referencia": "L76680",
@@ -301,7 +301,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-02",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]Llega motor"
   },
   {
     "codigo": "GRT-80160",
@@ -365,7 +365,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-01",
     "productoIngreso": "ventilador universal",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor-[viernes, 11 de septiembre de 2026]llega ventilador"
+    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor-[viernes, 11 de septiembre de 2026]llega ventilador-[jueves, 1 de octubre de 2026]SE LE ENTREGA MOTOR REPARADO "
   },
   {
     "codigo": "GRT-79759",
@@ -401,19 +401,19 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-79281",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "36169650",
     "referencia": "L62125",
     "producto": "LIC POTENCY PLUS VASO PLASTICO",
     "falla": "Motor Bobinas en corto,Suiche ON-OFF En corto",
-    "s2": "",
+    "s2": "26016356",
     "fecha": "26/08/2026",
     "interno": "SHP966",
     "fechaIngreso": "2026-08-21",
     "productoIngreso": "licuadora potency plus",
     "lugarDeCompra": "LANDER",
-    "observaciones": "[miércoles, 26 de agosto de 2026]se pide motor y suiche o cambio"
+    "observaciones": "[miércoles, 26 de agosto de 2026]se pide motor y suiche o cambio-[martes, 6 de octubre de 2026]llega licuadora"
   },
   {
     "codigo": "GRT-78756",
@@ -494,22 +494,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal de aire elite canasta en vidrio",
     "lugarDeCompra": "UNICO",
     "observaciones": "[sábado, 8 de agosto de 2026]se solicita motor y tarjeta de control o cambio de producto-[martes, 29 de septiembre de 2026]se le entrega nueva en caja "
-  },
-  {
-    "codigo": "GRT-78289",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "5823590",
-    "referencia": "L62090",
-    "producto": "LICUADORA ELITE TURBO MAX",
-    "falla": "Tarjeta electrónica En corto",
-    "s2": "26014132",
-    "fecha": "08/08/2026",
-    "interno": "KMU610",
-    "fechaIngreso": "2026-07-29",
-    "productoIngreso": "licuadora universal negra",
-    "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]Se solicita tarjeta o cambio-[viernes, 11 de septiembre de 2026]llega licuadora elite"
   },
   {
     "codigo": "GRT-78224",

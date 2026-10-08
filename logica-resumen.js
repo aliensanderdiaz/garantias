@@ -21,7 +21,7 @@ garantiasUniversal = garantiasUniversal.filter(garantia => garantia.estado !== '
 
 let garantias = [...garantiasNewells, ...garantiasRedelec, ...garantiasUniversal]
 
-garantias.sort((a,b) => {
+garantias.sort((a, b) => {
     if (!a.fechaIngreso) {
         return false
     }
@@ -29,18 +29,21 @@ garantias.sort((a,b) => {
     return a.fechaIngreso.localeCompare(b.fechaIngreso)
 })
 
-const container = document.querySelector('.container')
 
-let estados = [
-    'Por entregar',
-    'PREFINALIZADO',
-    'Pre-terminado',
-    'AUTORIZADO'
-]
 
-let html = ''
+const dibujar = (garantiasDibujar = garantias) => {
+    const container = document.querySelector('.container')
 
-html += `
+    let estados = [
+        'Por entregar',
+        'PREFINALIZADO',
+        'Pre-terminado',
+        'AUTORIZADO'
+    ]
+
+    let html = ''
+
+    html += `
 <table>
     <thead>
         <tr>
@@ -56,29 +59,56 @@ html += `
     </thead>
     <tbody>`
 
-garantias.forEach((garantia, index) => {
-    html += `
+    garantiasDibujar.forEach((garantia, index) => {
+        html += `
                 <tr>
-                    <td>${ index + 1 }</td>
-                    <td>${ garantia.fechaIngreso } <br> ${ garantia.fecha }</td>
-                    <td>${ garantia.interno }</td>
-                    <td>${ garantia.codigo }</td>
-                    <td>${ garantia.productoIngreso ? garantia.productoIngreso.substring(0,15) : '' }</td>
-                    <td class="${ estados.includes(garantia.estado) ? 'listo': garantia.estado === 'Despachado' || garantia.estado === 'En reparación' ? 'despachado':'no-listo' }">${ garantia.estado.substring(0,15) }</td>
-                    <td>${ garantia.lugarDeCompra?.substring(0,15) }</td>
-                    <td>${ garantia.observaciones?.toLowerCase().replaceAll('-[', '<br>[') }</td>
+                    <td>${index + 1}</td>
+                    <td>${garantia.fechaIngreso} <br> ${garantia.fecha}</td>
+                    <td>${garantia.interno}</td>
+                    <td>${garantia.codigo}</td>
+                    <td>${garantia.productoIngreso ? garantia.productoIngreso.substring(0, 15) : ''}</td>
+                    <td class="${estados.includes(garantia.estado) ? 'listo' : garantia.estado === 'Despachado' || garantia.estado === 'En reparación' ? 'despachado' : 'no-listo'}">${garantia.estado.substring(0, 15)}</td>
+                    <td>${garantia.lugarDeCompra?.substring(0, 15)}</td>
+                    <td>${garantia.observaciones?.toLowerCase().replaceAll('-[', '<br>[')}</td>
                 </tr>
     `
-})
+    })
 
 
 
 
 
-html += `
+    html += `
             </tbody>
         </table>
 `
 
-container.innerHTML = html
+    container.innerHTML = html
+}
 
+dibujar(garantias)
+
+const filtrar = (estado) => {
+    if (estado === 'listas') {
+
+        const filtradas = garantias.filter(garantia => garantia.estado.includes('entregar') || garantia.estado.includes('terminado'))
+        dibujar(filtradas)
+    }
+    if (estado === 'reparacion') {
+
+        const filtradas = garantias.filter(garantia => garantia.estado.includes('repara') || garantia.estado.includes('terven'))
+        dibujar(filtradas)
+
+    }
+    if (estado === 'revisadas') {
+
+
+        const filtradas = garantias.filter(garantia => garantia.estado.includes('olici') || garantia.estado.includes('espac') )
+        dibujar(filtradas)
+    }
+    if (estado === 'todas') {
+
+
+        dibujar(garantias)
+    }
+}
