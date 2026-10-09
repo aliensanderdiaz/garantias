@@ -176,22 +176,6 @@ let garantiasUniversal = [
     "observaciones": "[miércoles, 30 de septiembre de 2026]Se valida cambio-[martes, 6 de octubre de 2026]llega olla a presion"
   },
   {
-    "codigo": "GRT-81395",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1003806938",
-    "referencia": "L62070",
-    "producto": "LICUADORA ULTRA+VASO PICATODO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26016315",
-    "fecha": "30/09/2026",
-    "interno": "KYJ137",
-    "fechaIngreso": "2026-09-10",
-    "productoIngreso": "lucuadora universal",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]se solicita motor o se valida cambio de producto-[martes, 6 de octubre de 2026]llega licuadora-[jueves, 8 de octubre de 2026]se le entrega licuadora nueva"
-  },
-  {
     "codigo": "GRT-81383",
     "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -414,38 +398,6 @@ let garantiasUniversal = [
     "productoIngreso": "licuadora universal potency mix roja",
     "lugarDeCompra": "LANDER ÚNICO",
     "observaciones": "[miércoles, 9 de septiembre de 2026]24000728 pedir motor-[miércoles, 16 de septiembre de 2026]llega motor"
-  },
-  {
-    "codigo": "GRT-80158",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075281286",
-    "referencia": "L75680",
-    "producto": "VENTILADOR FRESH ULT  C REMOTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26014930",
-    "fecha": "09/09/2026",
-    "interno": "RLA742",
-    "fechaIngreso": "2026-09-03",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 9 de septiembre de 2026]pedir motor-[miércoles, 16 de septiembre de 2026]Llega motor-[jueves, 8 de octubre de 2026]se le entrega motor reparado"
-  },
-  {
-    "codigo": "GRT-79773",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075279078",
-    "referencia": "L75545",
-    "producto": "VENTILADOR DYNAMIC VENTO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26014547",
-    "fecha": "03/09/2026",
-    "interno": "KOR369",
-    "fechaIngreso": "2026-09-01",
-    "productoIngreso": "ventilador universal",
-    "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]23000598 motor-[viernes, 11 de septiembre de 2026]llega ventilador-[jueves, 1 de octubre de 2026]SE LE ENTREGA MOTOR REPARADO "
   },
   {
     "codigo": "GRT-79759",
