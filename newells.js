@@ -1,5 +1,104 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00493815",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "08/10/2026",
+    "interno": "WRI125",
+    "fechaIngreso": "2026-10-08",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[jueves, 8 de octubre de 2026]se repara con fusible prestado"
+  },
+  {
+    "codigo": "WO-00493814",
+    "cliente": "LATAM",
+    "estado": "Nuevo",
+    "fecha": "08/10/2026",
+    "interno": "VLW880",
+    "fechaIngreso": "2026-10-07",
+    "productoIngreso": "freidora oster de 4 liros",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[jueves, 8 de octubre de 2026]Alveiro dice que pida motor, pero preguntar por lo de segunda vez"
+  },
+  {
+    "codigo": "WO-00493813",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "08/10/2026",
+    "interno": "AJV284",
+    "fechaIngreso": "2026-10-03",
+    "productoIngreso": "lucuadora oster clasica",
+    "lugarDeCompra": "COMERCIAL HABIA",
+    "observaciones": "[jueves, 8 de octubre de 2026]cambiar motor y suiche"
+  },
+  {
+    "codigo": "WO-00493812",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "08/10/2026",
+    "interno": "CVW367",
+    "fechaIngreso": "2026-10-07",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "CENTRO HOGAR DEL HUILA",
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor y suiche"
+  },
+  {
+    "codigo": "WO-00493811",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "08/10/2026",
+    "interno": "IWV530",
+    "fechaIngreso": "2026-10-01",
+    "productoIngreso": "licuadora oster tradicional",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[jueves, 8 de octubre de 2026]se ajusta internamente"
+  },
+  {
+    "codigo": "WO-00493810",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "08/10/2026",
+    "interno": "ELB381",
+    "fechaIngreso": "2026-09-30",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "MEICO",
+    "observaciones": "[jueves, 8 de octubre de 2026]pedir motor y suiche de tarjeta"
+  },
+  {
+    "codigo": "WO-00493809",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "08/10/2026",
+    "interno": "JHZ655",
+    "fechaIngreso": "2026-09-28",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACEN SUPER",
+    "observaciones": "[jueves, 8 de octubre de 2026]pedir suiche de tarjeta"
+  },
+  {
+    "codigo": "WO-00493808",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "08/10/2026",
+    "interno": "KDC068",
+    "fechaIngreso": "2026-09-29",
+    "productoIngreso": "licuadora oster xtreme mix",
+    "lugarDeCompra": "MOVILCENTER",
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide tarjeta"
+  },
+  {
+    "codigo": "WO-00493806",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "08/10/2026",
+    "interno": "JXI019",
+    "fechaIngreso": "2026-10-01",
+    "productoIngreso": "extractor de jugos oster",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor"
+  },
+  {
     "codigo": "WO-00491987",
     "cliente": "LATAM",
     "estado": "Despachado",
@@ -274,59 +373,5 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "27/05/2026"
-  },
-  {
-    "codigo": "WO-00460508",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "23/05/2026"
-  },
-  {
-    "codigo": "WO-00457579",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "12/05/2026"
-  },
-  {
-    "codigo": "WO-00457577",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "12/05/2026"
-  },
-  {
-    "codigo": "WO-00457574",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "12/05/2026"
-  },
-  {
-    "codigo": "WO-00457566",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "12/05/2026"
-  },
-  {
-    "codigo": "WO-00452337",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "22/04/2026"
-  },
-  {
-    "codigo": "WO-00451693",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "20/04/2026"
-  },
-  {
-    "codigo": "WO-00451438",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "20/04/2026"
-  },
-  {
-    "codigo": "WO-00451422",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "19/04/2026"
   }
 ]
