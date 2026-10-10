@@ -2,7 +2,6 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
-Productos
 Más
 Search...
 
@@ -11,7 +10,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 Órdenes de servicio LATAM
-50+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo - Tipo de registro de orden de trabajo • Se actualizó hace un minuto
+50+ elementos • Ordenado por Número de orden de trabajo • Filtrado por Todas las órdenes de trabajo - Tipo de registro de orden de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -49,6 +48,15 @@ Ordenar
 Producto
 
 Acción
+
+Pre-terminado
+WO-00494070
+10/10/2026 11:21 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Abner Muñoz
+LATAM
+Jhon Fredy Bahamon Bonilla
+2217256
 
 Pre-terminado
 WO-00493815
@@ -131,7 +139,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 FPSTJE316W013
 
-Despachado
+Pre-terminado
 WO-00491987
 30/09/2026 02:19 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -158,7 +166,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2204926
 
-Despachado
+Intervención técnica
 WO-00491864
 30/09/2026 11:00 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -494,15 +502,6 @@ Hugo Gerardo Bonilla Ordóñez
 LATAM
 Jhon Fredy Bahamon Bonilla
 2217254
-
-Entregado
-WO-00461777
-27/05/2026 08:32 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Cristian Devia Devia
-LATAM
-Jhon Fredy Bahamon Bonilla
-2226866
 .© 2020 Newell Brands
 
 Órdenes de trabajo

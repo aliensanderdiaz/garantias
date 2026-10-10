@@ -1,5 +1,16 @@
 let garantiasNewells = [
   {
+    "codigo": "WO-00494070",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "10/10/2026",
+    "interno": "LWI909",
+    "fechaIngreso": "2026-10-08",
+    "productoIngreso": "cafetera oster 12taza",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": "[sábado, 10 de octubre de 2026]revisada y reparada por mal uso"
+  },
+  {
     "codigo": "WO-00493815",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -101,13 +112,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00491987",
     "cliente": "LATAM",
-    "estado": "Despachado",
+    "estado": "Pre-terminado",
     "fecha": "30/09/2026",
     "interno": "AJK067",
     "fechaIngreso": "2026-09-23",
     "productoIngreso": "extractor de jugos",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[jueves, 1 de octubre de 2026]Se pide motor"
+    "observaciones": "[jueves, 1 de octubre de 2026]Se pide motor-[sábado, 10 de octubre de 2026]llega motor-[sábado, 10 de octubre de 2026]reparada"
   },
   {
     "codigo": "WO-00491876",
@@ -134,13 +145,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00491864",
     "cliente": "LATAM",
-    "estado": "Despachado",
+    "estado": "Intervención técnica",
     "fecha": "30/09/2026",
     "interno": "ZCI687",
     "fechaIngreso": "2026-09-26",
     "productoIngreso": "freidora oster 3.8",
     "lugarDeCompra": "ALAMCENES OPORTUNIDADES",
-    "observaciones": "[jueves, 1 de octubre de 2026]Se pide resistencia (cable solo marcas, manija con pegamento)"
+    "observaciones": "[jueves, 1 de octubre de 2026]Se pide resistencia (cable solo marcas, manija con pegamento)-[sábado, 10 de octubre de 2026]llega resistencia"
   },
   {
     "codigo": "WO-00491080",
@@ -364,12 +375,6 @@ let garantiasNewells = [
   },
   {
     "codigo": "WO-00461778",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "27/05/2026"
-  },
-  {
-    "codigo": "WO-00461777",
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "27/05/2026"

@@ -144,22 +144,6 @@ let garantiasUniversal = [
     "observaciones": "[miércoles, 30 de septiembre de 2026]resistencia y automatico"
   },
   {
-    "codigo": "GRT-81398",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "55172395",
-    "referencia": "L90022",
-    "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
-    "falla": "Cuerpo Mal ensamble",
-    "s2": "26016338",
-    "fecha": "30/09/2026",
-    "interno": "WAB184",
-    "fechaIngreso": "2026-09-15",
-    "productoIngreso": "termo bomba de 4 litros",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]se valida cambio-[martes, 6 de octubre de 2026]llega termo"
-  },
-  {
     "codigo": "GRT-81396",
     "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
@@ -190,38 +174,6 @@ let garantiasUniversal = [
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
     "observaciones": "[miércoles, 30 de septiembre de 2026]motor o cambio de producto"
-  },
-  {
-    "codigo": "GRT-81382",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1012429471",
-    "referencia": "L87580",
-    "producto": "FREIDORA DE AIRE INOX 6.2 L",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "26016330",
-    "fecha": "30/09/2026",
-    "interno": "PGS626",
-    "fechaIngreso": "2026-09-22",
-    "productoIngreso": "freidora de aire inox de 6 litros",
-    "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado-[martes, 6 de octubre de 2026]llega freidora"
-  },
-  {
-    "codigo": "GRT-81381",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55162564",
-    "referencia": "L87560",
-    "producto": "FREIDORA DE AIRE MASTERFRYER",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "26016181",
-    "fecha": "30/09/2026",
-    "interno": "GLK303",
-    "fechaIngreso": "2026-09-18",
-    "productoIngreso": "freidora universal de 4 .8 litros",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]reparado con microsuiche prestado-[lunes, 5 de octubre de 2026]Llega microsuiche"
   },
   {
     "codigo": "GRT-81379",
@@ -321,7 +273,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81185",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1076903558",
     "referencia": "L76680",
@@ -333,7 +285,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-08",
     "productoIngreso": "ventilaldor universal digital",
     "lugarDeCompra": "LANDER DEL ÚNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]llega motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]llega motor-[sábado, 10 de octubre de 2026]reparada"
   },
   {
     "codigo": "GRT-81184",
@@ -353,7 +305,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81183",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "1075242639",
     "referencia": "L76680",
@@ -365,7 +317,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-02",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]Llega motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir motor-[lunes, 5 de octubre de 2026]Llega motor-[sábado, 10 de octubre de 2026]reparada"
   },
   {
     "codigo": "GRT-80160",
