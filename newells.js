@@ -145,13 +145,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00491864",
     "cliente": "LATAM",
-    "estado": "Intervención técnica",
+    "estado": "Pre-terminado",
     "fecha": "30/09/2026",
     "interno": "ZCI687",
     "fechaIngreso": "2026-09-26",
     "productoIngreso": "freidora oster 3.8",
     "lugarDeCompra": "ALAMCENES OPORTUNIDADES",
-    "observaciones": "[jueves, 1 de octubre de 2026]Se pide resistencia (cable solo marcas, manija con pegamento)-[sábado, 10 de octubre de 2026]llega resistencia"
+    "observaciones": "[jueves, 1 de octubre de 2026]Se pide resistencia (cable solo marcas, manija con pegamento)-[sábado, 10 de octubre de 2026]llega resistencia-[martes, 13 de octubre de 2026]reparada"
   },
   {
     "codigo": "WO-00491080",
@@ -162,7 +162,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-09-23",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir termocontrol y resistencia-[domingo, 27 de septiembre de 2026]viene con la coraza con sobrecalentamiento-[viernes, 2 de octubre de 2026]Llegan los 2 repuestos"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir termocontrol y resistencia-[domingo, 27 de septiembre de 2026]viene con la coraza con sobrecalentamiento-[viernes, 2 de octubre de 2026]Llegan los 2 repuestos-[martes, 13 de octubre de 2026]Toca pedir motor ahora"
   },
   {
     "codigo": "WO-00491073",

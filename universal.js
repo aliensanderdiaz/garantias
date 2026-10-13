@@ -1,13 +1,29 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-81958",
+    "codigo": "GRT-82046",
     "estado": "Solicitud de validación para cambio de producto",
+    "tipo": "CAMBIO PRODUCTO",
+    "clienteId": "1083895676",
+    "referencia": "L37793",
+    "producto": "SARTEN GRANITO 28CM",
+    "falla": "Antiadherente Rayado",
+    "s2": "",
+    "fecha": "10/10/2026",
+    "interno": "GJN781",
+    "fechaIngreso": "2026-09-28",
+    "productoIngreso": "santen granito",
+    "lugarDeCompra": "LANDER",
+    "observaciones": "[sábado, 10 de octubre de 2026]se pide cambio"
+  },
+  {
+    "codigo": "GRT-81958",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1081182380",
     "referencia": "L60752",
     "producto": "MEZCLADOR DE BEBIDAS",
     "falla": "Cuerpo Mal ensamble",
-    "s2": "",
+    "s2": "26017008",
     "fecha": "09/10/2026",
     "interno": "HAL502",
     "fechaIngreso": "2026-10-07",
@@ -17,13 +33,13 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81957",
-    "estado": "Solicitud de validación para cambio de producto",
+    "estado": "Solicitud / producto",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1082805049",
     "referencia": "L60815",
     "producto": "TETERA ELÉCTRICA ELEMENT",
     "falla": "Jarra Otro",
-    "s2": "",
+    "s2": "26017009",
     "fecha": "09/10/2026",
     "interno": "VZA834",
     "fechaIngreso": "2026-10-03",
@@ -129,7 +145,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81399",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "83235110",
     "referencia": "L95485",
@@ -141,7 +157,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-12",
     "productoIngreso": "planca universal",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]resistencia y automatico"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]resistencia y automatico-[sábado, 10 de octubre de 2026]llega plancha a vapor"
   },
   {
     "codigo": "GRT-81396",
@@ -161,7 +177,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81383",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "80039578",
     "referencia": "L75690",
@@ -173,7 +189,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-24",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]motor o cambio de producto"
+    "observaciones": "[miércoles, 30 de septiembre de 2026]motor o cambio de producto-[sábado, 10 de octubre de 2026]creo que llega ventilador. alejandra no confirmo"
   },
   {
     "codigo": "GRT-81379",
@@ -225,7 +241,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81374",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "35529126",
     "referencia": "L88331",
@@ -237,7 +253,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-14",
     "productoIngreso": "sanduchera 3 en1",
     "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir control temp, pilotos testigos"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir control temp, pilotos testigos-[sábado, 10 de octubre de 2026]llega sanduchera"
   },
   {
     "codigo": "GRT-81373",

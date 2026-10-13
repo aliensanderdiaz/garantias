@@ -166,7 +166,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2204926
 
-Intervención técnica
+Pre-terminado
 WO-00491864
 30/09/2026 11:00 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -504,4 +504,8 @@ Jhon Fredy Bahamon Bonilla
 2217254
 .© 2020 Newell Brands
 
+Operación correcta notificación,
+Estado de la orden de trabajo cambió correctamente.
+Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
+Operación correcta notificación,Estado de la orden de trabajo cambió correctamente. Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
 Órdenes de trabajo
