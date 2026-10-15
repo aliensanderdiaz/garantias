@@ -64,22 +64,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 8 de octubre de 2026]se valida cambio"
   },
   {
-    "codigo": "GRT-81956",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1075264618",
-    "referencia": "L62187",
-    "producto": "LICUADORA ARTEMISA",
-    "falla": "Suiche ON-OFF Mala soldadura",
-    "s2": "NO APLICA S2!",
-    "fecha": "09/10/2026",
-    "interno": "XFH633",
-    "fechaIngreso": "2026-10-06",
-    "productoIngreso": "licuadora universal",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[jueves, 8 de octubre de 2026]Ajuste interno"
-  },
-  {
     "codigo": "GRT-81952",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -109,7 +93,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-10-01",
     "productoIngreso": "ventilador universal digital",
     "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor y motor de oscilacion"
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor y motor de oscilacion-[jueves, 15 de octubre de 2026]llega motor y motor de oscilacion"
   },
   {
     "codigo": "GRT-81403",
@@ -142,22 +126,6 @@ let garantiasUniversal = [
     "productoIngreso": "olla arrocera 7taza  negra  universal",
     "lugarDeCompra": "TIENDA POPULAR",
     "observaciones": "[miércoles, 30 de septiembre de 2026]reparado con fusible-[martes, 6 de octubre de 2026]se le entrega olla arrocera a el señor reparada "
-  },
-  {
-    "codigo": "GRT-81399",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "83235110",
-    "referencia": "L95485",
-    "producto": "PLANCHA A VAPOR POWER",
-    "falla": "Resistencia Sin continuidad,Termostato Sin continuidad ",
-    "s2": "26016546",
-    "fecha": "30/09/2026",
-    "interno": "HFN122",
-    "fechaIngreso": "2026-09-12",
-    "productoIngreso": "planca universal",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]resistencia y automatico-[sábado, 10 de octubre de 2026]llega plancha a vapor"
   },
   {
     "codigo": "GRT-81396",
@@ -317,7 +285,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-18",
     "productoIngreso": "ventilador universal fresh ultra",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 26 de agosto de 2026]se solicita motor o validacion cambio"
+    "observaciones": "[miércoles, 26 de agosto de 2026]se solicita motor o validacion cambio-[jueves, 15 de octubre de 2026]en landers dicen que enviaron cambio-[jueves, 15 de octubre de 2026]2026-08-29 9:17:07 am"
   },
   {
     "codigo": "GRT-78754",
@@ -365,7 +333,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-08-04",
     "productoIngreso": "ventilador universla digital",
     "lugarDeCompra": "EN EL UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]motor y tarjeta o cambio-[viernes, 18 de septiembre de 2026]se le entrega motor reparado "
+    "observaciones": "[sábado, 8 de agosto de 2026]motor y tarjeta o cambio-[viernes, 18 de septiembre de 2026]se le entrega motor reparado -[jueves, 15 de octubre de 2026]en landers dicen que enviaron cambio 2026-10-14 3:52:36 pm"
   },
   {
     "codigo": "GRT-78294",
@@ -381,6 +349,6 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-07-11",
     "productoIngreso": "freidora universal de aire elite canasta en vidrio",
     "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]se solicita motor y tarjeta de control o cambio de producto-[martes, 29 de septiembre de 2026]se le entrega nueva en caja "
+    "observaciones": "[sábado, 8 de agosto de 2026]se solicita motor y tarjeta de control o cambio de producto-[martes, 29 de septiembre de 2026]se le entrega nueva en caja -[jueves, 15 de octubre de 2026]en landers dicen que enviaron cambio 2026-09-07 10:00:48 am"
   }
 ]
