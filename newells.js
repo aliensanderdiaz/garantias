@@ -2,13 +2,8 @@ let garantiasNewells = [
   {
     "codigo": "WO-00494070",
     "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "10/10/2026",
-    "interno": "LWI909",
-    "fechaIngreso": "2026-10-08",
-    "productoIngreso": "cafetera oster 12taza",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[sábado, 10 de octubre de 2026]revisada y reparada por mal uso"
+    "estado": "Entregado",
+    "fecha": "10/10/2026"
   },
   {
     "codigo": "WO-00493815",
@@ -24,7 +19,7 @@ let garantiasNewells = [
   {
     "codigo": "WO-00493814",
     "cliente": "LATAM",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "08/10/2026",
     "interno": "VLW880",
     "fechaIngreso": "2026-10-07",
@@ -35,24 +30,24 @@ let garantiasNewells = [
   {
     "codigo": "WO-00493813",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "08/10/2026",
     "interno": "AJV284",
     "fechaIngreso": "2026-10-03",
     "productoIngreso": "lucuadora oster clasica",
     "lugarDeCompra": "COMERCIAL HABIA",
-    "observaciones": "[jueves, 8 de octubre de 2026]cambiar motor y suiche"
+    "observaciones": "[jueves, 8 de octubre de 2026]cambiar motor y suiche-[martes, 13 de octubre de 2026]depronto den carta"
   },
   {
     "codigo": "WO-00493812",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "08/10/2026",
     "interno": "CVW367",
     "fechaIngreso": "2026-10-07",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "CENTRO HOGAR DEL HUILA",
-    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor y suiche"
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor y suiche-[martes, 13 de octubre de 2026]depronto den carta"
   },
   {
     "codigo": "WO-00493811",
@@ -68,46 +63,46 @@ let garantiasNewells = [
   {
     "codigo": "WO-00493810",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "08/10/2026",
     "interno": "ELB381",
     "fechaIngreso": "2026-09-30",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "MEICO",
-    "observaciones": "[jueves, 8 de octubre de 2026]pedir motor y suiche de tarjeta"
+    "observaciones": "[jueves, 8 de octubre de 2026]pedir motor y suiche de tarjeta-[martes, 13 de octubre de 2026]depronto den carta"
   },
   {
     "codigo": "WO-00493809",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Aprobación pendiente",
     "fecha": "08/10/2026",
     "interno": "JHZ655",
     "fechaIngreso": "2026-09-28",
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACEN SUPER",
-    "observaciones": "[jueves, 8 de octubre de 2026]pedir suiche de tarjeta"
+    "observaciones": "[jueves, 8 de octubre de 2026]pedir suiche de tarjeta-[martes, 13 de octubre de 2026]depronto den carta"
   },
   {
     "codigo": "WO-00493808",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Intervención técnica",
     "fecha": "08/10/2026",
     "interno": "KDC068",
     "fechaIngreso": "2026-09-29",
     "productoIngreso": "licuadora oster xtreme mix",
     "lugarDeCompra": "MOVILCENTER",
-    "observaciones": "[jueves, 8 de octubre de 2026]se pide tarjeta"
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide tarjeta-[miércoles, 14 de octubre de 2026]llega tarjeta"
   },
   {
     "codigo": "WO-00493806",
     "cliente": "LATAM",
-    "estado": "En progreso",
+    "estado": "Intervención técnica",
     "fecha": "08/10/2026",
     "interno": "JXI019",
     "fechaIngreso": "2026-10-01",
     "productoIngreso": "extractor de jugos oster",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor"
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor-[miércoles, 14 de octubre de 2026]llega motor"
   },
   {
     "codigo": "WO-00491987",
@@ -145,24 +140,14 @@ let garantiasNewells = [
   {
     "codigo": "WO-00491864",
     "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "30/09/2026",
-    "interno": "ZCI687",
-    "fechaIngreso": "2026-09-26",
-    "productoIngreso": "freidora oster 3.8",
-    "lugarDeCompra": "ALAMCENES OPORTUNIDADES",
-    "observaciones": "[jueves, 1 de octubre de 2026]Se pide resistencia (cable solo marcas, manija con pegamento)-[sábado, 10 de octubre de 2026]llega resistencia-[martes, 13 de octubre de 2026]reparada"
+    "estado": "Entregado",
+    "fecha": "30/09/2026"
   },
   {
     "codigo": "WO-00491080",
     "cliente": "LATAM",
-    "estado": "Intervención técnica",
-    "fecha": "28/09/2026",
-    "interno": "PFQ131",
-    "fechaIngreso": "2026-09-23",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir termocontrol y resistencia-[domingo, 27 de septiembre de 2026]viene con la coraza con sobrecalentamiento-[viernes, 2 de octubre de 2026]Llegan los 2 repuestos-[martes, 13 de octubre de 2026]Toca pedir motor ahora"
+    "estado": "Entregado",
+    "fecha": "28/09/2026"
   },
   {
     "codigo": "WO-00491073",

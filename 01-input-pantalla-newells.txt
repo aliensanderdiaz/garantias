@@ -49,7 +49,7 @@ Producto
 
 Acción
 
-Pre-terminado
+Entregado
 WO-00494070
 10/10/2026 11:21 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -67,7 +67,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2214165
 
-Nuevo
+En progreso
 WO-00493814
 8/10/2026 09:22 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -76,7 +76,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2204926
 
-En progreso
+Aprobación pendiente
 WO-00493813
 8/10/2026 09:02 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -85,7 +85,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
 
-En progreso
+Aprobación pendiente
 WO-00493812
 8/10/2026 08:55 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -103,7 +103,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
 
-En progreso
+Aprobación pendiente
 WO-00493810
 8/10/2026 08:14 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -112,7 +112,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
 
-En progreso
+Aprobación pendiente
 WO-00493809
 8/10/2026 08:06 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -121,7 +121,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
 
-En progreso
+Intervención técnica
 WO-00493808
 8/10/2026 07:59 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -130,7 +130,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2197104
 
-En progreso
+Intervención técnica
 WO-00493806
 8/10/2026 07:47 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -166,7 +166,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2204926
 
-Pre-terminado
+Entregado
 WO-00491864
 30/09/2026 11:00 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -175,7 +175,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2214165
 
-Intervención técnica
+Entregado
 WO-00491080
 28/09/2026 10:36 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -504,8 +504,4 @@ Jhon Fredy Bahamon Bonilla
 2217254
 .© 2020 Newell Brands
 
-Operación correcta notificación,
-Estado de la orden de trabajo cambió correctamente.
-Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
-Operación correcta notificación,Estado de la orden de trabajo cambió correctamente. Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
 Órdenes de trabajo

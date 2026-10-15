@@ -88,22 +88,50 @@ const dibujar = (garantiasDibujar = garantias) => {
 
 dibujar(garantias)
 
+const estadosListas = [
+    "Pre-terminado",
+    "Por entregar",
+]
+
+const estadosReparacion = [
+    "Intervención técnica",
+    "En reparación"
+]
+
+const estadosRevisadas = [
+    "En progreso",
+    "Aprobación pendiente",
+        "Solicitud / producto",
+    
+    "Solicitud de validación para cambio de producto",
+    "Solicitud / repuesto",
+]
+
+const todosLosEstados = [...estadosListas,...estadosReparacion,...estadosRevisadas]
+
+
 const filtrar = (estado) => {
     if (estado === 'listas') {
 
-        const filtradas = garantias.filter(garantia => garantia.estado.includes('entregar') || garantia.estado.includes('terminado'))
+        const filtradas = garantias.filter(garantia => estadosListas.includes(garantia.estado))
         dibujar(filtradas)
     }
     if (estado === 'reparacion') {
 
-        const filtradas = garantias.filter(garantia => garantia.estado.includes('repara') || garantia.estado.includes('terven'))
+        const filtradas = garantias.filter(garantia => estadosReparacion.includes(garantia.estado))
         dibujar(filtradas)
 
     }
     if (estado === 'revisadas') {
 
 
-        const filtradas = garantias.filter(garantia => garantia.estado.includes('olici') || garantia.estado.includes('espac') )
+        const filtradas = garantias.filter(garantia => estadosRevisadas.includes(garantia.estado))
+        dibujar(filtradas)
+    }
+    if (estado === 'otras') {
+
+
+        const filtradas = garantias.filter(garantia => !todosLosEstados.includes(garantia.estado))
         dibujar(filtradas)
     }
     if (estado === 'todas') {

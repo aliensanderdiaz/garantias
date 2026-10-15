@@ -25,6 +25,17 @@ let garantiasSinRevisar =   [
 "referencia": "BLST4655",
 "lugarDeCompra": "ALMACENES UNIVERSAL",
 "tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ace55e8cf7f0f10c7ef8eab",
+"fechaDeIngreso": "2026-10-13",
+"horaDeIngreso": "11:01:43",
+"codigo": "SHJ911",
+"producto": "plancha oster easy verde.",
+"falla": "llega toda la parte del antierente suelto y suena pieza partida",
+"referencia": "GCSTBS3803-013",
+"lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 
