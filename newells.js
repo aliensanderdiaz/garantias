@@ -11,6 +11,17 @@ let garantiasNewells = [
     "observaciones": "[jueves, 8 de octubre de 2026]Alveiro dice que pida motor, pero preguntar por lo de segunda vez"
   },
   {
+    "codigo": "WO-00495276",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "17/10/2026",
+    "interno": "ALI731",
+    "fechaIngreso": "2026-10-10",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[sábado, 17 de octubre de 2026]se pide motor"
+  },
+  {
     "codigo": "WO-00491865",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -86,17 +97,6 @@ let garantiasNewells = [
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "MEICO",
     "observaciones": "[jueves, 8 de octubre de 2026]pedir motor y suiche de tarjeta-[martes, 13 de octubre de 2026]depronto den carta-[jueves, 15 de octubre de 2026]carta aprobada"
-  },
-  {
-    "codigo": "WO-00493811",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "08/10/2026",
-    "interno": "IWV530",
-    "fechaIngreso": "2026-10-01",
-    "productoIngreso": "licuadora oster tradicional",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[jueves, 8 de octubre de 2026]se ajusta internamente-[jueves, 15 de octubre de 2026]enviar a alkomprar"
   },
   {
     "codigo": "WO-00493812",

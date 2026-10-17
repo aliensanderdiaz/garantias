@@ -3,7 +3,7 @@
 
 
 
-let garantiasSinRevisar =   [
+let garantiasSinRevisar =    [
 {
 "_id": "6aca642a8a600b6556429d6d",
 "fechaDeIngreso": "2026-10-10",
@@ -16,17 +16,6 @@ let garantiasSinRevisar =   [
 "tipoDeServicio": "Garantía Oster"
 },
 {
-"_id": "6aca662b8a600b6556429d7a",
-"fechaDeIngreso": "2026-10-10",
-"horaDeIngreso": "11:22:03",
-"codigo": "ALI731",
-"producto": "licuadora oster clasica",
-"falla": "motor sale chispas",
-"referencia": "BLST4655",
-"lugarDeCompra": "ALMACENES UNIVERSAL",
-"tipoDeServicio": "Garantía Oster"
-},
-{
 "_id": "6ace55e8cf7f0f10c7ef8eab",
 "fechaDeIngreso": "2026-10-13",
 "horaDeIngreso": "11:01:43",
@@ -35,6 +24,39 @@ let garantiasSinRevisar =   [
 "falla": "llega toda la parte del antierente suelto y suena pieza partida",
 "referencia": "GCSTBS3803-013",
 "lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ad1456e6c96489428bdd742",
+"fechaDeIngreso": "2026-10-15",
+"horaDeIngreso": "16:28:12",
+"codigo": "PFJ113",
+"producto": "cafetera espresso primalatte",
+"falla": "no hace la funcion vibra y no sale el cafe",
+"referencia": "BVSTEM6604SS-013",
+"lugarDeCompra": "HOMECENTER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ad146806c96489428bdd79a",
+"fechaDeIngreso": "2026-10-15",
+"horaDeIngreso": "16:32:46",
+"codigo": "KXX315",
+"producto": "licuadora oster clasica",
+"falla": "no prende",
+"referencia": "ABLST4655",
+"lugarDeCompra": "ALMACÉN UNIVERSAL",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ad2822a14e8ca970fb93557",
+"fechaDeIngreso": "2026-10-16",
+"horaDeIngreso": "14:59:36",
+"codigo": "UPC638",
+"producto": "cafeteta automatica de espresso",
+"falla": "no hace la funcion no sale el agua ni la leche",
+"referencia": "BVSTEM6604SS",
+"lugarDeCompra": "PUNTOS COLOMBIA",
 "tipoDeServicio": "Garantía Oster"
 }
 ]

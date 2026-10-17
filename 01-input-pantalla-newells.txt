@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 Órdenes de servicio LATAM
-50+ elementos • Ordenado por Estado de la orden de trabajo • Filtrado por Todas las órdenes de trabajo - Tipo de registro de orden de trabajo • Se actualizó hace 2 minutos
+50+ elementos • Ordenado por Estado de la orden de trabajo • Filtrado por Todas las órdenes de trabajo - Tipo de registro de orden de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -58,6 +58,15 @@ Yoana Ferreira
 LATAM
 Jhon Fredy Bahamon Bonilla
 2204926
+
+En progreso
+WO-00495276
+17/10/2026 07:22 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Doti Seguridad Sas
+LATAM
+Jhon Fredy Bahamon Bonilla
+2114081
 
 Pre-terminado
 WO-00491865
@@ -118,15 +127,6 @@ WO-00493810
 8/10/2026 08:14 p. m.
 ALMACENES UNIVERSAL S.A.S.
 Maria Yulied Ayala Perdomo
-LATAM
-Jhon Fredy Bahamon Bonilla
-2114081
-
-Pre-terminado
-WO-00493811
-8/10/2026 08:37 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Alkomprar Neiva
 LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
