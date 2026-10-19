@@ -50,6 +50,24 @@ Producto
 
 Acción
 
+Nuevo
+WO-00495288
+17/10/2026 10:30 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Cesar Ricardo Santamaría Cortes
+LATAM
+Jhon Fredy Bahamon Bonilla
+2122070
+
+Nuevo
+WO-00495354
+19/10/2026 06:32 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Yulieth Oidor
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
 En progreso
 WO-00493814
 8/10/2026 09:22 p. m.
@@ -64,6 +82,15 @@ WO-00495276
 17/10/2026 07:22 a. m.
 ALMACENES UNIVERSAL S.A.S.
 Doti Seguridad Sas
+LATAM
+Jhon Fredy Bahamon Bonilla
+2114081
+
+En progreso
+WO-00495353
+19/10/2026 06:27 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Asociación De Institutores Huilenses Adih
 LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
@@ -472,33 +499,6 @@ Lilia Marina Reyes Pabon
 LATAM
 Jhon Fredy Bahamon Bonilla
 2107404
-
-Entregado
-WO-00138334
-3/10/2022 03:34 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Merardo Menza
-LATAM
-Jhon Fredy Bahamon Bonilla
-2117868
-
-Entregado
-WO-00138539
-4/10/2022 10:46 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Lisseth Cruz Ruiz
-LATAM
-Jhon Fredy Bahamon Bonilla
-2129371
-
-Entregado
-WO-00139375
-7/10/2022 03:51 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Alfor Castro Polania
-LATAM
-Jhon Fredy Bahamon Bonilla
-2117868
 .© 2020 Newell Brands
 
 Órdenes de trabajo

@@ -5,28 +5,6 @@
 
 let garantiasSinRevisar =    [
 {
-"_id": "6aca642a8a600b6556429d6d",
-"fechaDeIngreso": "2026-10-10",
-"horaDeIngreso": "11:13:30",
-"codigo": "ONX892",
-"producto": "freidora oster",
-"falla": "la pata esta derretida se recibe suelta l tapa  de donde estan los botones de temperatura",
-"referencia": "CKSTAF38MNS",
-"lugarDeCompra": "EDWIN ALBERTO ANGEL",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ace55e8cf7f0f10c7ef8eab",
-"fechaDeIngreso": "2026-10-13",
-"horaDeIngreso": "11:01:43",
-"codigo": "SHJ911",
-"producto": "plancha oster easy verde.",
-"falla": "llega toda la parte del antierente suelto y suena pieza partida",
-"referencia": "GCSTBS3803-013",
-"lugarDeCompra": "EXITO",
-"tipoDeServicio": "Garantía Oster"
-},
-{
 "_id": "6ad1456e6c96489428bdd742",
 "fechaDeIngreso": "2026-10-15",
 "horaDeIngreso": "16:28:12",
@@ -35,17 +13,6 @@ let garantiasSinRevisar =    [
 "falla": "no hace la funcion vibra y no sale el cafe",
 "referencia": "BVSTEM6604SS-013",
 "lugarDeCompra": "HOMECENTER",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ad146806c96489428bdd79a",
-"fechaDeIngreso": "2026-10-15",
-"horaDeIngreso": "16:32:46",
-"codigo": "KXX315",
-"producto": "licuadora oster clasica",
-"falla": "no prende",
-"referencia": "ABLST4655",
-"lugarDeCompra": "ALMACÉN UNIVERSAL",
 "tipoDeServicio": "Garantía Oster"
 },
 {
@@ -58,8 +25,7 @@ let garantiasSinRevisar =    [
 "referencia": "BVSTEM6604SS",
 "lugarDeCompra": "PUNTOS COLOMBIA",
 "tipoDeServicio": "Garantía Oster"
-}
-]
+}]
 
 // "codigo": "RLA742", motor
 

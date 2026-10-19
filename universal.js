@@ -33,7 +33,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81958",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1081182380",
     "referencia": "L60752",
@@ -45,11 +45,11 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-10-07",
     "productoIngreso": "nezclador de bebidas",
     "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[jueves, 8 de octubre de 2026]cambio"
+    "observaciones": "[jueves, 8 de octubre de 2026]cambio-[sábado, 17 de octubre de 2026]llega mezclador"
   },
   {
     "codigo": "GRT-81957",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1082805049",
     "referencia": "L60815",
@@ -61,7 +61,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-10-03",
     "productoIngreso": "tetera electric universal de 1.8",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 8 de octubre de 2026]se valida cambio"
+    "observaciones": "[jueves, 8 de octubre de 2026]se valida cambio-[sábado, 17 de octubre de 2026]llega tetera"
   },
   {
     "codigo": "GRT-81952",
@@ -241,7 +241,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-80160",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "98380414",
     "referencia": "L40600",
@@ -253,7 +253,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-07",
     "productoIngreso": "plancha seca universal",
     "lugarDeCompra": "OLIMPICA",
-    "observaciones": "[miércoles, 9 de septiembre de 2026]26000035 pedir termostato-[miércoles, 16 de septiembre de 2026]llega termostato"
+    "observaciones": "[miércoles, 9 de septiembre de 2026]26000035 pedir termostato-[miércoles, 16 de septiembre de 2026]llega termostato-[lunes, 19 de octubre de 2026]reparada"
   },
   {
     "codigo": "GRT-79759",
