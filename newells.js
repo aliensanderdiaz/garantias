@@ -11,28 +11,6 @@ let garantiasNewells = [
     "observaciones": ""
   },
   {
-    "codigo": "WO-00495354",
-    "cliente": "LATAM",
-    "estado": "Nuevo",
-    "fecha": "19/10/2026",
-    "interno": "ONX892",
-    "fechaIngreso": "2026-10-10",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "EDWIN ALBERTO ANGEL",
-    "observaciones": ""
-  },
-  {
-    "codigo": "WO-00493814",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "08/10/2026",
-    "interno": "VLW880",
-    "fechaIngreso": "2026-10-07",
-    "productoIngreso": "freidora oster de 4 liros",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[jueves, 8 de octubre de 2026]Alveiro dice que pida motor, pero preguntar por lo de segunda vez"
-  },
-  {
     "codigo": "WO-00495276",
     "cliente": "LATAM",
     "estado": "En progreso",
@@ -53,6 +31,17 @@ let garantiasNewells = [
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "ALMACÉN UNIVERSAL",
     "observaciones": "[lunes, 19 de octubre de 2026]se pide motor"
+  },
+  {
+    "codigo": "WO-00495354",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "19/10/2026",
+    "interno": "ONX892",
+    "fechaIngreso": "2026-10-10",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "EDWIN ALBERTO ANGEL",
+    "observaciones": ""
   },
   {
     "codigo": "WO-00491865",
@@ -152,6 +141,17 @@ let garantiasNewells = [
     "productoIngreso": "lucuadora oster clasica",
     "lugarDeCompra": "COMERCIAL HABIA",
     "observaciones": "[jueves, 8 de octubre de 2026]cambiar motor y suiche-[martes, 13 de octubre de 2026]depronto den carta-[jueves, 15 de octubre de 2026]carta aprobada"
+  },
+  {
+    "codigo": "WO-00493814",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "08/10/2026",
+    "interno": "VLW880",
+    "fechaIngreso": "2026-10-07",
+    "productoIngreso": "freidora oster de 4 liros",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[jueves, 8 de octubre de 2026]Alveiro dice que pida motor, pero preguntar por lo de segunda vez-[lunes, 19 de octubre de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00493815",

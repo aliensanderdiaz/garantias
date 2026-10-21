@@ -17,7 +17,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-82046",
-    "estado": "Solicitud / producto",
+    "estado": "Por entregar",
     "tipo": "CAMBIO PRODUCTO",
     "clienteId": "1083895676",
     "referencia": "L37793",
@@ -29,7 +29,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-28",
     "productoIngreso": "santen granito",
     "lugarDeCompra": "LANDER",
-    "observaciones": "[sábado, 10 de octubre de 2026]se pide cambio"
+    "observaciones": "[sábado, 10 de octubre de 2026]se pide cambio-[lunes, 19 de octubre de 2026]llega sarten"
   },
   {
     "codigo": "GRT-81958",
@@ -48,22 +48,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 8 de octubre de 2026]cambio-[sábado, 17 de octubre de 2026]llega mezclador"
   },
   {
-    "codigo": "GRT-81957",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1082805049",
-    "referencia": "L60815",
-    "producto": "TETERA ELÉCTRICA ELEMENT",
-    "falla": "Jarra Otro",
-    "s2": "26017009",
-    "fecha": "09/10/2026",
-    "interno": "VZA834",
-    "fechaIngreso": "2026-10-03",
-    "productoIngreso": "tetera electric universal de 1.8",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[jueves, 8 de octubre de 2026]se valida cambio-[sábado, 17 de octubre de 2026]llega tetera"
-  },
-  {
     "codigo": "GRT-81952",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -78,22 +62,6 @@ let garantiasUniversal = [
     "productoIngreso": "planca universal artemisa iron",
     "lugarDeCompra": "ÚNICO",
     "observaciones": "[jueves, 8 de octubre de 2026]resistencia, automatico, fusible - depronto den cambio"
-  },
-  {
-    "codigo": "GRT-81949",
-    "estado": "En reparación",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "7730255",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto,Motor sÍncrono Colector en corto",
-    "s2": "26016795",
-    "fecha": "09/10/2026",
-    "interno": "MFT269",
-    "fechaIngreso": "2026-10-01",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "LANDER UNICO",
-    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor y motor de oscilacion-[jueves, 15 de octubre de 2026]llega motor y motor de oscilacion"
   },
   {
     "codigo": "GRT-81403",
@@ -126,22 +94,6 @@ let garantiasUniversal = [
     "productoIngreso": "olla arrocera 7taza  negra  universal",
     "lugarDeCompra": "TIENDA POPULAR",
     "observaciones": "[miércoles, 30 de septiembre de 2026]reparado con fusible-[martes, 6 de octubre de 2026]se le entrega olla arrocera a el señor reparada "
-  },
-  {
-    "codigo": "GRT-81396",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "7686082",
-    "referencia": "L34010",
-    "producto": "OLLA PRESION ALIADA CE 4.5L",
-    "falla": "Cuerpo Deformado",
-    "s2": "26016305",
-    "fecha": "30/09/2026",
-    "interno": "YAB350",
-    "fechaIngreso": "2026-09-15",
-    "productoIngreso": "olla pitadora aliada",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]Se valida cambio-[martes, 6 de octubre de 2026]llega olla a presion"
   },
   {
     "codigo": "GRT-81383",
@@ -240,22 +192,6 @@ let garantiasUniversal = [
     "observaciones": "[domingo, 27 de septiembre de 2026]pedir cambio, el calor se pasa a coraza exterior-[martes, 6 de octubre de 2026]llega termo"
   },
   {
-    "codigo": "GRT-80160",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "98380414",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Termostato Sin continuidad ",
-    "s2": "26014932",
-    "fecha": "09/09/2026",
-    "interno": "AVP790",
-    "fechaIngreso": "2026-09-07",
-    "productoIngreso": "plancha seca universal",
-    "lugarDeCompra": "OLIMPICA",
-    "observaciones": "[miércoles, 9 de septiembre de 2026]26000035 pedir termostato-[miércoles, 16 de septiembre de 2026]llega termostato-[lunes, 19 de octubre de 2026]reparada"
-  },
-  {
     "codigo": "GRT-79759",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -318,22 +254,6 @@ let garantiasUniversal = [
     "productoIngreso": "freidora universal",
     "lugarDeCompra": "ÚNICO",
     "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado-[jueves, 27 de agosto de 2026]DEVOLVER MICROSUICHE A MARY-[jueves, 27 de agosto de 2026]Reparada"
-  },
-  {
-    "codigo": "GRT-78303",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1075307288",
-    "referencia": "L76680",
-    "producto": "VENTILADOR FRESH ULTRA P CRM",
-    "falla": "Motor Bobinas en corto,Tarjeta electrónica Sin continuidad",
-    "s2": "26017130",
-    "fecha": "08/08/2026",
-    "interno": "FGZ022",
-    "fechaIngreso": "2026-08-04",
-    "productoIngreso": "ventilador universla digital",
-    "lugarDeCompra": "EN EL UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]motor y tarjeta o cambio-[viernes, 18 de septiembre de 2026]se le entrega motor reparado -[jueves, 15 de octubre de 2026]en landers dicen que enviaron cambio 2026-10-14 3:52:36 pm"
   },
   {
     "codigo": "GRT-78294",

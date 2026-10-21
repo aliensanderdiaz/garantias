@@ -25,7 +25,41 @@ let garantiasSinRevisar =    [
 "referencia": "BVSTEM6604SS",
 "lugarDeCompra": "PUNTOS COLOMBIA",
 "tipoDeServicio": "Garantía Oster"
-}]
+},
+{
+"_id": "6ad6529b9c0ea44e65ecbde3",
+"fechaDeIngreso": "2026-10-19",
+"horaDeIngreso": "12:25:46",
+"codigo": "TGL833",
+"producto": "batidora oster",
+"falla": "suena feo",
+"referencia": "FPSTH3611-013",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ad788729b26fd401d716f2d",
+"fechaDeIngreso": "2026-10-20",
+"horaDeIngreso": "10:27:45",
+"codigo": "WPB880",
+"producto": "licuadora oster reversible",
+"falla": "la tarjeta no da continuidad",
+"referencia": "BLSTPEG-BRT-013",
+"lugarDeCompra": "CENTRO HOGAR  DEL HUILA",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ad798fb95cef77f9761be5f",
+"fechaDeIngreso": "2026-10-20",
+"horaDeIngreso": "11:38:17",
+"codigo": "HMK250",
+"producto": "freidora oster de 3.5",
+"falla": "no prende",
+"referencia": "CKSTAF38MNS-014",
+"lugarDeCompra": "ALMACENES OPORTUNIDADES",
+"tipoDeServicio": "Garantía Oster"
+}
+]
 
 // "codigo": "RLA742", motor
 
