@@ -50,7 +50,7 @@ Producto
 
 Acción
 
-Nuevo
+En progreso
 WO-00495288
 17/10/2026 10:30 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -60,6 +60,15 @@ Jhon Fredy Bahamon Bonilla
 2122070
 
 En progreso
+WO-00495354
+19/10/2026 06:32 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Yulieth Oidor
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
+
+Despachado
 WO-00495276
 17/10/2026 07:22 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -68,7 +77,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
 
-En progreso
+Despachado
 WO-00495353
 19/10/2026 06:27 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -76,15 +85,6 @@ Asociación De Institutores Huilenses Adih
 LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
-
-En progreso
-WO-00495354
-19/10/2026 06:32 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Yulieth Oidor
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
 
 Pre-terminado
 WO-00491865

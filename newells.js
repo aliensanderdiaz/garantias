@@ -2,35 +2,13 @@ let garantiasNewells = [
   {
     "codigo": "WO-00495288",
     "cliente": "LATAM",
-    "estado": "Nuevo",
+    "estado": "En progreso",
     "fecha": "17/10/2026",
     "interno": "SHJ911",
     "fechaIngreso": "2026-10-13",
     "productoIngreso": "plancha oster easy verde.",
     "lugarDeCompra": "EXITO",
     "observaciones": ""
-  },
-  {
-    "codigo": "WO-00495276",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "17/10/2026",
-    "interno": "ALI731",
-    "fechaIngreso": "2026-10-10",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 17 de octubre de 2026]se pide motor"
-  },
-  {
-    "codigo": "WO-00495353",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "19/10/2026",
-    "interno": "KXX315",
-    "fechaIngreso": "2026-10-15",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[lunes, 19 de octubre de 2026]se pide motor"
   },
   {
     "codigo": "WO-00495354",
@@ -42,6 +20,28 @@ let garantiasNewells = [
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "EDWIN ALBERTO ANGEL",
     "observaciones": ""
+  },
+  {
+    "codigo": "WO-00495276",
+    "cliente": "LATAM",
+    "estado": "Despachado",
+    "fecha": "17/10/2026",
+    "interno": "ALI731",
+    "fechaIngreso": "2026-10-10",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[sábado, 17 de octubre de 2026]se pide motor"
+  },
+  {
+    "codigo": "WO-00495353",
+    "cliente": "LATAM",
+    "estado": "Despachado",
+    "fecha": "19/10/2026",
+    "interno": "KXX315",
+    "fechaIngreso": "2026-10-15",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[lunes, 19 de octubre de 2026]se pide motor"
   },
   {
     "codigo": "WO-00491865",

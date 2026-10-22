@@ -58,6 +58,17 @@ let garantiasSinRevisar =    [
 "referencia": "CKSTAF38MNS-014",
 "lugarDeCompra": "ALMACENES OPORTUNIDADES",
 "tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ad8e41ee181ab1d5e882dd3",
+"fechaDeIngreso": "2026-10-21",
+"horaDeIngreso": "11:11:08",
+"codigo": "PPC666",
+"producto": "plancha universal",
+"falla": "no calienta",
+"referencia": "L40600",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
 }
 ]
 
