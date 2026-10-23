@@ -11,17 +11,6 @@ let garantiasNewells = [
     "observaciones": ""
   },
   {
-    "codigo": "WO-00495354",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "19/10/2026",
-    "interno": "ONX892",
-    "fechaIngreso": "2026-10-10",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "EDWIN ALBERTO ANGEL",
-    "observaciones": ""
-  },
-  {
     "codigo": "WO-00495276",
     "cliente": "LATAM",
     "estado": "Despachado",
@@ -85,7 +74,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-10-01",
     "productoIngreso": "extractor de jugos oster",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor-[miércoles, 14 de octubre de 2026]llega motor-[jueves, 15 de octubre de 2026]reparada"
+    "observaciones": "[jueves, 8 de octubre de 2026]se pide motor-[miércoles, 14 de octubre de 2026]llega motor-[jueves, 15 de octubre de 2026]reparada-[jueves, 22 de octubre de 2026]se le entrega extractor reparado con motor "
   },
   {
     "codigo": "WO-00493808",
@@ -163,6 +152,17 @@ let garantiasNewells = [
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "ALKOMPRAR",
     "observaciones": "[jueves, 8 de octubre de 2026]se repara con fusible prestado"
+  },
+  {
+    "codigo": "WO-00495354",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "19/10/2026",
+    "interno": "ONX892",
+    "fechaIngreso": "2026-10-10",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "EDWIN ALBERTO ANGEL",
+    "observaciones": ""
   },
   {
     "codigo": "WO-00008264",

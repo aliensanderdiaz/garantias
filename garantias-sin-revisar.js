@@ -69,6 +69,39 @@ let garantiasSinRevisar =    [
 "referencia": "L40600",
 "lugarDeCompra": "ALMACENES UNIVERSAL",
 "tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6ada2db0aeffb5f98a0f5673",
+"fechaDeIngreso": "2026-10-22",
+"horaDeIngreso": "10:37:19",
+"codigo": "SOO268",
+"producto": "plancha aerocera azul",
+"falla": "expulsa el agua sola a veces no enciende",
+"referencia": "GCSTBS6052-013",
+"lugarDeCompra": "METRO PITALITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ada3463aeffb5f98a0f569b",
+"fechaDeIngreso": "2026-10-22",
+"horaDeIngreso": "11:05:54",
+"codigo": "CSK765",
+"producto": "licuadora Oster xtreme mix",
+"falla": "no prende",
+"referencia": "BLSTXPG-BW-013",
+"lugarDeCompra": "HOMECENTER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ada7b056c75e2d83bfbb1d4",
+"fechaDeIngreso": "2026-10-22",
+"horaDeIngreso": "16:07:16",
+"codigo": "UDX713",
+"producto": "licuadora oster clasica",
+"falla": "no prende",
+"referencia": "BLST4655-013",
+"lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 

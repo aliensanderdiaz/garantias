@@ -45,7 +45,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-10-07",
     "productoIngreso": "nezclador de bebidas",
     "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[jueves, 8 de octubre de 2026]cambio-[sábado, 17 de octubre de 2026]llega mezclador"
+    "observaciones": "[jueves, 8 de octubre de 2026]cambio-[sábado, 17 de octubre de 2026]llega mezclador-[jueves, 22 de octubre de 2026]se le entrega mezclador nuevo"
   },
   {
     "codigo": "GRT-81952",
@@ -125,7 +125,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-23",
     "productoIngreso": "exprimidor universal institucional",
     "lugarDeCompra": "ALMACEN SUPER CRISTAL",
-    "observaciones": "[domingo, 27 de septiembre de 2026]roscado de la copa gastado"
+    "observaciones": "[domingo, 27 de septiembre de 2026]roscado de la copa gastado-[jueves, 22 de octubre de 2026]llega exprimidor nuevo y se le entrega a almacen super"
   },
   {
     "codigo": "GRT-81377",
