@@ -32,22 +32,6 @@ let garantiasUniversal = [
     "observaciones": "[sábado, 10 de octubre de 2026]se pide cambio-[lunes, 19 de octubre de 2026]llega sarten"
   },
   {
-    "codigo": "GRT-81958",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1081182380",
-    "referencia": "L60752",
-    "producto": "MEZCLADOR DE BEBIDAS",
-    "falla": "Cuerpo Mal ensamble",
-    "s2": "26017008",
-    "fecha": "09/10/2026",
-    "interno": "HAL502",
-    "fechaIngreso": "2026-10-07",
-    "productoIngreso": "nezclador de bebidas",
-    "lugarDeCompra": "NOVAVENTA",
-    "observaciones": "[jueves, 8 de octubre de 2026]cambio-[sábado, 17 de octubre de 2026]llega mezclador-[jueves, 22 de octubre de 2026]se le entrega mezclador nuevo"
-  },
-  {
     "codigo": "GRT-81952",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",

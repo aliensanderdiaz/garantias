@@ -2,7 +2,6 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
-Productos
 Más
 Search...
 
@@ -76,42 +75,6 @@ Asociación De Institutores Huilenses Adih
 LATAM
 Jhon Fredy Bahamon Bonilla
 2114081
-
-Pre-terminado
-WO-00491865
-30/09/2026 11:04 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Lucero Marin
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204926
-
-Pre-terminado
-WO-00491876
-30/09/2026 11:37 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Anyi Lorena Lugo
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Pre-terminado
-WO-00491987
-30/09/2026 02:19 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Javier Cardoso Gutierrez
-LATAM
-Jhon Fredy Bahamon Bonilla
-FPSTJE316W013
-
-Pre-terminado
-WO-00493806
-8/10/2026 07:47 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Carolina Valencia
-LATAM
-Jhon Fredy Bahamon Bonilla
-FPSTJE316W013
 
 Pre-terminado
 WO-00493808
@@ -499,6 +462,42 @@ Lilia Marina Reyes Pabon
 LATAM
 Jhon Fredy Bahamon Bonilla
 2107404
+
+Entregado
+WO-00138334
+3/10/2022 03:34 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Merardo Menza
+LATAM
+Jhon Fredy Bahamon Bonilla
+2117868
+
+Entregado
+WO-00138539
+4/10/2022 10:46 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Lisseth Cruz Ruiz
+LATAM
+Jhon Fredy Bahamon Bonilla
+2129371
+
+Entregado
+WO-00139375
+7/10/2022 03:51 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Alfor Castro Polania
+LATAM
+Jhon Fredy Bahamon Bonilla
+2117868
+
+Entregado
+WO-00139571
+8/10/2022 06:32 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Lina Marcela Barrios Arce
+LATAM
+Jhon Fredy Bahamon Bonilla
+2114081
 .© 2020 Newell Brands
 
 Órdenes de trabajo

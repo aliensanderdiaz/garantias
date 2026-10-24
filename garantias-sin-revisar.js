@@ -4,28 +4,7 @@
 
 
 let garantiasSinRevisar =    [
-{
-"_id": "6ad1456e6c96489428bdd742",
-"fechaDeIngreso": "2026-10-15",
-"horaDeIngreso": "16:28:12",
-"codigo": "PFJ113",
-"producto": "cafetera espresso primalatte",
-"falla": "no hace la funcion vibra y no sale el cafe",
-"referencia": "BVSTEM6604SS-013",
-"lugarDeCompra": "HOMECENTER",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ad2822a14e8ca970fb93557",
-"fechaDeIngreso": "2026-10-16",
-"horaDeIngreso": "14:59:36",
-"codigo": "UPC638",
-"producto": "cafeteta automatica de espresso",
-"falla": "no hace la funcion no sale el agua ni la leche",
-"referencia": "BVSTEM6604SS",
-"lugarDeCompra": "PUNTOS COLOMBIA",
-"tipoDeServicio": "Garantía Oster"
-},
+
 {
 "_id": "6ad6529b9c0ea44e65ecbde3",
 "fechaDeIngreso": "2026-10-19",
