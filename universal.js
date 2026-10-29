@@ -1,5 +1,21 @@
 let garantiasUniversal = [
   {
+    "codigo": "GRT-82911",
+    "estado": "Solicitud / repuesto",
+    "tipo": "REPARACIONES (GARANTIAS)",
+    "clienteId": "36176218",
+    "referencia": "L40600",
+    "producto": "PLANCHA SECA LA TRADICIONAL",
+    "falla": "Termofusible Sin continuidad,Termostato Sin continuidad ",
+    "s2": "26017942",
+    "fecha": "26/10/2026",
+    "interno": "PPC666",
+    "fechaIngreso": "2026-10-21",
+    "productoIngreso": "plancha universal",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[lunes, 26 de octubre de 2026]revisado y reparado con fusible y automatico prestados"
+  },
+  {
     "codigo": "GRT-82275",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -14,22 +30,6 @@ let garantiasUniversal = [
     "productoIngreso": "sartén eléctrico",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
     "observaciones": "[miércoles, 14 de octubre de 2026]se pide cambio"
-  },
-  {
-    "codigo": "GRT-82046",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1083895676",
-    "referencia": "L37793",
-    "producto": "SARTEN GRANITO 28CM",
-    "falla": "Antiadherente Rayado",
-    "s2": "26017174",
-    "fecha": "10/10/2026",
-    "interno": "GJN781",
-    "fechaIngreso": "2026-09-28",
-    "productoIngreso": "santen granito",
-    "lugarDeCompra": "LANDER",
-    "observaciones": "[sábado, 10 de octubre de 2026]se pide cambio-[lunes, 19 de octubre de 2026]llega sarten"
   },
   {
     "codigo": "GRT-81952",
@@ -96,22 +96,6 @@ let garantiasUniversal = [
     "observaciones": "[miércoles, 30 de septiembre de 2026]motor o cambio de producto-[sábado, 10 de octubre de 2026]creo que llega ventilador. alejandra no confirmo"
   },
   {
-    "codigo": "GRT-81379",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "900651410",
-    "referencia": "L83660",
-    "producto": "O EXPRIMIDOR CITRICOS ROJO",
-    "falla": "Cuerpo Deformado",
-    "s2": "26000271",
-    "fecha": "30/09/2026",
-    "interno": "ABG903",
-    "fechaIngreso": "2026-09-23",
-    "productoIngreso": "exprimidor universal institucional",
-    "lugarDeCompra": "ALMACEN SUPER CRISTAL",
-    "observaciones": "[domingo, 27 de septiembre de 2026]roscado de la copa gastado-[jueves, 22 de octubre de 2026]llega exprimidor nuevo y se le entrega a almacen super"
-  },
-  {
     "codigo": "GRT-81377",
     "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -145,7 +129,7 @@ let garantiasUniversal = [
   },
   {
     "codigo": "GRT-81373",
-    "estado": "En reparación",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36181536",
     "referencia": "L75680",
@@ -157,7 +141,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-09-17",
     "productoIngreso": "ventilalodor universal digital  solo motor",
     "lugarDeCompra": "LANDER PAGINA",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir tarjeta y motor-[lunes, 5 de octubre de 2026]Llega tarjeta y motor"
+    "observaciones": "[domingo, 27 de septiembre de 2026]pedir tarjeta y motor-[lunes, 5 de octubre de 2026]Llega tarjeta y motor-[lunes, 26 de octubre de 2026]dice que ya la repararon"
   },
   {
     "codigo": "GRT-81184",

@@ -5,80 +5,49 @@
 
 let garantiasSinRevisar =    [
 
+
 {
-"_id": "6ad6529b9c0ea44e65ecbde3",
-"fechaDeIngreso": "2026-10-19",
-"horaDeIngreso": "12:25:46",
-"codigo": "TGL833",
-"producto": "batidora oster",
-"falla": "suena feo",
-"referencia": "FPSTH3611-013",
-"lugarDeCompra": "ALMACENES UNIVERSAL",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ad788729b26fd401d716f2d",
-"fechaDeIngreso": "2026-10-20",
-"horaDeIngreso": "10:27:45",
-"codigo": "WPB880",
-"producto": "licuadora oster reversible",
-"falla": "la tarjeta no da continuidad",
-"referencia": "BLSTPEG-BRT-013",
-"lugarDeCompra": "CENTRO HOGAR  DEL HUILA",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ad798fb95cef77f9761be5f",
-"fechaDeIngreso": "2026-10-20",
-"horaDeIngreso": "11:38:17",
-"codigo": "HMK250",
-"producto": "freidora oster de 3.5",
-"falla": "no prende",
-"referencia": "CKSTAF38MNS-014",
-"lugarDeCompra": "ALMACENES OPORTUNIDADES",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ad8e41ee181ab1d5e882dd3",
-"fechaDeIngreso": "2026-10-21",
-"horaDeIngreso": "11:11:08",
-"codigo": "PPC666",
-"producto": "plancha universal",
-"falla": "no calienta",
-"referencia": "L40600",
-"lugarDeCompra": "ALMACENES UNIVERSAL",
-"tipoDeServicio": "Garantía Universal"
-},
-{
-"_id": "6ada2db0aeffb5f98a0f5673",
-"fechaDeIngreso": "2026-10-22",
-"horaDeIngreso": "10:37:19",
-"codigo": "SOO268",
-"producto": "plancha aerocera azul",
-"falla": "expulsa el agua sola a veces no enciende",
-"referencia": "GCSTBS6052-013",
-"lugarDeCompra": "METRO PITALITO",
-"tipoDeServicio": "Garantía Oster"
-},
-{
-"_id": "6ada3463aeffb5f98a0f569b",
-"fechaDeIngreso": "2026-10-22",
-"horaDeIngreso": "11:05:54",
-"codigo": "CSK765",
-"producto": "licuadora Oster xtreme mix",
-"falla": "no prende",
-"referencia": "BLSTXPG-BW-013",
+"_id": "6adf5da2ad6ecc83d57eafb7",
+"fechaDeIngreso": "2026-10-26",
+"horaDeIngreso": "09:03:13",
+"codigo": "PPY065",
+"producto": "plancha oster",
+"falla": "no prende ni calienta",
+"referencia": "GCSTBS5001-013",
 "lugarDeCompra": "HOMECENTER",
 "tipoDeServicio": "Garantía Oster"
 },
+
 {
-"_id": "6ada7b056c75e2d83bfbb1d4",
-"fechaDeIngreso": "2026-10-22",
-"horaDeIngreso": "16:07:16",
-"codigo": "UDX713",
-"producto": "licuadora oster clasica",
+"_id": "6ae202e8422d47e1ba6ce092",
+"fechaDeIngreso": "2026-10-28",
+"horaDeIngreso": "09:12:54",
+"codigo": "PDF379",
+"producto": "freidora oster",
 "falla": "no prende",
-"referencia": "BLST4655-013",
+"referencia": "CKSTAF38MNS-014",
+"lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae207d7422d47e1ba6ce09f",
+"fechaDeIngreso": "2026-10-28",
+"horaDeIngreso": "09:33:57",
+"codigo": "KJS386",
+"producto": "licuadora universal elite",
+"falla": "no prende",
+"referencia": "L62090",
+"lugarDeCompra": "ALAMCENES UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6ae265e43f33eae8479e8af6",
+"fechaDeIngreso": "2026-10-28",
+"horaDeIngreso": "16:15:16",
+"codigo": "GQL874",
+"producto": "cafetera oster de 12 taza",
+"falla": "no sube el algua",
+"referencia": "BVSTDCS121B",
 "lugarDeCompra": "EXITO",
 "tipoDeServicio": "Garantía Oster"
 }
