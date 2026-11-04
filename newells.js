@@ -1,16 +1,5 @@
 let garantiasNewells = [
   {
-    "codigo": "WO-00495288",
-    "cliente": "LATAM",
-    "estado": "Aprobación pendiente",
-    "fecha": "17/10/2026",
-    "interno": "SHJ911",
-    "fechaIngreso": "2026-10-13",
-    "productoIngreso": "plancha oster easy verde.",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[sábado, 24 de octubre de 2026]se pidió la pieza plastica-[martes, 27 de octubre de 2026]van a dar carta"
-  },
-  {
     "codigo": "WO-00497198",
     "cliente": "LATAM",
     "estado": "En progreso",
@@ -20,28 +9,6 @@ let garantiasNewells = [
     "productoIngreso": "licuadora oster clasica",
     "lugarDeCompra": "EXITO",
     "observaciones": "[lunes, 26 de octubre de 2026]se pide suiche"
-  },
-  {
-    "codigo": "WO-00497201",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "26/10/2026",
-    "interno": "TGL833",
-    "fechaIngreso": "2026-10-19",
-    "productoIngreso": "batidora oster",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide motor"
-  },
-  {
-    "codigo": "WO-00497203",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "26/10/2026",
-    "interno": "SOO268",
-    "fechaIngreso": "2026-10-22",
-    "productoIngreso": "plancha aerocera azul",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide termostato"
   },
   {
     "codigo": "WO-00497211",
@@ -55,37 +22,48 @@ let garantiasNewells = [
     "observaciones": "[lunes, 26 de octubre de 2026]se pide motor"
   },
   {
-    "codigo": "WO-00497213",
+    "codigo": "WO-00499101",
     "cliente": "LATAM",
     "estado": "En progreso",
+    "fecha": "03/11/2026",
+    "interno": "IKA213",
+    "fechaIngreso": "2026-10-26",
+    "productoIngreso": "freidora oster",
+    "lugarDeCompra": "TERUEL",
+    "observaciones": "[martes, 3 de noviembre de 2026]pedir motor"
+  },
+  {
+    "codigo": "WO-00497201",
+    "cliente": "LATAM",
+    "estado": "Despachado",
+    "fecha": "26/10/2026",
+    "interno": "TGL833",
+    "fechaIngreso": "2026-10-19",
+    "productoIngreso": "batidora oster",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide motor"
+  },
+  {
+    "codigo": "WO-00497203",
+    "cliente": "LATAM",
+    "estado": "Despachado",
+    "fecha": "26/10/2026",
+    "interno": "SOO268",
+    "fechaIngreso": "2026-10-22",
+    "productoIngreso": "plancha aerocera azul",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide termostato"
+  },
+  {
+    "codigo": "WO-00497213",
+    "cliente": "LATAM",
+    "estado": "Despachado",
     "fecha": "26/10/2026",
     "interno": "CSK765",
     "fechaIngreso": "2026-10-22",
     "productoIngreso": "licuadora Oster xtreme mix",
     "lugarDeCompra": "HOMECENTER",
     "observaciones": "[lunes, 26 de octubre de 2026]se pide tarjeta"
-  },
-  {
-    "codigo": "WO-00495276",
-    "cliente": "LATAM",
-    "estado": "Intervención técnica",
-    "fecha": "17/10/2026",
-    "interno": "ALI731",
-    "fechaIngreso": "2026-10-10",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[sábado, 17 de octubre de 2026]se pide motor-[miércoles, 28 de octubre de 2026]llega motor"
-  },
-  {
-    "codigo": "WO-00495353",
-    "cliente": "LATAM",
-    "estado": "Intervención técnica",
-    "fecha": "19/10/2026",
-    "interno": "KXX315",
-    "fechaIngreso": "2026-10-15",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[lunes, 19 de octubre de 2026]se pide motor-[miércoles, 28 de octubre de 2026]llega motor"
   },
   {
     "codigo": "WO-00493809",
@@ -119,6 +97,39 @@ let garantiasNewells = [
     "productoIngreso": "lucuadora oster clasica",
     "lugarDeCompra": "COMERCIAL HABIA",
     "observaciones": "[jueves, 8 de octubre de 2026]cambiar motor y suiche-[martes, 13 de octubre de 2026]depronto den carta-[jueves, 15 de octubre de 2026]carta aprobada"
+  },
+  {
+    "codigo": "WO-00495276",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "17/10/2026",
+    "interno": "ALI731",
+    "fechaIngreso": "2026-10-10",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[sábado, 17 de octubre de 2026]se pide motor-[miércoles, 28 de octubre de 2026]llega motor-[viernes, 30 de octubre de 2026]reparada"
+  },
+  {
+    "codigo": "WO-00495288",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "17/10/2026",
+    "interno": "SHJ911",
+    "fechaIngreso": "2026-10-13",
+    "productoIngreso": "plancha oster easy verde.",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[sábado, 24 de octubre de 2026]se pidió la pieza plastica-[martes, 27 de octubre de 2026]van a dar carta"
+  },
+  {
+    "codigo": "WO-00495353",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "19/10/2026",
+    "interno": "KXX315",
+    "fechaIngreso": "2026-10-15",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "ALMACÉN UNIVERSAL",
+    "observaciones": "[lunes, 19 de octubre de 2026]se pide motor-[miércoles, 28 de octubre de 2026]llega motor-[viernes, 30 de octubre de 2026]reparada"
   },
   {
     "codigo": "WO-00497207",
@@ -352,11 +363,5 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "04/10/2022"
-  },
-  {
-    "codigo": "WO-00139375",
-    "cliente": "LATAM",
-    "estado": "Entregado",
-    "fecha": "07/10/2022"
   }
 ]

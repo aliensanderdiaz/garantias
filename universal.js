@@ -1,7 +1,7 @@
 let garantiasUniversal = [
   {
     "codigo": "GRT-82911",
-    "estado": "Solicitud / repuesto",
+    "estado": "Por entregar",
     "tipo": "REPARACIONES (GARANTIAS)",
     "clienteId": "36176218",
     "referencia": "L40600",
@@ -13,7 +13,7 @@ let garantiasUniversal = [
     "fechaIngreso": "2026-10-21",
     "productoIngreso": "plancha universal",
     "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 26 de octubre de 2026]revisado y reparado con fusible y automatico prestados"
+    "observaciones": "[lunes, 26 de octubre de 2026]revisado y reparado con fusible y automatico prestados-[martes, 3 de noviembre de 2026]llegó algo"
   },
   {
     "codigo": "GRT-82275",
@@ -158,85 +158,5 @@ let garantiasUniversal = [
     "productoIngreso": "termo bomba universal 4 litros",
     "lugarDeCompra": "ÚNICO",
     "observaciones": "[domingo, 27 de septiembre de 2026]pedir cambio, el calor se pasa a coraza exterior-[martes, 6 de octubre de 2026]llega termo"
-  },
-  {
-    "codigo": "GRT-79759",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "55153460",
-    "referencia": "L50861",
-    "producto": "LICUADORA POTENCY MIX VINO",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26014471",
-    "fecha": "03/09/2026",
-    "interno": "KBQ219",
-    "fechaIngreso": "2026-08-29",
-    "productoIngreso": "lucuadora universal potency",
-    "lugarDeCompra": "CRISTALERIA EL HOGAR MODERNO",
-    "observaciones": "[miércoles, 2 de septiembre de 2026]oi 25000069 pedir motor-[viernes, 11 de septiembre de 2026]llega motor-[domingo, 27 de septiembre de 2026]reparado"
-  },
-  {
-    "codigo": "GRT-79282",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "36176866",
-    "referencia": "L76660",
-    "producto": "VENTILADOR FRESH ULTRA P 2EN1",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26014138",
-    "fecha": "26/08/2026",
-    "interno": "GWL369",
-    "fechaIngreso": "2026-08-18",
-    "productoIngreso": "ventilador universal fresh ultra",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[miércoles, 26 de agosto de 2026]se solicita motor o validacion cambio-[jueves, 15 de octubre de 2026]en landers dicen que enviaron cambio-[jueves, 15 de octubre de 2026]2026-08-29 9:17:07 am"
-  },
-  {
-    "codigo": "GRT-78754",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "1076903558",
-    "referencia": "L87560",
-    "producto": "FREIDORA DE AIRE MASTERFRYER",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "26013294",
-    "fecha": "18/08/2026",
-    "interno": "OPJ043",
-    "fechaIngreso": "2026-08-15",
-    "productoIngreso": "freidora universal",
-    "lugarDeCompra": "LANDER DEL UNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado-[jueves, 27 de agosto de 2026]DEVOLVER MICROSUICHE A MARY-[jueves, 27 de agosto de 2026]Reparada"
-  },
-  {
-    "codigo": "GRT-78745",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "26460580",
-    "referencia": "L87560",
-    "producto": "FREIDORA DE AIRE MASTERFRYER",
-    "falla": "Microsuiche Sin continuidad",
-    "s2": "26013288",
-    "fecha": "17/08/2026",
-    "interno": "JCB050",
-    "fechaIngreso": "2026-08-05",
-    "productoIngreso": "freidora universal",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[lunes, 17 de agosto de 2026]reparado con microsuiche prestado-[jueves, 27 de agosto de 2026]DEVOLVER MICROSUICHE A MARY-[jueves, 27 de agosto de 2026]Reparada"
-  },
-  {
-    "codigo": "GRT-78294",
-    "estado": "Solicitud / producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "1083839503",
-    "referencia": "L87575",
-    "producto": "FREIDORA DE AIRE VITRO FRY 4.2",
-    "falla": "Motor Colector en corto,Panel de control Otro",
-    "s2": "26014699",
-    "fecha": "08/08/2026",
-    "interno": "XFY250",
-    "fechaIngreso": "2026-07-11",
-    "productoIngreso": "freidora universal de aire elite canasta en vidrio",
-    "lugarDeCompra": "UNICO",
-    "observaciones": "[sábado, 8 de agosto de 2026]se solicita motor y tarjeta de control o cambio de producto-[martes, 29 de septiembre de 2026]se le entrega nueva en caja -[jueves, 15 de octubre de 2026]en landers dicen que enviaron cambio 2026-09-07 10:00:48 am"
   }
 ]

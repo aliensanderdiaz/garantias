@@ -4,8 +4,6 @@
 
 
 let garantiasSinRevisar =    [
-
-
 {
 "_id": "6adf5da2ad6ecc83d57eafb7",
 "fechaDeIngreso": "2026-10-26",
@@ -17,7 +15,6 @@ let garantiasSinRevisar =    [
 "lugarDeCompra": "HOMECENTER",
 "tipoDeServicio": "Garantía Oster"
 },
-
 {
 "_id": "6ae202e8422d47e1ba6ce092",
 "fechaDeIngreso": "2026-10-28",
@@ -49,6 +46,83 @@ let garantiasSinRevisar =    [
 "falla": "no sube el algua",
 "referencia": "BVSTDCS121B",
 "lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae35cd5feea73944869d2fc",
+"fechaDeIngreso": "2026-10-29",
+"horaDeIngreso": "09:48:51",
+"codigo": "ZPR199",
+"producto": "plancha",
+"falla": "calienta por un lado",
+"referencia": "GCSTCW-317",
+"lugarDeCompra": "JEIMY JOHANNA CARRANZA",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae3bc6113cccaea31b71e62",
+"fechaDeIngreso": "2026-10-29",
+"horaDeIngreso": "16:36:32",
+"codigo": "PAP602",
+"producto": "freidora oster",
+"falla": "no calienta bien",
+"referencia": "CKSTAF38MNS",
+"lugarDeCompra": "LA CLAVE",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae3bdd413cccaea31b71e6f",
+"fechaDeIngreso": "2026-10-29",
+"horaDeIngreso": "16:42:43",
+"codigo": "VTA659",
+"producto": "plancha universal steam flex",
+"falla": "el cable no se sostiene y no calienta",
+"referencia": "L95670",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6ae4c0c4c7cb2f4eaa493c0e",
+"fechaDeIngreso": "2026-10-30",
+"horaDeIngreso": "11:07:31",
+"codigo": "RBI342",
+"producto": "extractor oster",
+"falla": "motor no prende es la segundo ingreso la señora dice que ya no quiere mas el producto",
+"referencia": "FPSTJE316W-013",
+"lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae4c2a4c7cb2f4eaa493c1b",
+"fechaDeIngreso": "2026-10-30",
+"horaDeIngreso": "11:15:31",
+"codigo": "CSU567",
+"producto": "lucuadora oster xpert",
+"falla": "sale chispas en motor",
+"referencia": "BLSTXPG-BW-013",
+"lugarDeCompra": "PÁGINA OSTER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae5245630898af29fab63d4",
+"fechaDeIngreso": "2026-10-30",
+"horaDeIngreso": "18:12:19",
+"codigo": "RFD919",
+"producto": "licuadora oster",
+"falla": "no prende",
+"referencia": "BLST4655-013",
+"lugarDeCompra": "ALKOMPRAR",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6ae9eb447b0744ab16cba750",
+"fechaDeIngreso": "2026-11-03",
+"horaDeIngreso": "09:10:11",
+"codigo": "RQJ696",
+"producto": "licuadora oster clasica",
+"falla": "motor sale chispas",
+"referencia": "BLST4655",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
 "tipoDeServicio": "Garantía Oster"
 }
 ]
