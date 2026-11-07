@@ -124,6 +124,72 @@ let garantiasSinRevisar =    [
 "referencia": "BLST4655",
 "lugarDeCompra": "ALMACENES UNIVERSAL",
 "tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aeb63788937f76ce087ca8f",
+"fechaDeIngreso": "2026-11-04",
+"horaDeIngreso": "11:55:18",
+"codigo": "RRR182",
+"producto": "sanduchera oster de 2 puestos",
+"falla": "no calieta. y hecho chispa por dentro",
+"referencia": "CKSTSM400-013",
+"lugarDeCompra": "ALKOMPRAR",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aec9ffc7866499573b24ddd",
+"fechaDeIngreso": "2026-11-05",
+"horaDeIngreso": "10:25:47",
+"codigo": "VEI145",
+"producto": "freidora oster de 6 litros. digital",
+"falla": "se esta levantando la pintura de la bandeja",
+"referencia": "CKSTAF75WDSSDF-013",
+"lugarDeCompra": "ALKOMPRAR",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aecb8e87866499573b24eb2",
+"fechaDeIngreso": "2026-11-05",
+"horaDeIngreso": "12:12:07",
+"codigo": "QRA842",
+"producto": "freidora oster 7 .5 litros digital",
+"falla": "no calienta",
+"referencia": "CKSTAF75WDSSDF-013",
+"lugarDeCompra": "EXITO",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aece59374ba559df5a8b686",
+"fechaDeIngreso": "2026-11-05",
+"horaDeIngreso": "15:22:41",
+"codigo": "JBV185",
+"producto": "licuadora oster 2 velocidad blanca",
+"falla": "no prende",
+"referencia": "BLSTKAPMRO",
+"lugarDeCompra": "CREDI HOGAR PUENTES",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aedf7a18ec8bde549fba450",
+"fechaDeIngreso": "2026-11-06",
+"horaDeIngreso": "10:52:00",
+"codigo": "HGT631",
+"producto": "licuadora",
+"falla": "no prende",
+"referencia": "BLSTXPG-BW-013",
+"lugarDeCompra": "HOMECENTER",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aee39d2ff0c5741e2f29240",
+"fechaDeIngreso": "2026-11-06",
+"horaDeIngreso": "15:34:24",
+"codigo": "UTE519",
+"producto": "ventilador universal grande industrial",
+"falla": "no prende",
+"referencia": "L49420",
+"lugarDeCompra": "ALMACENES UNIVERSAL",
+"tipoDeServicio": "Garantía Universal"
 }
 ]
 

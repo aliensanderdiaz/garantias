@@ -48,22 +48,6 @@ let garantiasUniversal = [
     "observaciones": "[jueves, 8 de octubre de 2026]resistencia, automatico, fusible - depronto den cambio"
   },
   {
-    "codigo": "GRT-81403",
-    "estado": "Solicitud de validación para cambio de producto",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "55151494",
-    "referencia": "L49420",
-    "producto": "VENTILADOR PEDESTAL 28\"",
-    "falla": "Motor Colector en corto",
-    "s2": "",
-    "fecha": "30/09/2026",
-    "interno": "WRG021",
-    "fechaIngreso": "2026-09-29",
-    "productoIngreso": "ventilador universal industrial",
-    "lugarDeCompra": "ALMACENES Y UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]motor o validacion para cambio de producto"
-  },
-  {
     "codigo": "GRT-81400",
     "estado": "Solicitud / repuesto",
     "tipo": "REPARACIONES (GARANTIAS)",
@@ -78,22 +62,6 @@ let garantiasUniversal = [
     "productoIngreso": "olla arrocera 7taza  negra  universal",
     "lugarDeCompra": "TIENDA POPULAR",
     "observaciones": "[miércoles, 30 de septiembre de 2026]reparado con fusible-[martes, 6 de octubre de 2026]se le entrega olla arrocera a el señor reparada "
-  },
-  {
-    "codigo": "GRT-81383",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "80039578",
-    "referencia": "L75690",
-    "producto": "VENTILADOR AERO JET14 ASPAS+CR",
-    "falla": "Motor Bobinas en corto",
-    "s2": "26016298",
-    "fecha": "30/09/2026",
-    "interno": "WTS206",
-    "fechaIngreso": "2026-09-24",
-    "productoIngreso": "ventilador universal digital",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[miércoles, 30 de septiembre de 2026]motor o cambio de producto-[sábado, 10 de octubre de 2026]creo que llega ventilador. alejandra no confirmo"
   },
   {
     "codigo": "GRT-81377",

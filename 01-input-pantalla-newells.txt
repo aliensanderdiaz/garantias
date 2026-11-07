@@ -50,24 +50,6 @@ Producto
 Acción
 
 En progreso
-WO-00497198
-26/10/2026 08:07 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Sirley Yogen
-LATAM
-Jhon Fredy Bahamon Bonilla
-2114081
-
-En progreso
-WO-00497211
-26/10/2026 08:46 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Luis Humberto Longaa
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-En progreso
 WO-00499101
 3/11/2026 06:50 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -75,15 +57,6 @@ Jesus Alonso Delgado
 LATAM
 Jhon Fredy Bahamon Bonilla
 2214165
-
-Despachado
-WO-00497201
-26/10/2026 08:14 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Maria Elvira De Los Angeles Rojas Gomez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2121775
 
 Despachado
 WO-00497203
@@ -102,6 +75,15 @@ Ronald Claros Gonzalez
 LATAM
 Jhon Fredy Bahamon Bonilla
 2197104
+
+Intervención técnica
+WO-00497201
+26/10/2026 08:14 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Maria Elvira De Los Angeles Rojas Gomez
+LATAM
+Jhon Fredy Bahamon Bonilla
+2121775
 
 Pre-terminado
 WO-00493809
@@ -158,6 +140,15 @@ Jhon Fredy Bahamon Bonilla
 2114081
 
 Pre-terminado
+WO-00497198
+26/10/2026 08:07 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Sirley Yogen
+LATAM
+Jhon Fredy Bahamon Bonilla
+2114081
+
+Pre-terminado
 WO-00497207
 26/10/2026 08:32 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -165,6 +156,15 @@ Yenifer Plazas
 LATAM
 Jhon Fredy Bahamon Bonilla
 2174285
+
+Pre-terminado
+WO-00497211
+26/10/2026 08:46 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Luis Humberto Longaa
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
 
 Entregado
 WO-00008264
@@ -500,4 +500,5 @@ Jhon Fredy Bahamon Bonilla
 2129371
 .© 2020 Newell Brands
 
+Operación correcta notificación,Estado de la orden de trabajo cambió correctamente. Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
 Órdenes de trabajo

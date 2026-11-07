@@ -1,27 +1,5 @@
 let garantiasNewells = [
   {
-    "codigo": "WO-00497198",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "26/10/2026",
-    "interno": "UDX713",
-    "fechaIngreso": "2026-10-22",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "EXITO",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide suiche"
-  },
-  {
-    "codigo": "WO-00497211",
-    "cliente": "LATAM",
-    "estado": "En progreso",
-    "fecha": "26/10/2026",
-    "interno": "HMK250",
-    "fechaIngreso": "2026-10-20",
-    "productoIngreso": "freidora oster de 3.5",
-    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide motor"
-  },
-  {
     "codigo": "WO-00499101",
     "cliente": "LATAM",
     "estado": "En progreso",
@@ -31,17 +9,6 @@ let garantiasNewells = [
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "TERUEL",
     "observaciones": "[martes, 3 de noviembre de 2026]pedir motor"
-  },
-  {
-    "codigo": "WO-00497201",
-    "cliente": "LATAM",
-    "estado": "Despachado",
-    "fecha": "26/10/2026",
-    "interno": "TGL833",
-    "fechaIngreso": "2026-10-19",
-    "productoIngreso": "batidora oster",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide motor"
   },
   {
     "codigo": "WO-00497203",
@@ -63,7 +30,18 @@ let garantiasNewells = [
     "fechaIngreso": "2026-10-22",
     "productoIngreso": "licuadora Oster xtreme mix",
     "lugarDeCompra": "HOMECENTER",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide tarjeta"
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide tarjeta-[miércoles, 4 de noviembre de 2026]llega tarjeta-[sábado, 7 de noviembre de 2026]no sirvió tarjeta, van a enviar otra"
+  },
+  {
+    "codigo": "WO-00497201",
+    "cliente": "LATAM",
+    "estado": "Intervención técnica",
+    "fecha": "26/10/2026",
+    "interno": "TGL833",
+    "fechaIngreso": "2026-10-19",
+    "productoIngreso": "batidora oster",
+    "lugarDeCompra": "ALMACENES UNIVERSAL",
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide motor-[miércoles, 4 de noviembre de 2026]llega motor"
   },
   {
     "codigo": "WO-00493809",
@@ -118,7 +96,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-10-13",
     "productoIngreso": "plancha oster easy verde.",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[sábado, 24 de octubre de 2026]se pidió la pieza plastica-[martes, 27 de octubre de 2026]van a dar carta"
+    "observaciones": "[sábado, 24 de octubre de 2026]se pidió la pieza plastica-[martes, 27 de octubre de 2026]van a dar carta-[sábado, 7 de noviembre de 2026]carta aprobada"
   },
   {
     "codigo": "WO-00495353",
@@ -132,6 +110,17 @@ let garantiasNewells = [
     "observaciones": "[lunes, 19 de octubre de 2026]se pide motor-[miércoles, 28 de octubre de 2026]llega motor-[viernes, 30 de octubre de 2026]reparada"
   },
   {
+    "codigo": "WO-00497198",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "26/10/2026",
+    "interno": "UDX713",
+    "fechaIngreso": "2026-10-22",
+    "productoIngreso": "licuadora oster clasica",
+    "lugarDeCompra": "EXITO",
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide suiche-[miércoles, 4 de noviembre de 2026]van a dar carta-[sábado, 7 de noviembre de 2026]carta aprobada"
+  },
+  {
     "codigo": "WO-00497207",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -141,6 +130,17 @@ let garantiasNewells = [
     "productoIngreso": "licuadora oster reversible",
     "lugarDeCompra": "CENTRO HOGAR  DEL HUILA",
     "observaciones": "[lunes, 26 de octubre de 2026]se envio correo para saber como se procede-[lunes, 26 de octubre de 2026]se ajustan las escobillas, lista para entregar"
+  },
+  {
+    "codigo": "WO-00497211",
+    "cliente": "LATAM",
+    "estado": "Pre-terminado",
+    "fecha": "26/10/2026",
+    "interno": "HMK250",
+    "fechaIngreso": "2026-10-20",
+    "productoIngreso": "freidora oster de 3.5",
+    "lugarDeCompra": "ALMACENES OPORTUNIDADES",
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide motor-[miércoles, 4 de noviembre de 2026]van a dar carta"
   },
   {
     "codigo": "WO-00008264",
