@@ -99,17 +99,6 @@ let garantiasNewells = [
     "observaciones": "[sábado, 24 de octubre de 2026]se pidió la pieza plastica-[martes, 27 de octubre de 2026]van a dar carta-[sábado, 7 de noviembre de 2026]carta aprobada"
   },
   {
-    "codigo": "WO-00495353",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "19/10/2026",
-    "interno": "KXX315",
-    "fechaIngreso": "2026-10-15",
-    "productoIngreso": "licuadora oster clasica",
-    "lugarDeCompra": "ALMACÉN UNIVERSAL",
-    "observaciones": "[lunes, 19 de octubre de 2026]se pide motor-[miércoles, 28 de octubre de 2026]llega motor-[viernes, 30 de octubre de 2026]reparada"
-  },
-  {
     "codigo": "WO-00497198",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -363,5 +352,11 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "04/10/2022"
+  },
+  {
+    "codigo": "WO-00139375",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "07/10/2022"
   }
 ]

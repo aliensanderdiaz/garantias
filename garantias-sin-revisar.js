@@ -3,7 +3,7 @@
 
 
 
-let garantiasSinRevisar =    [
+let garantiasSinRevisar =   [
 {
 "_id": "6adf5da2ad6ecc83d57eafb7",
 "fechaDeIngreso": "2026-10-26",
@@ -190,6 +190,17 @@ let garantiasSinRevisar =    [
 "referencia": "L49420",
 "lugarDeCompra": "ALMACENES UNIVERSAL",
 "tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6aef8f7e3256b64d57bc84c6",
+"fechaDeIngreso": "2026-11-07",
+"horaDeIngreso": "15:52:13",
+"codigo": "RDI391",
+"producto": "freidora oster",
+"falla": "no enciende",
+"referencia": "CKSTAF38MNS-014",
+"lugarDeCompra": "ARA",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 

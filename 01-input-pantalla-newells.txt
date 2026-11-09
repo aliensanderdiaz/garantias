@@ -2,6 +2,7 @@ Saltar a contenido principal
 Inicio
 Crear orden de servicio
 Historial de pedidos de servicio
+Productos
 Más
 Search...
 
@@ -129,15 +130,6 @@ Cesar Ricardo Santamaría Cortes
 LATAM
 Jhon Fredy Bahamon Bonilla
 2122070
-
-Pre-terminado
-WO-00495353
-19/10/2026 06:27 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Asociación De Institutores Huilenses Adih
-LATAM
-Jhon Fredy Bahamon Bonilla
-2114081
 
 Pre-terminado
 WO-00497198
@@ -498,7 +490,15 @@ Lisseth Cruz Ruiz
 LATAM
 Jhon Fredy Bahamon Bonilla
 2129371
+
+Entregado
+WO-00139375
+7/10/2022 03:51 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Alfor Castro Polania
+LATAM
+Jhon Fredy Bahamon Bonilla
+2117868
 .© 2020 Newell Brands
 
-Operación correcta notificación,Estado de la orden de trabajo cambió correctamente. Pulse Control + F6 para navegar a la siguiente notificación emergente o región enfocable.
 Órdenes de trabajo

@@ -1,21 +1,5 @@
 let garantiasUniversal = [
   {
-    "codigo": "GRT-82911",
-    "estado": "Por entregar",
-    "tipo": "REPARACIONES (GARANTIAS)",
-    "clienteId": "36176218",
-    "referencia": "L40600",
-    "producto": "PLANCHA SECA LA TRADICIONAL",
-    "falla": "Termofusible Sin continuidad,Termostato Sin continuidad ",
-    "s2": "26017942",
-    "fecha": "26/10/2026",
-    "interno": "PPC666",
-    "fechaIngreso": "2026-10-21",
-    "productoIngreso": "plancha universal",
-    "lugarDeCompra": "ALMACENES UNIVERSAL",
-    "observaciones": "[lunes, 26 de octubre de 2026]revisado y reparado con fusible y automatico prestados-[martes, 3 de noviembre de 2026]llegó algo"
-  },
-  {
     "codigo": "GRT-82275",
     "estado": "Solicitud de validación para cambio de producto",
     "tipo": "CAMBIO PRODUCTO",
@@ -110,21 +94,5 @@ let garantiasUniversal = [
     "productoIngreso": "ventilalodor universal digital  solo motor",
     "lugarDeCompra": "LANDER PAGINA",
     "observaciones": "[domingo, 27 de septiembre de 2026]pedir tarjeta y motor-[lunes, 5 de octubre de 2026]Llega tarjeta y motor-[lunes, 26 de octubre de 2026]dice que ya la repararon"
-  },
-  {
-    "codigo": "GRT-81184",
-    "estado": "Por entregar",
-    "tipo": "CAMBIO PRODUCTO",
-    "clienteId": "7706178",
-    "referencia": "L90022",
-    "producto": "TERMO BOMBA MULTIBEBIDAS 4.0L",
-    "falla": "Ampolleta No Calienta",
-    "s2": "26016339",
-    "fecha": "28/09/2026",
-    "interno": "HNW227",
-    "fechaIngreso": "2026-09-09",
-    "productoIngreso": "termo bomba universal 4 litros",
-    "lugarDeCompra": "ÚNICO",
-    "observaciones": "[domingo, 27 de septiembre de 2026]pedir cambio, el calor se pasa a coraza exterior-[martes, 6 de octubre de 2026]llega termo"
   }
 ]
