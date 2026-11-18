@@ -19,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-11-05",
     "productoIngreso": "freidora oster de 6 litros. digital",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[martes, 17 de noviembre de 2026]preguntar"
+    "observaciones": "[martes, 17 de noviembre de 2026]preguntar-[miércoles, 18 de noviembre de 2026]porque la falla no es electrica"
   },
   {
     "codigo": "WO-00501305",
@@ -30,7 +30,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-11-13",
     "productoIngreso": "freidora oster de 3.8",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[martes, 17 de noviembre de 2026]listo"
+    "observaciones": "[martes, 17 de noviembre de 2026]listo-[miércoles, 18 de noviembre de 2026]Alveiro dice que le puso 2 tornillos"
   },
   {
     "codigo": "WO-00501421",
@@ -41,7 +41,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-10-29",
     "productoIngreso": "plancha",
     "lugarDeCompra": "JEIMY JOHANNA CARRANZA",
-    "observaciones": ""
+    "observaciones": "[miércoles, 18 de noviembre de 2026]Alveiro dice que manejo, pero no dice porque?\n"
   },
   {
     "codigo": "WO-00501147",
@@ -184,7 +184,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-10-29",
     "productoIngreso": "freidora oster",
     "lugarDeCompra": "LA CLAVE",
-    "observaciones": ""
+    "observaciones": "[miércoles, 18 de noviembre de 2026]termostato y motor"
   },
   {
     "codigo": "WO-00501319",
@@ -253,17 +253,6 @@ let garantiasNewells = [
     "observaciones": "[jueves, 8 de octubre de 2026]pedir suiche de tarjeta-[martes, 13 de octubre de 2026]depronto den carta-[jueves, 15 de octubre de 2026]carta aprobada"
   },
   {
-    "codigo": "WO-00493813",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "08/10/2026",
-    "interno": "AJV284",
-    "fechaIngreso": "2026-10-03",
-    "productoIngreso": "lucuadora oster clasica",
-    "lugarDeCompra": "COMERCIAL HABIA",
-    "observaciones": "[jueves, 8 de octubre de 2026]cambiar motor y suiche-[martes, 13 de octubre de 2026]depronto den carta-[jueves, 15 de octubre de 2026]carta aprobada-[martes, 17 de noviembre de 2026]Carta enviada a amasitas "
-  },
-  {
     "codigo": "WO-00495276",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -330,17 +319,6 @@ let garantiasNewells = [
     "observaciones": "[lunes, 26 de octubre de 2026]se pide tarjeta-[miércoles, 4 de noviembre de 2026]llega tarjeta-[sábado, 7 de noviembre de 2026]no sirvió tarjeta, van a enviar otra-[viernes, 13 de noviembre de 2026]llega otra tarjeta-[viernes, 13 de noviembre de 2026]reparada"
   },
   {
-    "codigo": "WO-00500446",
-    "cliente": "LATAM",
-    "estado": "Pre-terminado",
-    "fecha": "11/11/2026",
-    "interno": "RDI391",
-    "fechaIngreso": "2026-11-07",
-    "productoIngreso": "freidora oster",
-    "lugarDeCompra": "ARA",
-    "observaciones": "[jueves, 12 de noviembre de 2026]se reparo con fusible, se pidió guia, se envió a amasitas y se entrego a transportadora"
-  },
-  {
     "codigo": "WO-00501161",
     "cliente": "LATAM",
     "estado": "Pre-terminado",
@@ -349,7 +327,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-10-30",
     "productoIngreso": "extractor oster",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[martes, 17 de noviembre de 2026]WO-00493806 motor"
+    "observaciones": "[martes, 17 de noviembre de 2026]WO-00493806 motor-[miércoles, 18 de noviembre de 2026]dieron carta"
   },
   {
     "codigo": "WO-00008264",
@@ -458,5 +436,17 @@ let garantiasNewells = [
     "cliente": "LATAM",
     "estado": "Entregado",
     "fecha": "28/04/2022"
+  },
+  {
+    "codigo": "WO-00099597",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "06/05/2022"
+  },
+  {
+    "codigo": "WO-00100770",
+    "cliente": "LATAM",
+    "estado": "Entregado",
+    "fecha": "12/05/2022"
   }
 ]

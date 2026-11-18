@@ -11,7 +11,7 @@ Search...
 Órdenes de trabajo
 Órdenes de trabajo
 Órdenes de servicio LATAM
-50+ elementos • Ordenado por Estado de la orden de trabajo • Filtrado por Todas las órdenes de trabajo - Tipo de registro de orden de trabajo • Se actualizó hace 2 minutos
+50+ elementos • Ordenado por Estado de la orden de trabajo • Filtrado por Todas las órdenes de trabajo - Tipo de registro de orden de trabajo • Se actualizó hace unos segundos
 
 Buscar en esta lista...
 Buscar en esta lista...
@@ -258,15 +258,6 @@ Jhon Fredy Bahamon Bonilla
 2114081
 
 Pre-terminado
-WO-00493813
-8/10/2026 09:02 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Diana Sánchez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2114081
-
-Pre-terminado
 WO-00495276
 17/10/2026 07:22 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -319,15 +310,6 @@ Ronald Claros Gonzalez
 LATAM
 Jhon Fredy Bahamon Bonilla
 2197104
-
-Pre-terminado
-WO-00500446
-11/11/2026 05:02 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Darly Mayenci Calderon Mendoza
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
 
 Pre-terminado
 WO-00501161
@@ -499,6 +481,24 @@ Isabel Tovar Cely
 LATAM
 Jhon Fredy Bahamon Bonilla
 2129371
+
+Entregado
+WO-00099597
+6/05/2022 12:18 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Luis Guillermo Perdomo Alvarez
+LATAM
+Jhon Fredy Bahamon Bonilla
+BLST3AR2G013
+
+Entregado
+WO-00100770
+12/05/2022 10:42 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Jorge Andres Vargas Fernández
+LATAM
+Jhon Fredy Bahamon Bonilla
+CG120W012000
 .© 2020 Newell Brands
 
 Órdenes de trabajo
