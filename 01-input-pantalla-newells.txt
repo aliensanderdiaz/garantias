@@ -51,15 +51,6 @@ Producto
 Acción
 
 Nuevo
-WO-00501151
-17/11/2026 06:34 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Yuri Daniela Angarita
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204949
-
-Nuevo
 WO-00501313
 17/11/2026 01:31 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -85,6 +76,15 @@ Ronal Carvajal
 LATAM
 Jhon Fredy Bahamon Bonilla
 GCSTCW317013
+
+Aprobación pendiente
+WO-00497203
+26/10/2026 08:20 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Miriam Benavides
+LATAM
+Jhon Fredy Bahamon Bonilla
+2115025
 
 En progreso
 WO-00501147
@@ -112,6 +112,15 @@ Jhon Jader Pérez
 LATAM
 Jhon Fredy Bahamon Bonilla
 2110671
+
+En progreso
+WO-00501151
+17/11/2026 06:34 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Yuri Daniela Angarita
+LATAM
+Jhon Fredy Bahamon Bonilla
+2204949
 
 En progreso
 WO-00501163
@@ -229,15 +238,6 @@ Matha Estela Andrade Vélez
 LATAM
 Jhon Fredy Bahamon Bonilla
 FPSTJE316W013
-
-Despachado
-WO-00497203
-26/10/2026 08:20 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Miriam Benavides
-LATAM
-Jhon Fredy Bahamon Bonilla
-2115025
 
 Intervención técnica
 WO-00497201

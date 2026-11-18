@@ -1,16 +1,5 @@
 let garantiasNewells = [
   {
-    "codigo": "WO-00501151",
-    "cliente": "LATAM",
-    "estado": "Nuevo",
-    "fecha": "17/11/2026",
-    "interno": "RRR182",
-    "fechaIngreso": "2026-11-04",
-    "productoIngreso": "sanduchera oster de 2 puestos",
-    "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[martes, 17 de noviembre de 2026]control de temperatura, resistencias-[martes, 17 de noviembre de 2026]pedir explosivo, para el codigo de los repuestos"
-  },
-  {
     "codigo": "WO-00501313",
     "cliente": "LATAM",
     "estado": "Nuevo",
@@ -19,7 +8,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-11-05",
     "productoIngreso": "freidora oster de 6 litros. digital",
     "lugarDeCompra": "ALKOMPRAR",
-    "observaciones": "[martes, 17 de noviembre de 2026]preguntar-[miércoles, 18 de noviembre de 2026]porque la falla no es electrica"
+    "observaciones": "[martes, 17 de noviembre de 2026]preguntar-[miércoles, 18 de noviembre de 2026]porque la falla no es electrica-[miércoles, 18 de noviembre de 2026]Estimados para afectaciones no eléctricas o mecánicas seguir el siguiente protocolo:\n1.  Recibir el producto y generar la orden de servicio.\n2.  Generar verificacion tecnica del producto y realizar diagnóstico del mismo.\n3.  En caso de no presentar avería tecnica indicar en la casilla descripción ”Producto no presenta avería tecnica, funciona acorde a promesa de funcionamiento en manual de uso”\n4.  Si se requiere hacer comentarios sobre el estado del producto o fallo en accesorios utilizan la casilla “Descripcion del Analisis”.\n5.  Se debe adjuntar el video de funcionamiento del producto en el portal de garantias.\n6.  Se registra el estado Garantia no Aplicable y luego se cambia el estado a Preterminado.\n7.  El consumidor o cliente debe ser direccionado hacia Contac center para que realice su trámite debido a que la falla se puede generar en el accesorio.\n8.       Hacer entrega del producto al consumidor con la copia de la orden de servicio y direccionarlo para que se contacte por medio de Contac center."
   },
   {
     "codigo": "WO-00501305",
@@ -30,7 +19,7 @@ let garantiasNewells = [
     "fechaIngreso": "2026-11-13",
     "productoIngreso": "freidora oster de 3.8",
     "lugarDeCompra": "EXITO",
-    "observaciones": "[martes, 17 de noviembre de 2026]listo-[miércoles, 18 de noviembre de 2026]Alveiro dice que le puso 2 tornillos"
+    "observaciones": "[martes, 17 de noviembre de 2026]listo-[miércoles, 18 de noviembre de 2026]Alveiro dice que le puso 2 tornillos-[miércoles, 18 de noviembre de 2026]hacer un video de la freidora funcionando"
   },
   {
     "codigo": "WO-00501421",
@@ -42,6 +31,17 @@ let garantiasNewells = [
     "productoIngreso": "plancha",
     "lugarDeCompra": "JEIMY JOHANNA CARRANZA",
     "observaciones": "[miércoles, 18 de noviembre de 2026]Alveiro dice que manejo, pero no dice porque?\n"
+  },
+  {
+    "codigo": "WO-00497203",
+    "cliente": "LATAM",
+    "estado": "Aprobación pendiente",
+    "fecha": "26/10/2026",
+    "interno": "SOO268",
+    "fechaIngreso": "2026-10-22",
+    "productoIngreso": "plancha aerocera azul",
+    "lugarDeCompra": "METRO PITALITO",
+    "observaciones": "[lunes, 26 de octubre de 2026]se pide termostato-[lunes, 9 de noviembre de 2026]llega termostato-[martes, 17 de noviembre de 2026]no llegó el repuesto adecuado... preguntar"
   },
   {
     "codigo": "WO-00501147",
@@ -75,6 +75,17 @@ let garantiasNewells = [
     "productoIngreso": "licuadora oster 2 velocidad blanca",
     "lugarDeCompra": "CREDI HOGAR PUENTES",
     "observaciones": "[martes, 17 de noviembre de 2026]motor y suiche"
+  },
+  {
+    "codigo": "WO-00501151",
+    "cliente": "LATAM",
+    "estado": "En progreso",
+    "fecha": "17/11/2026",
+    "interno": "RRR182",
+    "fechaIngreso": "2026-11-04",
+    "productoIngreso": "sanduchera oster de 2 puestos",
+    "lugarDeCompra": "ALKOMPRAR",
+    "observaciones": "[martes, 17 de noviembre de 2026]control de temperatura, resistencias-[martes, 17 de noviembre de 2026]pedir explosivo, para el codigo de los repuestos"
   },
   {
     "codigo": "WO-00501163",
@@ -218,17 +229,6 @@ let garantiasNewells = [
     "productoIngreso": "extractor oster blanco",
     "lugarDeCompra": "EXITO",
     "observaciones": "[martes, 17 de noviembre de 2026]motor"
-  },
-  {
-    "codigo": "WO-00497203",
-    "cliente": "LATAM",
-    "estado": "Despachado",
-    "fecha": "26/10/2026",
-    "interno": "SOO268",
-    "fechaIngreso": "2026-10-22",
-    "productoIngreso": "plancha aerocera azul",
-    "lugarDeCompra": "METRO PITALITO",
-    "observaciones": "[lunes, 26 de octubre de 2026]se pide termostato-[lunes, 9 de noviembre de 2026]llega termostato-[martes, 17 de noviembre de 2026]no llegó el repuesto adecuado... preguntar"
   },
   {
     "codigo": "WO-00497201",
