@@ -152,7 +152,7 @@ htmlUniversal += `
 containerUniversal.innerHTML = htmlUniversal
 
 
-const containerGarantiasSinRevisar = document.querySelector('.containerGarantiasSinRevisar')
+const containerParaReparar = document.querySelector('.containerGarantiasSinRevisar')
 
 let htmlContainerGarantiasSinRevisar = '<hr><p>'
 
@@ -166,7 +166,7 @@ garantiasSinRevisar.forEach((servicio, index) => {
 
 htmlContainerGarantiasSinRevisar += '</p>'
 
-containerGarantiasSinRevisar.innerHTML = htmlContainerGarantiasSinRevisar
+containerParaReparar.innerHTML = htmlContainerGarantiasSinRevisar
 
 
 const containerGarantiasExitoPitalito = document.querySelector('.containerGarantiasExitoPitalito')

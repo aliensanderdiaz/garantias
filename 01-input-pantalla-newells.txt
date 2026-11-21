@@ -51,24 +51,6 @@ Producto
 Acción
 
 Nuevo
-WO-00501313
-17/11/2026 01:31 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Antonio Escobar Patiño
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204933
-
-Nuevo
-WO-00501305
-17/11/2026 01:24 p. m.
-ALMACENES UNIVERSAL S.A.S.
-Eduar Enrique Paez Rojas
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Nuevo
 WO-00501421
 17/11/2026 05:36 p. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -78,15 +60,6 @@ Jhon Fredy Bahamon Bonilla
 GCSTCW317013
 
 Aprobación pendiente
-WO-00497203
-26/10/2026 08:20 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Miriam Benavides
-LATAM
-Jhon Fredy Bahamon Bonilla
-2115025
-
-En progreso
 WO-00501147
 17/11/2026 06:23 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -95,16 +68,7 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2140005
 
-En progreso
-WO-00501144
-17/11/2026 06:19 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Maidy Katerine Velásquez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2114081
-
-En progreso
+Aprobación pendiente
 WO-00501150
 17/11/2026 06:31 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -112,6 +76,51 @@ Jhon Jader Pérez
 LATAM
 Jhon Fredy Bahamon Bonilla
 2110671
+
+Aprobación pendiente
+WO-00501163
+17/11/2026 07:03 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Tania Lored Fierro Rodríguez
+LATAM
+Jhon Fredy Bahamon Bonilla
+2174285
+
+Aprobación pendiente
+WO-00501153
+17/11/2026 06:40 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Delio Pastrana Aldana
+LATAM
+Jhon Fredy Bahamon Bonilla
+2140005
+
+Aprobación pendiente
+WO-00501158
+17/11/2026 06:47 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Jessika Fernanda Paredes Rodriguez
+LATAM
+Jhon Fredy Bahamon Bonilla
+2197104
+
+Aprobación pendiente
+WO-00501159
+17/11/2026 06:52 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Vanesa Cuenca
+LATAM
+Jhon Fredy Bahamon Bonilla
+2204926
+
+Aprobación pendiente
+WO-00501169
+17/11/2026 07:16 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Nelson España
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
 
 En progreso
 WO-00501151
@@ -121,60 +130,6 @@ Yuri Daniela Angarita
 LATAM
 Jhon Fredy Bahamon Bonilla
 2204949
-
-En progreso
-WO-00501163
-17/11/2026 07:03 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Tania Lored Fierro Rodríguez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2174285
-
-En progreso
-WO-00501153
-17/11/2026 06:40 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Delio Pastrana Aldana
-LATAM
-Jhon Fredy Bahamon Bonilla
-2140005
-
-En progreso
-WO-00501155
-17/11/2026 06:43 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Carmiña Moreno Ramírez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2197104
-
-En progreso
-WO-00501158
-17/11/2026 06:47 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Jessika Fernanda Paredes Rodriguez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2197104
-
-En progreso
-WO-00501159
-17/11/2026 06:52 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Vanesa Cuenca
-LATAM
-Jhon Fredy Bahamon Bonilla
-2204926
-
-En progreso
-WO-00501169
-17/11/2026 07:16 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Nelson España
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
 
 En progreso
 WO-00501295
@@ -248,6 +203,24 @@ LATAM
 Jhon Fredy Bahamon Bonilla
 2121775
 
+Intervención técnica
+WO-00501144
+17/11/2026 06:19 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Maidy Katerine Velásquez
+LATAM
+Jhon Fredy Bahamon Bonilla
+2114081
+
+Intervención técnica
+WO-00501155
+17/11/2026 06:43 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Carmiña Moreno Ramírez
+LATAM
+Jhon Fredy Bahamon Bonilla
+2197104
+
 Pre-terminado
 WO-00493809
 8/10/2026 08:06 p. m.
@@ -294,24 +267,6 @@ Jhon Fredy Bahamon Bonilla
 2174285
 
 Pre-terminado
-WO-00497211
-26/10/2026 08:46 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Luis Humberto Longaa
-LATAM
-Jhon Fredy Bahamon Bonilla
-2214165
-
-Pre-terminado
-WO-00497213
-26/10/2026 08:51 a. m.
-ALMACENES UNIVERSAL S.A.S.
-Ronald Claros Gonzalez
-LATAM
-Jhon Fredy Bahamon Bonilla
-2197104
-
-Pre-terminado
 WO-00501161
 17/11/2026 06:57 a. m.
 ALMACENES UNIVERSAL S.A.S.
@@ -319,6 +274,24 @@ Carolina Valencia
 LATAM
 Jhon Fredy Bahamon Bonilla
 FPSTJE316W013
+
+Pre-terminado
+WO-00501313
+17/11/2026 01:31 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Antonio Escobar Patiño
+LATAM
+Jhon Fredy Bahamon Bonilla
+2204933
+
+Pre-terminado
+WO-00501305
+17/11/2026 01:24 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Eduar Enrique Paez Rojas
+LATAM
+Jhon Fredy Bahamon Bonilla
+2214165
 
 Entregado
 WO-00008264
@@ -499,6 +472,33 @@ Jorge Andres Vargas Fernández
 LATAM
 Jhon Fredy Bahamon Bonilla
 CG120W012000
+
+Entregado
+WO-00102118
+18/05/2022 11:24 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Andrea Medina
+LATAM
+Jhon Fredy Bahamon Bonilla
+2129371
+
+Entregado
+WO-00102355
+19/05/2022 10:11 a. m.
+ALMACENES UNIVERSAL S.A.S.
+Kelly Johanna Dusan
+LATAM
+Jhon Fredy Bahamon Bonilla
+2138251
+
+Entregado
+WO-00123940
+6/08/2022 05:54 p. m.
+ALMACENES UNIVERSAL S.A.S.
+Amira Peña Perez
+LATAM
+Jhon Fredy Bahamon Bonilla
+2121405
 .© 2020 Newell Brands
 
 Órdenes de trabajo

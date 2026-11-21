@@ -58,6 +58,50 @@ let garantiasSinRevisar =   [
 "referencia": "L85774",
 "lugarDeCompra": "CENTRO COMPU HOGAR",
 "tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6afdfcf9b20fc0e61d9a8379",
+"fechaDeIngreso": "2026-11-18",
+"horaDeIngreso": "14:31:03",
+"codigo": "PRK268",
+"producto": "plancha vertical pro",
+"falla": "no plancha nada ninguna tela",
+"referencia": "L95830",
+"lugarDeCompra": "EN LINEA DE LANDER",
+"tipoDeServicio": "Garantía Universal"
+},
+{
+"_id": "6aff585622cb7576f1d82be6",
+"fechaDeIngreso": "2026-11-19",
+"horaDeIngreso": "15:13:08",
+"codigo": "BFQ054",
+"producto": "freidora oster digital",
+"falla": "no gradua el calor",
+"referencia": "CKSTAF40D-013",
+"lugarDeCompra": "COMERCIALIZADORA MAITTE",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6aff694275de950d954d8176",
+"fechaDeIngreso": "2026-11-19",
+"horaDeIngreso": "16:25:21",
+"codigo": "ZMB305",
+"producto": "cafetera Oster  de 12 taza",
+"falla": "prende pero no calineta",
+"referencia": "BVSTDCS121B",
+"lugarDeCompra": "ALKOMPRAR",
+"tipoDeServicio": "Garantía Oster"
+},
+{
+"_id": "6b00ad4aef635261cb6059e1",
+"fechaDeIngreso": "2026-11-20",
+"horaDeIngreso": "15:27:53",
+"codigo": "IIG489",
+"producto": "cafetera oster digital",
+"falla": "no sale el agua",
+"referencia": "BVSTDC4403",
+"lugarDeCompra": "NEWELL BRANDS",
+"tipoDeServicio": "Garantía Oster"
 }
 ]
 
